@@ -82,8 +82,8 @@
       "project": "Stories - CF",
       "destination": "projects/CF/Stories - CF",
       "counts": {
-        "included": 19,
-        "media_or_binary": 92
+        "included": 21,
+        "media_or_binary": 105
       }
     },
     {
@@ -490,6 +490,16 @@
       "path": "projects/CF/Stories - CF/Casper/Suivi/Prompts_V01.json",
       "bytes": 2201,
       "sha256": "c543609dd0b3accb6ea30ad81123c85d7517dfa95145459a986da7ca46b93afc"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Casper/Suivi/Prompts_V01_Final.json",
+      "bytes": 13859,
+      "sha256": "33bf83bfb194851c551c14e8fd6d30866d995627d2568dedebce0ff3464027b8"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Casper/Suivi/Verification_V01.json",
+      "bytes": 2361,
+      "sha256": "89b0df011b6f4678d055972116be0995eb6026773ae45b494bb6d2e012c3f354"
     },
     {
       "path": "projects/CF/Stories - CF/Casper/Suivi/export_verify.py",

@@ -1,0 +1,103 @@
+{
+  "stories": [
+    {
+      "file": "01_Trade_With_A_System.png",
+      "native_dimensions": [
+        941,
+        1672
+      ],
+      "export_dimensions": [
+        1080,
+        1920
+      ],
+      "sha256": "7daf958c912aadaba6006b10d088b564c97d4062f94732e712b9290aa27f5d71"
+    },
+    {
+      "file": "02_Who_Is_In_Control.png",
+      "native_dimensions": [
+        941,
+        1672
+      ],
+      "export_dimensions": [
+        1080,
+        1920
+      ],
+      "sha256": "104ea2eb18026d075f4eb018924fc7019785d908633aa0da75770fe2e3e693bb"
+    },
+    {
+      "file": "03_Trading_In_3_Decisions.png",
+      "native_dimensions": [
+        941,
+        1672
+      ],
+      "export_dimensions": [
+        1080,
+        1920
+      ],
+      "sha256": "55124819fdf92af06e78bca400f174730d7bf13c2109b0d207715fbc9a5b8069"
+    },
+    {
+      "file": "04_Stop_Overthinking.png",
+      "native_dimensions": [
+        941,
+        1672
+      ],
+      "export_dimensions": [
+        1080,
+        1920
+      ],
+      "sha256": "eb2d4055bf030ac7ccbbdbe4bc912399e9c2d43c66072eaf56a75217c1c8ae1f"
+    },
+    {
+      "file": "05_Master_Volume_Profile.png",
+      "native_dimensions": [
+        941,
+        1672
+      ],
+      "export_dimensions": [
+        1080,
+        1920
+      ],
+      "sha256": "a4bee5449f94c15c12ac020f091cffb709f2a1cea21ba69a1a8829763e13a47b"
+    },
+    {
+      "file": "06_Read_The_Market.png",
+      "native_dimensions": [
+        941,
+        1672
+      ],
+      "export_dimensions": [
+        1080,
+        1920
+      ],
+      "sha256": "afb2e5bbb4f6d888b67311d35154aaf929c26a1ef65e710b4ac84f2b92a71bc0"
+    },
+    {
+      "file": "07_Let_Your_Winners_Run.png",
+      "native_dimensions": [
+        941,
+        1672
+      ],
+      "export_dimensions": [
+        1080,
+        1920
+      ],
+      "sha256": "19112d1e6e0b8e6380b7d61f16c70a5f73709781d26d05e4a344c8356d43e44d"
+    },
+    {
+      "file": "08_Price_To_Order_Flow.png",
+      "native_dimensions": [
+        941,
+        1672
+      ],
+      "export_dimensions": [
+        1080,
+        1920
+      ],
+      "sha256": "8aa653531cd5c78ac20210df71a5a74003f4c1e2e0e1cfad1d8cfb5f93975fbf"
+    }
+  ],
+  "zip": "Casper_8_Stories_V01_1080x1920.zip",
+  "count": 8,
+  "integrity": "verified"
+}
