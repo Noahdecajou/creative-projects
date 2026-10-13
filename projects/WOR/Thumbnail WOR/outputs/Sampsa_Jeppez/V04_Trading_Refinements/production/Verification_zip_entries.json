@@ -1,0 +1,1430 @@
+[
+  {
+    "Entry": "Galerie.html",
+    "Bytes": 13137,
+    "SHA256": "A662EBD985137033A754D46C41136BB50F847640E983D54E86E50A00AEEA773E",
+    "Matches": true
+  },
+  {
+    "Entry": "README.txt",
+    "Bytes": 1261,
+    "SHA256": "E51DC0A3470A87844C7BAD0378888E88BF406F9DD2301A30F97995B9612DFBB6",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Avant_01_1280.jpg",
+    "Bytes": 172427,
+    "SHA256": "F4362A45A6A8112160BF6176642206E4E7BA78860DDEB0FD7C759D51913E793E",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Avant_02_1280.jpg",
+    "Bytes": 182837,
+    "SHA256": "1968846CC5066CA849D18BFAE992683985EB45B5A0E8157C0DE5A406DB6596C2",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Avant_02_Duo_1280.jpg",
+    "Bytes": 209498,
+    "SHA256": "BC50557A2CE2A50DA03C0BCED933992279B4000276822C48B1E2FE9D4DCEB9DF",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Avant_03_1280.jpg",
+    "Bytes": 185022,
+    "SHA256": "ACC440C2969245628A853850D8C20B29808598832BEB33A343A2904CB3588BB4",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Avant_03_Duo_1280.jpg",
+    "Bytes": 200169,
+    "SHA256": "40B4DA6E52D2BF1408CC321F4E177E4780C93B6BDD3B155349022EABB0C8F244",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Avant_04_1280.jpg",
+    "Bytes": 186736,
+    "SHA256": "CC5F6B30530AE12EC729346B2F3058A30281CCA72910AF2BACF3AC4DB5BEAE19",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Avant_04_Duo_1280.jpg",
+    "Bytes": 203598,
+    "SHA256": "7920893CF7F48BFAC601C2454BF388F448F04F239F0FDA9CD1758AF52A8D8395",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Avant_05_1280.jpg",
+    "Bytes": 276464,
+    "SHA256": "7DB615E254B7A10D86F661D51FD48223441FD9C40E58A6E81447756678BC31B3",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Avant_06_1280.jpg",
+    "Bytes": 214119,
+    "SHA256": "D155F1AAE8004C6D63C7B23329F38AF0BA0EB6BE25F32D8FA3221DE564CD07AE",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Avant_07_1280.jpg",
+    "Bytes": 251534,
+    "SHA256": "CA04BF4AD09D87F1C5111D0E8BBEF2C0E2A7B52E7684E05835CE9BB05A6C0346",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Avant_08_1280.jpg",
+    "Bytes": 200949,
+    "SHA256": "0835803F6DE829CAF297DD1D7F9CA0E2B0D1F96BF0AA2C1BABE3CF84567B8F4B",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Avant_09_1280.jpg",
+    "Bytes": 194809,
+    "SHA256": "6D74ED7130591087B59C947CC0FF9A8B45D2D931AEB89DE5BA1850BFF3FCA090",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Avant_10_1280.jpg",
+    "Bytes": 223263,
+    "SHA256": "45D7AE6F514599477C7BC5D4A2ACF2143A6EAA1450871C7716FE1464B70A3FCD",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Avant_11_Green_1280.jpg",
+    "Bytes": 212617,
+    "SHA256": "0F5D5EF47145FE7843C9882B4D9D3804861834FA915EBA6E6054B22C21F5770C",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Avant_11_Yellow_1280.jpg",
+    "Bytes": 212617,
+    "SHA256": "0F5D5EF47145FE7843C9882B4D9D3804861834FA915EBA6E6054B22C21F5770C",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Avant_12_1280.jpg",
+    "Bytes": 211419,
+    "SHA256": "1434B7A3A28E62DC7BDAE0870CF5244B4B9E5AF481D0D8533D1E25CDE40BFB54",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Avant_13_1280.jpg",
+    "Bytes": 190687,
+    "SHA256": "11CD187AD02D23773E3BF0544AA2DDAC6E340470E2BCFF2598E63D549595A592",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Avant_14_1280.jpg",
+    "Bytes": 205414,
+    "SHA256": "6FB50C065B2B438694802AE85AC621706780B7566584EC22881A61ECC1F54379",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Avant_15_1280.jpg",
+    "Bytes": 204938,
+    "SHA256": "0C388A2732864D93B887323DABC78B3A17DD2284E42FAFBD5E53C5EB7BE319F5",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Avant_16_1280.jpg",
+    "Bytes": 192639,
+    "SHA256": "3B6092C750EABC89C3CD7C64859464E368BD8BC626D7BA34627C9E659DD77DEC",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Avant_17_1280.jpg",
+    "Bytes": 264621,
+    "SHA256": "4A79A011BDEC2182A151F94C3D29EEA267122145F7316FA8C01E52D7338D77AE",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Avant_18_1280.jpg",
+    "Bytes": 194686,
+    "SHA256": "1E74306D7299E1DC0DD40D223EC4547E6F36811B865BFB953849402A4F8C6539",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Avant_19_1280.jpg",
+    "Bytes": 222645,
+    "SHA256": "5248229B8058BC59D7B12139DA25870F3EAAA0277EF3D438F518DE83852D73C0",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Avant_20_1280.jpg",
+    "Bytes": 212050,
+    "SHA256": "C0D1246B070A08563BC4E900ACF2D1E3377CFF91A97B31F9FA25219CAF6EFE47",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Avant_21_1280.jpg",
+    "Bytes": 207738,
+    "SHA256": "25116084D7CCC1076552EA639DFE80DD3DB0FA82F67AAC5A2D2F166BC235CD8E",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Avant_22_1280.jpg",
+    "Bytes": 194158,
+    "SHA256": "AD64B344ED3036774C36FEEBFB09B7D80F228BCA87A66753900799045676E2BE",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Avant_23_1280.jpg",
+    "Bytes": 177249,
+    "SHA256": "21DA8FA838A789DA1A60AA1E0C7D9A41B6DF8BF5341E1D05C1A7F1EE62948CE9",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Comparatif_11_Vert_Jaune.jpg",
+    "Bytes": 197625,
+    "SHA256": "010623B57C141C79B4B138DAE9C49617BDE1D3BE0E39B7DC56828FBFA9D07881",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Comparatif_Solo_Duo_02_03_04.jpg",
+    "Bytes": 577115,
+    "SHA256": "23B5B9E0D18CD78B9D8C3DCB1977F02EEEB2D00E3CC9507B2DC3754E1F1266E5",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Planche_27_variantes.jpg",
+    "Bytes": 635730,
+    "SHA256": "DD7D3477446FF97A03B8E38934EFF64097F6749EC1EA1139AADBB82FC3786CBB",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Planche_detail_1.jpg",
+    "Bytes": 399074,
+    "SHA256": "43DF794A8C0CCE5F65D32A827EE19C22E6EAB4352E9C92A6D8BD423E997E38F0",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Planche_detail_2.jpg",
+    "Bytes": 442294,
+    "SHA256": "86AAE75093A81AD66275F782DADE8CE1964428A30A662462713F6EEF56F3CB1C",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Planche_detail_3.jpg",
+    "Bytes": 444185,
+    "SHA256": "50506F7A836FED7265AA37ADC8CD421776FE5634F88A3D690FDDD4A991CFE5BD",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Planche_detail_4.jpg",
+    "Bytes": 414248,
+    "SHA256": "E427E2C1A969CA00681F75151F7D6F483C3149CAA4F99B69C66BFD3D35561273",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Planche_detail_5.jpg",
+    "Bytes": 205574,
+    "SHA256": "58DC44C4218F41A869747F8904034779355BD3A86E672B6551256C67C7E181EA",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_01_1280.jpg",
+    "Bytes": 177899,
+    "SHA256": "6D424BE4EC8B3C007925A20FAFDF8855C0639A0C3B50BE5A0A4DA7C31D0EC47F",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_01_320.jpg",
+    "Bytes": 18697,
+    "SHA256": "537FCBD6AE2439B3E1F7F09DA7F9E2CAD90A0C6BC7DAD992028BD5367C6C02EC",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_02_1280.jpg",
+    "Bytes": 210320,
+    "SHA256": "6102A11513E9ECF44B027FCA78590F1178F9F6EC13A6FEE1EB81A6BB9669141D",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_02_320.jpg",
+    "Bytes": 22958,
+    "SHA256": "0623988F641ED6FB6CD94A022AB63F72AA7766C404B9499DD78185C826C0E809",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_02_Duo_1280.jpg",
+    "Bytes": 227300,
+    "SHA256": "EA9E36C4F1B0C97D6E062BB70290F2A90CECB0B73070B3D738F9151119864986",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_02_Duo_320.jpg",
+    "Bytes": 23934,
+    "SHA256": "C03EA29F8F5ECDAB83A21B8111733B0BD24E34222EB91141F6532CD57B31C70E",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_03_1280.jpg",
+    "Bytes": 185000,
+    "SHA256": "E8A31F5CE4C898A15F85F50AA5A0C0683174B3A040E3435D82C6D0EC529F2C62",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_03_320.jpg",
+    "Bytes": 20828,
+    "SHA256": "D2279F97666096381CA4FF060A5EF99EB0F836C5ACD15849CA108263552BB71D",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_03_Duo_1280.jpg",
+    "Bytes": 200178,
+    "SHA256": "2526B7F28EB57D262E7823B45E0821320930819A7912B0DA3360BF0C3583F9BD",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_03_Duo_320.jpg",
+    "Bytes": 22333,
+    "SHA256": "B44A3AC918EF19D72F282E7006E31FD4B6E7A0D4A91F5626291EA9DF4D9941D5",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_04_1280.jpg",
+    "Bytes": 186736,
+    "SHA256": "CC5F6B30530AE12EC729346B2F3058A30281CCA72910AF2BACF3AC4DB5BEAE19",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_04_320.jpg",
+    "Bytes": 18475,
+    "SHA256": "488A4DCF86DB1F13F197DE90CBE576E1450165C9FA74052EEC408ABD72BB6B94",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_04_Duo_1280.jpg",
+    "Bytes": 203598,
+    "SHA256": "7920893CF7F48BFAC601C2454BF388F448F04F239F0FDA9CD1758AF52A8D8395",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_04_Duo_320.jpg",
+    "Bytes": 20593,
+    "SHA256": "3A6F6A2AC2D629F65552F5421B1DF2EA004F19737E9CB14FFE57FD2EBFA23C41",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_05_1280.jpg",
+    "Bytes": 276314,
+    "SHA256": "F98A4C225BE5130A797196751DD5B21B097C1259ABCE00591EE3C59C62D21536",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_05_320.jpg",
+    "Bytes": 31587,
+    "SHA256": "5AB35F9BA197172F7D838BE64E0272266362DEF62ED9685E67ABEF4BA87DE913",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_06_1280.jpg",
+    "Bytes": 194641,
+    "SHA256": "25EA912EFAD80187A82D749DF4C3E460E8EA5E5E77DC8E63C7A95DC44750E9E4",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_06_320.jpg",
+    "Bytes": 21587,
+    "SHA256": "30EC1447221C8E600E118E62469112788FE10387B2A3211D0D3C934DE0BF0D4B",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_07_1280.jpg",
+    "Bytes": 251534,
+    "SHA256": "CA04BF4AD09D87F1C5111D0E8BBEF2C0E2A7B52E7684E05835CE9BB05A6C0346",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_07_320.jpg",
+    "Bytes": 19047,
+    "SHA256": "AFAAAB8E5B21400775ABBA591BB65D13D02FC44AD45CDB681278DA396BD9EB2E",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_08_1280.jpg",
+    "Bytes": 216534,
+    "SHA256": "E127B577785E78B23C5737AB25C1206455BBAACB9EE490C231D11AE1C47F7790",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_08_320.jpg",
+    "Bytes": 24212,
+    "SHA256": "E9FE181BDD678D5B7EEBB77EC397989517A5722DCE9DB1FD848D5CEE253B8652",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_09_1280.jpg",
+    "Bytes": 198045,
+    "SHA256": "C272BDBE0112FA7014EE31110983739521B33221ED8964E7EE5969301B9BAC8A",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_09_320.jpg",
+    "Bytes": 22832,
+    "SHA256": "9B2903DFC05C9B8322A6DF4E2C6C2009B7C28726D2D3F05C14086AFAEFCE68DF",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_10_1280.jpg",
+    "Bytes": 229786,
+    "SHA256": "56A581ACA8588ED0CCC4A017AF4D4474ACE0890F4727BFE66165DD9548E13EC2",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_10_320.jpg",
+    "Bytes": 25224,
+    "SHA256": "125FFE05F86A13DFE64DB3147C6B11DCDAF6FE829F0A6F237A897E3FF052BCFC",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_11_Green_1280.jpg",
+    "Bytes": 208212,
+    "SHA256": "6147464D7C49107ECAE6C71E338A691C073A8E6F61F1CC24EECCF52AA1ACA9A6",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_11_Green_320.jpg",
+    "Bytes": 23609,
+    "SHA256": "5D2294EBA4E40F1A55873E726077EA19484A440A102FB0DCA92525D41BF443F7",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_11_Yellow_1280.jpg",
+    "Bytes": 208853,
+    "SHA256": "30D912257033485ECAA8FBFAF5CDF3F12F538E48AC490A96C81F5A13658938C9",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_11_Yellow_320.jpg",
+    "Bytes": 23793,
+    "SHA256": "0950FC55673CD3B5F0C9D2C6C58BADECBEE9139FECFE7992106732E5D0F93234",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_12_1280.jpg",
+    "Bytes": 205168,
+    "SHA256": "1012BB8C35ECA0A2B2E4DDC9D45AAA5D239DDD6660FC96F09234D49E42BD2D89",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_12_320.jpg",
+    "Bytes": 22258,
+    "SHA256": "8956EC87B1990E3D27CE6174F85F9498BED3523E561A97B8C3763D8007242C2E",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_13_1280.jpg",
+    "Bytes": 190687,
+    "SHA256": "11CD187AD02D23773E3BF0544AA2DDAC6E340470E2BCFF2598E63D549595A592",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_13_320.jpg",
+    "Bytes": 20127,
+    "SHA256": "61022A0A64D50D606DC8F6B0A5728B0C86164D72AD45F34673259182AF48B25C",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_14_1280.jpg",
+    "Bytes": 216827,
+    "SHA256": "EF5372EECF27C96653A845CB1A9DF73F451014FD5AA32294A0903A7D5D8FFBA8",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_14_320.jpg",
+    "Bytes": 24197,
+    "SHA256": "88530ED3A37DF7953D0B51E31D23496748E144954E237E914714226AC298A128",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_15_1280.jpg",
+    "Bytes": 191001,
+    "SHA256": "F6DED8314BE66B0242569D8D104750266906CB5B84BBE4DC308554D37D7F1CA5",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_15_320.jpg",
+    "Bytes": 20928,
+    "SHA256": "BDF5773D972B1FF5CF36E3ED28308D6DC38EFB2ABC15E7B174A49805B71EBA34",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_16_1280.jpg",
+    "Bytes": 192639,
+    "SHA256": "3B6092C750EABC89C3CD7C64859464E368BD8BC626D7BA34627C9E659DD77DEC",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_16_320.jpg",
+    "Bytes": 21078,
+    "SHA256": "C8461E94AB96B3AA05B585405995AEF1A02E5003DB621F00421F8200DD061078",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_17_1280.jpg",
+    "Bytes": 264621,
+    "SHA256": "4A79A011BDEC2182A151F94C3D29EEA267122145F7316FA8C01E52D7338D77AE",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_17_320.jpg",
+    "Bytes": 22996,
+    "SHA256": "C4592737561A59B5BCD62C9AE4797B9B50BEE1EEAE18F43B14D7AA908DEED94D",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_18_1280.jpg",
+    "Bytes": 192783,
+    "SHA256": "73DD386C71DFDD58338BB0256A92ECD60BDE16BDC307A3FF25A658CB51079880",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_18_320.jpg",
+    "Bytes": 19228,
+    "SHA256": "CCF768206B082132A3B5FC495CA51D10D64A7E411C2639CF2CF2275B8B9A4C70",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_19_1280.jpg",
+    "Bytes": 222645,
+    "SHA256": "5248229B8058BC59D7B12139DA25870F3EAAA0277EF3D438F518DE83852D73C0",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_19_320.jpg",
+    "Bytes": 20874,
+    "SHA256": "B21CB40F3423178A6D4BA247DD94A9254C567EA0AA70807664451640852848CD",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_20_1280.jpg",
+    "Bytes": 211726,
+    "SHA256": "8C665A5A39A2C61916F47E98A9EA0F716B5989D8F40F35CBC32ACCB202ABA86D",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_20_320.jpg",
+    "Bytes": 20961,
+    "SHA256": "0D75777B95D1433B5C6ED282468E6EEF455B831DF1977834E8623B612EDE7A6F",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_21_1280.jpg",
+    "Bytes": 207893,
+    "SHA256": "DDAB1BB96C0884B71BAB0E09D636C94B2B156EE92FE8442EA8A9AF17730777EC",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_21_320.jpg",
+    "Bytes": 20026,
+    "SHA256": "A2D66AEFE7956A5052177E3C706671832D04CE521FCFFD0DA26BA23470B301AC",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_22_1280.jpg",
+    "Bytes": 180282,
+    "SHA256": "04933EC80EBA14BFB9F303B7CECA9DEA3B11825FDD8D77FF08455E5B6E04E900",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_22_320.jpg",
+    "Bytes": 20842,
+    "SHA256": "D8C40ED55185F35EA6374536585338EBF0C5086F127F4F10A758132DA83890D3",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_23_1280.jpg",
+    "Bytes": 186409,
+    "SHA256": "05C6F180BACCCA7FDB7A72C682557E314F0E45155B664C6E4BD1DF0383ED568C",
+    "Matches": true
+  },
+  {
+    "Entry": "apercus/Sampsa_23_320.jpg",
+    "Bytes": 19321,
+    "SHA256": "A33F7DBCBC0EF57738CF257BAEE33AE7486860F7D509A24563EBDD467E481A99",
+    "Matches": true
+  },
+  {
+    "Entry": "exports_4K/Sampsa_Jeppez_V04_01_3840x2160_Grain4.png",
+    "Bytes": 19453102,
+    "SHA256": "71D98BF1F3BC25F8387572986802C7201836EB94411858DAC9EF0EB32D589875",
+    "Matches": true
+  },
+  {
+    "Entry": "exports_4K/Sampsa_Jeppez_V04_02_3840x2160_Grain4.png",
+    "Bytes": 21097329,
+    "SHA256": "9A0164DFE47205F276B86665F215919AB171B937B7556CE391E6A267400E5618",
+    "Matches": true
+  },
+  {
+    "Entry": "exports_4K/Sampsa_Jeppez_V04_02_Duo_3840x2160_Grain4.png",
+    "Bytes": 21716731,
+    "SHA256": "CDC790F6541A34187AF9C47C49F31EF7CAF2BC9340DFDE4E627FD3D1F9A822CF",
+    "Matches": true
+  },
+  {
+    "Entry": "exports_4K/Sampsa_Jeppez_V04_03_3840x2160_Grain4.png",
+    "Bytes": 19727867,
+    "SHA256": "B9E1EF89B8E07F4756BD17E9D50099FE11291631EDB1F1CFFE05617914EC11C1",
+    "Matches": true
+  },
+  {
+    "Entry": "exports_4K/Sampsa_Jeppez_V04_03_Duo_3840x2160_Grain4.png",
+    "Bytes": 19815720,
+    "SHA256": "162FFFDF1C484F3B898EFD777D17E5ACFB2853226CDAF9ECAE4A57561D1CEBBF",
+    "Matches": true
+  },
+  {
+    "Entry": "exports_4K/Sampsa_Jeppez_V04_04_3840x2160_Grain4.png",
+    "Bytes": 19691921,
+    "SHA256": "61B5110EAABDEF4112207113EA628032016EA078379B3F806519F058707A3E34",
+    "Matches": true
+  },
+  {
+    "Entry": "exports_4K/Sampsa_Jeppez_V04_04_Duo_3840x2160_Grain4.png",
+    "Bytes": 19843576,
+    "SHA256": "5F41F99F2DB39166CA216121623B3BA810BB4D6B8478FC80C31B33655B146E0F",
+    "Matches": true
+  },
+  {
+    "Entry": "exports_4K/Sampsa_Jeppez_V04_05_3840x2160_Grain4.png",
+    "Bytes": 17888442,
+    "SHA256": "FA1063D1AA95DAB8BCC59A4312A795B557F7E0C8FB5014634CDB7873073A9950",
+    "Matches": true
+  },
+  {
+    "Entry": "exports_4K/Sampsa_Jeppez_V04_06_3840x2160_Grain4.png",
+    "Bytes": 20870815,
+    "SHA256": "A64836936CE11939823792689040569B0C99AF62F38E8F19416965C2A30AB7D1",
+    "Matches": true
+  },
+  {
+    "Entry": "exports_4K/Sampsa_Jeppez_V04_07_3840x2160_Grain4.png",
+    "Bytes": 22244179,
+    "SHA256": "07D41EC62B20AC8C996FF08008D35BDA4F37C913C3CD4D146A289FD521300A18",
+    "Matches": true
+  },
+  {
+    "Entry": "exports_4K/Sampsa_Jeppez_V04_08_3840x2160_Grain4.png",
+    "Bytes": 21119570,
+    "SHA256": "FAFCAE5AD6350B4E86967A24B2D8C1ED119593432DBD06399483EB00D09CC49B",
+    "Matches": true
+  },
+  {
+    "Entry": "exports_4K/Sampsa_Jeppez_V04_09_3840x2160_Grain4.png",
+    "Bytes": 20866667,
+    "SHA256": "C01C01AB40A7E66F0E55D1FAB07D871982C5181177BBE34E9DBF509DC9AC059B",
+    "Matches": true
+  },
+  {
+    "Entry": "exports_4K/Sampsa_Jeppez_V04_10_3840x2160_Grain4.png",
+    "Bytes": 20594052,
+    "SHA256": "9FE53CF049E001CA951C4315BD08E52298833A919B2D7C0349BB4F9E7109848B",
+    "Matches": true
+  },
+  {
+    "Entry": "exports_4K/Sampsa_Jeppez_V04_11_Green_3840x2160_Grain4.png",
+    "Bytes": 20824886,
+    "SHA256": "70BDF5A41C7C5CFBDC7D9CB383174F7DDD6B165F706D05964593B5CE8256037F",
+    "Matches": true
+  },
+  {
+    "Entry": "exports_4K/Sampsa_Jeppez_V04_11_Yellow_3840x2160_Grain4.png",
+    "Bytes": 20934289,
+    "SHA256": "EF63D2CD8F79324BD1FBEB52838D3069F26342B3F6231760B11D376DE81379BE",
+    "Matches": true
+  },
+  {
+    "Entry": "exports_4K/Sampsa_Jeppez_V04_12_3840x2160_Grain4.png",
+    "Bytes": 19534641,
+    "SHA256": "12F0CFA655D87113C42A87B259A2A9F68FD56ED6AD01134C4550286D8678E9EA",
+    "Matches": true
+  },
+  {
+    "Entry": "exports_4K/Sampsa_Jeppez_V04_13_3840x2160_Grain4.png",
+    "Bytes": 18868213,
+    "SHA256": "9CE8060E3436A83F40FEE58C16004D9414DE5DA09AA2D18713C36C009C5DE447",
+    "Matches": true
+  },
+  {
+    "Entry": "exports_4K/Sampsa_Jeppez_V04_14_3840x2160_Grain4.png",
+    "Bytes": 20382096,
+    "SHA256": "1091A541DD5A0092665BFBDCBF8C42A0DBFBF543F90D778F71BA7B9D18FA6BA8",
+    "Matches": true
+  },
+  {
+    "Entry": "exports_4K/Sampsa_Jeppez_V04_15_3840x2160_Grain4.png",
+    "Bytes": 20306401,
+    "SHA256": "32B39CB3D50D225235015AF70AB2BFC8C96E635FF6DA104EF59E3C8299F397A9",
+    "Matches": true
+  },
+  {
+    "Entry": "exports_4K/Sampsa_Jeppez_V04_16_3840x2160_Grain4.png",
+    "Bytes": 17399520,
+    "SHA256": "F59C479DDED8BD1FCD4B2B550A4ED7D9DC7EF1D734C5E4BDD69F93AE071EE7A1",
+    "Matches": true
+  },
+  {
+    "Entry": "exports_4K/Sampsa_Jeppez_V04_17_3840x2160_Grain4.png",
+    "Bytes": 19763803,
+    "SHA256": "0112EE8D900BF151E87C98ABD87EC786C09D2B84A924963F3AAB3A943F2E78D2",
+    "Matches": true
+  },
+  {
+    "Entry": "exports_4K/Sampsa_Jeppez_V04_18_3840x2160_Grain4.png",
+    "Bytes": 16842916,
+    "SHA256": "0F479479FEBEEC864B09280C332C13B6B8BB9F871F1B9C3BB344F4A8C765BA87",
+    "Matches": true
+  },
+  {
+    "Entry": "exports_4K/Sampsa_Jeppez_V04_19_3840x2160_Grain4.png",
+    "Bytes": 21441035,
+    "SHA256": "4BF282E7F6B1884B246B286643A452C39793E6F43E902A3358C8D7D57006CE1D",
+    "Matches": true
+  },
+  {
+    "Entry": "exports_4K/Sampsa_Jeppez_V04_20_3840x2160_Grain4.png",
+    "Bytes": 21422620,
+    "SHA256": "5881454B53A63DC02E590E9F36A0FE2854329891B96AC2624C915DCA73F44742",
+    "Matches": true
+  },
+  {
+    "Entry": "exports_4K/Sampsa_Jeppez_V04_21_3840x2160_Grain4.png",
+    "Bytes": 21824918,
+    "SHA256": "FAD78D2376ACF5FB69D957BA14A7666DE13E38C60EA44E8939DB9B4B90FF8026",
+    "Matches": true
+  },
+  {
+    "Entry": "exports_4K/Sampsa_Jeppez_V04_22_3840x2160_Grain4.png",
+    "Bytes": 19915102,
+    "SHA256": "2877EE2F0ACE94B3B0E9E348C7A11BD4C84962D294DDDB48A04A612018E565B5",
+    "Matches": true
+  },
+  {
+    "Entry": "exports_4K/Sampsa_Jeppez_V04_23_3840x2160_Grain4.png",
+    "Bytes": 17407544,
+    "SHA256": "9E236C353A548E1DC46158F4873E57DF7ECF22C028B6F0F0B8A5A2453E0D65CD",
+    "Matches": true
+  },
+  {
+    "Entry": "masters/Sampsa_01.png",
+    "Bytes": 2909790,
+    "SHA256": "96CE17788DE0BFE3C5C1E3974DDA526DEBC95D8E25AA587F62597A991D0A2C2A",
+    "Matches": true
+  },
+  {
+    "Entry": "masters/Sampsa_02_Duo.png",
+    "Bytes": 3605367,
+    "SHA256": "E9573AB2107C7E1FFC5729F40442E2EEADE45C18E5B87025754B82BC4DE3EF1A",
+    "Matches": true
+  },
+  {
+    "Entry": "masters/Sampsa_02.png",
+    "Bytes": 3350629,
+    "SHA256": "C639DB35D42AF43E6D1F9D2FB49461F4773757B7A667124B6B0928659103C370",
+    "Matches": true
+  },
+  {
+    "Entry": "masters/Sampsa_03_Duo.png",
+    "Bytes": 3244964,
+    "SHA256": "88EAA6303261E0F51D415C3FF680CB3B6F91E86C434CFBEA2A00063147721BE8",
+    "Matches": true
+  },
+  {
+    "Entry": "masters/Sampsa_03.png",
+    "Bytes": 3059300,
+    "SHA256": "F40EACCC60C0A8208AA0FE588278C8D51D7887E91525D32AE1E89B7FACE61AB2",
+    "Matches": true
+  },
+  {
+    "Entry": "masters/Sampsa_04_Duo.png",
+    "Bytes": 3294408,
+    "SHA256": "ACC0DA4AB6238AA9A651CF22672BCD61DF778FEE83DEF789B11D51D17262030A",
+    "Matches": true
+  },
+  {
+    "Entry": "masters/Sampsa_04.png",
+    "Bytes": 2065121,
+    "SHA256": "027C25CCBE6A1F2650BDD287958D0A7C95BE1EEDFA3006D9F60FC63C7DF24B5D",
+    "Matches": true
+  },
+  {
+    "Entry": "masters/Sampsa_05.png",
+    "Bytes": 2992655,
+    "SHA256": "5585B4C8E63BF48BD3DD67CC6CC878A1F8A0D264C1E239EF3CDF170C93010021",
+    "Matches": true
+  },
+  {
+    "Entry": "masters/Sampsa_06.png",
+    "Bytes": 3430692,
+    "SHA256": "C5F14B77F58224CB9F82EC5E098FD5156D0DF210442ECC3483F50797AD051063",
+    "Matches": true
+  },
+  {
+    "Entry": "masters/Sampsa_07.png",
+    "Bytes": 3001125,
+    "SHA256": "24E653D506B3A2883A975E6420F86DE16D3B31550245C8F3A46B5C78F4088385",
+    "Matches": true
+  },
+  {
+    "Entry": "masters/Sampsa_08.png",
+    "Bytes": 3452669,
+    "SHA256": "BDE1264CB2EEB6370D41D5AFC81FAA99ADF1421D8B14DD8D9A8E168DF00ADB59",
+    "Matches": true
+  },
+  {
+    "Entry": "masters/Sampsa_09.png",
+    "Bytes": 3286771,
+    "SHA256": "EA3A82F8764E3BB8F2A6B26D90663B52C0C57FE2AEA8752E6790D9C3AF12F07C",
+    "Matches": true
+  },
+  {
+    "Entry": "masters/Sampsa_10.png",
+    "Bytes": 3420969,
+    "SHA256": "F84D6D00C5298963E4B02FF2D7841948DE63EE8FF7CA8952523D835743A8596B",
+    "Matches": true
+  },
+  {
+    "Entry": "masters/Sampsa_11_Green.png",
+    "Bytes": 3352856,
+    "SHA256": "00D0BDE71F85E43DE97131378CD94B352224D5F241EE52B6B517DF8F6FD08B8A",
+    "Matches": true
+  },
+  {
+    "Entry": "masters/Sampsa_11_Yellow.png",
+    "Bytes": 3361593,
+    "SHA256": "967F8AACEC89469016AF00E72657E4788C07AC73B113DF0C66916433288037CA",
+    "Matches": true
+  },
+  {
+    "Entry": "masters/Sampsa_12.png",
+    "Bytes": 3074182,
+    "SHA256": "DCDF4EF691B38A896DC9FA240259A8ADBFD1CE3330101E976292B3BEE56099D3",
+    "Matches": true
+  },
+  {
+    "Entry": "masters/Sampsa_13.png",
+    "Bytes": 3051738,
+    "SHA256": "2628EDE96D3851BA215528C836649FC3288418315C75F362EA8B8D724A4D2E43",
+    "Matches": true
+  },
+  {
+    "Entry": "masters/Sampsa_14.png",
+    "Bytes": 3249838,
+    "SHA256": "FB266575B19D54EE956587AAA73FB3144D7E4F9AEEFD1282295F1A522B7F7015",
+    "Matches": true
+  },
+  {
+    "Entry": "masters/Sampsa_15.png",
+    "Bytes": 3216893,
+    "SHA256": "133B5C493EAC311F85FB390D8A4BEF015FB2EAFA4B712B72C6C5A8EFEB65188B",
+    "Matches": true
+  },
+  {
+    "Entry": "masters/Sampsa_16.png",
+    "Bytes": 1733715,
+    "SHA256": "0C1A73616542126E9FCF1DBDB88DF3BD18326B837E72441FCBC123AF7067A029",
+    "Matches": true
+  },
+  {
+    "Entry": "masters/Sampsa_17.png",
+    "Bytes": 2613178,
+    "SHA256": "9E35E7FE14E372B782DBE300C02C38E4629F11C22EA5C5643A928FA56AC06DCF",
+    "Matches": true
+  },
+  {
+    "Entry": "masters/Sampsa_18.png",
+    "Bytes": 2781887,
+    "SHA256": "A18A72CFE4224E9ECC0CEAC3CF500A819B2D38414C6474917CE74B24A2786F93",
+    "Matches": true
+  },
+  {
+    "Entry": "masters/Sampsa_19.png",
+    "Bytes": 2572696,
+    "SHA256": "6E1C03588F348903A3D44A2D960567CE0ECE4D08A30DB6353306E7CE19B6EFE8",
+    "Matches": true
+  },
+  {
+    "Entry": "masters/Sampsa_20.png",
+    "Bytes": 3416242,
+    "SHA256": "E454D7FBC4C3455B76A690CCC1CD7C11AFF13658C86F34DD6338D2261F3AA4E4",
+    "Matches": true
+  },
+  {
+    "Entry": "masters/Sampsa_21.png",
+    "Bytes": 3816072,
+    "SHA256": "DF01938BF46DC76C34B7B3FF485F75C6517C3A1DB7CAD00169804087AB555A4D",
+    "Matches": true
+  },
+  {
+    "Entry": "masters/Sampsa_22.png",
+    "Bytes": 3043719,
+    "SHA256": "E9CF008897BDF2E9B302FA5B03734647ECC6987EB3E777657409825A3407F18F",
+    "Matches": true
+  },
+  {
+    "Entry": "masters/Sampsa_23.png",
+    "Bytes": 2577413,
+    "SHA256": "14F23F267FCDB218908EC16DDCA8A3F78C67893BAF016B9967756F204B35C330",
+    "Matches": true
+  },
+  {
+    "Entry": "production/assemble_local.ps1",
+    "Bytes": 5492,
+    "SHA256": "8038BAB8D0D05E76DAB056873BC1A261B9CF775CB8544F7B0C06BF2411C1476E",
+    "Matches": true
+  },
+  {
+    "Entry": "production/Dental_01.png",
+    "Bytes": 1815323,
+    "SHA256": "018F3A0C7F74DB05B84D9BB0F8D141CF56C940BA37619837E6B88E465501CA20",
+    "Matches": true
+  },
+  {
+    "Entry": "production/Dental_06.png",
+    "Bytes": 1955642,
+    "SHA256": "7DE0EE27EE49C839549F72EC12ADB861C0CCD870354F453219871CCE38583253",
+    "Matches": true
+  },
+  {
+    "Entry": "production/Dental_08.png",
+    "Bytes": 2039487,
+    "SHA256": "BD0F9F73970EC452611270B55B68E09917334ACAF0905178914F8EAD5E91D3E4",
+    "Matches": true
+  },
+  {
+    "Entry": "production/Dental_09.png",
+    "Bytes": 1916982,
+    "SHA256": "C20C737B578A22F6BD179BB6A2E140C419EC868CCBEE9C380472B18CA1C1E9DD",
+    "Matches": true
+  },
+  {
+    "Entry": "production/Dental_10.png",
+    "Bytes": 2142102,
+    "SHA256": "E94E645A529821BD2F062D5EC78105EC1934A39F3BB9927841BA8E240BDBE389",
+    "Matches": true
+  },
+  {
+    "Entry": "production/Dental_11_Green.png",
+    "Bytes": 2007407,
+    "SHA256": "55DEA4B3A56BB3B126CB8896A466B5D1FC641DE4B84EE8F0C67FD20B32F45AE7",
+    "Matches": true
+  },
+  {
+    "Entry": "production/Dental_20.png",
+    "Bytes": 1991270,
+    "SHA256": "5300539FDCF0FA2E785C5158539B377BCE296B93D348BFA5ED8252426A2C309E",
+    "Matches": true
+  },
+  {
+    "Entry": "production/Dental_manifest.json",
+    "Bytes": 7059,
+    "SHA256": "8D4B898CD953D7879CF9768E185941D897629EB1BFB5E634D0AF0B6E0D01476C",
+    "Matches": true
+  },
+  {
+    "Entry": "production/export.ps1",
+    "Bytes": 6209,
+    "SHA256": "CCC0E773D137D9DD82E65CDBE386ADFA04D88F191EACA3CAAFDF118E609D62DD",
+    "Matches": true
+  },
+  {
+    "Entry": "production/Generated_01.png",
+    "Bytes": 1859331,
+    "SHA256": "15538E596112ED8969444ED60EB1A945BFB60B2A5D81DBE0C1D95A404666CFBC",
+    "Matches": true
+  },
+  {
+    "Entry": "production/Generated_02_Duo.png",
+    "Bytes": 2139671,
+    "SHA256": "C4578BA8A2E5203A66866A438EE19FE6AB4BAEDBC996F1BD6E0FFA226F873AE2",
+    "Matches": true
+  },
+  {
+    "Entry": "production/Generated_02.png",
+    "Bytes": 1981038,
+    "SHA256": "C61FC9DD741C7E9EC5A47FB4C005E7396696EBEA7C6945C6C3CFA8A659EA631A",
+    "Matches": true
+  },
+  {
+    "Entry": "production/Generated_03_Duo.png",
+    "Bytes": 1969858,
+    "SHA256": "2CCD07BE18189879B250E9512237410819E2E5F1D55ECEE2B3760D858A3F0320",
+    "Matches": true
+  },
+  {
+    "Entry": "production/Generated_03.png",
+    "Bytes": 1821944,
+    "SHA256": "ADBF62B9084496E624E6DB0528144908E64649A4300BBC63C6D5AADB3D262B57",
+    "Matches": true
+  },
+  {
+    "Entry": "production/Generated_05.png",
+    "Bytes": 2091105,
+    "SHA256": "0C0512CC70D88E427047E342EC5A8D3B0947D603C820A385A62ED0FC7423B8B2",
+    "Matches": true
+  },
+  {
+    "Entry": "production/Generated_06.png",
+    "Bytes": 2040312,
+    "SHA256": "BCA566CE912A95101C9F40688B4683EC8A8445B1474ED0D823EB68C15B257478",
+    "Matches": true
+  },
+  {
+    "Entry": "production/Generated_08.png",
+    "Bytes": 2075102,
+    "SHA256": "5C7810686FE213999E158D52A3CA92A6120A892383F87973B56E499C7E12CC4F",
+    "Matches": true
+  },
+  {
+    "Entry": "production/Generated_09.png",
+    "Bytes": 1937535,
+    "SHA256": "841BB389995EA59715418B0AE9FD71F047AA51C02E008A7032B777AEB0D873A6",
+    "Matches": true
+  },
+  {
+    "Entry": "production/Generated_10.png",
+    "Bytes": 2173687,
+    "SHA256": "4B68016716F8997EFE0DDE83196FB0D056F32E1BCDC6346A87F6C06E1CF9BAEB",
+    "Matches": true
+  },
+  {
+    "Entry": "production/Generated_11_Green.png",
+    "Bytes": 2027439,
+    "SHA256": "B7BFF549CFFA2AC4726B9A5AD945449A8077BECFE9A2796EC21B022B40140D7E",
+    "Matches": true
+  },
+  {
+    "Entry": "production/Generated_11_Yellow.png",
+    "Bytes": 1945544,
+    "SHA256": "29CAC107AB669B96845334783BAE56DA8A43CCD9829025E401E8DD444D172FC0",
+    "Matches": true
+  },
+  {
+    "Entry": "production/Generated_12.png",
+    "Bytes": 1931564,
+    "SHA256": "5A363FCF13CDA1214441C4FD89D42CFAB36F9F2480A6ADEFF97B195C771C2ECB",
+    "Matches": true
+  },
+  {
+    "Entry": "production/Generated_14.png",
+    "Bytes": 1998518,
+    "SHA256": "F210992D93C1E7C5C308988D2DF5602387037DC180B848F2AF2AE1226770B87F",
+    "Matches": true
+  },
+  {
+    "Entry": "production/Generated_15.png",
+    "Bytes": 1971548,
+    "SHA256": "5A9D4B08A1FD54A0A266F67A92271B3D732E882F571EE053F6E327CA1F1E530E",
+    "Matches": true
+  },
+  {
+    "Entry": "production/Generated_18.png",
+    "Bytes": 1934756,
+    "SHA256": "E4D068F9C51950D6F73E051EAEB54CEC0A426F80A98C60C70E80DD058DDB806D",
+    "Matches": true
+  },
+  {
+    "Entry": "production/Generated_20.png",
+    "Bytes": 2064513,
+    "SHA256": "80AA4B24BD2B7265B89AC489D51FBE45F44376EF2B4584D4FB9ADC69936A997F",
+    "Matches": true
+  },
+  {
+    "Entry": "production/Generated_21.png",
+    "Bytes": 2048307,
+    "SHA256": "7B28F9B4064B4D29F34A52C081889C3934792AA4EA1AB061781CC19DBA2AE003",
+    "Matches": true
+  },
+  {
+    "Entry": "production/Generated_22_final.png",
+    "Bytes": 1879648,
+    "SHA256": "8951F49CABE4B069AF895AFA67E53CCFD7978D1D84661E56645F52AA7E8A5A48",
+    "Matches": true
+  },
+  {
+    "Entry": "production/Generated_23.png",
+    "Bytes": 1811951,
+    "SHA256": "69F3C6C2B44E48E269BB7D6BAB379D1082FACBCA4B2EB2BE8B380544437E55DC",
+    "Matches": true
+  },
+  {
+    "Entry": "production/Generation_manifest.json",
+    "Bytes": 9628,
+    "SHA256": "1C66DEE8FF61F312B253C2BCDC4DF6E9683AA5F38B5C72E6876ADCC109D2B97D",
+    "Matches": true
+  },
+  {
+    "Entry": "production/Local_pixel_verification.json",
+    "Bytes": 6593,
+    "SHA256": "0DF7E54387493BA50A72E842539BC741B65EAE126F9BFA313D917C8C0DBC637C",
+    "Matches": true
+  },
+  {
+    "Entry": "production/Local_preservation_regions.json",
+    "Bytes": 3867,
+    "SHA256": "E66D2383762D49321BCC6F91E7AA8C6359EF5FBD9A8A57BE09B9337280997594",
+    "Matches": true
+  },
+  {
+    "Entry": "production/package.ps1",
+    "Bytes": 2064,
+    "SHA256": "2A98C9C100433E5F1CFA8B9B75C0FE7075CB0EF5042EFA4D449328338341D351",
+    "Matches": true
+  },
+  {
+    "Entry": "production/Revision_prompts.json",
+    "Bytes": 26097,
+    "SHA256": "88CDB34E035C2E54E6313826E4AD1BF43838254AF206CDD36B8859750A5B46A7",
+    "Matches": true
+  },
+  {
+    "Entry": "production/Titres_et_revisions.tsv",
+    "Bytes": 1897,
+    "SHA256": "6CD8347F003BB417CF3F967D1A544B166C0999DF00DEDFF1C9387216A6942AC0",
+    "Matches": true
+  },
+  {
+    "Entry": "production/variants_final_prompts.json",
+    "Bytes": 127177,
+    "SHA256": "7ED9933CA77F72E952128CCC82781D2E8C35E29ABB5FAFEEE8D2CE8746B9F204",
+    "Matches": true
+  },
+  {
+    "Entry": "production/Verification_unchanged.json",
+    "Bytes": 1084,
+    "SHA256": "37568E1D845C9085044F2F7389D07B49D43A020BB3A7B6516A7764771E3A558A",
+    "Matches": true
+  },
+  {
+    "Entry": "production/WOR Jeppez.txt",
+    "Bytes": 69413,
+    "SHA256": "4ACA95121B877E9B73029F0CD9DC310FE02983DE520E66092F805D8A054760DB",
+    "Matches": true
+  },
+  {
+    "Entry": "production/Yellow_comparison_prompt.txt",
+    "Bytes": 710,
+    "SHA256": "4A43905F5B7540C12882B3614EF0D02024798DF7F21BD7F157A4858ABF9CF8CB",
+    "Matches": true
+  },
+  {
+    "Entry": "references/Ref_01.jpg",
+    "Bytes": 161902,
+    "SHA256": "290835C6944067898C777FC24C21E464DC4E9222ECF4AEFC1FE93FCF11B4D8BE",
+    "Matches": true
+  },
+  {
+    "Entry": "references/Ref_02.jpg",
+    "Bytes": 149277,
+    "SHA256": "D1B007C6BC202E9B8F03AD0A3C7F8DB91AB6A7ADD604926F15F0AA99A998D42F",
+    "Matches": true
+  },
+  {
+    "Entry": "references/Ref_03.jpg",
+    "Bytes": 183922,
+    "SHA256": "F07CC4ED0340EBF1D39B9DF41D4F08FA2F467B5E7BC862A0B5F2B81D2D5C0486",
+    "Matches": true
+  },
+  {
+    "Entry": "references/Ref_04.jpg",
+    "Bytes": 157882,
+    "SHA256": "CAB5B04E5CC58C0D6FFA0F019AFAB30A54F4AA3663876CC7018FD24A530DD06C",
+    "Matches": true
+  },
+  {
+    "Entry": "references/Ref_05.jpg",
+    "Bytes": 215631,
+    "SHA256": "25CA2A65AA790BA3590547314EFCAE8A36AC8D88B4873554DC5CBCD0BF5D8BC4",
+    "Matches": true
+  },
+  {
+    "Entry": "references/Ref_06.jpg",
+    "Bytes": 291597,
+    "SHA256": "A7FD7D6BCCBE3C0C48AEFCD3EF41997A728D81701349D42562204AF09EC81916",
+    "Matches": true
+  },
+  {
+    "Entry": "references/Ref_07.jpg",
+    "Bytes": 338072,
+    "SHA256": "47590B77538236C80B95C3D071FE2D3E83FD76DF17F723F9DC5E9223F82298BC",
+    "Matches": true
+  },
+  {
+    "Entry": "references/Ref_08.jpg",
+    "Bytes": 283152,
+    "SHA256": "416739D8A85343DBCD885F0E6AAF5EFA2B82A5714AE65AE3E09EE34B19DBC3E2",
+    "Matches": true
+  },
+  {
+    "Entry": "references/Ref_09.jpg",
+    "Bytes": 302515,
+    "SHA256": "2A84A9176F965E949399D675B239D5793AA0E9F152DDD43796C44A788C42348F",
+    "Matches": true
+  },
+  {
+    "Entry": "references/Ref_10.jpg",
+    "Bytes": 135707,
+    "SHA256": "B5F9E430DEDA7B0B5E93D3CDE23CC4572E336A989EE215920D5569FB64741A3B",
+    "Matches": true
+  },
+  {
+    "Entry": "references/Ref_11.jpg",
+    "Bytes": 183844,
+    "SHA256": "6E22B484D2128D578D7B9C442401790B4ECA053C922B6E08F1576E81A85A50ED",
+    "Matches": true
+  },
+  {
+    "Entry": "references/Ref_12.jpg",
+    "Bytes": 144892,
+    "SHA256": "3BADE016F057D9AE030BC57B025261B6F9B9659AB6D5F222EA8FF01D6F2AFC8E",
+    "Matches": true
+  },
+  {
+    "Entry": "references/Ref_13.jpg",
+    "Bytes": 161744,
+    "SHA256": "A6BCE7C45C0E3E74014BB7147CFA890AB40288350704716D05EC6E2CA9289D0E",
+    "Matches": true
+  },
+  {
+    "Entry": "references/Ref_14.jpg",
+    "Bytes": 123832,
+    "SHA256": "12EDD94065F3ACBEF59AE4C452721398EAFCADD0FD29445CB7FF281A5C0EA196",
+    "Matches": true
+  },
+  {
+    "Entry": "references/Ref_15.jpg",
+    "Bytes": 291597,
+    "SHA256": "A7FD7D6BCCBE3C0C48AEFCD3EF41997A728D81701349D42562204AF09EC81916",
+    "Matches": true
+  },
+  {
+    "Entry": "references/Ref_16.jpg",
+    "Bytes": 202758,
+    "SHA256": "95D351D8770266441A88D426950C31EFF4BD7EB7EE5D00D28536773A4BD4F9CA",
+    "Matches": true
+  },
+  {
+    "Entry": "references/Ref_17.jpg",
+    "Bytes": 294502,
+    "SHA256": "A6D76428E518F473D73F729314EA7D6D3DB0C906ADB7D9BB004BF65977B57B22",
+    "Matches": true
+  },
+  {
+    "Entry": "references/Ref_18.jpg",
+    "Bytes": 234078,
+    "SHA256": "9ABADC305C02C5DE60D73AA2AE3FFF378215BBCB22A080FB0F2D3E8DB89637A8",
+    "Matches": true
+  },
+  {
+    "Entry": "references/Ref_19.jpg",
+    "Bytes": 284138,
+    "SHA256": "FF5D4153FA2DC07F006A345D2D2155A6CDD0CC59153DFB9BAAADCD9DB40AA459",
+    "Matches": true
+  },
+  {
+    "Entry": "references/Ref_20.jpg",
+    "Bytes": 201045,
+    "SHA256": "5007FD8A99EB8E74EEF045CF175A9295D1525A1B0CB7EEBA0A01036F5918DB35",
+    "Matches": true
+  },
+  {
+    "Entry": "references/Ref_21.jpg",
+    "Bytes": 252671,
+    "SHA256": "7271528314E202C1BB9ECA50FC778EFE906D7128C579FA3EDFB2FFA89F10BC4E",
+    "Matches": true
+  },
+  {
+    "Entry": "references/Ref_22.jpg",
+    "Bytes": 154835,
+    "SHA256": "CF482C7B685E97E3BDAAB5B40349D9E8252B7E6557E02432E24C67BB87D45B88",
+    "Matches": true
+  },
+  {
+    "Entry": "references/Ref_23.jpg",
+    "Bytes": 146979,
+    "SHA256": "8E70F7EAB3506A4A07E357AC1A235C4F5562306DB67FB46BA3BB9C92B5429106",
+    "Matches": true
+  },
+  {
+    "Entry": "sources_HD/Riz/Riz_00-09-57-14.jpg",
+    "Bytes": 132689,
+    "SHA256": "68B08B314FD1BAB018A24171519DCCC52FBC1E3BBAFEA5B2DF89BBD197054404",
+    "Matches": true
+  },
+  {
+    "Entry": "sources_HD/Riz/Riz_00-20-06-16.jpg",
+    "Bytes": 131364,
+    "SHA256": "55741849E2E0D7234159F9409DE4CE8052D2A55C14F24400C9C9955219E526A8",
+    "Matches": true
+  },
+  {
+    "Entry": "sources_HD/Riz/Riz_00-23-29-16.jpg",
+    "Bytes": 129987,
+    "SHA256": "FFA632C396E552EEBD3C7648951B77C446FB7E2B2045A06864646C165E2C2130",
+    "Matches": true
+  },
+  {
+    "Entry": "sources_HD/Riz/Riz_00-30-15-18.jpg",
+    "Bytes": 129743,
+    "SHA256": "EC5CDC521235D006DEFDE8E506CE034AFA479A930C43B92729C68223E0050B22",
+    "Matches": true
+  },
+  {
+    "Entry": "sources_HD/Riz/Riz_00-37-01-19.jpg",
+    "Bytes": 133756,
+    "SHA256": "7230294CF5F0C3E10E38491074E255C6C16A2FB6C5BDA1CEFEDE82A59C0C18B4",
+    "Matches": true
+  },
+  {
+    "Entry": "sources_HD/Riz/Riz_01-04-05-23.jpg",
+    "Bytes": 128257,
+    "SHA256": "9CAFEA7FD5F0658C4721B898CE6725CE25E68F8CF80C5FA530692274FB7CBAB3",
+    "Matches": true
+  },
+  {
+    "Entry": "sources_HD/Riz/Riz_01-06-04-09.jpg",
+    "Bytes": 130942,
+    "SHA256": "5DBCDC022AE3D746B03AE501936B6E42AB695C444D746870E3383464E6F47D4A",
+    "Matches": true
+  },
+  {
+    "Entry": "sources_HD/Riz/Riz_01-06-55-03.jpg",
+    "Bytes": 130438,
+    "SHA256": "F5F01BEB87D007265366DA71B834D4F6D83ADC13CA0E4F4AF753EFF0CE44B781",
+    "Matches": true
+  },
+  {
+    "Entry": "sources_HD/Riz/Riz_23-42-53-10.jpg",
+    "Bytes": 128812,
+    "SHA256": "21B8FAC1A17DC25E2F453EB023CF10D6DE3B7FEE8D4115A5CC3175A45C55CC46",
+    "Matches": true
+  },
+  {
+    "Entry": "sources_HD/Riz/Riz_23-46-16-11.jpg",
+    "Bytes": 123763,
+    "SHA256": "E5562D8812C1ECF4FF04A05CF0C411468099CDBC42382259240BB8A170CA092E",
+    "Matches": true
+  },
+  {
+    "Entry": "sources_HD/Riz/Riz_23-49-39-11.jpg",
+    "Bytes": 129310,
+    "SHA256": "2B029D9A4A4B3CCD394934CE480417EAA2830D10642430E20537BAE13842FB6C",
+    "Matches": true
+  },
+  {
+    "Entry": "sources_HD/Riz/Riz_23-53-02-12.jpg",
+    "Bytes": 131926,
+    "SHA256": "7E3CDFFFAEEB8868C33EFF7133666CD971DA09838E7419ED7968E404CE51113B",
+    "Matches": true
+  },
+  {
+    "Entry": "sources_HD/Sampsa/Sampsa_15-23-00-00.jpg",
+    "Bytes": 119496,
+    "SHA256": "CBDD58FBE200D3FE0421E3121EB9080D43EBB9988C35BE7D88783FA01E198DCC",
+    "Matches": true
+  },
+  {
+    "Entry": "sources_HD/Sampsa/Sampsa_15-27-00-00.jpg",
+    "Bytes": 92407,
+    "SHA256": "457428B212ED0064199FC872B477292D563FD82046F3855D2450BCF9ECC44136",
+    "Matches": true
+  },
+  {
+    "Entry": "sources_HD/Sampsa/Sampsa_15-29-00-00.jpg",
+    "Bytes": 114939,
+    "SHA256": "00055B1DE8492EBE44BDA0BE0406ADCCDD62FDDC1B7E7A68FF603AC60E1821F9",
+    "Matches": true
+  },
+  {
+    "Entry": "sources_HD/Sampsa/Sampsa_15-31-00-00.jpg",
+    "Bytes": 110888,
+    "SHA256": "C623A97211C8ADD716F0993797EB52039C564B446320EA785C0C2BA4360E9165",
+    "Matches": true
+  },
+  {
+    "Entry": "sources_HD/Sampsa/Sampsa_15-35-00-00.jpg",
+    "Bytes": 100819,
+    "SHA256": "4FA35271D0E388FBB3D7D3DE0702C29DA558FD00AE2A996AACE2683ED18457C8",
+    "Matches": true
+  },
+  {
+    "Entry": "sources_HD/Sampsa/Sampsa_15-37-00-00.jpg",
+    "Bytes": 100430,
+    "SHA256": "24DB3000E8AE7274646418F2ACACA3A26CC0147BC7908C5A4D9FAB42C969E71F",
+    "Matches": true
+  },
+  {
+    "Entry": "sources_HD/Sampsa/Sampsa_15-51-00-00.jpg",
+    "Bytes": 89945,
+    "SHA256": "51B2A1FABD0EC613F9CFC813F9977E3FE9EDDD1F554F5D119320AC26B0158525",
+    "Matches": true
+  },
+  {
+    "Entry": "sources_HD/Sampsa/Sampsa_15-59-00-00.jpg",
+    "Bytes": 97401,
+    "SHA256": "90E97C863090F829BB075BB98F7014AFE6414CAB8F1DDE5C6F1A2B0EE6A50982",
+    "Matches": true
+  },
+  {
+    "Entry": "sources_HD/Sampsa/Sampsa_16-05-00-00.jpg",
+    "Bytes": 98130,
+    "SHA256": "201112351A3E3247BFF5E76E806334B890EE3BDFFF8C68CCDF2DE57B24DEDE38",
+    "Matches": true
+  },
+  {
+    "Entry": "sources_HD/Sampsa/Sampsa_16-13-00-00.jpg",
+    "Bytes": 98673,
+    "SHA256": "1D46A993B978CEEBC6F8EBFB6C7DB7FCCFAF1D6BE3E6B3787DE56F7059477E19",
+    "Matches": true
+  },
+  {
+    "Entry": "sources_HD/Sampsa/Sampsa_16-19-00-00.jpg",
+    "Bytes": 103474,
+    "SHA256": "6B6451C9E85D6F98CB0D3C53C6C196B2903B8D00641DD29034CCF87CB3177CB1",
+    "Matches": true
+  },
+  {
+    "Entry": "sources_HD/Sampsa/Sampsa_16-25-00-00.jpg",
+    "Bytes": 98888,
+    "SHA256": "8FD96309161A6966FBA19ADD2E1340E43D848B0A82135F50CE8CDE41801B60F6",
+    "Matches": true
+  },
+  {
+    "Entry": "sources_HD/Sampsa/Sampsa_16-28-00-00.jpg",
+    "Bytes": 101749,
+    "SHA256": "A350C1A1B6D62EEDD41697B79A9661836965EEB3311449804116C07C10852506",
+    "Matches": true
+  },
+  {
+    "Entry": "sources_HD/Sampsa/Sampsa_16-34-00-00.jpg",
+    "Bytes": 103816,
+    "SHA256": "07E46A652A516BD0183099849BD84960CA6E8B7CDA41C5532755D5A158C52D96",
+    "Matches": true
+  },
+  {
+    "Entry": "sources_HD/Sampsa/Sampsa_16-37-00-00.jpg",
+    "Bytes": 99660,
+    "SHA256": "F40EBC4B8907E5786C9A93B840465C68D470F39CE6BEA04439DD26A9DDBC010B",
+    "Matches": true
+  },
+  {
+    "Entry": "sources_HD/Sampsa/Sampsa_16-43-00-00.jpg",
+    "Bytes": 97042,
+    "SHA256": "4DFBD59603C3E79BAFD2F7DB4549299B3391434803CA3AAD1A8F5810ADB14F13",
+    "Matches": true
+  },
+  {
+    "Entry": "sources_HD/Sampsa/Sampsa_16-46-00-00.jpg",
+    "Bytes": 90455,
+    "SHA256": "5008A7B39D02D16AC72BD48EB942F7EC0265318C2796C96A4B3E6F08A450E7DB",
+    "Matches": true
+  },
+  {
+    "Entry": "production/Verification_exports.json",
+    "Bytes": 13610,
+    "SHA256": "F8E18D1C6287DFB6007EC355ACD27EA859DF75E98FD7A81DC299F3047A22D440",
+    "Matches": true
+  }
+]

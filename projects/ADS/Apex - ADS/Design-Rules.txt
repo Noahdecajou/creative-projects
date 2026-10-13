@@ -1,0 +1,8 @@
+Direction approuvee par le brief utilisateur : premium, clean, propre, simple a lire.
+Dominante visuelle : 90% noir, 10% bleu. Texte blanc pour la lisibilite.
+Quelques bougies de trading 3D discretes sur les cotes.
+Eviter le metal, le chrome et la typographie metallique.
+Pas d'icones decoratives.
+Composition sobre, espace negatif, hierarchie claire.
+Les designs du dossier Design - Ref restent les references principales, sous reserve de ces corrections.
+A chaque generation, indiquer si le modele utilise est gpt-image-2.5-flare ou gpt-image-2.5-sunburst. Si l'outil ne revele pas le modele, le signaler sans inventer.

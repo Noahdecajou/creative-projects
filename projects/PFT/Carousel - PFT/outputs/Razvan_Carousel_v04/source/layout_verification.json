@@ -1,0 +1,974 @@
+[
+  {
+    "file": "01.png",
+    "dimensions": [
+      1080,
+      1350
+    ],
+    "text_boxes": [
+      {
+        "text": "THE STRATEGY BEHIND A",
+        "x": 343.75,
+        "y": 64,
+        "width": 392.5,
+        "height": 24.5,
+        "size": 34
+      },
+      {
+        "text": "$158,000",
+        "x": 228.75,
+        "y": 126,
+        "width": 622.5,
+        "height": 138.5,
+        "size": 144
+      },
+      {
+        "text": "Payout",
+        "x": 392.75,
+        "y": 285,
+        "width": 294.5,
+        "height": 89.0,
+        "size": 91
+      },
+      {
+        "text": "Razvan made a $158K prop firm payout",
+        "x": 210.25,
+        "y": 1065,
+        "width": 659.5,
+        "height": 36.5,
+        "size": 34
+      },
+      {
+        "text": "in just two weeks.",
+        "x": 390.75,
+        "y": 1116,
+        "width": 298.5,
+        "height": 35.5,
+        "size": 34
+      },
+      {
+        "text": "Here\u2019s the strategy behind it.",
+        "x": 313.0,
+        "y": 1191,
+        "width": 454.0,
+        "height": 34.0,
+        "size": 32
+      },
+      {
+        "text": "PropFirmTrader",
+        "x": 112,
+        "y": 1272,
+        "width": 192.5,
+        "height": 26.0,
+        "size": 25
+      },
+      {
+        "text": "SWIPE",
+        "x": 897,
+        "y": 1271,
+        "width": 64.5,
+        "height": 16.0,
+        "size": 22
+      }
+    ],
+    "sha256": "44d3aa1c0e9171f80ad88e2a59e4e268b6fa44160075179909c046eb29c5a8b4"
+  },
+  {
+    "file": "02.png",
+    "dimensions": [
+      1080,
+      1350
+    ],
+    "text_boxes": [
+      {
+        "text": "STEP 1",
+        "x": 102.0,
+        "y": 82,
+        "width": 66.0,
+        "height": 17.0,
+        "size": 24
+      },
+      {
+        "text": "Mark the",
+        "x": 72,
+        "y": 151,
+        "width": 293.0,
+        "height": 60.0,
+        "size": 72
+      },
+      {
+        "text": "KEY LEVELS",
+        "x": 72,
+        "y": 233,
+        "width": 455.5,
+        "height": 62.5,
+        "size": 86
+      },
+      {
+        "text": "before the New York open.",
+        "x": 72,
+        "y": 337,
+        "width": 491.0,
+        "height": 39.0,
+        "size": 38
+      },
+      {
+        "text": "Razvan maps out:",
+        "x": 72,
+        "y": 415,
+        "width": 287.5,
+        "height": 31.5,
+        "size": 32
+      },
+      {
+        "text": "Previous day highs and lows",
+        "x": 104,
+        "y": 465,
+        "width": 454.0,
+        "height": 33.0,
+        "size": 32
+      },
+      {
+        "text": "Previous week highs and lows",
+        "x": 104,
+        "y": 513,
+        "width": 475.0,
+        "height": 33.0,
+        "size": 32
+      },
+      {
+        "text": "Session highs and lows",
+        "x": 104,
+        "y": 561,
+        "width": 370.0,
+        "height": 33.0,
+        "size": 32
+      },
+      {
+        "text": "Value area highs and lows",
+        "x": 104,
+        "y": 609,
+        "width": 425.5,
+        "height": 33.0,
+        "size": 32
+      },
+      {
+        "text": "KEY LEVEL CONFLUENCE",
+        "x": 100,
+        "y": 716,
+        "width": 256.5,
+        "height": 16.5,
+        "size": 23
+      },
+      {
+        "text": "SESSION HIGH",
+        "x": 728,
+        "y": 793,
+        "width": 146.0,
+        "height": 16.0,
+        "size": 22
+      },
+      {
+        "text": "PDH",
+        "x": 728,
+        "y": 824,
+        "width": 44.5,
+        "height": 16.0,
+        "size": 22
+      },
+      {
+        "text": "VAH",
+        "x": 728,
+        "y": 855,
+        "width": 45.5,
+        "height": 16.0,
+        "size": 22
+      },
+      {
+        "text": "OVERLAP ZONE",
+        "x": 764.25,
+        "y": 932,
+        "width": 157.5,
+        "height": 16.0,
+        "size": 22
+      },
+      {
+        "text": "Illustrative chart \u2022 not a trade result",
+        "x": 358.0,
+        "y": 1010,
+        "width": 364.0,
+        "height": 16.0,
+        "size": 21
+      },
+      {
+        "text": "His favourite opportunities appear when multiple",
+        "x": 147.5,
+        "y": 1101,
+        "width": 785.0,
+        "height": 33.5,
+        "size": 32
+      },
+      {
+        "text": "key levels overlap in the same area.",
+        "x": 255.0,
+        "y": 1145,
+        "width": 570.0,
+        "height": 33.0,
+        "size": 32
+      },
+      {
+        "text": "PropFirmTrader",
+        "x": 112,
+        "y": 1272,
+        "width": 192.5,
+        "height": 26.0,
+        "size": 25
+      },
+      {
+        "text": "SWIPE",
+        "x": 897,
+        "y": 1271,
+        "width": 64.5,
+        "height": 16.0,
+        "size": 22
+      }
+    ],
+    "sha256": "6e3bc219de11931ca9ffed48486ac9213d505baeaa9c8771d0b0e66a9fbf3a00"
+  },
+  {
+    "file": "03.png",
+    "dimensions": [
+      1080,
+      1350
+    ],
+    "text_boxes": [
+      {
+        "text": "STEP 2",
+        "x": 98.75,
+        "y": 82,
+        "width": 72.5,
+        "height": 17.0,
+        "size": 24
+      },
+      {
+        "text": "Watch how price",
+        "x": 72,
+        "y": 151,
+        "width": 565.0,
+        "height": 69.0,
+        "size": 67
+      },
+      {
+        "text": "Reacts",
+        "x": 72,
+        "y": 231,
+        "width": 316.0,
+        "height": 79.5,
+        "size": 107
+      },
+      {
+        "text": "Reaching a key level isn\u2019t Razvan\u2019s entry.",
+        "x": 72,
+        "y": 367,
+        "width": 638.0,
+        "height": 34.0,
+        "size": 32
+      },
+      {
+        "text": "He waits to see what price does there.",
+        "x": 72,
+        "y": 415,
+        "width": 606.0,
+        "height": 33.0,
+        "size": 32
+      },
+      {
+        "text": "DISPLACEMENT",
+        "x": 104,
+        "y": 521,
+        "width": 214.5,
+        "height": 21.5,
+        "size": 29
+      },
+      {
+        "text": "Price moves aggressively",
+        "x": 104,
+        "y": 575,
+        "width": 355.5,
+        "height": 29.0,
+        "size": 28
+      },
+      {
+        "text": "through the level.",
+        "x": 104,
+        "y": 614,
+        "width": 242.5,
+        "height": 28.0,
+        "size": 28
+      },
+      {
+        "text": "CONSOLIDATION",
+        "x": 104,
+        "y": 732,
+        "width": 237.0,
+        "height": 21.5,
+        "size": 29
+      },
+      {
+        "text": "Price starts chopping",
+        "x": 104,
+        "y": 786,
+        "width": 297.5,
+        "height": 29.0,
+        "size": 28
+      },
+      {
+        "text": "around the area.",
+        "x": 104,
+        "y": 825,
+        "width": 234.5,
+        "height": 20.5,
+        "size": 28
+      },
+      {
+        "text": "REVERSAL",
+        "x": 104,
+        "y": 943,
+        "width": 138.5,
+        "height": 21.5,
+        "size": 29
+      },
+      {
+        "text": "Price starts rejecting",
+        "x": 104,
+        "y": 997,
+        "width": 287.0,
+        "height": 29.0,
+        "size": 28
+      },
+      {
+        "text": "the level.",
+        "x": 104,
+        "y": 1036,
+        "width": 123.5,
+        "height": 20.5,
+        "size": 28
+      },
+      {
+        "text": "Illustrative reactions at the same key level",
+        "x": 322.5,
+        "y": 1141,
+        "width": 435.0,
+        "height": 21.5,
+        "size": 21
+      },
+      {
+        "text": "The reaction determines what Razvan looks for next.",
+        "x": 152.0,
+        "y": 1192,
+        "width": 776.0,
+        "height": 23.5,
+        "size": 30
+      },
+      {
+        "text": "PropFirmTrader",
+        "x": 112,
+        "y": 1272,
+        "width": 192.5,
+        "height": 26.0,
+        "size": 25
+      },
+      {
+        "text": "SWIPE",
+        "x": 897,
+        "y": 1271,
+        "width": 64.5,
+        "height": 16.0,
+        "size": 22
+      }
+    ],
+    "sha256": "6e4c27c043f6011c741e72d63e848272066c216caf398ccd0fd5824c161c299e"
+  },
+  {
+    "file": "04.png",
+    "dimensions": [
+      1080,
+      1350
+    ],
+    "text_boxes": [
+      {
+        "text": "STEP 3",
+        "x": 98.5,
+        "y": 82,
+        "width": 73.0,
+        "height": 18.0,
+        "size": 24
+      },
+      {
+        "text": "Wait for a reversal",
+        "x": 72,
+        "y": 151,
+        "width": 573.0,
+        "height": 59.5,
+        "size": 70
+      },
+      {
+        "text": "CONFIRMATION",
+        "x": 72,
+        "y": 237,
+        "width": 562.5,
+        "height": 53.5,
+        "size": 74
+      },
+      {
+        "text": "Razvan prefers reversals for higher reward-to-risk",
+        "x": 72,
+        "y": 339,
+        "width": 742.0,
+        "height": 31.0,
+        "size": 30
+      },
+      {
+        "text": "ratios and clearer targets.",
+        "x": 72,
+        "y": 381,
+        "width": 388.5,
+        "height": 31.0,
+        "size": 30
+      },
+      {
+        "text": "A rejection alone isn\u2019t enough.",
+        "x": 72,
+        "y": 438,
+        "width": 482.0,
+        "height": 34.5,
+        "size": 32
+      },
+      {
+        "text": "1",
+        "x": 87.0,
+        "y": 524,
+        "width": 8.0,
+        "height": 17.5,
+        "size": 25
+      },
+      {
+        "text": "Price reaches a key level",
+        "x": 131,
+        "y": 515,
+        "width": 355.0,
+        "height": 29.5,
+        "size": 29
+      },
+      {
+        "text": "2",
+        "x": 83.75,
+        "y": 635,
+        "width": 14.5,
+        "height": 18.0,
+        "size": 25
+      },
+      {
+        "text": "A fair value gap forms",
+        "x": 131,
+        "y": 626,
+        "width": 319.0,
+        "height": 29.5,
+        "size": 29
+      },
+      {
+        "text": "through it",
+        "x": 131,
+        "y": 664,
+        "width": 140.0,
+        "height": 29.5,
+        "size": 29
+      },
+      {
+        "text": "3",
+        "x": 83.5,
+        "y": 746,
+        "width": 15.0,
+        "height": 19.0,
+        "size": 25
+      },
+      {
+        "text": "The fair value gap is",
+        "x": 131,
+        "y": 737,
+        "width": 289.0,
+        "height": 29.5,
+        "size": 29
+      },
+      {
+        "text": "inverted",
+        "x": 131,
+        "y": 775,
+        "width": 120.0,
+        "height": 22.0,
+        "size": 29
+      },
+      {
+        "text": "4",
+        "x": 82.75,
+        "y": 857,
+        "width": 16.5,
+        "height": 17.5,
+        "size": 25
+      },
+      {
+        "text": "Price closes back",
+        "x": 131,
+        "y": 848,
+        "width": 249.0,
+        "height": 22.0,
+        "size": 29
+      },
+      {
+        "text": "through the level",
+        "x": 131,
+        "y": 886,
+        "width": 245.0,
+        "height": 29.0,
+        "size": 29
+      },
+      {
+        "text": "5",
+        "x": 83.25,
+        "y": 968,
+        "width": 15.5,
+        "height": 18.0,
+        "size": 25
+      },
+      {
+        "text": "Razvan enters on",
+        "x": 131,
+        "y": 959,
+        "width": 249.0,
+        "height": 20.5,
+        "size": 29
+      },
+      {
+        "text": "confirmation",
+        "x": 131,
+        "y": 997,
+        "width": 187.0,
+        "height": 22.0,
+        "size": 29
+      },
+      {
+        "text": "1",
+        "x": 659.0,
+        "y": 648,
+        "width": 8.0,
+        "height": 17.5,
+        "size": 25
+      },
+      {
+        "text": "2",
+        "x": 766.75,
+        "y": 661,
+        "width": 14.5,
+        "height": 18.0,
+        "size": 25
+      },
+      {
+        "text": "3",
+        "x": 683.5,
+        "y": 601,
+        "width": 15.0,
+        "height": 19.0,
+        "size": 25
+      },
+      {
+        "text": "4",
+        "x": 696.75,
+        "y": 730,
+        "width": 16.5,
+        "height": 17.5,
+        "size": 25
+      },
+      {
+        "text": "5",
+        "x": 711.25,
+        "y": 766,
+        "width": 15.5,
+        "height": 18.0,
+        "size": 25
+      },
+      {
+        "text": "ACTUAL EPISODE \u2022 NASDAQ 5M",
+        "x": 624.75,
+        "y": 1098,
+        "width": 296.5,
+        "height": 16.5,
+        "size": 20
+      },
+      {
+        "text": "His preferred Nasdaq setup at the New York open:",
+        "x": 202.5,
+        "y": 1157,
+        "width": 675.0,
+        "height": 28.0,
+        "size": 27
+      },
+      {
+        "text": "5-minute inversion; execution refined on the 1-minute chart.",
+        "x": 156.5,
+        "y": 1198,
+        "width": 767.0,
+        "height": 23.5,
+        "size": 26
+      },
+      {
+        "text": "PropFirmTrader",
+        "x": 112,
+        "y": 1272,
+        "width": 192.5,
+        "height": 26.0,
+        "size": 25
+      },
+      {
+        "text": "SWIPE",
+        "x": 897,
+        "y": 1271,
+        "width": 64.5,
+        "height": 16.0,
+        "size": 22
+      }
+    ],
+    "sha256": "e7736247f6b993730ae099b56333bd298f8f0881d1e205450192a9886152e0f4"
+  },
+  {
+    "file": "05.png",
+    "dimensions": [
+      1080,
+      1350
+    ],
+    "text_boxes": [
+      {
+        "text": "STEP 4",
+        "x": 98.25,
+        "y": 82,
+        "width": 73.5,
+        "height": 17.0,
+        "size": 24
+      },
+      {
+        "text": "Let the",
+        "x": 72,
+        "y": 151,
+        "width": 271.0,
+        "height": 70.5,
+        "size": 86
+      },
+      {
+        "text": "WINNERS RUN",
+        "x": 72,
+        "y": 248,
+        "width": 537.0,
+        "height": 58.0,
+        "size": 80
+      },
+      {
+        "text": "Razvan uses logical levels, such as session",
+        "x": 72,
+        "y": 355,
+        "width": 680.0,
+        "height": 33.0,
+        "size": 32
+      },
+      {
+        "text": "highs and lows, as targets.",
+        "x": 72,
+        "y": 400,
+        "width": 423.5,
+        "height": 33.0,
+        "size": 32
+      },
+      {
+        "text": "AFTER THE TARGET \u2022 1-MINUTE SHORT EXAMPLE",
+        "x": 100,
+        "y": 508,
+        "width": 483.5,
+        "height": 16.0,
+        "size": 22
+      },
+      {
+        "text": "LONDON LOW TARGET",
+        "x": 141.0,
+        "y": 673,
+        "width": 212.0,
+        "height": 14.0,
+        "size": 20
+      },
+      {
+        "text": "TRAILING STOP",
+        "x": 790,
+        "y": 566,
+        "width": 154.0,
+        "height": 16.0,
+        "size": 22
+      },
+      {
+        "text": "Illustrative chart \u2022 target hit, then trail above new candles",
+        "x": 244.5,
+        "y": 821,
+        "width": 591.0,
+        "height": 21.5,
+        "size": 21
+      },
+      {
+        "text": "Once price reaches the target, he switches to the",
+        "x": 96,
+        "y": 922,
+        "width": 786.5,
+        "height": 33.0,
+        "size": 32
+      },
+      {
+        "text": "1-minute chart and trails his stop above each new",
+        "x": 96,
+        "y": 967,
+        "width": 801.5,
+        "height": 33.0,
+        "size": 32
+      },
+      {
+        "text": "candle as the move continues.",
+        "x": 96,
+        "y": 1012,
+        "width": 490.5,
+        "height": 24.5,
+        "size": 32
+      },
+      {
+        "text": "Razvan says this simple rule can sometimes make enough",
+        "x": 118.25,
+        "y": 1130,
+        "width": 843.5,
+        "height": 29.5,
+        "size": 29
+      },
+      {
+        "text": "P&L to make up for the entire week.",
+        "x": 290.0,
+        "y": 1172,
+        "width": 500.0,
+        "height": 29.5,
+        "size": 29
+      },
+      {
+        "text": "PropFirmTrader",
+        "x": 112,
+        "y": 1272,
+        "width": 192.5,
+        "height": 26.0,
+        "size": 25
+      },
+      {
+        "text": "SWIPE",
+        "x": 897,
+        "y": 1271,
+        "width": 64.5,
+        "height": 16.0,
+        "size": 22
+      }
+    ],
+    "sha256": "1bae7ba8930fd4e62da974d192c5a84db85a728dcf54df389bcb005d32ee5725"
+  },
+  {
+    "file": "06.png",
+    "dimensions": [
+      1080,
+      1350
+    ],
+    "text_boxes": [
+      {
+        "text": "The full",
+        "x": 72,
+        "y": 103,
+        "width": 374.5,
+        "height": 92.0,
+        "size": 110
+      },
+      {
+        "text": "PROCESS",
+        "x": 72,
+        "y": 229,
+        "width": 421.0,
+        "height": 68.5,
+        "size": 94
+      },
+      {
+        "text": "1",
+        "x": 87.0,
+        "y": 402,
+        "width": 8.0,
+        "height": 17.5,
+        "size": 25
+      },
+      {
+        "text": "Mark the key levels",
+        "x": 128,
+        "y": 394,
+        "width": 278.5,
+        "height": 29.5,
+        "size": 30
+      },
+      {
+        "text": "2",
+        "x": 83.75,
+        "y": 473,
+        "width": 14.5,
+        "height": 18.0,
+        "size": 25
+      },
+      {
+        "text": "Wait for price",
+        "x": 128,
+        "y": 465,
+        "width": 199.0,
+        "height": 30.5,
+        "size": 30
+      },
+      {
+        "text": "to reach them",
+        "x": 128,
+        "y": 506,
+        "width": 214.0,
+        "height": 22.0,
+        "size": 30
+      },
+      {
+        "text": "3",
+        "x": 83.5,
+        "y": 586,
+        "width": 15.0,
+        "height": 19.0,
+        "size": 25
+      },
+      {
+        "text": "Read the reaction",
+        "x": 128,
+        "y": 578,
+        "width": 267.0,
+        "height": 23.0,
+        "size": 30
+      },
+      {
+        "text": "4",
+        "x": 82.75,
+        "y": 658,
+        "width": 16.5,
+        "height": 17.5,
+        "size": 25
+      },
+      {
+        "text": "Wait for confirmation",
+        "x": 128,
+        "y": 650,
+        "width": 316.5,
+        "height": 23.0,
+        "size": 30
+      },
+      {
+        "text": "5",
+        "x": 83.25,
+        "y": 730,
+        "width": 15.5,
+        "height": 18.0,
+        "size": 25
+      },
+      {
+        "text": "Enter with",
+        "x": 128,
+        "y": 722,
+        "width": 144.5,
+        "height": 23.0,
+        "size": 30
+      },
+      {
+        "text": "defined risk",
+        "x": 128,
+        "y": 763,
+        "width": 170.5,
+        "height": 23.0,
+        "size": 30
+      },
+      {
+        "text": "6",
+        "x": 83.0,
+        "y": 843,
+        "width": 16.0,
+        "height": 18.5,
+        "size": 25
+      },
+      {
+        "text": "Target the next",
+        "x": 128,
+        "y": 835,
+        "width": 226.0,
+        "height": 30.0,
+        "size": 30
+      },
+      {
+        "text": "logical level",
+        "x": 128,
+        "y": 876,
+        "width": 176.0,
+        "height": 31.0,
+        "size": 30
+      },
+      {
+        "text": "In the full breakdown, Razvan opens his charts and walks",
+        "x": 103,
+        "y": 984,
+        "width": 841.0,
+        "height": 30.5,
+        "size": 30
+      },
+      {
+        "text": "through his trades, explaining the thought process behind",
+        "x": 103,
+        "y": 1024,
+        "width": 859.5,
+        "height": 31.0,
+        "size": 30
+      },
+      {
+        "text": "them.",
+        "x": 103,
+        "y": 1064,
+        "width": 85.5,
+        "height": 22.0,
+        "size": 30
+      },
+      {
+        "text": "WATCH THE $158K STRATEGY BREAKDOWN",
+        "x": 219.75,
+        "y": 1147,
+        "width": 640.5,
+        "height": 27.5,
+        "size": 31
+      },
+      {
+        "text": "Full episode \u2014 link in bio.",
+        "x": 372.5,
+        "y": 1214,
+        "width": 335.0,
+        "height": 28.5,
+        "size": 28
+      },
+      {
+        "text": "PropFirmTrader",
+        "x": 112,
+        "y": 1272,
+        "width": 192.5,
+        "height": 26.0,
+        "size": 25
+      }
+    ],
+    "sha256": "2ff64068f4bf211d3a861aae8c21699500cbf69626dfd4f88ca178ba038d1556"
+  }
+]

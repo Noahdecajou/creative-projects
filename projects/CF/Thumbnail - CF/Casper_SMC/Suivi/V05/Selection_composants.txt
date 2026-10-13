@@ -1,0 +1,11 @@
+Composants retenus pour V05
+- 03_scene_generated.png : nouvelle scene realisee avec ImageGen integre depuis les originaux Casper 00:16:00 et Riz 01:16:00.
+- 03_hand_detail_generated.png : correction locale retenue pour le dos de la main. Prompt : 03_hand_detail_prompt.txt. Le cadrage de reference inclut le vetement, le tableau et les marqueurs.
+- 03_scene_retouch.png : assemblage final, original de la scene avec seulement les deux masques du dos de la main remplaces. Script : hand_composite.ps1.
+- Les autres portraits et scenes sont les composants approuves V04; leurs hachages ont ete compares.
+
+Essais non retenus
+- 03_hand_retouch_prompt.txt : recadrage trop etroit, aucune sortie exploitable.
+- 03_hand_context_retouch_prompt.txt : cadrage entier, texture encore artificielle; sortie non retenue.
+- Casper_hand_original_reference.png : etude d'un raccord depuis le vrai portrait 00:09:00; angle et lumiere incompatibles avec la main a plat, raccord non retenu.
+La texture corrigee finale provient de 03_hand_detail_generated.png. Aucune retouche sur les visages n'a ete effectuee apres la generation initiale de la scene 03.

@@ -1,0 +1,9 @@
+{
+  "Source": "Riz_01-16-00.jpg",
+  "BasePortrait": "V05/Riz_front_photo.png",
+  "CropNativePixels": "1470,160,950,1120",
+  "EyeMasks": "480,575,100,63 / 719,532,92,65",
+  "ChangedPixels": 33638,
+  "ChangedPixelsOutsideEyeRegions": 0,
+  "AlphaUnchanged": true
+}

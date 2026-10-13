@@ -1,0 +1,237 @@
+[
+  {
+    "id": "01",
+    "reference": "references/Ref_01.jpg",
+    "identityPhotos": [
+      "sources_HD/Sampsa/Sampsa_00-07-11.jpg"
+    ],
+    "generatedPath": "C:\\Users\\notti\\.codex\\generated_images\\01a12f86-0ef6-7450-9e2d-31feff2c3c7e\\exec-e867e515-f292-4caf-aa28-eafe59f2ef74.png",
+    "finalMaster": "masters/Sampsa_01.png",
+    "note": ""
+  },
+  {
+    "id": "02",
+    "reference": "references/Ref_02.jpg",
+    "identityPhotos": [
+      "sources_HD/Sampsa/Sampsa_00-04-25.jpg"
+    ],
+    "generatedPath": "C:\\Users\\notti\\.codex\\generated_images\\01a12f86-0ef6-7450-9e2d-31feff2c3c7e\\exec-6b71848d-cdcb-4c15-bc92-c83c55b91c4e.png",
+    "finalMaster": "masters/Sampsa_02.png",
+    "note": ""
+  },
+  {
+    "id": "03",
+    "reference": "references/Ref_03.jpg",
+    "identityPhotos": [
+      "sources_HD/Sampsa/Sampsa_00-40-12.jpg"
+    ],
+    "generatedPath": "C:\\Users\\notti\\.codex\\generated_images\\01a12f86-0ef6-7450-9e2d-31feff2c3c7e\\exec-24b86106-4e37-4bd3-8f95-71ecc26b604c.png",
+    "finalMaster": "masters/Sampsa_03.png",
+    "note": ""
+  },
+  {
+    "id": "04",
+    "reference": "references/Ref_04.jpg",
+    "identityPhotos": [
+      "sources_HD/Sampsa/Sampsa_00-04-25.jpg"
+    ],
+    "generatedPath": "C:\\Users\\notti\\.codex\\generated_images\\01a12f86-0ef6-7450-9e2d-31feff2c3c7e\\exec-8a034e88-074e-4178-b603-c84348ccc721.png",
+    "finalMaster": "masters/Sampsa_04.png",
+    "note": ""
+  },
+  {
+    "id": "05",
+    "reference": "references/Ref_05.jpg",
+    "identityPhotos": [
+      "sources_HD/Sampsa/Sampsa_00-16-17.jpg"
+    ],
+    "generatedPath": "C:\\Users\\notti\\.codex\\generated_images\\01a12f86-0ef6-7450-9e2d-31feff2c3c7e\\exec-14707593-f4f2-4bf6-82bf-9653e5cc1e30.png",
+    "finalMaster": "masters/Sampsa_05.png",
+    "note": ""
+  },
+  {
+    "id": "06",
+    "reference": "references/Ref_06.jpg",
+    "identityPhotos": [
+      "sources_HD/Sampsa/Sampsa_00-43-12.jpg"
+    ],
+    "generatedPath": "C:\\Users\\notti\\.codex\\generated_images\\01a12f86-0ef6-7450-9e2d-31feff2c3c7e\\exec-722d20a5-32f6-43ce-bdbf-5c54ddf00a05.png",
+    "finalMaster": "masters/Sampsa_06.png",
+    "note": ""
+  },
+  {
+    "id": "07",
+    "reference": "references/Ref_07.jpg",
+    "identityPhotos": [
+      "sources_HD/Sampsa/Sampsa_00-04-25.jpg"
+    ],
+    "generatedPath": "C:\\Users\\notti\\.codex\\generated_images\\01a12f86-0ef6-7450-9e2d-31feff2c3c7e\\exec-b4d0c828-25a1-4d4b-b4e1-ecc479c6a2a5.png",
+    "finalMaster": "masters/Sampsa_07.png",
+    "note": ""
+  },
+  {
+    "id": "08",
+    "reference": "references/Ref_08.jpg",
+    "identityPhotos": [
+      "sources_HD/Sampsa/Sampsa_00-16-17.jpg"
+    ],
+    "generatedPath": "C:\\Users\\notti\\.codex\\generated_images\\01a12f86-0ef6-7450-9e2d-31feff2c3c7e\\exec-ef61e166-ee59-4ab7-8d96-2c18ecd818b8.png",
+    "finalMaster": "masters/Sampsa_08.png",
+    "note": ""
+  },
+  {
+    "id": "09",
+    "reference": "references/Ref_09.jpg",
+    "identityPhotos": [
+      "sources_HD/Sampsa/Sampsa_00-40-12.jpg"
+    ],
+    "generatedPath": "C:\\Users\\notti\\.codex\\generated_images\\01a12f86-0ef6-7450-9e2d-31feff2c3c7e\\exec-aae290dc-8d36-4c63-aa91-2fee98ab4ef6.png",
+    "finalMaster": "masters/Sampsa_09.png",
+    "note": ""
+  },
+  {
+    "id": "10",
+    "reference": "references/Ref_10.jpg",
+    "identityPhotos": [
+      "sources_HD/Sampsa/Sampsa_00-04-25.jpg",
+      "sources_HD/Riz/Riz_00-03-00.jpg"
+    ],
+    "generatedPath": "C:\\Users\\notti\\.codex\\generated_images\\01a12f86-0ef6-7450-9e2d-31feff2c3c7e\\exec-7722c745-9871-4365-afed-05ac9ba626af.png",
+    "finalMaster": "masters/Sampsa_10.png",
+    "note": ""
+  },
+  {
+    "id": "11",
+    "reference": "references/Ref_11.jpg",
+    "identityPhotos": [
+      "sources_HD/Sampsa/Sampsa_00-07-11.jpg",
+      "sources_HD/Riz/Riz_00-00-42.jpg"
+    ],
+    "generatedPath": "C:\\Users\\notti\\.codex\\generated_images\\01a12f86-0ef6-7450-9e2d-31feff2c3c7e\\exec-343ca120-cf4b-4d6a-b139-506100981b9f.png",
+    "finalMaster": "masters/Sampsa_11.png",
+    "note": ""
+  },
+  {
+    "id": "12",
+    "reference": "references/Ref_12.jpg",
+    "identityPhotos": [
+      "sources_HD/Sampsa/Sampsa_00-43-12.jpg",
+      "sources_HD/Riz/Riz_00-00-42.jpg"
+    ],
+    "generatedPath": "C:\\Users\\notti\\.codex\\generated_images\\01a12f86-0ef6-7450-9e2d-31feff2c3c7e\\exec-8f95b1e6-3be3-41d1-90a9-8000b92997d5.png",
+    "finalMaster": "masters/Sampsa_12.png",
+    "note": ""
+  },
+  {
+    "id": "13",
+    "reference": "references/Ref_13.jpg",
+    "identityPhotos": [
+      "sources_HD/Sampsa/Sampsa_00-16-17.jpg",
+      "sources_HD/Riz/Riz_00-00-42.jpg"
+    ],
+    "generatedPath": "C:\\Users\\notti\\.codex\\generated_images\\01a12f86-0ef6-7450-9e2d-31feff2c3c7e\\exec-05de4241-a81d-4ecc-99c8-1605cabb6da0.png",
+    "finalMaster": "masters/Sampsa_13.png",
+    "note": ""
+  },
+  {
+    "id": "14",
+    "reference": "references/Ref_14.jpg",
+    "identityPhotos": [
+      "sources_HD/Sampsa/Sampsa_00-04-25.jpg",
+      "sources_HD/Riz/Riz_00-03-00.jpg"
+    ],
+    "generatedPath": "C:\\Users\\notti\\.codex\\generated_images\\01a12f86-0ef6-7450-9e2d-31feff2c3c7e\\exec-2f6c9fa3-49e1-46a9-850f-48cc80dfd115.png",
+    "finalMaster": "masters/Sampsa_14.png",
+    "note": ""
+  },
+  {
+    "id": "15",
+    "reference": "references/Ref_15.jpg",
+    "identityPhotos": [
+      "sources_HD/Sampsa/Sampsa_00-04-25.jpg"
+    ],
+    "generatedPath": "C:\\Users\\notti\\.codex\\generated_images\\01a12f86-0ef6-7450-9e2d-31feff2c3c7e\\exec-50a1328b-0b53-4a21-b1ae-faf4f554464e.png",
+    "finalMaster": "masters/Sampsa_15.png",
+    "note": ""
+  },
+  {
+    "id": "16",
+    "reference": "references/Ref_16.jpg",
+    "identityPhotos": [
+      "sources_HD/Sampsa/Sampsa_00-40-12.jpg"
+    ],
+    "generatedPath": "C:\\Users\\notti\\.codex\\generated_images\\01a12f86-0ef6-7450-9e2d-31feff2c3c7e\\exec-d1354857-f18b-4621-91c8-c13cabb111b8.png",
+    "finalMaster": "masters/Sampsa_16.png",
+    "note": ""
+  },
+  {
+    "id": "17",
+    "reference": "references/Ref_17.jpg",
+    "identityPhotos": [],
+    "generatedPath": "C:\\Users\\notti\\.codex\\generated_images\\01a12f86-0ef6-7450-9e2d-31feff2c3c7e\\exec-1327dae8-d400-47ae-b558-5ba7fc7d2a9e.png",
+    "finalMaster": "masters/Sampsa_17.png",
+    "note": ""
+  },
+  {
+    "id": "18",
+    "reference": "references/Ref_18.jpg",
+    "identityPhotos": [
+      "sources_HD/Sampsa/Sampsa_00-07-11.jpg"
+    ],
+    "generatedPath": "C:\\Users\\notti\\.codex\\generated_images\\01a12f86-0ef6-7450-9e2d-31feff2c3c7e\\exec-bdff9c05-4995-46c9-8894-a67e376360a5.png",
+    "finalMaster": "masters/Sampsa_18.png",
+    "note": ""
+  },
+  {
+    "id": "19",
+    "reference": "references/Ref_19.jpg",
+    "identityPhotos": [
+      "sources_HD/Sampsa/Sampsa_00-40-12.jpg"
+    ],
+    "generatedPath": "C:\\Users\\notti\\.codex\\generated_images\\01a12f86-0ef6-7450-9e2d-31feff2c3c7e\\exec-0c6e4647-f952-4d40-b2dd-b0fd4d422f36.png",
+    "finalMaster": "masters/Sampsa_19.png",
+    "note": ""
+  },
+  {
+    "id": "20",
+    "reference": "references/Ref_20.jpg",
+    "identityPhotos": [
+      "sources_HD/Sampsa/Sampsa_00-07-11.jpg",
+      "sources_HD/Riz/Riz_00-03-00.jpg"
+    ],
+    "generatedPath": "C:\\Users\\notti\\.codex\\generated_images\\01a12f86-0ef6-7450-9e2d-31feff2c3c7e\\exec-d97e034f-a476-48a3-a38c-e26d08665b96.png",
+    "finalMaster": "masters/Sampsa_20.png",
+    "note": "Local right foreground patch only; original face pixels protected. See export.ps1 and Revision20_pixel_check.json."
+  },
+  {
+    "id": "21",
+    "reference": "references/Ref_21.jpg",
+    "identityPhotos": [
+      "sources_HD/Sampsa/Sampsa_00-04-25.jpg"
+    ],
+    "generatedPath": "C:\\Users\\notti\\.codex\\generated_images\\01a12f86-0ef6-7450-9e2d-31feff2c3c7e\\exec-6eed9a18-f8a7-47f1-8fba-0dce449cef70.png",
+    "finalMaster": "masters/Sampsa_21.png",
+    "note": ""
+  },
+  {
+    "id": "22",
+    "reference": "references/Ref_22.jpg",
+    "identityPhotos": [
+      "sources_HD/Sampsa/Sampsa_00-16-17.jpg",
+      "sources_HD/Riz/Riz_00-03-00.jpg"
+    ],
+    "generatedPath": "C:\\Users\\notti\\.codex\\generated_images\\01a12f86-0ef6-7450-9e2d-31feff2c3c7e\\exec-708c5563-e7e4-4a9e-a301-2e92fbd42f1b.png",
+    "finalMaster": "masters/Sampsa_22.png",
+    "note": ""
+  },
+  {
+    "id": "23",
+    "reference": "references/Ref_23.jpg",
+    "identityPhotos": [
+      "sources_HD/Sampsa/Sampsa_00-04-25.jpg"
+    ],
+    "generatedPath": "C:\\Users\\notti\\.codex\\generated_images\\01a12f86-0ef6-7450-9e2d-31feff2c3c7e\\exec-c1a14370-b34a-4a0b-af2e-fdfe93d868e7.png",
+    "finalMaster": "masters/Sampsa_23.png",
+    "note": ""
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "name": "Thumbnail WOR",
+    "source": "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR",
+    "destination": "projects/WOR/Thumbnail WOR"
+  },
+  {
+    "name": "Stories",
+    "source": "C:/Users/notti/Documents/ChatGPT/Stories",
+    "destination": "projects/WOR/Stories"
+  },
+  {
+    "name": "Spotify",
+    "source": "C:/Users/notti/Documents/ChatGPT/Spotify",
+    "destination": "projects/WOR/Spotify"
+  },
+  {
+    "name": "Carousel - WOR",
+    "source": "C:/Users/notti/Documents/ChatGPT/Carousel - WOR",
+    "destination": "projects/WOR/Carousel - WOR"
+  },
+  {
+    "name": "Thumbnail - PFT",
+    "source": "C:/Users/notti/Documents/ChatGPT/Thumbnail - PFT",
+    "destination": "projects/PFT/Thumbnail - PFT"
+  },
+  {
+    "name": "Stories - PFT",
+    "source": "C:/Users/notti/Documents/ChatGPT/Stories - PFT",
+    "destination": "projects/PFT/Stories - PFT"
+  },
+  {
+    "name": "Spotify - PFT",
+    "source": "C:/Users/notti/Documents/ChatGPT/Spotify - PFT",
+    "destination": "projects/PFT/Spotify - PFT"
+  },
+  {
+    "name": "Carousel - PFT",
+    "source": "C:/Users/notti/Documents/ChatGPT/Carousel - PFT",
+    "destination": "projects/PFT/Carousel - PFT"
+  },
+  {
+    "name": "Thumbnail - CF",
+    "source": "C:/Users/notti/Documents/ChatGPT/Thumbnail - CF",
+    "destination": "projects/CF/Thumbnail - CF"
+  },
+  {
+    "name": "Stories - CF",
+    "source": "C:/Users/notti/Documents/ChatGPT/Stories - CF",
+    "destination": "projects/CF/Stories - CF"
+  },
+  {
+    "name": "Spotify - CF",
+    "source": "C:/Users/notti/Documents/ChatGPT/Spotify - CF",
+    "destination": "projects/CF/Spotify - CF"
+  },
+  {
+    "name": "Carousel - CF",
+    "source": "C:/Users/notti/Documents/ChatGPT/Carousel - CF",
+    "destination": "projects/CF/Carousel - CF"
+  },
+  {
+    "name": "Apex - ADS",
+    "source": "C:/Users/notti/Documents/ChatGPT/Apex - ADS",
+    "destination": "projects/ADS/Apex - ADS"
+  },
+  {
+    "name": "Tradeify - ADS",
+    "source": "C:/Users/notti/Documents/ChatGPT/Tradeify - ADS",
+    "destination": "projects/ADS/Tradeify - ADS"
+  },
+  {
+    "name": "Tradezella - ADS",
+    "source": "C:/Users/notti/Documents/ChatGPT/Tradezella - ADS",
+    "destination": "projects/ADS/Tradezella - ADS"
+  },
+  {
+    "name": "Ninja Trader - ADS",
+    "source": "C:/Users/notti/Documents/ChatGPT/Ninja Trader - ADS",
+    "destination": "projects/ADS/Ninja Trader - ADS"
+  },
+  {
+    "name": "Lucid - ADS",
+    "source": "C:/Users/notti/Documents/ChatGPT/Lucid - ADS",
+    "destination": "projects/ADS/Lucid - ADS"
+  },
+  {
+    "name": "Vest - ADS",
+    "source": "C:/Users/notti/Documents/ChatGPT/Vest - ADS",
+    "destination": "projects/ADS/Vest - ADS"
+  },
+  {
+    "name": "Carousel - COPY",
+    "source": "C:/Users/notti/Documents/ChatGPT/Carousel - COPY",
+    "destination": "projects/Shared/Carousel - COPY"
+  },
+  {
+    "name": "WOR Studio",
+    "source": "C:/Users/notti/Documents/Codex/2026-10-12/alors-j-aimerais-que-tu-puisses/outputs/WOR-Studio",
+    "destination": "projects/WOR/WOR Studio",
+    "allowlist": "sync-allowlist.json"
+  }
+]

@@ -1,0 +1,12 @@
+IMRE GAMS / CHARTFANATICS / V10
+
+01 / 02 / 04 : reduction legere de l'intensite rouge et verte du fond V09, par ajustement ImageGen du fond vide (cible environ 20 %). Les portraits, schemas, textes et placements sont conserves. Grain final a 3 %, applique une seule fois depuis les masters sans grain final.
+03 / 05 / 06 / 07 / 08 : fichiers identiques a V09. Scene de dessin 03 conservee.
+
+Export complet : huit PNG 3840 x 2160 dans Exports/V10 et dans Livraison/Imre_Gams_8_Thumbnails_V10_3840x2160.zip.
+Sources photo et fond generatif agrandis ; ces elements ne sont pas natifs 4K. Typographie et formes rendues a 3840 x 2160.
+Versions precedentes conservees. Aucun fichier publie.
+
+Reproduction : render_v10.ps1 -Final, avec les assets Masters/V10, la police Poppins, Suivi/add_final_noise.ps1 et les metriques Suivi/V09/Typography_geometry.csv. Dans un dossier neuf, copier auparavant les fichiers 03/05/06/07/08 de Masters/V09, Exports/V09 et Apercus/V09 vers les dossiers V10 correspondants.
+Prompt_ImageGen.txt conserve le prompt exact et les chemins de provenance du fond.
+verify_v10.ps1 controle les cinq images conservees, les deux portraits et la geometrie typographique. package_v10.ps1 controle les dimensions, le nombre d'exports, le nombre d'entrees du ZIP et leurs SHA256.

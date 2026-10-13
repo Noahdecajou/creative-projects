@@ -1,0 +1,716 @@
+Without Charts CF Imre_1.txt
+English (US)
+
+00:00:00.040 — 00:01:02.300 · Speaker 1
+Welcome everyone back to Chat Fanatics. There you go to channel for all of the very best strategy and concert breakdowns in the world, with some of the greatest traders in the world as well. Talking of which, today when he came on Words of Wisdom, it was an absolute masterclass and, you know, really opened up a lot of traders eyes.
+
+The feedback was absolutely incredible, but one of the main comments I kept seeing was get him onto our next, get him one of our fanatics. Well, here we are. It's finally here. Uh, a true professional trader, a performance coach as well. Someone who I highly respect and is, you know, really, really shaping the industry when it comes to true professionalism and how even retail traders need to think correctly and act correctly.
+
+And that's what we're exactly what we're going to go through today, uh, where we're going to go through the framework, no matter your strategy, the framework that you need to follow in order to progress, trade correctly and trade efficiently and without further ado, is the one and only emery gums? Where should we begin?
+
+There, as we were talking about, like we're going to be talking about a framework here, but like, what are we going to cover today? And then where should we start? Yeah. So so is what.
+
+
+00:01:02.300 — 00:03:31.850 · Speaker 2
+We're going to be doing today is pulling back the curtain a little bit and giving the audience a little bit more of an insight in terms of how to think about the market from that institutional angle, which of course, I know there's so many videos out there. There's that entire school of technical analysis built around what the smart money supposedly is doing and isn't doing.
+
+We're going to break down some of those myths. We're going to break down some of those walls and barriers, and we're going to get into the real heart and truth of the matter. Now, what I love about about this side of trading is that it's holistic. We're not going to be talking about trading psychology so much.
+
+We're really going to get down into what's practical and what you can take with you into the next session tomorrow. So we're going to be talking a little bit about about market fundamentals. We're going to be talking about technicals as well. And we're going to talk about a different way of thinking first and foremost.
+
+Now, the one thing that I'll say is that I feel so strongly about this. In treating, there is nothing new under the sun. It's not going to be me. It's not going to be Riz. It's not going to be anybody else that that appears on any YouTube video that's going to reveal something that nobody has thought of before.
+
+Markets have been around for centuries, if not a couple millennia, to be honest. And the ways that we make money as traders hasn't really evolved all that much. Sure, there are tools and options are incredibly beautiful and complex in their own way, but fundamentally a market is driven by two parties buyers and sellers.
+
+So? So there's nothing new here. None of this is original to me. I'm not going to sit here and take credit for the concepts and the framework that I'm going to present to you. What I will take credit for is that this is uniquely mine. This is proprietary to me and what I would encourage anyone watching this to do is to go out, take these things, tweak them, and make them uniquely yours as well.
+
+Because the reality is, I'll never be able to trade the way that that you trade. I'll never be able to trade the exact way that somebody else watching this is going to trade. And nobody else can trade exactly like me. So I have the saying that professionals, we all use roughly the same tools, especially for looking intraday.
+
+We're looking and using the same tools. But our interpretation of the data that that we get from those tools is going to vary. And what we do with that data is going to vary as well.
+
+
+00:03:31.890 — 00:04:37.350 · Speaker 1
+Yeah definitely I love to hear it. And I think I kind of agree more in terms of making your own, I think obviously in the age of even chart fanatics, but just the amount of strategies that are available. And, you know, I think a lot of people are always trying to copy and paste, you know, they're just like, oh, this is how he does it, or this is how it's been taught.
+
+This is how it's been shown. I just need to do the exact same thing, when in reality, there's so much of a personal aspect to trading, both from whether it's psychology but just strategy based in terms of your edge. There's there needs to be certain, even if there's small elements that are you and you've seen that and you've been able to identify that, you've seen the data behind that, you've gathered the data behind that.
+
+And that's the only way for you to be disciplined. That's the only way for you to trust that system. Um, otherwise, I believe that a lot of people try copy and paste. They don't actually have the data. They don't actually know if there's an edge. And because of that, even if it is an actual edge, even if it's profitable, but because they haven't gathered that data and they haven't really, you know, using something that they've actually seen for themselves, even if it's just small tweaks like, you know, or change in the amount of risk or the change in the number of trades that they're taking, just these small little things make a massive difference.
+
+Massive difference.
+
+
+00:04:37.390 — 00:05:44.130 · Speaker 2
+Yeah, I could not agree more. And then that ultimately is, in my opinion, the single most important character attribute for a successful trader to have. It's the ability to think critically. It's the ability to to think for yourself and be truly independent. Now, you don't start off that way. You know, you don't start off running and sprinting.
+
+You start off crawling and walking. So you do need a foundation from which to learn and from which to build. But I don't think that foundation should necessarily be copy and pasting someone's strategy. It should be understanding the mechanical, what I call the professional foundation, understanding what I call the plumbing of the market.
+
+Once you have that as your foundation, it becomes far easier and frankly, more efficient to build your own strategies that are unique to to you. And I say this to a lot of traders every single day. You know, I have a fixed playbook, but really every session when I decide to to trade in today, I'm coming up with a new strategy that morning, you know, and but I can do that because I have this foundational understanding of, of the market.
+
+
+00:05:44.330 — 00:05:47.530 · Speaker 1
+That makes sense. And where should we begin here. So the framework.
+
+
+00:05:47.570 — 00:12:54.099 · Speaker 2
+What we're going to start off with is understanding the market through a slightly different lens. Now, some people may have heard of this before. A m T stands for Auction Market Theory. Now, when we're talking about auction market theory, what we're really talking about is viewing the market through a slightly different lens.
+
+And what auction market theory tells us is that in a market we have two parties, we have buyers, and then we have sellers, buyers, for example, this price level believe that the market is priced at a relative discount appear. Sellers believe the market is priced at a relative premium, and it takes those two parties to make a market right.
+
+Now, what auction market theory tells us is that all the market is trying to do is negotiate in real time, where fair value exists and where it doesn't. So most often, what we can see as a very clear understanding in acceptance of fair value is when we have a range. Now, when we have a range. When we have a range in terms of price, we're going to see sellers consistently start stepping in around the highs.
+
+And of course this is textbook. This is clean. This is an idealized line diagram. The real market of course is not always going to be so pretty. But we're also going to see buyers willing to step in at the lows. And in the middle of this range, we're going to have a very important point that will keep returning to over and over and over again.
+
+And it's actually called the point of control. And the point of control is simply where the most transacting has taken place, where the most volume has happened. And now this is a very introductory concept when it comes to AMT. We've got buyers, we've got sellers. The market is trying to agree on fair value.
+
+And in the middle you could say we kind of have the fairest value of all. That is where buying and selling is kind of symmetrical, right? Now, why is this important? It's important because when we understand that all the market is trying to do is agree or disagree on fair value, we start to understand the market through a slightly different lens.
+
+What do I mean by that? What I mean by that is that the most important foundational thing when it comes to traders succeeding or failing on a particular session? You know, and I'm talking here specifically for day traders is that they misunderstand regime. What I find is that most often retail traders are really, really good at buying the exact high and selling the exact low.
+
+I've heard so many times it feels like the market is out to get me. The moment I push market by, the market just starts selling off and vice versa. When I'm pushing market sell, the market just starts ripping in my face. Why is that? And it's not a conspiracy. It's not that the market is out to get you. It's that your understanding of what the market is trying to do is often diametrically opposed to what the largest players who actually want to move the market are trying to do.
+
+So here we're talking about macro hedge funds. We're talking about pension funds. We're talking about the largest institutional players. And their volume dwarfs anything that the retail crowd is able to put together. Right. So that's where we start. We start by understanding this incredibly important concept that all the market is trying to do is find fair value.
+
+And where things get very interesting is when we resolve doing business in this range here, you know, we have this range, we resolve our business. And now the market actually starts to get imbalanced. And this is called discovery. The market is in search of new fair value. And we're going to find new fair value here.
+
+And then the market might conclude its business and return to where we had previous fair value. And this phenomenon is going to repeat over and over and over again. So that leads to point number two regime. So we have two types of regime. We have a balanced regime and an imbalanced regime. Now a lot of traders might recognize these regimes when we start using slightly different words range bound versus trending.
+
+Now everybody I think, who has studied charts or technical analysis for any amount of time recognizes this. And we say that this is an uptrend. Now we have a series of swing points moving in the same direction. Here we have a low we have a higher low. We have a higher low. Here we have a high. We have a higher high.
+
+And if we come down and we make another swing low, the trend is still intact. So long as we make now another swing high and what? Retail traders typically want to capture are those dramatic movements where we're exploding beyond the next swing high to make a new high, or they want to capture the bottom of this pullback and trade back towards a previous high.
+
+This does happen over and over and over again, it's true. But the circumstances in which this happens are actually fairly unique. And this is where we have to start getting into a little bit more granular detail. Now, I actually don't see this as a pure definition of an uptrend. I think that this is partly what an uptrend is.
+
+But this to me is a very clear definition of price making higher highs and higher lows. But what about value? There's a difference between price and value. So the difference between price and value is very simple. When we have for example a news event that comes out whether it's CPI or NFP, doesn't matter what the news event is.
+
+Typically we're going to get a big spike in price up or down. And anyone that's traded news before knows that if I go long on that news candle, that seems like it's just going to go straight up to the heavens. The moment I press market buy, it's going to reverse and we're going to retrace that entire movement.
+
+Right. So what happened there is that price might have gone up, but value did not necessarily migrate along with price. So what is valley value is when we have the presence of buyers and sellers creating what another balancing range. So we're going to draw that out. And in my opinion this is a far more effective manner in which we can understand trending versus non trending behavior.
+
+So to me a trend is not just when price can move up but when value starts to build and build. and build. It's the same underlying idea where we have higher highs and higher lows, but with one very important distinction. And that distinction is that the market is accepting
+
+
+00:12:55.660 — 00:14:05.359 · Speaker 2
+higher valuations. And the reason I say it's accepting higher valuations is because where this new auction is taking place, where we have these new ranges taking place is progressing gradually higher and higher and higher. Right. That's a very important distinction because if we simply have price spiking to new highs or lows, I'm not interested.
+
+I need to see the value being built because who builds value. It's not retail. That is institutional participation that is going to be building value. So when you have institutional participation, building value that tells you what that tells you that institutions themselves are at least temporarily agreeing that fair value is climbing and climbing and climbing and climbing.
+
+That gives us what far greater confidence in terms of joining an uptrend. So now we're setting the stage and we're almost done, but not quite yet. There's a couple more things that we really need to talk about that are super, super important. Remember I said that retail their interests are diametrically opposed with institutions.
+
+Well what does that mean? Here's what I mean by that. Most retail
+
+
+00:14:06.560 — 00:14:11.320 · Speaker 2
+are DTF. It's not doesn't mean what you think you mean. Okay.
+
+
+00:14:14.920 — 00:15:07.580 · Speaker 2
+Most retail are DTF. What does that mean? Their day time frame participants. What that means is that you have your your people that are day trading. Right. So so day traders definitely belong in this group. Just use DT. But there's also going to be algos that are running intraday. You're going to have some smaller momentum hedge funds.
+
+You're going to have entities known as CTAs which are commodity trading advisors. It's an oversimplification, but a CTAs like a type of fund that that manages money for investors. They typically tend to be trend followers. So so you're going to have a group of market participants where their time frame is intraday daily.
+
+And then we've got the OTF which are the other time frame participants. These are our um, you know, hedge funds,
+
+
+00:15:08.820 — 00:18:35.970 · Speaker 2
+pension funds, mutual funds. In other words the big boys, the biggest players. Now as the name implies, other time frame participant, they're not looking at the same time horizon as the daytime participants. Their horizons are typically measured in months, quarters. No, possibly even a year or two years.
+
+Three years. They're looking much further out, so their interests are not always aligned with what the daytime participants want. You know, we would love it from an intraday trader's perspective for the market to just rip higher or lower 500 points on NQ every single day. But we know that that's not realistic, right?
+
+But what if there was a way to stack the odds in your favor as much as possible? To be able to identify what types of trades you should be taking in certain conditions, what types of trades you should not be taking in other types of conditions, and how to identify when these guys are actually present. And that's what we're going to be diving into.
+
+So the thing that we have to understand is that the other time frame participants, the real so-called smart money, they have a vested interest at times to keep the market range bound, to keep the market in a state of balance right now. This is where we're going to be talking about a very simple technical rule that I'm going to give you, that you can start applying immediately to your chart, so you can apply this on any time frame chart that you want.
+
+I personally think that this works on all time frames. I prioritize personally the higher time frames here. You know, I'm trying to to take some of these concepts that I've used over the course of my career and simplify them as much as possible so that anybody can put them into practice. So when I say higher time frames and I mean the weekly time frame, the daily time frame, but there's nothing stopping you from doing this on the monthly time frame as well.
+
+And then there is a very, very cool use case for doing this intraday as well. Right. So the concept here is called one time framing. Now we can be one time framing up. We can be one time framing down or we can be in balance. Now the original invention I believe or the original definition of one time framing is a concept that's meant to be applied intraday.
+
+If I'm remembering this correctly, I think it was probably Jim Dalton that came up with this, but it has been adapted for use on the higher timeframes as well. And that's where I think this concept can be incredibly powerful. Now, what we're talking about here in terms of process, this is what I call mapping the market.
+
+And this is what I do before I start every single trading session. I say this all the time. I do day trade. I do not trade every day as a day trader. Right. And the reason whether I do or do not day trade comes down to my read of the regime, comes down to the map that I prepare. For those of you that follow me on X, you'll see often, not all the time, I'll share what my market map for the day looks like, and frankly, they're stunningly accurate.
+
+That's not because I'm smarter than everybody else. It's not because I have a crystal ball. It's because I'm simply applying sound auction market theory principles two technical charting and very basic fundamental analysis starts with one time framing up.
+
+
+00:18:39.130 — 00:18:40.329 · Speaker 2
+OTF u
+
+
+00:18:41.770 — 00:19:17.050 · Speaker 2
+otf d stands for one time framing down. And then we have balance as well. So my definition here is a little bit different from what you might see in a textbook. In some ways it's a little bit more strict. Okay. So again I apply this to higher time frames. And the whole purpose of identifying whether the market is one time framing up, one time framing down or in balance, which will go over next, is to determine or help determine the broader market regime of which there are only two balance or in balance.
+
+So when we're one time framing up what I want to see,
+
+
+00:19:18.130 — 00:19:31.460 · Speaker 2
+because this is a bullish concept, what we want to see here are candles that continuously make higher highs. higher lows and higher closes.
+
+
+00:19:32.820 — 00:20:30.720 · Speaker 2
+So here what we see is a bullish candlestick right here. And the next candlestick makes a higher high. And that strictly is I would say the old school definition of one time framing up. So long as we make, you know, high or high we do not violate the previous day's low. Now we're technically one time framing up.
+
+I take a slightly more strict look at that. Not only do I want to make a higher low, I want to see a higher high, and I want to see a higher close. On the next day, I purposefully drew it so it looks like we're gapping down. The day at one point looked quite scary, quite bearish, but we don't take out the previous day's low.
+
+We make a higher low, we make a higher close and we make a higher high. This is one time framing up. What this tells me is that buyers are firmly in control of the auction. Now, when we're one time framing up what type of say, trade setups, what type of trade strategies do you think would work best? For example, do you think reversal traits would work best when one time frame comes?
+
+
+00:20:30.760 — 00:20:31.520 · Speaker 1
+Oh no. No.
+
+
+00:20:31.520 — 00:21:29.340 · Speaker 2
+But what about momentum? Yeah. Yeah. Absolutely right. And we've seen in fact, if you haven't read the newest issue of Market Wizards, I strongly recommend it. In that newest book, there's a lot of market wizards who have made their fortunes trading momentum. And trading momentum can be an exceptionally powerful way to generate huge returns in the market, but only under the right conditions.
+
+So for me, I only trade outright momentum if we have one time framing, whether it's up or down now, one time framing down is is the exact same thing. It's just going to be flipped upside down now. So so long as we don't take out the previous day's high and we're making a lower low, we're making a lower close. We're making a this is meant to be a lower high people.
+
+Excuse my kindergarten art skills. Lower. Low. Lower. Close.
+
+
+00:21:30.580 — 00:23:00.550 · Speaker 2
+Lower. High. We're one time framing down. Sellers are in control. Same principles apply. This is where momentum trading shines. This is not where I want to employ mean reversion trades. It's not where I want to buy the bottom for a little pullback into the middle of the range. That is a low expected value play.
+
+So even before I go intraday, I already know ahead of time whether one time framing up, whether we're one time framing down, whether I want to trade momentum type strategies, which are what breakouts, breakouts. That is the king of momentum type trading strategies. Now I think a lot of traders start their trading journey wanting to be breakout traders because breakouts are exciting, and then they quickly get jaded and they realize that breakouts fail.
+
+Well, why do breakouts fail so often? breakouts fail because they are the fat tails of the bell curve. Now we're going to draw a bell curve in a moment, and I'm going to throw a mouthful of the technical term that you guys. But once we have a normal Gaussian distribution what we're looking for is well, what happens the majority of the time and what happens the majority of the time.
+
+The bell curve is not going to be outright momentum. What happens the majority of the time is actually going to be balanced conditions, approximately 68 to 70% of the time for most markets. So when we draw that bell curve, you know, and it's going to look
+
+
+00:23:02.350 — 00:24:38.430 · Speaker 2
+like this. Here is where the majority of activity happens. And in the case of markets, the majority of that activity happens to be a market in a state of balance. Now on the tails, this is where we have the remaining 30%. And that is where we can get imbalanced market conditions. The majority of the time, breakout traders fail at successfully capturing a breakout because the majority of the time the market is not trading in a way that is conducive or encourages breakout trading to be successful.
+
+So again, just before we even look for a setup on the chart, we already know ahead of time by understanding regime what types of trades are more versus less likely to fail. So now if the market is imbalanced most of the time, well, wouldn't it be great to understand what balance looks like? Of course. So balance is when we are neither one time framing up or one time framing down.
+
+So balance is going to look like when we have candles that sweep lows, sweep highs, it looks like we're going to break out. But then the next day we don't and we're going to get that messy. What people think is choppy price action Right now, not all balance ranges are created equal. You know, sometimes you have a very clean range that looks like this.
+
+Other times you're going to have an absolute madness that looks like this. Now what would you guess? All things being equal, which of these two markets is more liquid?
+
+
+00:24:38.670 — 00:24:41.070 · Speaker 1
+More liquid? I'd probably say this one.
+
+
+00:24:41.070 — 00:24:41.630 · Speaker 2
+Why?
+
+
+00:24:41.750 — 00:24:53.270 · Speaker 1
+Just because it's taking out the previous, uh, or so-called highs and lows. So it's, you know, it's taking in a lot more transactions, probably a lot more emotion, which would mean more liquid to me.
+
+
+00:24:53.270 — 00:25:04.430 · Speaker 2
+But okay. And here if we take that logic and we say this has less underlying liquidity, why would we expect then smoother movements up and down.
+
+
+00:25:04.550 — 00:25:16.270 · Speaker 1
+So you're kind of like trapped within that range. So then the price action is only flowing within two. You know obviously we could see little peaks out or out of the bottom or the top, but there's a more concentrated area.
+
+
+00:25:16.430 — 00:25:28.810 · Speaker 2
+We're going to come back to that in just a second. Let's say we forget about financial markets for a second. If Risa and I are trading Pokemon cards back and forth like let's say no. Do your kids like Pokemon cards?
+
+
+00:25:28.850 — 00:25:29.770 · Speaker 1
+Yeah. They don't know about.
+
+
+00:25:29.930 — 00:25:30.690 · Speaker 2
+They don't know about them.
+
+
+00:25:30.690 — 00:25:36.010 · Speaker 1
+But yeah. My friends. Friends? Yeah. My friends who are 50 years old. Well, into Pokemon cards. Yeah.
+
+
+00:25:36.090 — 00:25:48.290 · Speaker 2
+Well, you know, so if you have a group of friends and they're all trading cards back and forth, you know, and then the value of those cards remain somewhat steady. Is it easy to do business? Is it easy to trade?
+
+
+00:25:48.690 — 00:25:49.090 · Speaker 1
+Yeah, I.
+
+
+00:25:49.090 — 00:26:03.570 · Speaker 2
+Would say it's easier. Right. But if the value of those cards is changing dramatically, like 50%, 100% tripling in price, getting cut in price by half every day, does that make it easier or harder to understand where fair value is?
+
+
+00:26:03.610 — 00:26:04.330 · Speaker 1
+It's harder.
+
+
+00:26:04.370 — 00:26:19.780 · Speaker 2
+Harder right now. Who do you think is more responsible for making sure that we have fair value, reasonable business conditions to trade in? Is it institutional Participation or smaller, like, let's say, retail participation.
+
+
+00:26:19.820 — 00:26:20.540 · Speaker 1
+Institutional.
+
+
+00:26:20.540 — 00:26:29.300 · Speaker 2
+Institutional. Okay. So now now that we've taken that into account, we go back and we we look at these two markets. Does that change your opinion at all.
+
+
+00:26:29.340 — 00:27:06.380 · Speaker 1
+Yeah. It would. Yeah. Well it's interesting to your point though like if when you first said oh like you're, you're seeing like big price increases. What's interesting in like crypto for example, or like NFTs or probably Pokemon cards is that more transactions end up taking place just because of euphoria, right?
+
+But then when you mentioned, obviously the the full sentence being that dropping by 50% as well or like so peaks and troughs of extreme nature, then that makes complete sense that it's not there's not much balance there or fair value. So yeah, no, for sure in terms of that fair value being set, having a more stable range in comparison, that makes sense.
+
+Yeah.
+
+
+00:27:06.420 — 00:30:38.250 · Speaker 2
+Yeah. No, no this isn't a hard, hard rule mind you. The point that I'm trying to make is for for all you NQ traders out there, which I'm guessing there's there's a lot of you if NQ and sometimes mind you, it does move like a meme coin. I accept that. But really if NQ was just going like this and then going like like this and then you know shooting up, going up 20%, down 30%, up 50%, you know, the state of the US economy would be in complete disarray right.
+
+Not not only that, but if if the market is ripping higher every single day, that makes it very difficult for the big institutions to actually accumulate a position in the stocks that make up the index, that is the Nasdaq 100. Mhm. Right. So price stability is something that's extremely important for institutional entities.
+
+And the reason for that is very simple. They can't just buy at the market. They can't just buy or sell at the market their entire position. If you have billions upon billions of dollars of capital to to deploy, it's going to take time. Whether it's, it's it's days typically sometimes it could take weeks to fully deploy that that position, or even longer if you're absolutely massive and you can't do that if the market is just ripping higher because you're going to price yourself effectively out of the market, right?
+
+So balance is a feature. It's not a bug of the system. It's something that is very, very important for institutions. So institutions have a vested interest, especially in the more important the more liquid markets to keep prices contained within more predictable ranges. The reason it's so important to understand the distinction between balance and imbalance is because now you stop thinking of the market from this two dimensional perspective, which is when I'm day trading, I want to buy here and all I, all I'm saying when I'm, when I'm buying or selling as a retail trader is I want price to go to, to level X before it goes to level Y.
+
+That's the bet you're making. It's a very binary bet. I need price to go to my target before it goes to my stop. That's effectively the bet that you are making. But that is not the bet necessarily, that an institutional entity is making. On that same day, they're looking to accumulate a position, which means that as they buy, let's say it's an underlying shares of a stock, they're buying shares of that stock.
+
+If there's no opposing liquidity the the market's just going to go straight up. And here's the funny thing. Here's like an insane case study is if we had let's say everybody in the entire world was asleep. And you and I are the only two people trading NQ. You put in an order to buy NQ at a level that's like 2000 points higher than where it is right now, just because you think that's where the market should be fairly valued.
+
+And I say, hi, you idiot, I'll happily make that, that that trade for you. I think you're grossly wrong on that. And if you and I are the only ones making that market, the whole world is asleep. Guess where NQ is going to go? It's going to go 2000 points higher or 2000 points lower. Let's say in this scenario you know you get filled.
+
+Let's say it's 40,000 NQ 40,000 NQ. It's like like over 10,000 points higher from where it is right now. And then the whole world wakes up and they go, what the hell is this guy thinking? That's not fair value? And then they're going to sell the crap out of that market. They're going to sell NQ to bring it back to where they believe fair value exists.
+
+Right. So so we can see tremendous spikes in price. But if it's not supported by underlying value, that means there was no agreement on whether that migration to new price levels was actually fair or not.
+
+
+00:30:38.290 — 00:31:04.570 · Speaker 1
+So would you say like as a prime example of something like silver, you know, on that, on that mega run, it got to such a point where fair value had gone and people had a disagreement in terms of the price level. And now, since we're tracing, we pretty much started to sort of stabilize and sort of have a balanced and a fair value range so far.
+
+There's peaks and troughs, but it's really slowed down that volatility that we're seeing for the back end of last year.
+
+
+00:31:04.610 — 00:32:11.890 · Speaker 2
+Yes that's exactly right. And now we have just a couple more things to layer on before this foundation is complete. But but to recap, what we've gone over so far is we have gone over auction market theory in basic, simple, easy. What I hope is simple and easy to understand terms. And maybe I'll give you a pop quiz just just to make sure that I'm doing a good job here.
+
+But you know, so I would say and you tell me if this makes or doesn't make sense, I would say that auction market theory is simply the lens through which we view the market. That allows us to understand that what the market is trying to accomplish is the agreement or the discovery of fair value between buyers and sellers.
+
+Right. And to do that, business needs to happen. And that's a very intentional term. Business needs to happen for every buyer. Then it needs to be a seller. For every seller there needs to be a buyer. So as we're negotiating fair value, we're going to get regime changes. We're going to move from balance and imbalance back and forth.
+
+Right. And in turn, that allows for what? Opportunity?
+
+
+00:32:12.970 — 00:34:06.040 · Speaker 2
+So where the opportunity lies, in my opinion, for retail is when the market is trying to migrate value, when it's trying to go from balance to imbalance, or when we suddenly start having a balanced market again. Right. So, so the number one question that I ask any trader that that wants to engage with me, whether it's online or in person, is, you know, what is your edge?
+
+Explain your edge to me. And I talked about this in the Words of Wisdom episode. And like, I think that was that one line where I said, I don't think most people have an edge. I don't think most people can explain what their edge actually is, which which flooded my my DMs with all sorts of triggered people. To this day, I still get answers.
+
+When I ask people what their edge is to say, oh, it's discipline, or it's identifying the draw on liquidity. That's not an edge. An edge is a mechanical, repeatable pattern that you can identify that happens over and over again because of a very specific reason. And it's the reason knowing the why behind what the market is doing is so important.
+
+So important. Because if you don't know the why, you're going to ask this common question after you take a loss. What could I have done to prevent that loss? Right. The difference is that when I take a loss day trading, I know exactly ahead of time what my risk on the trade was. For example, if we're in an imbalanced market and my thesis is momentum and the market doesn't give me any juice, there's no momentum.
+
+I know that's why I'm going to lose that tree. What we want to do is be able to identify the regime. When we identify the regime that allows us to identify where the opportunity exists, and when we identify where the opportunity exists, that's when we start getting into pulling the trigger, sizing a position, understanding what our risk parameters are.
+
+Why would a market go from balance to imbalance? That is the next and most important
+
+
+00:34:07.240 — 00:34:08.120 · Speaker 2
+question.
+
+
+00:34:09.320 — 00:34:11.560 · Speaker 2
+So here we have this very clean
+
+
+00:34:12.600 — 00:35:18.340 · Speaker 2
+range this textbook range. And there are buyers at the low. There are sellers at the high. And in technical terms. The area here is called the value area. The value area is where 70% of the trade takes place that can be considered fair value. Outside the value area we can consider prices to be unfair. Now notice and you'll see this in real markets all the time as we try to poke below the value area low.
+
+As we try to poke above the value area high, we get violent rejections. And again, those violent rejections are a feature. It's not a bug of the system. It's happening because institutional players are incentivized to keep the market in a state of balance. Why? Because they are not done doing business yet.
+
+So in this state we can see institutional entities accumulating a large position. Naturally, what's going to happen is that there will be signs that we might be getting closer and closer to concluding business. Do you notice what just happened here?
+
+
+00:35:18.380 — 00:35:27.940 · Speaker 1
+As in, um, price stopping before getting there. So I was seeing potentially if I was to try and guess like buyers are showing their hands potentially.
+
+
+00:35:27.980 — 00:36:06.429 · Speaker 2
+Yes. Exactly. So so we've all heard of the bid ask spread. Right. So what's happening here is that buyers were willing to bid for the market down here. And now suddenly they're raising their bids. Meaning what? Meaning that they think that that the market down here was at a discount here. Now, this is fair value.
+
+They're raising their bids. Now, if we're talking about this being a stock, for example, let's say it's an AI sockets tech stock Nvidia Tesla doesn't it doesn't matter what it is we see here. Buyers raising bids, and then instead of returning all the way to the bottom of the value area low as we did before we start seeing
+
+
+00:36:07.950 — 00:36:12.310 · Speaker 2
+this, or we start seeing another high or low,
+
+
+00:36:13.710 — 00:39:06.969 · Speaker 2
+right? And that tells us visibly that the market is getting ready to coil. Now, a lot of retail traders in today's day and age, I see they look down on the classical old school charting techniques, you know, of which I personally am a big fan of. I'm a big fan of old school classical charting. You know, Peter Brandt, who's who's a good friend of mine, one of the best known classical Chartists, I would argue, of all time, you know, has proven over decades that these patterns work.
+
+What I like to do is I like to filter these patterns through the lens of auction market theory and apply an order flow filter to them. What happens when we have a pattern that looks like this? We have that classic ascending triangle breakout. Right. So a lot of traders will see the ascending triangle or the see the head and shoulders reversal pattern without fully understanding the why behind those patterns work and why they fail.
+
+So the reason this is working is because buyers, as we see, are now raising their bids. Their valuation of the market has changed. Now, if I'm a market maker and I see this and I see that business has been concluded, what am I going to do? Am I really going to want to stand in the way of this freight train if it's going to take off, know so that the passive limit orders and we're going to talk about liquidity in a second here, the passive limit orders which market makers and other counterparties provide.
+
+They have these sell limit orders that are sitting passively. You can think of that as the invisible break that was keeping a lid on prices. Right. And we have, of course, below buyers sitting on the bed with their passive body limit orders. What the market is sensing here is that buyers are becoming more urgent.
+
+So the passive limit orders that were here are going to start to get thinner. We're going to start pulling away. Buyers are going to see this and you're going to get a shift in behavior. Those institutions that were previously patient, why were they patient. Because they were accumulating a position within a range.
+
+They're using limit orders. They're waiting for the market to come to them. They want to fill an enormous order over days or weeks. Well, now they're seeing a catalyst on the horizon. And they're going to shift from being patient to being impatient. So what could those catalysts be? It could be a fundamental data release.
+
+It could be CPI, it could be interest rate decision. It could be an earnings announcement. It could be any number of things where those institutional entities have insight into what is coming down the pike. As far as economic data is concerned. They have a view, they have analysis. and now suddenly they're not waiting for the market to come to them anymore.
+
+They're buying super aggressively here. They're buying super aggressively. And what they're trying to do is they're trying to absorb
+
+
+00:39:08.130 — 00:41:30.080 · Speaker 2
+all of this passive liquidity that's sitting up above. And what happens when there are no more sellers keeping that lid, keeping that, that break on prices. That's when we get the stop run in. Yeah, yeah. Stop runs are real. We'll clear out some stops here. But there's far less liquidity above these highs than people think.
+
+The majority of the liquidity is concentrated where in the middle of the range. Why do we know that? Because that is where the point of control typically exists. So now we're shifting from a state of balance to a state of imbalance. And now how we trade what we trade is going to shift and change dramatically.
+
+The next and final piece of the puzzle is the fundamentals. This is something that a lot of traders, I think, either dismiss or put to the side. I can't tell you how many times I've heard day traders say, oh, I don't need to know anything about the fundamentals. The charts tell me everything I need to know.
+
+Respectfully, I think that is a very narrow minded view of the market and of trading in general. How many institutions do you think are analyzing the fundamental data? Spoiler alert literally all of them. How many of them do you think are looking at one minute charts, examining fair value gaps and order blocks?
+
+Spoiler alert none of them you know. So it's not that the technical analysis doesn't matter to institutional entities and institutional traders, but you have to understand that the filter for those other time frame participants are the fundamentals. Now, fundamentals are not complex. They're not difficult to understand.
+
+As with everything, there's levels. There's layers and there's nuance. But to understand what you need to know in order to get started with fundamentals, it is not that bad. Just remember how difficult technical analysis seemed when you first started off as a trader. It seemed like there was this whole new language that you had to learn.
+
+Well, it's the same thing with fundamental analysis. You just have to learn this slightly different language. Now, I think fundamentals can be made so much simpler than people realize. And the best way to do that is to look at the market through the lens of understanding the major drivers of fundamentals, which is interest rates, in my opinion, earnings and unemployment.
+
+Now, many central banks around the world have what's called a dual mandate or a dual mandate,
+
+
+00:41:31.520 — 00:41:42.080 · Speaker 2
+a dual mandate central bank and the Federal Reserve in the US is one of them equally needs to protect price stability,
+
+
+00:41:43.840 — 00:41:50.460 · Speaker 2
+aka inflation, and they want to preserve full employment.
+
+
+00:41:52.020 — 00:41:54.340 · Speaker 2
+That is the mandate of the fed.
+
+
+00:41:55.860 — 00:49:47.350 · Speaker 2
+So all the data reports, the data releases that come through. So so whether it's CPI, NFP, interest rate, percentage changes, all of that stuff should be viewed through the lens of is it affecting inflation. Is it affecting employment. Mm. And monetary policy can be accommodative. In other words rates are going down or it's going to be restrictive and rates are going to go up.
+
+The cost of money is either going to get cheaper and easier therefore to access, or it's going to become more expensive and harder to access. So when the economy is overheating, what does that mean? It means inflation is on the rise. It means that there is virtually nobody left to employ. Then the fed is going to try to cool the economy down by raising rates.
+
+And when institutions see signs of that happening, that is when you're going to see rebalancing, you're going to see profit taking. You're going to see a rotation out of the very risky sectors, and you're going to see their their investment flows move into safer, quote unquote, safer assets. Right. But it's the opposite.
+
+When it's very clear that the economic signal from the fed is that we're not going to raise rates considerably, we're going to keep rates low, we're going to keep the money flowing. When that happens, you're going to want to put your money into growth companies, right? That's why the AI story is so easy to understand.
+
+From a fundamental perspective. All those companies need to have the ability to borrow money cheaply in order to reinvest back into their businesses. So if the cost of borrowing goes up, then, you know, the pressure on those companies is going to be immense. So I'm always asking whether it's the war in Iran, whether it's a CPI report, whether it's NFP, whatever is happening in the world, I filter it through this lens.
+
+Right here is the fed looking at what's happening in the world and realizing that they need to either do this, which is lower rates, or do they need to do this, which is raise rates. It's frankly that simple. Now, yes, there's layers and levels to this, but I think if you even just focus on this, it's immediately going to start allowing you to view these market rotations through a slightly different lens.
+
+When we have accommodative monetary policy, which broadly speaking, we've had since 2009, like since the end of the global financial crisis, why would you stand in the way of that? I've been trading professionally for for over 11 years now in Mike, which I think is is like probably like 200 and dog years for, for for retail traders.
+
+Right. Yeah. But in my career I've only ever seen a secular bull market, which is crazy to think. So why would I stand in the way of that? Eventually that is going to change. And I'll admit, I thought in 2022 that might have been it, you know. But we adapted, we adjusted, and here we are, you know. So until there is a significant and obvious sign that monetary policy has to shift and we move from being, let's say, ultra dovish to to maybe slightly hawkish, that's when the market is going to start repricing things.
+
+All right. So we've covered fundamentals. We've covered the role that they play from the bigger picture perspective. We've talked about auction market theory. We talked about balance and imbalance. We now have I would say the bones of that foundation to be put in place so that we can understand how to actually trade these different regimes.
+
+So what we're going to be looking at here is breaking down the first type of trade setup that I love to look for in a balanced market, and it's called the failed auction. This is again not a setup that's unique to me. This is a setup that I see a lot of order flow traders looking for. Again, the thing that makes the setup work is the location of it.
+
+It's not so much exactly the specific thing that I'm looking for on the tape in the order flow, versus what another trader is looking for. What sets this setup apart from the ones I take in an imbalanced regime is the location and my expectation of what the market is going to do. So the read of the regime. I've already identified that we're in balance.
+
+That is black and white. There is no guesswork involved there where things get murky, which is the business of trading. What we're effectively trying to do is make a prediction of the future, is the expectation I have of the market in its current regime state. So what we're looking at with the failed auction is looking to fade the edges of value.
+
+So what I'm expecting here is that there will be a buying response Near the value area low. So what I'm looking for is a push outside of the value area low. I'm looking for aggressive sellers coming in. And we're going to see this. When we go to the screen share portion of this segment we're going to see big red cell bubbles pushing down, showing that there are far more aggressive sellers than there are buyers.
+
+And then what we're going to see is all of a sudden the market is going to shoot back up. And this is often going to present as a long wick or long tail on a candlestick. And we're going to reclaim the value area low. Now this setup has two flavors. I'm going to show the first one which is what I call the V-shape reversal.
+
+The V-shape reversal occurs when we come back into the value area low. And we're going to get violent buyer bubbles, showing that there are far more aggressive buyers on the way up as well. So we had aggressive sellers on the way down. Aggressive buyers on the way up. And the thesis here now is that those aggressive sellers here are completely trapped.
+
+These aggressive sellers are completely now underwater. The aggressive buyers now also give me a very logical place to defend my trade. So if I'm looking at taking this trade using straight futures, for example for trading ES or NQ, what I'd be looking for is to aggressively cross the spread, which means buying at the market, taking liquidity from the market.
+
+I'm not setting a limit order. The V-shape reversal is a pure I don't want to use the word momentum, but it is pure rocket fuel that is based on the trap being sprung here. Yeah. So I had passive buyers absorbing the aggressive sellers here, and then we had aggressive buyers of our own joining in. When that trap is sprung, I can buy at market confidently as we're reclaiming the valley area low and I can place a protective stop using those aggressive buyers as my shield.
+
+Now I'm looking for a rotation for this trade to go back towards the value area high. An intermediate term target is always going to be that point of control where we had the most trade take place, typically in a balanced range. That's going to be somewhere right in the middle. That's an excellent opportunity to scale out of a trade, trim a position, move stops to your entry point, trail stops as well.
+
+The second flavor I'm going to show you is going to be on the other side of the valley area now. So now we've completed what's called the value area traverse. And same deal. We try to break out but we fail to do so. And this time maybe the price action is a little bit slower. It's not that violent. V-shaped reversal.
+
+We start actually building value above the value area high, but we fail to break out and we break back within the value area again. Now notice there are no aggressive traders. There's no big trade bubbles firing off. There's nothing like that. What I'm waiting for now to confirm the entry
+
+
+00:49:48.870 — 00:49:51.790 · Speaker 2
+is for value to build lower.
+
+
+00:49:52.110 — 00:49:52.630 · Speaker 1
+Mhm.
+
+
+00:49:53.230 — 00:49:59.350 · Speaker 2
+And as value is building lower I have a plan A and a plan B plan A
+
+
+00:50:00.390 — 00:50:02.590 · Speaker 2
+would be to look for
+
+
+00:50:04.310 — 00:51:14.650 · Speaker 2
+a move back to the top of what I call the micro range. And I want to see aggressive selling, stopping that move from going higher. And I can actually now sell at the top of the range. The micro range plan B is aggressive selling below the range. So in both cases I can do the same thing and I can start using these aggressive sellers, these larger sellers to protect my position.
+
+And it's the same idea I'm looking for rotation back towards the value area low. Yeah. So two setups. Same idea underpinning them, which is a rotation back through value. Because we are not done doing business within this balance range. How they present is going to be slightly different. Here we have the V-shape reversal which the condition for that that I need to see are aggressive traders getting caught off sides and being trapped.
+
+The other one is a little bit of a slower burn, where we actually try to build value outside the valley area, fail to continue going higher, break back within. We build a range below the value area high. We can take that trade back down towards the value area low.
+
+
+00:51:16.050 — 00:51:29.810 · Speaker 2
+This is my bread and butter setup when it comes to a balanced market. The failed auction I have both of these flavors if you want to call them that on my radar. Whichever one presents, I'm happy to pull the trigger on either one.
+
+
+00:51:29.850 — 00:52:10.990 · Speaker 1
+That makes sense in terms of, uh, of see here, the trap. And then just to confirm the the two sort of balanced price range here the mini ranges. Is that more. So first obviously we're getting a balance outside of the range above the binary high. We then break back below show value meaning you know the price is being accepted at that level.
+
+And then we want to see those sellers coming in either at the high or the low to then indicate, okay, the sellers are now taking back control. They brought the price back within the range. Um, so back within uh below the, the value area high. And then those sellers are beginning their regression and then taking us back to the very area low.
+
+
+00:52:11.030 — 00:53:01.200 · Speaker 2
+That's exactly right. That's exactly right. So in that second scenario, what buyers try to do was forcefully take control. And what happened is other, other time frame participants that are in opposition to this, that are not done doing business in this range, stepped in and said, you know what? We're not ready for that yet.
+
+Yep. We're not ready for that yet. We need another rotation back through the valley area. Okay, so what we have here is the cousin to the balance regime, right? The imbalance regime. Now this is the type of exciting market condition that everybody wants to trade. It's the one where NQ is going to run for 800 points today.
+
+Now we talked about that bell curve right where we're going to get trending markets only roughly 30% of of the time. Yeah. Now do you know how many trading days there are in an average trading month.
+
+
+00:53:01.400 — 00:53:07.880 · Speaker 1
+Probably a handful in terms of imbalanced or just in general or in general. Um, you know, like maybe 20 or less.
+
+
+00:53:07.920 — 00:53:36.820 · Speaker 2
+Yeah. It's like, uh, 21.75 or something like that on average. You know, it's a 2122 trading days. So what that means is that statistically, out of a whole trading month, you're going to have six ish days of of dramatic imbalance. Yeah. Yeah yeah. If that and those six days are not going to be you're probably not going to have a training day followed by three days of balance, training day, three, you know, and so on.
+
+Those training days typically cluster back to back.
+
+
+00:53:36.860 — 00:53:37.780 · Speaker 1
+Yeah. Yeah, exactly.
+
+
+00:53:37.820 — 00:53:43.540 · Speaker 2
+So you need to be ready for them now. Of course, the catch is we don't know when in the month we're going to get those six days rush.
+
+
+00:53:43.660 — 00:53:44.300 · Speaker 1
+I wish we did.
+
+
+00:53:44.460 — 00:53:54.260 · Speaker 2
+But there are clues. There are clues. And the clue here is really going to be in terms of what the market is doing relative to fair value.
+
+
+00:53:54.300 — 00:54:33.440 · Speaker 1
+Well off the back of that as well. So if we're talking on average six days in a year, you're talking on average like maybe 60 days or seven, 60 to 70 days, give or take, which then really highlights to you when you hear about the statistics of profitable traders, the majority of profits coming from this fewer number of trades is that probably why is that correlation there, do you think, in terms of because we see those bigger moves and the momentum moves happen so few and far between a large portion of people's PNL when it comes to those trades?
+
+That's probably why there's so few trades account for such large personnel, while the other ones will be your base hits or your bread and butter trades as you, as you mentioned earlier.
+
+
+00:54:33.480 — 00:55:17.919 · Speaker 2
+100%. Now, my favorite thing to do when we're in a balanced regime for like several days or weeks is I love to go on X, and I just love to see all the comments. Talking about how the price action in NQ is is like terrible and lame. And I'm never trading the New York session ever again. I say, oh, you mean the thing that happens 70% of the time?
+
+You just have to understand that there's a different way to play these different market states, and you want to put the probability on your side. So. So in this case this was our old balance regime from from the last diagram. And what we're seeing now is the market breaking out. You do not buy that initial breakout.
+
+You do not buy that. Why. Because that is just price breaking out. That's not value. This
+
+
+00:55:19.040 — 00:55:20.360 · Speaker 2
+is value. Yep.
+
+
+00:55:20.400 — 00:55:21.880 · Speaker 1
+Okay. That's value.
+
+
+00:55:22.120 — 00:55:58.899 · Speaker 2
+So I love this. This is what I lovingly call the micro range. You know. So. So the micro range is the range after the range. And it's my favorite way to filter breakouts. We saw a variation of this in the balanced regime when we had the failed auction. In an unbalanced regime, this works even better. So I don't buy the first breakout.
+
+I wait for a micro range to start to form. Yeah, again showing what? Proving acceptance. So we actually had this in the last diagram. The last time we were looking at the failed auction in the balance regime, we had this. The difference is that this time
+
+
+00:55:59.940 — 00:57:36.250 · Speaker 2
+we actually broke higher. Yeah, we broke higher. You can see down here we tried to break lower. We couldn't. And I have two ways to enter this trade as well. Plan A and plan B plan A getting me the best possible entry price is aggressive. Sellers trying to break down out of that micro range, resulting in what could be our failed auction setup if we were to do this break below, create value and then break down again.
+
+Except we don't do that. We aggressively sell off. But then we see buyers step in, absorb and we see the big green bubble start firing the other way. Yep. And when we reclaim the lower boundary line of that micro range, that's plenty. Yep. And you can safely place your stop below the aggressive buyers that are stepping in on your side.
+
+And obviously you would just flip this as a mirror image if you're looking to sell the market short instead. Plan B is if we see aggressive buying breaking out of the value area high. Now it's in this circumstance that the value area high of the micro range. It's in this circumstance that I trust the breakout.
+
+It's in this circumstance that statistically I want to take breakouts. Why? Because now I'm getting increasing evidence that we are in an imbalanced market state, which is where I want to see market expansion. I want to see trend continuation. Yeah. And now, Crucially, after we run higher, I want to see values start to build again.
+
+And now I have the same opportunity, the same type of setup. But there's going to be one difference. Okay. So we're going to take this and we're going to.
+
+
+00:57:39.450 — 00:59:04.830 · Speaker 2
+Have a little bit of a zoomed in diagram here. And if I have a volume profile and a trending day it's going to look like this. This is called a p shape profile. And here we're going to have the lower volume area of that p shape profile. Low volume areas are low volume. Nodes are air pockets. It's where there wasn't a lot of business that was done before.
+
+So we had one way traffic. It was just buyers all the way up. Sellers either were absent, they ran for the hills or they got annihilated. So it was mostly one way traffic. And so when the market builds in this range and then tries to push into that low volume area in an imbalanced market. Other time frame participants will see this as an unexpected discount and they will say, well, I wanted to buy and here, down here is even better.
+
+Yeah, and you're going to get a defense of that low volume node. Now, if the market slices through that low volume node and just reverses violently, what that tells you is that the other time frame participants are not present. They're not DTF. Again, the same idea I want to see trapped sellers, um, you know, red bubbles.
+
+I want to see those red bubbles come in on the way down. And then I want to see those bullish buy bubbles on the way up. And then my plan B is again seeing aggressive breakouts on the upside where I can trust the breakout.
+
+
+00:59:04.870 — 00:59:10.390 · Speaker 1
+Is there a case where you would take both of those baseline and then plan B presents you you enter again and compound.
+
+
+00:59:10.390 — 00:59:28.400 · Speaker 2
+Correct. So that's personally what I do. I like to split my risk. So I like to split my risk. So I, I it's not that I'm compounding. It's not that I'll increase my risk. But if I have X number of contracts or X number of dollars that I want to risk, I'm going to split my my risk between planning and plan B.
+
+
+00:59:28.440 — 00:59:39.000 · Speaker 1
+And this is a prime example of how I de one could be here. And then day two exactly. Maybe day three. Um, would it be the similar sort of process in terms of if it was to continue for another day, for example?
+
+
+00:59:39.040 — 01:01:23.400 · Speaker 2
+Precisely, yeah. So day three here we actually have, you know, so this is day three. This is now a very different type of auction in a balanced market. I want to see the market revert to where value is no. So I want to see us reverting from the value area low to the value very high to the value area low to the value area high.
+
+In an imbalanced market, however, I don't want to see previous value act as a magnet for price. You know, if this is the value area I want to see previous value be a trampoline, a launching pad. Okay, so what Imbalance the market is telling us, like here, is that we still want to do business in this range, but when we're in balance, we want to continue auctioning higher and higher and higher.
+
+So I don't want to see the market spend much time where we have previous value. So as we test previous value, it's the same thing. I want to see aggressive sellers thinking that they're able to take the market lower. Yeah they can't. They get trapped and we get aggressive buyers reclaiming the previous value area high.
+
+Now eventually we're going to run out of willing initiative buyers. And this is my final point here on these diagrams before we go to the charts. This is the key thing that holds auction market theory together from the retail traders perspective. And you want to always keep this in mind. If I am a huge institutional buyer and I want to start taking some profits, when do you think I want to start taking profits?
+
+Do I want to take profits when the market is pulling back? Or do I want to take profits as the market is absolutely ripping higher?
+
+
+01:01:23.640 — 01:01:25.160 · Speaker 1
+I'd say losses gripping higher.
+
+
+01:01:25.200 — 01:02:44.659 · Speaker 2
+So for every buyer, there needs to be a seller, which means for every seller there needs to be a buyer. So I want the blue circle. It goes full circle I need exit liquidity. If I'm an institution, I need other people to think the market's going to go up so that I can offload my absolute toxic inventory to them.
+
+So the suckers are going to be the people who see this as an initial pullback, and they're willing to keep buying it. But the institutional trader the other time frame participant sitting up here has passive limit orders absorbing aggressive market participants buying into there over and over and over again.
+
+So you see buyers trying to lift the offer higher and higher and higher. But more sellers just keep coming in and coming in and coming in creating an absolute wall, and eventually this buyer or collection of buyers, they get exhausted. Yeah. Now the institution is letting them think that they're having their way a little bit, because you want to give the retail traders false hope.
+
+You know, you want them to think that they still have a chance. You want them to hang in to the position. Why? Because the more they buy, the more you're actually able to sell at a good enough level. And when the last buyer gets exhausted, it opens up
+
+
+01:02:46.180 — 01:02:52.820 · Speaker 2
+the complete rotation. And that's when we get significant corrections, significant, significant reversals, etc., etc..
+
+
+01:02:52.860 — 01:04:00.510 · Speaker 1
+One interesting thing is that in terms of exit liquidity as a concept, you know, one thing people try and say is that, you know, as retail traders, never a match in terms of liquidity, you know, like having to have the same amount of sellers to buyers to have the transaction, you know, the amount that as retail traders amount for is nowhere near in comparison to, say, institutions.
+
+But is the reality actually that, you know, the misconception is that all institutions are aligned and all like the big players, all aligned. They all do the same move. They all follow each other. When in reality, you know, there might be some larger institutions who have a very large, you know, backing and they're ready to take profit.
+
+And there might be others who are still thinking, oh, we're going to push this higher. So then that that matching still takes place retail as part of it, but obviously it's still a kind of drop in the ocean in comparison. But there are still funds as there are still large institutions. Large may even be or maybe not a retail fund, but essentially a low level fund.
+
+Yep. That's right. We were still, you know, thinking price can go higher, maybe feeling that euphoria. So they're fueling that as well. So it's not a case where it's just retail. That's right. Who are the pigs if you will to slaughter. It's it's other you know institutions even you're.
+
+
+01:04:00.630 — 01:04:54.770 · Speaker 2
+You're completely correct. So there are a lot of momentum based trend following funds. Yeah. You know so as we talked about some of those there are typically called CTAs commodity trading advisors. The name's a little bit misleading. You know, like like a CTA. NQ is technically classified more as a as a commodity.
+
+It's not not a security. It's a future part of the futures market. So you'll have CTAs that that will momentum follow things like NQ and etc. etc.. So what you'll see is, is that those trend following algorithms are going to keep firing. And that's going to also be part of the exit liquidity. But if I'm like a bigger fund, you know like like one of those funds on that show billions.
+
+And I want to I want to really hammer the market and sucker them. I also have to accept that there's only so much inventory I'm going to be able to offload at the absolute top. Yeah, yeah. Until the game is up. You know, there's only so much that that that people are going to be willing to throw at the truth.
+
+
+01:04:54.810 — 01:05:47.550 · Speaker 1
+Well it's similar right. It's like as you were saying, as the full circle. You know, we started off with like a lot of the retail mindset. A lot of the mindset is I, you know, I'm buying and then it's going completely against me. Right. That's a prime example of that. Um, but to your point, just to try and see if I'm following along correctly.
+
+But let's say price does come down. You know they've managed to offload some. They come down and then it's the classic thing of okay. It might be a high high. It might be an equal high or close to it. But as we get back to this previous range and this sort of balanced price range here, or at least the value previously accepted price then sort of plays around a bit, entices more buyers, where then they, I imagine are offloading some more, offloading some more, and then it does it again.
+
+And by the time we get to the lows now, the you know, the retail is selling now at the lows, which then the rotation takes place once again.
+
+
+01:05:47.590 — 01:05:51.110 · Speaker 2
+Absolutely nailed it. That is completely bang on.
+
+
+01:05:51.350 — 01:06:13.520 · Speaker 1
+That was your teaching on. That's why you notice I didn't say too much this episode because I didn't need to. Um, which is just a testament to obviously, you know, the sort of masterclass you've and the journey you've taken us on when it comes to not only the auction market theory, but just being able to break down step by step from balance to imbalance, but equally then also where to enter, how to enter, which then of course we're going to see on the chart as well.
+
+
+01:06:13.560 — 01:07:54.060 · Speaker 2
+So the real question right there that I'm always asking myself is why would the market reverse from here? Like why is this the absolute bottom. And the answer to that I can start asking, well, you know, do we have previous value here. For instance, if there was a tremendous amount of buying here on this pullback, then then that very well could be a reason for us to stop, consolidate, build value, etc., etc., right.
+
+But again, what would I need to see as evidence that this is the bottom. Notice what you drew there. That's just a price spike. But but what if instead of a price spike we did something like this? Yes. And now we're back here. Now there's one of two things that's going to happen. We're either going to come back to this area and say, okay, we can still do business here.
+
+There's still enough buyers and sellers willing to facilitate two way trade, or we're going to come back here and say, nope, nope. Still two still to premium. Yeah, that's not fair value. You know. So so we don't have to try and guess too much. We want we really is possible to put a lot of evidence on our side before we start getting involved with the market.
+
+Yeah. So so when I'm looking for sharper pullbacks, longer time rotations, price based rotations, the question for me really comes down to where do we start seeing other time frame participant activity start to pick up again. Yeah. Because what does the other time frame participant want. If they unloaded all the way up here and it took them time to unload and they're taking profits.
+
+Are we
+
+
+01:07:55.100 — 01:09:52.380 · Speaker 2
+expecting a V-shaped recovery or are we expecting them to start accumulating a bigger position all over? Yeah, Probably the latter. And that's again where all comes full circle. We want to look at the fundamentals. If the fundamentals have changed up here dramatically. Um, you know let's say the cost for, for AI data centers is just gone through the roof for whatever.
+
+Right. And we see profit taking. Okay. Why would we expect a V-shape reversal if the cost of those data centers hasn't fundamentally changed? No. Like, it sounds super simple, but but these are the kinds of things that that I don't think most retail traders are fully thinking through. So if we do get an extended amount of what we can assume as institutional profit taking a distribution, a distribution top, and then we get rotation, where am I looking for that rotation?
+
+Come back to where institutions previously saw the market as being fair value and is being a prime target for a re accumulation period. Yeah. And then we have to of course see the follow through. We have to see that accumulation start taking place. So the idea that we're just going to get training day after training day after training day.
+
+We've been spoiled, frankly, for for a lot of like some periods of this year, especially where we had that insane run to to new all time highs as people were still worried about war headlines. You were spoiled. So what we're seeing now, as we're coming into towards the end of July 2026, very normal, very normal.
+
+And yet when I'm looking at the hysteria online, you know, people are saying this bull market is over. We're going to go into crushing economic recession, inflation spiraling out of control. My answer to that is that that is not what the data tells us yet. And you know what? If that is your view and you get proven right 4 or 5 months down the line, you know, well done.
+
+You I applaud you. I'll give you your flowers, but you're making a prediction based on, in my opinion, at least not the same information that I'm looking at. So.
+
+
+01:09:52.380 — 01:10:32.150 · Speaker 1
+So I'm no emotion, right? Or the thought of like, oh, we're too high, right? We can't we can't possibly keep going. Plus that, that whole notion of like, there should be a crash every 6 or 7 years. So then people just take these truths like these things that are spread around. On top of the fact that price surely cannot go higher.
+
+Right. I look at Sandy's like, surely you know when we hit $100 could never go. I remember every single time was like 500 is like, that's too high to buy next minute, you know, a month later, it's a thousand now that's too high to buy. Next minute is at 2000. Right. And this is that mindset of like it can't it can't go any more.
+
+It can't, it can't, it can't. But um, and that's the market can do what the market does.
+
+
+01:10:32.190 — 01:10:52.310 · Speaker 2
+But that's the exact beauty of a financial market. You know when we're talking about NQ bitcoin gold stocks whatever. It's that's in complete contrast to what I call an economic market. Getting example where you are do you buy eggs at the store. Yeah yeah. Time to time. What's a dozen eggs cost?
+
+
+01:10:52.350 — 01:11:00.050 · Speaker 1
+Roughly a dozen. Uh, probably nowadays I want to say like 7 pounds. They're probably like $11. Right? $12.
+
+
+01:11:00.090 — 01:13:05.600 · Speaker 2
+Right, right. Okay. Right. Now, now, if you came into the shop the next time and they're offering you that dozen eggs, I'm using the word offer. You know, they're offering you a dozen eggs for 300 pound. Would you buy them? Huh? Would you? Would you question, though? Like, oh, maybe there's an egg shortage.
+
+And if I buy these, these eggs for 300 pounds, I'll be able to sell them to my to my neighbor for a thousand, potentially. But but like generally with, with economic markets, things that we use every day, we have a very clear anchor in terms of what fair value is. The real answer is you would say, of course, I'm not going to buy your eggs for 300 pounds.
+
+I'm just going to wait till they go back to being 78 pounds. You know, I can accept that. But with with financial markets, what is fair value for a stock? What is fair value for Bitcoin? We have no frame of reference because it's not something that we touch and hold and use every day. Mhm. Right. So so we have no idea.
+
+So so if Bitcoin went from 65,000 to 80,000 tomorrow I guarantee you there would be a ton of people saying buy bitcoin, buy bitcoin, buy bitcoin because it's going to go to 300 K. We would never say that about eggs. We would never say that about produce or bread or or anything like that. Yeah. So the financial market has this emotional component built into it that triggers the worst out of us.
+
+But but you know, who's not thinking about the market emotionally and thinking, oh, if I don't buy here, I'm going to miss out on all that upside. It's the institutional players, right? They're acting far more rationally, and they're able to act rationally because they're pricing in information differently.
+
+You can see that same information that they're looking at. You have the ability to be more nimble as a retail trader than they do. We're not going to be able to express advantages that I would say are unique to retail, which is the ability to get in and out whenever we want. It's the ability, the fact that we're not forced to do monthly and quarterly rebalancing periods that these funds are forced to do.
+
+There's lots of advantages that retail have. But if you're not looking at the the field, the playing field the same way that the biggest players are, you're not going to be able to realize those advantages.
+
+
+01:13:05.640 — 01:14:39.380 · Speaker 1
+That's true. That's true. And it's so interesting how, you know, retail traders and the general narrative for no doubt, not even like recent years, it just seems that way because of social media. But I imagine, you know, decades ago there was still probably promotions of education of like, oh, learn how to trade like a banker or a Wall Street trader.
+
+Right. Not realizing that, yes, there's some pros there for sure, but not realizing the freedoms you get as a retail trader that probably makes it enjoyable to you. Um, and makes it almost a thrilling thing for you, which, whether that's good or not, I don't know. But, um, are the fact that you have those freedoms as a retail trader, but I think the balance of being more professional, or at least treating it as a professional while also enjoying the freedom you have as a retail trader.
+
+That combination is what leads to a good long term career Versus if you focus too much on, okay, you have all this freedom and you know, I'm going to trade, I want to trade like an institution, etc. but really you're not thinking in the right way leads to inconsistency. Most of the time, or at least a short term mindset and or results versus if you're just too focused on trying to trade like an institution and so on, without understanding that those freedoms you have, you probably still are not going to really perform as well.
+
+That that combination of both is really good. And really, as you said, the framework of what we've gone over today, you know, from the offset. Um, but again, you know, now we're going to go into the, the chart side of things and I'll see some actual examples on the charts. You know, we're going to use deep charts, see the order flow, I see the candles as well and see the examples.
+
+Right.
+
+
+01:14:39.420 — 01:15:44.520 · Speaker 2
+Exactly, exactly. And we're going to see many different ways to, to express that those, those ideas as well. Um, you know, I'm a big fan of options. I'd say, you know, 95% of the trades that I take are all options based. And there are so many ways to to express an idea whether you want to use, uh, futures, whether you want to buy the underlying shares of a company, whether you want to sell options, whether you want to buy options.
+
+There's so many ways to decide how you want to make money from a trade and how you want to lose money from a trade. I think futures have a huge place in any trader's arsenal or toolbox, or buying the underlying, as I would call it, buying the spot market. If we're talking like forex options are like a whole different universe because you can literally bend the curve, you can decide under what conditions you're going to make money and not make money.
+
+So I think you have so much more control over your trades when you're using options versus when you're not. So. So maybe that might be something. I'm not going to go into super in-depth detail on when we're looking at the chart examples, but we'll see if there aren't any future.
+
+
+01:15:44.560 — 01:17:48.470 · Speaker 1
+A future masterclass. Yeah, yeah, yeah. In terms of the options, uh, deep dive, but it is very true in terms of, uh, the more I've interviewed and spoken to to options traders, especially the sort of market makers and people who have really on a more institutional, professional level, they really opened my eyes to the level and depth of what options brings to the table and the expansion of the port side of things, and how that completely shifted the markets.
+
+I think it's got an interesting time ahead in terms of single stock futures, obviously not in comparison to options, but more so just something new again. Um, that could really shift things and change things. I'm sure, though, it'll be interesting to see how they launch and what the liquidity is like.
+
+But my prediction would be that, you know, a lot of people are going to be chasing volatility. Um, so going from, say, trading NQ, which might be sort of ranging, they're going to go and think, oh, if I trade directly on Tesla or whatever it may be, I'm going to get more volatility. Opportunity, which isn't always the best, isn't always the best depending on how they can handle and what their system is.
+
+But it'll be interesting to see. Yeah for sure I agree. Well there you have it guys. What an absolutely incredible episode, super in-depth. This is what you've been asking for, and I think probably one of the most step by step processes in the sense of simplifying complex subjects, but in a way that then makes it easy to understand and actually something that can be actionable for you regardless of your strategy.
+
+So even if you're not trading order flow to Emory's point earlier, just the concept of balance and imbalance alone can really help you and be just an added layer to what you're doing already. Now drop a comment of your biggest takeaway from this episode, any questions you might have, throw them in the chat there because we'll be taking a look.
+
+Links for as well are in the description below. Make sure you go show some love. We're trying to help him not only on X, but also maybe branch into Instagram and some other platforms as well, because a wealth of knowledge and we need more real people in the space. And the only way we can do that is by supporting those real people.
+
+So go show him some love for sure. Hit like. Hit. Subscribe. Other episodes are on screen right now and this has been cha for nice take.
+

@@ -1,0 +1,634 @@
+RazvanStratBreakdown.txt
+English (US)
+
+00:00:00.000 — 00:01:01.670 · Speaker 1
+What's up everyone? Welcome back to the prop from Trader Podcast, the number one podcast in the world for funded traders. We're back with your favorite types of episodes the strategy breakdown. And today, we're pulling back the curtains on a strategy that allowed this trader to take home $158,000 in just two weeks of trading.
+
+We're in for a very interesting ride today, and I'm super interested to see what goes on behind the scenes. Without any further ado, it is my pleasure to introduce Raven. All right. Thanks for having me. I'm good. Appreciate you. I'm very good. Thank you. Um, I'm going to hand over the reins to you today, okay?
+
+I always like to say when we do these types of shoots, uh, treat me as basically a new trader, a beginner. Um, and I want you to basically teach me exactly what you're looking for on the charts. Uh, so tell me, where's the best place to start with this? Is there a specific routine that you start your day with, or is it just wake up and kind of straight onto the charts when New York opens.
+
+So there's no specific.
+
+
+00:01:01.670 — 00:01:31.070 · Speaker 2
+Routine, really. I just try to get on the charts. Um, at least one hour, uh, before the New York session opens. Okay. That gives me some time to to analyze what has happened, uh, during the Asian and, uh, and the London, the London session. That that gives me the context for the day. Okay. Um, so, yeah, there's no particular, uh, routine.
+
+There's no, uh, meditation involved. It's just me and the charts.
+
+
+00:01:31.070 — 00:01:38.310 · Speaker 1
+Really cool. And so from what I understand from our conversation so far, you are a scalper. You're trading a one minute shot, primarily.
+
+
+00:01:38.350 — 00:02:04.460 · Speaker 2
+Um, I do trader one minute, but I'm trying to to get, uh, the entire move of the day. That's, uh, that's the idea. I don't necessarily consider it scalping. Uh, if, uh, you know, with a trade, uh, since I trade CFDs, you know, I can hold trades overnight. So if a trade, uh, continues to go in my direction onto further targets.
+
+Even after market close. I'll keep it open.
+
+
+00:02:04.460 — 00:02:24.540 · Speaker 1
+Most likely. Nice. Sounds good. Okay, so how does this begin for you then? Let's maybe start with that one. Our pre New-York open. And you said you're looking at the London and Asian market to give you the context for the day. Yes. Talk us through that context and if possible, if you can draw something out to give us a visual of what that looks like to help, maybe formulate a bias.
+
+
+00:02:24.580 — 00:03:22.410 · Speaker 2
+Okay, so I've tried to simplify my my strategy as much as possible. So all I do right now is uh, all trading really is about that. At least my trading is waiting for price to reach a certain key level. Okay. Assess that reaction to the key level. Do we displace through it? Do we give early signs of reversal. Do we consolidate?
+
+Uh, and then after I read that reaction, um, I look at do we have enough risk to reward ratio for me to be involved. It's as simple as that. Okay. So the the key levels that I generally look at uh, so I'll be looking at um, previous monthly high and low. Okay. Previous week. There's a few, uh, key levels. Previous week high and low.
+
+Um, previous day high
+
+
+00:03:23.730 — 00:03:26.810 · Speaker 2
+and low. And then the session.
+
+
+00:03:30.850 — 00:03:55.050 · Speaker 2
+That's in high and lows. Okay. Um, I recently started incorporating the volume profile, um, into my trading. Uh, so another two key levels I'll be looking at is value area high and value area low. Okay. So, um, I'll show you, let's say a simple example. Let's say this is
+
+
+00:03:56.170 — 00:03:57.210 · Speaker 2
+previous day high.
+
+
+00:04:00.280 — 00:04:17.200 · Speaker 2
+This would be the Azure session. This would be the London session. So as you can see price taps into previous day high. Um
+
+
+00:04:18.239 — 00:05:14.510 · Speaker 2
+now at this point I just stop and assess what reaction do we have at that previous day high. Do we display through it. So that means do we form inefficiency. So fair value gaps through it. Uh, do we invert those fair value gaps or do we just start to consolidate. Do we give early signs of reversal. Um, so some of my favorite trades are waiting for price to reach areas where multiple key levels overlap.
+
+Okay. So let's say if this was the range that I'm looking at, Um. Uh, I'll. I'll think of this as value area. Hi. I can't really reach that. And then let's say we've got the PLC here and the value area low.
+
+
+00:05:16.790 — 00:05:19.829 · Speaker 2
+So if price taps into PD
+
+
+00:05:21.070 — 00:06:08.500 · Speaker 2
+and around value area high, it shows signs of reversals. Those are my favorite trades. Price is most likely going to form a fair value gap through one of the key levels or both. And my favorite trades are reversals. That's because it gives me more more clear targets. Okay. And typically a bigger risk to reward ratio.
+
+So at this point all I'm waiting for is we could have, you know, further Consolidation, and at some point we we might invert this fair value gap. So it might not be very clear if this is the gap and we invert all that.
+
+
+00:06:10.300 — 00:06:13.059 · Speaker 2
+All I'm waiting for right now is
+
+
+00:06:14.540 — 00:06:28.859 · Speaker 2
+a retest of this inversion. And then it could be an engulfing candle as simple as that. As soon as we engulf this retracement I will enter with stops either here or
+
+
+00:06:30.100 — 00:06:39.380 · Speaker 2
+above the high depending on on my risk to reward ratio. Okay. And this is where the reversal happens. And these are my favorite kind of trades.
+
+
+00:06:39.460 — 00:06:58.730 · Speaker 1
+Interesting. So let me summarize what I've taken away from this so far. You're basically looking for these specific key levels. So previous month week day session. And then value area high and low. You're plotting those on your chart. And ideally you're looking for overlaps in some of these key levels.
+
+
+00:06:58.770 — 00:06:59.650 · Speaker 2
+Yes, ideally.
+
+
+00:06:59.650 — 00:07:09.010 · Speaker 1
+And then you're going on and having and basically observing how price reacts to these areas, looking for either continuations or reversals.
+
+
+00:07:09.050 — 00:07:22.850 · Speaker 2
+Yes. Continuations are much, much harder because normally you will not um, normally you don't get the same, uh, risk to reward ratio and stop loss placement is, uh, typically harder.
+
+
+00:07:22.890 — 00:07:29.450 · Speaker 1
+Okay. And so do you find that most of your trades are typically reversals and you maybe pass on continuation trades?
+
+
+00:07:30.250 — 00:07:32.770 · Speaker 2
+Yes, I do prefer reversals much, much more.
+
+
+00:07:32.810 — 00:07:40.090 · Speaker 1
+Got you. And what sort of time frame is this all happening on that you're observing it. This is the one minute chart or is this higher or.
+
+
+00:07:40.170 — 00:08:30.320 · Speaker 2
+I have multiple time frames that I'm looking at. Okay. Of course I do. I do my top down analysis. I you know, in the beginning of the week, I, um, I try to form scenarios of where the weekly counter might form. Uh, I don't really look at the monthly candle. I think that's a bit to us day traders, you know. It, uh, it, uh, it's a bit too much of too much data and it's not always necessary.
+
+Uh, so, uh, yeah, I look mainly at, uh, at the one I mean, my execution is on the one minute, but I look at all time frames. Okay. I look at the five, the 15, the the 30, the the one hour, the, uh, the six hour event. Because my sessions, uh, I divide my day into four sessions, six hours each. Um, so one six hour candle will be one, um, one session.
+
+Okay.
+
+
+00:08:30.360 — 00:08:47.520 · Speaker 1
+So. And when you say you're looking for a rejection, does this depend on, like a specific time frame needing to reject, like, for example, seeing a one minute rejection from one of these areas versus a one hour candle rejection, like, which are you going to put more emphasis on?
+
+
+00:08:47.520 — 00:09:19.390 · Speaker 2
+Well, clearly the the one hour, it holds a lot more weight. Uh, there's a lot more price action into it, but those lower timeframes will typically give you the higher risk reward ratio. Right. Right. So, uh, I do keep in mind the what one hour is doing what the 15 minutes is doing. But uh, typically like in this example, uh, for instance, I'll be looking at perhaps a five minute inversion and then a retest and engulfing on the one minute, if that makes sense.
+
+
+00:09:19.430 — 00:09:34.950 · Speaker 1
+Got you. And, um, when you're watching these specific zones for a reaction, is it a case of you're starting off on the one minute chart, and if you don't see anything clean, then maybe you'll go up to a five minute chart and then watch the hourly reaction. Is that how it works or.
+
+
+00:09:35.430 — 00:10:20.300 · Speaker 2
+Uh, so since I primarily trade the the Nasdaq at New York Open, there's a lot of volume. Okay. So, uh, a five minute inversion for me, for me is great. One minute, you know, it. It can happen if you if you have so many confluences telling you, telling you the same thing, All pointing into one direction. Uh, it might be worth putting some risk on the table.
+
+Perhaps not going full risk. You can, you know, put half the risk and maybe aim for, uh, for a more defined, more clear target. Okay. Rather than, you know, letting trades run. Yeah. Uh, but those are lower probabilities, as we all know. So a five minute inversion at New York open. Uh, that's great for me.
+
+
+00:10:20.340 — 00:10:31.700 · Speaker 1
+Okay. Um, could you possibly map out exactly what all these things look like? So you've mentioned fair value gaps. You mentioned inversions. And there was one other I think, that you said.
+
+
+00:10:31.820 — 00:10:46.580 · Speaker 2
+So I do look at all the blocks as well. Okay. Um, I look at the only, the higher time frame or the blocks and, uh, really clear, um, areas of, uh, supply and demand. Okay. Which is what the other blocks are.
+
+
+00:10:46.620 — 00:10:53.720 · Speaker 1
+Yeah, yeah. So would it be possible to maybe map out what those offer or somebody that didn't understand what a fair value gap is or an order block.
+
+
+00:10:53.760 — 00:11:21.760 · Speaker 2
+Yeah, sure. So the way I look at, um, at, uh, at an order block, for instance, uh, an order block just tells me that, uh, there's a lot of participation in the market. There's a lot of directional move. Let's say that's where that's where the move starts. Mhm. Um, a fair value gap. I just look at it as of course an area of, of inefficiency.
+
+Uh, but it's more about the displacement that it tells me.
+
+
+00:11:21.800 — 00:11:27.000 · Speaker 1
+And by displacement you mean how it moves through or like the speed or aggressiveness.
+
+
+00:11:27.040 — 00:11:30.840 · Speaker 2
+Yes. So the aggressiveness of a move away from a level. Okay.
+
+
+00:11:30.880 — 00:11:35.400 · Speaker 1
+And again, is that on a particular time frame or it varies.
+
+
+00:11:35.440 — 00:11:45.280 · Speaker 2
+It depends on what the plan of the day is. It depends at what key level we are. Uh, I would say that of course, previous week high holds more weight than, uh,
+
+
+00:11:46.360 — 00:11:50.080 · Speaker 2
+than a session high. Okay. Um, so, uh, so it really depends.
+
+
+00:11:50.120 — 00:12:00.670 · Speaker 1
+Okay. Got you. And, um, you mentioned. So then when once you've got the reaction, you're then waiting for, uh, kind of some sort of retracement to take your entry. Is that right?
+
+
+00:12:00.710 — 00:12:34.350 · Speaker 2
+Yes. And I, um, I determine this, uh, this the the response that the market gives me with certain footprints, which I use. So, uh, like I was saying, uh, an inverted value, since we're talking about reversals, an inverted value gap, um, perhaps a breaker block. Uh, uh, which is, uh, an inversion of a of a of an order block.
+
+Uh, in simple words. Um, and what I've recently started doing as well is incorporating the the CVD. Uh.
+
+
+00:12:34.750 — 00:12:36.110 · Speaker 1
+What is the CVD?
+
+
+00:12:36.190 — 00:12:56.180 · Speaker 2
+It stands for cumulative volume delta. And, um, it just tells me the the strength behind a move. It tells me if a move, uh, is actually sustained by either buyers or sellers. And I only use this at key levels, okay. Because it's it's at key levels that the price kind of has to show its hand. Mhm.
+
+
+00:12:56.300 — 00:13:09.220 · Speaker 1
+Mhm. Got you. Um so could we maybe map out like for example let's say the inversion uh fair value gap entry. I think you said it was. Yeah. What would that look like in terms of candlesticks. Like if you had to to print that out.
+
+
+00:13:09.220 — 00:13:21.020 · Speaker 2
+So if we want to kind of zoom in, uh, let's say into what happened over here. Mhm. Uh, this was previously high or really any important key level
+
+
+00:13:22.620 — 00:13:38.540 · Speaker 2
+as price, um, drives into this key level. How is it doing it. Say we've got a first candle that we've got a big a bigger displacement candle.
+
+
+00:13:42.620 — 00:14:19.809 · Speaker 2
+And another one here. So right now we have formed A fair value gap through a key level. Okay. So this shows me that price at this particular point in time is bullish. There's no signs of, uh, of a reversal. It just tells me that the price may continue if we get this kind of candle at a key level, inverting a five minute fair value gap.
+
+So all this move right here
+
+
+00:14:20.810 — 00:14:47.850 · Speaker 2
+gets instantly denied in my eyes. Okay, so at this point, um, sellers are clearly in in control. Yeah. So what I'm trying to assess, I try not to answer immediately at the at the fair value gap. Um, at the other inversion of the fair value gap, I try to see if we can close below this level as well. Okay. If we haven't in this example.
+
+
+00:14:50.360 — 00:15:01.080 · Speaker 2
+I would wait for the next candle. Okay. If the next candle kind of, you know, does this and it closes below. This would be my entry.
+
+
+00:15:03.040 — 00:15:05.520 · Speaker 1
+And so you would take that as a market order.
+
+
+00:15:05.800 — 00:15:14.080 · Speaker 2
+Mark it all with always market execution. Okay. Gotcha. I like to to to do that and, uh, be on the charts all the time. Okay.
+
+
+00:15:14.120 — 00:15:18.960 · Speaker 1
+Got you. And then in this specific scenario, where would you stop loss be placed.
+
+
+00:15:19.000 — 00:15:24.040 · Speaker 2
+In this specific scenario? If if this is the five minutes, it'll be just at the body candle.
+
+
+00:15:24.120 — 00:15:30.200 · Speaker 1
+Oh okay. Of the one behind the inverted fair value gap. Yes.
+
+
+00:15:30.240 — 00:15:36.000 · Speaker 2
+Of the of the of the the body candle of the candle that, um, inverted all this up. Move.
+
+
+00:15:36.040 — 00:15:36.760 · Speaker 1
+Okay.
+
+
+00:15:38.600 — 00:15:43.840 · Speaker 1
+If you could plot out, like, um, specific areas on the chart where you would look to exit, for example.
+
+
+00:15:44.120 — 00:15:50.270 · Speaker 2
+Okay. Yeah. We can. All right. So if we were to to start again and, uh,
+
+
+00:15:51.430 — 00:15:54.510 · Speaker 2
+look at the, the risk management of the trade.
+
+
+00:15:56.070 — 00:15:58.630 · Speaker 2
+Right. So if that's the entry, um,
+
+
+00:15:59.830 — 00:16:16.430 · Speaker 2
+this this would be the targets most likely on this, on this up move. We've got, we've got some sort of range and some sort of lows that have not been, uh, taken yet. Okay. So if this is the range,
+
+
+00:16:18.030 — 00:17:20.780 · Speaker 2
+this is our key level and this is our entry here, we most likely have in a, an an order block here. We have perhaps some some higher time frame fair value gaps. Okay. Over here that price may tap into. So we can we could target those. Uh, but what I, what I like to target is the session highs and lows. So let's say if this is the the low form during London.
+
+So London lows, this would be my most logical and immediate target. Okay. Okay. So my full CP will most probably be here. Um, what I like to do once, once we once I reach my target, I like to go back onto the one minute and trail, uh, my stop loss on top of the most recent one minute candle. Okay. Trying to squeeze as much as possible from that move.
+
+
+00:17:21.300 — 00:17:25.780 · Speaker 1
+So in this example, this would be the entry point here kind of what we're seeing here.
+
+
+00:17:25.819 — 00:17:26.220 · Speaker 2
+Yes that's.
+
+
+00:17:26.220 — 00:17:40.620 · Speaker 1
+Correct. And then you're targeting the London lows in this case example here. In this case here. Right. So over here. And then once it gets to these London lows you're moving your stop loss down to the last one minute candle that's been trailing to see how much you can get out of it.
+
+
+00:17:40.660 — 00:17:58.210 · Speaker 2
+Yes that's correct. Sometimes, uh, you know, you might you might get wigged out above your target and that's fine. But over the long term, I found that, um, you'll end up squeezing. Squeezing more from that move. Uh, if you if you have this approach.
+
+
+00:17:58.250 — 00:18:03.210 · Speaker 1
+And if it was to continue on lower, are you then trailing it just behind every one minute candle.
+
+
+00:18:03.250 — 00:18:15.410 · Speaker 2
+Yes. That's correct. Okay. And sometimes, you know, on those big expansive days, it can really make up for the PNL of the entire week. Mhm. Just this simple risk management rule.
+
+
+00:18:15.450 — 00:18:25.050 · Speaker 1
+Nice. Yeah. Okay, I like that. And how much are you like, uh, risking on these trades in terms of using a percentage of your account balance or how does that work.
+
+
+00:18:25.170 — 00:18:46.480 · Speaker 2
+So typically I, it's 0.5 to 1% per trade. Okay. Uh, something like this, however, uh, especially when we've got key levels that are close to each other. Um, I would consider higher probability. Okay. So I would not be afraid of, uh, of risking 1%. Okay.
+
+
+00:18:46.520 — 00:18:56.720 · Speaker 1
+So there's I remember you described on the podcast that there is an element of discretion to your approach, and that also applies with the risk management in terms of how confident you feel in the setup.
+
+
+00:18:56.760 — 00:19:16.280 · Speaker 2
+Absolutely. Yeah. You know, when when you spend some some many hours on the charts, you you start to understand certain patterns that repeat. Uh, and if you stack up so many confluences pointing to one direction, I think it'd be foolish not to try to take advantage and capitalize on it.
+
+
+00:19:16.320 — 00:19:45.230 · Speaker 1
+Fair enough. Fair enough. Um, okay. Perfect. I think that has covered the bulk of what we wanted to know. So we've obviously got the key levels. We've understood the context of how prices potentially going to react to these levels. We've covered the entry, um, the stop loss placement and the potential targets, how you'll manage those along the way and how much risk is behind every trade.
+
+Does that sound like a complete picture of what you're looking for.
+
+
+00:19:45.590 — 00:19:47.790 · Speaker 2
+Yes. That's a that's that's a big picture. Yeah.
+
+
+00:19:47.830 — 00:20:28.030 · Speaker 1
+Yeah. Okay. Perfect. Um, it would be great, I think, to jump on to some actual charts and basically see this theory in action, because I think from what we discussed, this is basically a very similar structural approach to how you place the trade in. Was it gold that made you the the record payout? Yes. Okay.
+
+Yeah. Perfect. That would be great. So let's, uh, let's jump onto some shots. Let's do it. We'll have a look. All right. Awesome. Okay, so we are back on the charts. Uh, we're starting off where we are. Five minute chart on Nasdaq. Um, talk me through this. This was. Looks like a profitable example. Yes. Okay.
+
+You, uh, take me through this step by step.
+
+
+00:20:28.790 — 00:20:57.300 · Speaker 2
+Right. So, um, in this case, I was looking at price to reach previous day high, which is this high right here. Um, once we reach that level, how does price respond to it? Another thing to be, to be aware of was the fact that we had a one hour order block in here. Okay. So, you know, clearly outline over here. And we also had value area high right above.
+
+
+00:20:58.580 — 00:21:34.100 · Speaker 2
+Price doesn't necessarily have to tap into value area high in order to give me to give me an entry. Of course it's more confirmation. But that's where that's where that discretion comes in. Mhm. Um so the immediate reaction we tap into the one hour or the block we take out previous day high. Then what do we do.
+
+We inverts it. A five minutes fair value gap. Like I said on the previous entry on the on the whiteboard. Yep. My entry was not at the inversion.
+
+
+00:21:35.420 — 00:23:31.120 · Speaker 2
+And it's also due to the fact that this inversion is not it's not the cleanest. It doesn't, uh, really expand through to the level as I would like it to. Okay. So I'll be waiting for for the next candle. If the next candle does what this particular candidate and all this bear in mind is happening during the New York Am session.
+
+So as soon as we open the market, uh, you know, uh, 15 minutes in, 15 minutes in, we tap into previous AI and the one hour or the block, we immediately start showing bearish footprints. Mhm. Uh, so right now it's just a matter of looking at the entry. The entry. Like I was like I was saying earlier would be a confirmation of, of the inversion.
+
+So would be the next candle. Another thing that I liked was the way price was moving into this higher timeframe level. Okay. So there's no there's no clear displacement all throughout this area. Right? There's no there's some family gaps in there of course. But I this is happening. First of all this is happening during during the London session, um, um, and during the pre-market.
+
+So I wouldn't really I wouldn't really have answered. And especially since I have already formulated an idea and predetermined some, some key levels. I would I would not be looking at, you know what, at this five minute inversion, for example. Okay, I was waiting for price to tap into previous day high at least.
+
+Okay. Ideally into the one hour or the block as well. Yeah. So as soon as we have our entry what do we target? The most logical target in this case was
+
+
+00:23:32.800 — 00:23:33.520 · Speaker 2
+Asia Low.
+
+
+00:23:33.840 — 00:23:34.440 · Speaker 1
+Yeah.
+
+
+00:23:35.160 — 00:23:37.160 · Speaker 2
+Let me just type that. So it's very clear.
+
+
+00:23:42.510 — 00:23:45.830 · Speaker 2
+As Azure low. Around Azure low I started.
+
+
+00:23:48.070 — 00:24:11.790 · Speaker 2
+Trailing my stop loss on on the top of every bearish one minute candle. And typically at this particular trade I would have I would have held it a bit longer. But it just so happened that that at Azure Low I reached my targets for the day. So I didn't feel there's any need to, to have, uh, exposure to the market at the time.
+
+
+00:24:11.830 — 00:24:16.750 · Speaker 1
+And what is your target for the day? Is it like a monetary or how does that work?
+
+
+00:24:16.870 — 00:24:28.310 · Speaker 2
+So in this particular trade, uh, I got, uh, I got funded. Uh, so it was, uh, it was a futures account that I was, uh, that I was looking to get some funding on. Okay. And this one hit my target.
+
+
+00:24:28.350 — 00:24:41.860 · Speaker 1
+Nice. Okay. Sounds good. Yeah, that looks like a really, like, for, like, example of what? Basically what we saw on the whiteboard, which is good. Really nice and clean and simple. Perfect. Um, I think you mentioned you had a couple of other examples to take us through. Right.
+
+
+00:24:41.900 — 00:25:37.140 · Speaker 2
+Got another one on Nasdaq. So I think this is a that I think for this one we might have to go up in time frame. Right. So we're looking at uh the the new week opening up uh strategy. So for, for those that don't know, um, the new week opening up is acts as a, as a strong magnet for price. Okay. Uh, so what price tends to do is go into these levels, and then that's where once again, you start assessing the reaction to that key level.
+
+So I was treating this as a key level for the week. Okay. Um this particular trade I, I really had high conviction on it. Um, so it took me it took me more entries before it actually reached my target. Okay. So.
+
+
+00:25:39.210 — 00:26:01.970 · Speaker 2
+This is this is that point. This is. These are those kind of entries where I don't necessarily wait for everything to align. I just wait for market to, to reach that level and then give me some sort of bullish reaction, some sort of bullish footprints. In this instance, I think we might have to go on the on the one minute it'll be more clear.
+
+
+00:26:04.130 — 00:26:43.680 · Speaker 2
+And once again you do this with with some context in mind for this particular week I was I was bullish. There was some I believe it was this level that I wanted previous week. I see I've got the alarm over that. It was that level that I was waiting, um, I was waiting to be hit. So as soon as we hit this area and we know that this is the new week opening up, which acts as a as a strong magnet for the price, was the initial reaction.
+
+We clearly have a reaction over here on this big candle. Yeah. Then another one. The,
+
+
+00:26:45.120 — 00:27:47.109 · Speaker 2
+uh. So I've answered. I've answered around here with stoploss at the low. I usually my stoploss is usually at a bit smaller, especially when trading trading the Nasdaq. And I want it to be a bit since this is an aggressive entry. Um, my, um, risk management has to be aggressive as well. So I try to, to go break even.
+
+That's another thing about my trading. I try to go breakeven as soon as possible and try to protect capital as quickly as I can, as quickly as the market allows me to. Um, so as soon as we tapped into this level and this order block, really I went breakeven. In this case, price wasn't ready to move up yet, so I just waited.
+
+Almost immediately after a couple of minutes after, it gives me this candle. So there's new structure to look at As soon as we, um. We formed some, some more bullish, uh, movements. Um, and we have
+
+
+00:27:48.270 — 00:27:58.949 · Speaker 2
+basically invalidated this little order block right here. Mhm. This is where I enter again because once again the entry the
+
+
+00:28:00.390 — 00:28:02.550 · Speaker 2
+the idea is still is still valid.
+
+
+00:28:02.590 — 00:28:03.230 · Speaker 1
+Okay.
+
+
+00:28:03.750 — 00:28:17.830 · Speaker 2
+So in this particular case I immediately had to, you know, to go through some uh some deep drawdown. Luckily it went up and it gave me the chance to go break even once again at this structure, at this high.
+
+
+00:28:19.590 — 00:28:28.830 · Speaker 2
+But then once again, it took me out at breakeven. I was aiming for a higher R in this in this case, so I.
+
+
+00:28:29.830 — 00:28:40.220 · Speaker 1
+So can I just clarify if you scroll back a little bit there, so where you went to break even after it tapped that high Would that normally be an exit point like a take profit?
+
+
+00:28:40.260 — 00:28:46.860 · Speaker 2
+No. So I don't take partials. I don't believe in partials. I believe they just damage your overall PNL.
+
+
+00:28:46.900 — 00:28:52.740 · Speaker 1
+But would that not be like a potential target of a. I don't know if it's like a session high or low or anything like that.
+
+
+00:28:52.780 — 00:30:14.890 · Speaker 2
+Yeah, well, you could be, you know, obviously you could be taking targets here. If you're happy with 1 or 1 points, you are whatever that is. Okay. I was I was bullish for the week. So I was targeting a much, much higher. And um, and I'm happy with, you know, accepting two break evens. Break evens are fine. I love break even trades.
+
+I don't lose any money. Um, and like I said, I was bullish for the week, so I gave the price more time. I wanted it to allow to, to develop. So my, my next trend, my next entry happened right here. And because the price, you know, didn't necessarily scream bullish yet in all this move now have to bear in mind that's like, uh, uh, 1 or 2 hours of price action.
+
+So it's in the bigger picture. It's not that much, especially since it's at in the New York PM session. So it's, uh, later on during the New York session. Gotcha. I was waiting for a little more. I was waiting for, uh, I believe this was an entry on the on the five minute. But then again, when I trade, I go through all time frames.
+
+I, I constantly move between the one, the two, the three, the four and the five. Okay. We you know, obviously the higher the higher you go on the time frame, the more weight, the more weight it holds, right? Um,
+
+
+00:30:15.930 — 00:30:25.090 · Speaker 2
+so we can see that we had a little consolidation right here. And as soon as we closed above this high.
+
+
+00:30:27.410 — 00:30:50.590 · Speaker 2
+Right here I look at body handles more than weeks. Um, as soon as we closed above that high, that was. That was my. That was my entry. I, um, at the time, I did promise that would be the last entry, because I really wanted to give this this trade a chance. Uh, I wanted to capitalize on the whole move for the week.
+
+Yeah. Um, luckily, he went, uh, he went in my favor.
+
+
+00:30:52.070 — 00:31:01.790 · Speaker 2
+He didn't, uh, reach exactly what I wanted, but, uh, my, uh, my stop loss, my trailing stop loss got hit at around, uh.
+
+
+00:31:05.230 — 00:31:11.870 · Speaker 2
+Four r on that particular trade. So this just goes to say that, you know, trading is not, uh,
+
+
+00:31:13.070 — 00:31:14.910 · Speaker 2
+is not an exact science.
+
+
+00:31:15.310 — 00:31:17.030 · Speaker 1
+So more of an OT.
+
+
+00:31:17.710 — 00:31:26.270 · Speaker 2
+Yeah. That this is where that's why discretionary trading is I think will always beat mechanical entries. Mechanical strategies.
+
+
+00:31:27.710 — 00:31:34.820 · Speaker 2
+Uh, so yeah, took, uh, two break events and a four are right right after this.
+
+
+00:31:34.820 — 00:31:56.780 · Speaker 1
+Do you find the moments like this are also a little bit of a test of your psychology as well? Because there are some people that may experience the break even trade and be frustrated. Mhm. Um, but you've obviously had to do that reset midway through the session to be able to focus on okay, there might be another potential opportunity that I need to take advantage of.
+
+And you need to be kind of clearheaded to take advantage of that.
+
+
+00:31:56.980 — 00:32:10.420 · Speaker 2
+Well, yes. Just to be clear, this this could have gone either way. Right. This could have just turned out to be to be, you know, a bearish move. And perhaps we were targeting, you know, the
+
+
+00:32:11.660 — 00:32:34.330 · Speaker 2
+previous week low. Um, but then again once I build, once I build an idea, I try to I do try to be to be flexible. But you see entries like this, especially with the new week opening up, you don't always get a new week opening up you, or at least not a new week opening up of this size.
+
+
+00:32:34.370 — 00:32:35.010 · Speaker 1
+Okay.
+
+
+00:32:35.610 — 00:32:58.210 · Speaker 2
+So what happens when you get this kind of big opening ups? Price does retrace into it. It sometimes retraces pretty deeply into it, like in this in this case. And even though, you know, we closed below it, this is the five minute. And if you if I switch to the one hour, this is just a week. Yeah, yeah.
+
+
+00:32:59.330 — 00:33:28.330 · Speaker 2
+Then again, I think at the time I uh, I did look at the, at the closure on that hour because I had to write as the opening of the next candle and, you know, the price didn't displace. And many times failure of displacement tells you as much as displacement itself. So if you apply, if the price fails to go through a level, what is it most likely to do?
+
+Either consolidate or go in the opposite direction.
+
+
+00:33:29.850 — 00:33:31.970 · Speaker 1
+Nice. Yeah, it's a great example.
+
+
+00:33:32.000 — 00:33:35.040 · Speaker 2
+So I have, um, also an, uh,
+
+
+00:33:36.280 — 00:33:38.360 · Speaker 2
+an immediate loss. Okay.
+
+
+00:33:38.560 — 00:33:45.360 · Speaker 1
+Uh, these are always good to see. I think it's always good to keep people's, uh, perspective on the fact that it's always a game of probability. Right.
+
+
+00:33:45.400 — 00:33:58.720 · Speaker 2
+Of course, this also, you know, goes to say that the the strategy, no strategy is ever perfect, of course. So this was a trade on gold. Um, I was looking for this, uh, higher time frame level.
+
+
+00:34:01.680 — 00:34:12.520 · Speaker 2
+For a long time. Okay. I was looking for this particular hit to be for the for this particular week. To be hit for a long time. Okay. Uh, and I, uh, I got pretty excited once we did. Yeah.
+
+
+00:34:13.760 — 00:34:46.389 · Speaker 2
+I've tried to to find an entry, and I, I do tend to, you know, enter gold on the higher timeframes, but, uh, when I say higher timeframes, I say 15 minutes at least. That would be probably my my lowest time frame on gold, okay? And sessions don't matter for me as much on gold. Okay. Uh, as it moves, it can move substantially in any session.
+
+Yeah, really? So we hit a really big level currently low.
+
+
+00:34:47.429 — 00:34:48.669 · Speaker 1
+That is. Sorry. The current year.
+
+
+00:34:48.669 — 00:35:15.150 · Speaker 2
+Low current year okay. Yes. Yeah. And you know when you look at it on the higher timeframe like I did earlier that that's that's a very logical target for me. So sellers in my head wanted to reach that level and that level I would see it as their target. Okay. So once again, as soon as we reach this level, how do we react to it?
+
+
+00:35:17.150 — 00:36:04.379 · Speaker 2
+We have an initial reaction. And in this case I would I would consider this even though I'm trying to, to get an entry on the lower timeframe. So kind of trying to to snipe the perfect entry. Right. I'll be I'll be giving it some time. So the reason I didn't enter on this particular candle, right is because I kind of anticipated a little consolidation.
+
+It's hard and it's very rare to get those V-shaped reactions. And if you do, you know, you're probably gonna miss out in most cases on the on the trade unless you're being very aggressive. Right. Um, I liked this one. I like this reaction a lot more if I have a gap. Value gap. Of course, we closed above
+
+
+00:36:05.500 — 00:36:12.820 · Speaker 2
+this little consolidation that we have formed. Yeah, not necessarily this. I'm talking about the.
+
+
+00:36:14.860 — 00:36:40.210 · Speaker 2
+The whole consolidation. Yeah. Okay. So all day. So we closed above all that. Uh, at this point I was I was very excited. So I went I went a full hour in since this, you know, this is a level that I was waiting for for a long time. okay? And price just instantly proved me wrong. It gave me no chance at all. It. I probably went into profit, like $3.
+
+
+00:36:40.250 — 00:36:40.850 · Speaker 1
+Yeah.
+
+
+00:36:41.610 — 00:36:46.689 · Speaker 2
+Then it immediately went into to my stop loss. And that's just, you know, that just goes to say that
+
+
+00:36:48.330 — 00:37:04.449 · Speaker 2
+we as retail traders, we can't have the, the, the bigger picture. It's very hard to to snipe those entries. And if we do get those perfect entries sometimes, you know, it has to do a lot with, with of course there's
+
+
+00:37:06.010 — 00:37:30.560 · Speaker 2
+some elements from our analysis, but, uh, luck is also a big part, whether we like it or not. I know we like we like to say that we, you know, we've done these strategies. And, uh, this is why I answered. This is why I exited. This is why I didn't answer right here. But, uh, I do believe there has to be a lot to do with, uh, with luck, even though we.
+
+We don't like to admit it sometimes.
+
+
+00:37:30.600 — 00:37:40.320 · Speaker 1
+Yeah. Fair. I wouldn't disagree with that at all. I think as long as you have positioned yourself right and you're managing risk in those moments where luck is on your side, why not use it?
+
+
+00:37:40.360 — 00:37:45.840 · Speaker 2
+Unfortunately, the price did eventually start to go higher.
+
+
+00:37:45.880 — 00:37:48.120 · Speaker 1
+Mhm. Just took a little bit more time to play out.
+
+
+00:37:48.160 — 00:38:01.280 · Speaker 2
+It took a little more time. Yeah. And that happens. That happens sometimes. Uh I don't think there's anybody out there that has a 100% win rate. Yes of course. Um, so yeah, this was an unlikely scenario.
+
+
+00:38:01.360 — 00:38:02.080 · Speaker 1
+Perfect.
+
+
+00:38:02.120 — 00:38:04.040 · Speaker 2
+Uh, but these do happen.
+
+
+00:38:04.080 — 00:38:29.750 · Speaker 1
+Yeah. Of course, of course. Awesome. Man. I think that's, uh, a really good visual demonstration. Like to actually see the theory in action and getting to see it over, you know, a nice, clean, winning trade. Um, one that was slightly imperfect. Took a few attempts and then one that basically just did not work out at all.
+
+Yeah. It's it's I think it's the perfect reflection of what people should be expecting when they're are trading. So that's awesome man.
+
+
+00:38:29.910 — 00:38:32.230 · Speaker 2
+That's the reality of trading 100%.
+
+
+00:38:32.270 — 00:38:34.910 · Speaker 1
+Um, was there anything else that you wanted to cover? Was that.
+
+
+00:38:34.950 — 00:38:36.710 · Speaker 2
+Uh, no, I don't believe so. That was good.
+
+
+00:38:36.710 — 00:39:27.790 · Speaker 1
+Yeah. Um, Raven, that was, uh. That was a great breakdown. I appreciate the insights, both in theory and, of course, the the real trade examples of ones that you've taken. Um, really, really clean demonstration. Uh, and I think that the viewers at home will appreciate the insights behind, uh, what goes into a six figure strategy.
+
+Appreciate it. Thank you. Thank you, guys and girls, that is a wrap on another episode. Let us know in the comments below. What was your biggest takeaway? We've just had a six figure strategy mapped out entirely in front of you guys. For you guys to be able to learn to take away, to refine and improve your edge in the market.
+
+Let us know in the comments what you thought about the episode. We'll be reading every single one. And as always, if you enjoyed this, make sure you hit the like button. Subscribe to the channel for more episodes just like this and we will see you in the next one. Take care.
+

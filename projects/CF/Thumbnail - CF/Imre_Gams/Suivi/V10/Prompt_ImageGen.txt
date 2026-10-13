@@ -1,0 +1,6 @@
+Built-in ImageGen background edit.
+Input: Masters/V09/background_simple.png
+Output: C:\Users\notti\.codex\generated_images\01a12f9c-d8a7-7d51-97b1-19dd911232a5\exec-cfc3d7c9-203e-47de-9e33-9c87309113de.png
+Project asset: Masters/V10/background_simple.png
+
+Edit only the colored light intensity in this empty background. Keep the exact same 16:9 dimensions, composition, smooth black center, and the shapes and positions of both light pools. Reduce the brightness and saturation of the red left-edge glow and green right-edge glow slightly, approximately 20% compared with the input. They should remain rich and visibly colorful but less dominant and less fluorescent. Retain black dominance, seamless soft continuous falloffs. No new objects, textures, shapes, glass, lines, smoke, text, pattern, or noise. This is a subtle lighting adjustment only.

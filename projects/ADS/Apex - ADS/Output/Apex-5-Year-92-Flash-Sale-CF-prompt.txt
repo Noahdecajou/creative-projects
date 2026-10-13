@@ -1,0 +1,29 @@
+Use case: ads-marketing.
+Create one finished premium Apex Trader Funding 5-year anniversary flash-sale advertisement, portrait 9:16, high resolution, English copy. The two supplied images are STYLE REFERENCES, not edit targets. Preserve this campaign's recognizable white Apex logo, black/deep-navy palette, electric cobalt blue glow, luminous angular frames, translucent glass trading candlesticks at edges, bold condensed typography and disciplined centered hierarchy. Make a fresh composition with richer polished 3D blue/chrome monumental 92% numerals, restrained lighting and sharp highly readable type. No people. No unrelated logos. Do not copy the prior layout exactly.
+At top center reproduce the Apex icon and APEX TRADER FUNDING lockup faithfully from reference.
+Exact visible copy in this hierarchy:
+"5-YEAR ANNIVERSARY"
+Huge hero "92%" with "OFF" underneath.
+"OUR BIGGEST FLASH SALE EVER"
+Two dark framed offer panels:
+"LEGACY EVALUATIONS"
+"92% OFF FIRST MONTH"
+"80% OFF RECURRING"
+and
+"INTRADAY & EOD EVALUATIONS"
+"92% OFF"
+A vivid electric blue wide benefit banner:
+"ONE DAY TO PASS"
+"LEGACY • INTRADAY • EOD"
+Two prominent CTA boxes:
+"REPLY: APEX"
+"USE CODE: CF"
+High-contrast clear deadline near bottom, with subtle yellow clock accent:
+"ENDS WEDNESDAY, OCTOBER 7"
+"11:59 PM ET"
+Small readable footer:
+"Evaluation discounts apply to accounts purchased during the sale."
+"Promotional lifetime PA fees expire October 7 at 11:59 PM ET."
+Keep every line spelled exactly and typography aligned. This is an actual finished ad, not a mockup photographed in a scene. Use ample side margins and breathing room between blocks. The 92% offer should dominate upper half, balanced compact offer panels and CTA below. Text stays English. Do not add prices, review scores, or any extra offers.
+
+Generation mode: built-in image_gen.

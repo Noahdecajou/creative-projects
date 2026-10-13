@@ -1,0 +1,54 @@
+[
+  {
+    "slide": 1,
+    "source": "portrait_front_source.jpg",
+    "face_roi_design_px": [
+      470,
+      475,
+      690,
+      800
+    ],
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0,
+    "no_source_upscale": true
+  },
+  {
+    "slide": 2,
+    "source": "Razvan_22_00-11-08-00.jpg",
+    "face_roi_design_px": [
+      700,
+      130,
+      895,
+      405
+    ],
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0,
+    "no_source_upscale": true
+  },
+  {
+    "slide": 3,
+    "source": "Razvan_05_00-07-12-00.jpg",
+    "face_roi_design_px": [
+      735,
+      140,
+      890,
+      440
+    ],
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0,
+    "no_source_upscale": true
+  },
+  {
+    "slide": 6,
+    "source": "portrait_gesture_source.jpg",
+    "face_roi_design_px": [
+      625,
+      130,
+      905,
+      555
+    ],
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0,
+    "no_source_upscale": true
+  }
+]

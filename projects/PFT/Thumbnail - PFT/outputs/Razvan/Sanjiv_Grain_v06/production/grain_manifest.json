@@ -1,0 +1,77 @@
+{
+  "version": "V06",
+  "grain": {
+    "tool": "Adobe Photoshop Add Noise",
+    "effect": "noise",
+    "noiseAmount": 5,
+    "percent": true,
+    "application": "Each full-resolution image after localized face insertion; export downsamples grain along with image"
+  },
+  "items": [
+    {
+      "n": 1,
+      "url": "https://photoshop-api.adobe.io/v2/short-url/urn:aaid:ps:US:61c10841-0bba-4c43-960f-9ccec0b170cb",
+      "path": "C:/Users/notti/Documents/ChatGPT/Thumbnail - PFT/outputs/Razvan/Sanjiv_Grain_v06/masters/Razvan_01_Reversal_Strategy_master_1672x941.png"
+    },
+    {
+      "n": 2,
+      "url": "https://photoshop-api.adobe.io/v2/short-url/urn:aaid:ps:US:48ba45a4-abcd-4e80-8c27-66b097800c20",
+      "path": "C:/Users/notti/Documents/ChatGPT/Thumbnail - PFT/outputs/Razvan/Sanjiv_Grain_v06/masters/Razvan_02_No_Partials_master_1672x941.png"
+    },
+    {
+      "n": 3,
+      "url": "https://photoshop-api.adobe.io/v2/short-url/urn:aaid:ps:US:ba87df65-5cfe-4167-a135-33a608c81a87",
+      "path": "C:/Users/notti/Documents/ChatGPT/Thumbnail - PFT/outputs/Razvan/Sanjiv_Grain_v06/masters/Razvan_03_Key_Levels_master_1672x941.png"
+    },
+    {
+      "n": 4,
+      "url": "https://photoshop-api.adobe.io/v2/short-url/urn:aaid:ps:US:60a73316-4a6d-4e0a-8cba-61b87922436d",
+      "path": "C:/Users/notti/Documents/ChatGPT/Thumbnail - PFT/outputs/Razvan/Sanjiv_Grain_v06/masters/Razvan_04_Breakevens_To_4R_master_1672x941.png"
+    },
+    {
+      "n": 5,
+      "url": "https://photoshop-api.adobe.io/v2/short-url/urn:aaid:ps:US:de594f20-5410-43b2-9657-d18eb9b27984",
+      "path": "C:/Users/notti/Documents/ChatGPT/Thumbnail - PFT/outputs/Razvan/Sanjiv_Grain_v06/masters/Razvan_05_Master_Reversal_Trading_master_1672x941.png"
+    },
+    {
+      "n": 6,
+      "url": "https://photoshop-api.adobe.io/v2/short-url/urn:aaid:ps:US:b486d79f-27c8-4154-8534-d1701c933797",
+      "path": "C:/Users/notti/Documents/ChatGPT/Thumbnail - PFT/outputs/Razvan/Sanjiv_Grain_v06/masters/Razvan_06_Reversal_Entry_Model_master_1672x941.png"
+    },
+    {
+      "n": 7,
+      "url": "https://photoshop-api.adobe.io/v2/short-url/urn:aaid:ps:US:fa63c1f9-56d3-431a-8933-f1a19e1867f0",
+      "path": "C:/Users/notti/Documents/ChatGPT/Thumbnail - PFT/outputs/Razvan/Sanjiv_Grain_v06/masters/Razvan_07_Farak_Prop_Firm_Trading_master_1672x941.png"
+    },
+    {
+      "n": 8,
+      "url": "https://photoshop-api.adobe.io/v2/short-url/urn:aaid:ps:US:bcbd3a0e-6ac6-48e4-8eb7-39abe69a4d7e",
+      "path": "C:/Users/notti/Documents/ChatGPT/Thumbnail - PFT/outputs/Razvan/Sanjiv_Grain_v06/masters/Razvan_08_Farak_Prop_Firm_Reversal_master_1672x941.png"
+    },
+    {
+      "n": 9,
+      "url": "https://photoshop-api.adobe.io/v2/short-url/urn:aaid:ps:US:a902c883-205a-4053-a364-f139ef975f69",
+      "path": "C:/Users/notti/Documents/ChatGPT/Thumbnail - PFT/outputs/Razvan/Sanjiv_Grain_v06/masters/Razvan_09_Farak_Nasdaq_Trading_master_1672x941.png"
+    },
+    {
+      "n": 10,
+      "url": "https://photoshop-api.adobe.io/v2/short-url/urn:aaid:ps:US:c23eedda-5e81-4afb-b60c-749f812d329a",
+      "path": "C:/Users/notti/Documents/ChatGPT/Thumbnail - PFT/outputs/Razvan/Sanjiv_Grain_v06/masters/Razvan_10_Farak_Master_Reversal_master_1672x941.png"
+    },
+    {
+      "n": 11,
+      "url": "https://photoshop-api.adobe.io/v2/short-url/urn:aaid:ps:US:04512334-6719-4a32-91bb-38ec8e785311",
+      "path": "C:/Users/notti/Documents/ChatGPT/Thumbnail - PFT/outputs/Razvan/Sanjiv_Grain_v06/masters/Razvan_11_Farak_Master_Prop_Firm_master_1672x941.png"
+    },
+    {
+      "n": 12,
+      "url": "https://photoshop-api.adobe.io/v2/short-url/urn:aaid:ps:US:c72bf982-ab83-455e-aa34-ff62d9dfa3ee",
+      "path": "C:/Users/notti/Documents/ChatGPT/Thumbnail - PFT/outputs/Razvan/Sanjiv_Grain_v06/masters/Razvan_12_Farak_Master_Nasdaq_master_1672x941.png"
+    },
+    {
+      "n": 13,
+      "url": "https://photoshop-api.adobe.io/v2/short-url/urn:aaid:ps:US:6700152a-8a55-4699-8e7f-d0fce5e5c45c",
+      "path": "C:/Users/notti/Documents/ChatGPT/Thumbnail - PFT/outputs/Razvan/Sanjiv_Grain_v06/masters/Razvan_13_Farak_Full_Strategy_master_1672x941.png"
+    }
+  ]
+}

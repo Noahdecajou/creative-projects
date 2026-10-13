@@ -1,0 +1,60 @@
+[
+  {
+    "Id": "04_Duo",
+    "OutsideRegionsPixelIdentical": true,
+    "Regions": [
+      [
+        12,
+        338,
+        85,
+        347
+      ],
+      [
+        88,
+        682,
+        379,
+        42
+      ]
+    ],
+    "Feather": 3
+  },
+  {
+    "Id": "10",
+    "OutsideRegionsPixelIdentical": true,
+    "Regions": [
+      [
+        601,
+        248,
+        531,
+        282
+      ]
+    ],
+    "Feather": 3
+  },
+  {
+    "Id": "13",
+    "OutsideRegionsPixelIdentical": true,
+    "Regions": [
+      [
+        836,
+        270,
+        248,
+        165
+      ]
+    ],
+    "Feather": 3
+  },
+  {
+    "Id": "18",
+    "OutsideRegionsPixelIdentical": true,
+    "Regions": [
+      [
+        990,
+        510,
+        480,
+        313
+      ]
+    ],
+    "Feather": 3
+  }
+]

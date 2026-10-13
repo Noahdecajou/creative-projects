@@ -1,0 +1,72 @@
+[
+  {
+    "id": "04",
+    "kind": "masters",
+    "Identical": true
+  },
+  {
+    "id": "04",
+    "kind": "exports_4K",
+    "Identical": true
+  },
+  {
+    "id": "04_Duo",
+    "kind": "masters",
+    "Identical": true
+  },
+  {
+    "id": "04_Duo",
+    "kind": "exports_4K",
+    "Identical": true
+  },
+  {
+    "id": "07",
+    "kind": "masters",
+    "Identical": true
+  },
+  {
+    "id": "07",
+    "kind": "exports_4K",
+    "Identical": true
+  },
+  {
+    "id": "13",
+    "kind": "masters",
+    "Identical": true
+  },
+  {
+    "id": "13",
+    "kind": "exports_4K",
+    "Identical": true
+  },
+  {
+    "id": "16",
+    "kind": "masters",
+    "Identical": true
+  },
+  {
+    "id": "16",
+    "kind": "exports_4K",
+    "Identical": true
+  },
+  {
+    "id": "17",
+    "kind": "masters",
+    "Identical": true
+  },
+  {
+    "id": "17",
+    "kind": "exports_4K",
+    "Identical": true
+  },
+  {
+    "id": "19",
+    "kind": "masters",
+    "Identical": true
+  },
+  {
+    "id": "19",
+    "kind": "exports_4K",
+    "Identical": true
+  }
+]

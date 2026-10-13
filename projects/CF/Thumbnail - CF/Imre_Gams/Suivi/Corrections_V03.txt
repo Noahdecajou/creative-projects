@@ -1,0 +1,16 @@
+IMRE GAMS - CHARTFANATICS - CORRECTIONS V03
+
+Demande : retours utilisateur du 12 octobre 2026. V01 et V02 conservees.
+01/02 : nouveau detourage genere a partir de frame_39600 (1).jpg ORIGINAL, regard directement vers l'objectif, haut blanc. Meme portrait pour comparer les accroches.
+04 : proportions naturelles de Riz restaurees. Le PNG frontal mesure 1422 x 1106; le placement V02 1421 x 800 etirait horizontalement le visage. V03 utilise une mise a l'echelle proportionnelle, sans nouvel edit du visage. Portraits equilibres et support derriere cheveux, oreilles, joues et corps.
+06 : nouveau regard camera, agrandissement de 25% de la hauteur de placement (658 -> 822.5). Mise a l'echelle proportionnelle et centrage. Schemas pedagogiques conserves.
+05/07/08 : scenes et personnes conservees depuis les plaques validees. 03 conserve sa scene egalement.
+
+Typographie huit images : Poppins, glyphes vectoriels mesures par leur contour visible, centrage optique dans les boxes, marges interieures constantes, coins arrondis. Ombre discrete pour maintenir le texte blanc lisible sur les vetements clairs. Bold reserve aux mots forts; Regular/Medium/SemiBold selon hierarchie. Lueur blanche douce derriere boxes blanches et jaune douce derriere boxes jaunes, sans halo autour des visages.
+07 : logo YouTube rouge a coins arrondis, triangle blanc, proportions et taille reprises du template Scott 07; ombre discrete. Meme traitement applique au petit logo de 08 pour coherence.
+08 : BALANCE -> REGIME -> MACRO-RANGE -> CLOSE THE GAP, selon la formulation demandee. Trois fleches courbes blanches masquees derriere les deux tetes. Visage Imre pixelise; visage Riz intact. Le transcript parle de micro-range; MACRO-RANGE et CLOSE THE GAP sont les libelles demandes par l'utilisateur, pas des citations de l'episode. La question facultative MICRO/MACRO reste sans reponse au moment de l'export.
+
+References reverifiees : Scott V03 01/04/06/07/08 et Design - Ref MASTER-PROP-FIRM-TRADING, Live-Trading, Crack-Prop-Firms-1. Logos, boxes et hierarchie compares a ces inspirations.
+Controle visuel : huit images en 1280 et planche mobile 320; regard camera, proportion Riz, chevauchements 04, schemas et taille 06, logo 07, fleches et pixellisation 08; textes exacts, marges et contraste.
+Export : PNG 3840 x 2160 agrandis, non natifs 4K. Bruit monochromatique gaussien 5% une seule fois apres redimensionnement, masters sans bruit final. Verification_V03.csv et verification ZIP par SHA256.
+Reproduction : render_v03.ps1, Masters/V03 et Suivi/add_final_noise.ps1; retouche generative documentee dans Prompts_ImageGen_V03.txt et Retouche_Imre_V03.txt.

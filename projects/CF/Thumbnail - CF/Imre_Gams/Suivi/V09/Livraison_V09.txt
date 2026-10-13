@@ -1,0 +1,23 @@
+IMRE GAMS / CHARTFANATICS / V09
+
+MODIFICATIONS
+01 / 02 / 04 : retour a un fond noir simple avec deux lueurs rouges et vertes plus lumineuses, fondues vers un centre noir. Suppression du verre, des facettes, des reflets geometriques et des panneaux de verre derriere les graphiques. La composition reprend ainsi la simplicite V07 avec davantage d'intensite dans les couleurs laterales.
+Les graphiques, textes, cartouches, proportions et portraits frontaux sont conserves. Grain final regle a 3 %, applique une seule fois depuis les masters sans grain final.
+03 / 05 / 06 / 07 / 08 : masters, exports et apercus identiques a V08. La scene de dessin de la 03 est conservee.
+
+PROVENANCE
+Seul le fond vide est genere avec l'outil integre ImageGen ; prompt et chemin de sortie conserves dans Prompt_ImageGen.txt. Asset dans Masters/V09/background_simple.png. Aucun portrait n'est regenere pour cette revision.
+Les sources photographiques, la scene reconstruite 03 et les sources pedagogiques restent documentees dans Suivi/V08, Suivi/V07 et Suivi/V05.
+
+LIVRAISON
+Huit PNG 3840 x 2160 dans Exports/V09.
+ZIP : Livraison/Imre_Gams_8_Thumbnails_V09_3840x2160.zip.
+Apercus 1280 et 320 pixels, planche de huit images et planche des trois corrections dans Apercus/V09.
+Les elements photographiques et generatifs sont agrandis ; ils ne sont pas natifs 4K. Les textes et formes sont rendus directement a 3840 x 2160.
+Versions precedentes conservees. Aucun fichier publie.
+
+REPRODUCTION
+render_v09.ps1 -Final rend uniquement 01, 02 et 04. Pour recreer un dossier neuf, reprendre les assets V08 dans Masters/V09, ajouter background_simple.png, et copier les fichiers 03/05/06/07/08 depuis Masters/V08, Exports/V08 et Apercus/V08 dans leurs dossiers V09 correspondants.
+Prerequis : police Poppins, Suivi/add_final_noise.ps1, Suivi/V08/Typography_geometry.csv.
+verify_v09.ps1 verifie les cinq images conservees, les deux portraits et la geometrie de toute la typographie.
+package_v09.ps1 verifie les dimensions, huit exports, huit entrees d'archive et leurs SHA256.

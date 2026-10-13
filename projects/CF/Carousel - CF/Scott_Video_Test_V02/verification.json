@@ -1,0 +1,58 @@
+[
+  {
+    "file": "03_Gamma_Slide_Video.mp4",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 1080,
+          "height": 1350,
+          "avg_frame_rate": "25/1"
+        },
+        {
+          "codec_name": "aac",
+          "avg_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "50.000000"
+      }
+    },
+    "clip_box": [
+      60,
+      696,
+      1020,
+      1236
+    ]
+  },
+  {
+    "file": "04_Algos_Slide_Video.mp4",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 1080,
+          "height": 1350,
+          "avg_frame_rate": "25/1"
+        },
+        {
+          "codec_name": "aac",
+          "avg_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "23.040000"
+      }
+    },
+    "clip_box": [
+      60,
+      830,
+      1020,
+      1234
+    ]
+  }
+]

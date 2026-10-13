@@ -1,0 +1,30 @@
+[
+  {
+    "id": "01",
+    "prompt": "Edit the FIRST supplied image, an approved YouTube thumbnail. One complete landscape image 16:9. Preserve all headline text exactly, its typeface, placement, framing and colours. Preserve all untargeted people, hair, skin, clothes, hands and foreground pixels as closely as possible. Photographic, clean natural light; no smoothing, oversharpening, invented skin texture or extra wrinkles. No added grain; final noise added separately. Change only the BACKGROUND: remove the two trading monitors and replace them with exactly ONE modest monitor on the right side of the desk, showing a subtle defocused trading chart. Retain the cozy dark sage/walnut room and warm desk lamp, but simplify clutter. Strong natural photographic depth of field, background blurred. Preserve Sampsa's whole portrait and all text completely unchanged.",
+    "paths": [
+      "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V04_Trading_Refinements/masters/Sampsa_01.png"
+    ]
+  },
+  {
+    "id": "02",
+    "prompt": "Edit the FIRST supplied image, an approved YouTube thumbnail. One complete landscape image 16:9. Preserve all headline text exactly, its typeface, placement, framing and colours. Preserve all untargeted people, hair, skin, clothes, hands and foreground pixels as closely as possible. Photographic, clean natural light; no smoothing, oversharpening, invented skin texture or extra wrinkles. No added grain; final noise added separately. Change only background. Completely REMOVE the bright turquoise/cyan circular disc behind Sampsa's head, including both visible cyan arcs by ears/neck. Replace with continuous natural room background. Remove ALL computer monitors/screens and their charts. Simple warm amber home study with dark sage wall, one warm lamp and a few understated shelf objects, softly defocused. Keep the foreground handwritten process diagram, all words and arrows EXACTLY. No blue halo, no cyan circle, no screen. Portrait unchanged.",
+    "paths": [
+      "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V04_Trading_Refinements/masters/Sampsa_02.png"
+    ]
+  },
+  {
+    "id": "02_Duo",
+    "prompt": "Edit the FIRST supplied image, an approved YouTube thumbnail. One complete landscape image 16:9. Preserve all headline text exactly, its typeface, placement, framing and colours. Preserve all untargeted people, hair, skin, clothes, hands and foreground pixels as closely as possible. Photographic, clean natural light; no smoothing, oversharpening, invented skin texture or extra wrinkles. No added grain; final noise added separately. Change only background. Completely REMOVE every bright turquoise/cyan circular disc behind BOTH men's heads, including visible cyan arcs beside ears/necks and between portraits. Replace with continuous natural warm study background. Remove ALL computer screens/charts. Simple dark sage wall, warm amber lamp, sparse shelves, photographic background blur. Keep both portraits EXACTLY unchanged, and all foreground handwritten words, icons, arrows.",
+    "paths": [
+      "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V04_Trading_Refinements/masters/Sampsa_02_Duo.png"
+    ]
+  },
+  {
+    "id": "05",
+    "prompt": "Edit the FIRST supplied image, an approved YouTube thumbnail. One complete landscape image 16:9. Preserve all headline text exactly, its typeface, placement, framing and colours. Preserve all untargeted people, hair, skin, clothes, hands and foreground pixels as closely as possible. Photographic, clean natural light; no smoothing, oversharpening, invented skin texture or extra wrinkles. No added grain; final noise added separately. Rework only drawings and small writing ON THE WHITEBOARD, below the existing giant headline OVERFITTING KILLS EDGE. Make this look genuinely drawn by a human with dry-erase markers on a real whiteboard: variable ink density, slight marker streaks and pressure, irregular baselines, freehand boxes and imperfect lines, faint erased smudges. Less crowded. Left: hand-lettered TOO MANY RULES, one rough black noisy chart with red overfitted line, small red cross, short labels FITS THE PAST and FAILS LIVE. Right: hand-lettered A BETTER APPROACH, 3 loose hand-drawn boxes containing SIMPLE RULES, REAL DATA, TEST THE COSTS linked by hand-drawn arrows. No glossy icons, no 3D bar charts, no perfect vector graphics, no printed font for small writing. Preserve giant headline and Sampsa's exact face, direct gaze, body/clothes/position entirely.",
+    "paths": [
+      "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V04_Trading_Refinements/masters/Sampsa_05.png"
+    ]
+  }
+]

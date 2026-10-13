@@ -1,0 +1,45 @@
+
+NOUVEAU V07 — DANS YOUTUBE
+Ouvrir http://127.0.0.1:8765/#youtube ou cliquer « Dans YouTube » dans le prétest.
+- Grille de 9 vidéos : ta miniature et 8 références parmi 15 vidéos publiques de trading.
+- Choisir une variante avec la bande d’images, le menu ou les flèches précédente/suivante.
+- Le titre provient du prétest (titre commun ou titre propre à la variante).
+- Les voisins restent identiques lors du changement de variante.
+- Neuf positions, placement aléatoire et mélange indépendant des vidéos voisines.
+- Modes ordinateur, mobile, images seules et repérage facultatif de ta miniature.
+- « Agrandir la grille » masque les panneaux du studio et garde les commandes accessibles.
+- Réglages conservés par épisode ; aucun score ni sélection de prétest modifié.
+- Miniatures publiques stockées localement. Sources YouTube dans « Les vidéos de référence ».
+- Références récupérées le 13 octobre 2026 ; ce n’est pas un flux YouTube actualisé.
+- Cette mise en situation ne mesure pas de clics et ne prédit pas le CTR.
+- Les images du laboratoire, déjà traitées avec le grain 3 %, sont affichées sans nouveau traitement.
+
+WOR STUDIO — VERSION LOCALE 06
+
+OUVRIR
+Double-cliquer sur Ouvrir-WOR-Studio.cmd.
+Miniatures : http://127.0.0.1:8765/#ab
+Titres : http://127.0.0.1:8765/#titles
+Atelier : http://127.0.0.1:8765/#board
+
+PRÉTEST DES MINIATURES
+Importer de 2 à 20 images, par fichiers, glisser-déposer ou depuis l’atelier. Le grain final de 3 % est conservé ; cocher la case des imports déjà traités pour ne pas le cumuler.
+Indiquer le titre commun de la vidéo ou un titre par variante, puis le contexte utile.
+Choisir Top 3 ou Top 5 et cliquer sur Lancer le prétest. Le résultat explique les points forts et les améliorations pour chaque proposition. Voir tout le classement permet de consulter les autres.
+Garder le top ou modifier les choix à la main, jusqu’à 5 images. Exporter la présélection crée un ZIP avec les images exactes examinées, leurs titres et un manifeste. Ce lot est à affiner avant le test réel sur YouTube.
+
+PRÉTEST DES TITRES
+Renseigner plusieurs formulations, ou cliquer sur Coller une liste (un titre par ligne), jusqu’à 20 titres.
+Compléter le contexte de la vidéo. Le prétest examine clarté, intérêt, précision, adéquation au public et crédibilité. Il ne prétend pas analyser des images.
+Choisir Top 3 ou Top 5, lancer le prétest et consulter les explications. Utiliser avec mes miniatures applique explicitement le titre choisi comme titre commun ; le prétest visuel sera alors à actualiser.
+Exporter les titres sélectionnés ou le rapport. Les titres exacts saisis sont conservés.
+
+ATELIER
+L’atelier conserve les imports, annotations, versions, validation, mises en page Story/Spotify et exports avec grain 3 %. La génération créative et les retouches IA d’images ne sont pas encore automatisées dans cet atelier.
+
+FONCTIONNEMENT
+Claude et vidIQ sont retirés de l’interface et du serveur. Leurs anciens rapports restent dans la sauvegarde utilisateur ; aucun appel à ces services n’est possible depuis le site.
+Les prétests utilisent uniquement le compte Codex connecté. Ils transmettent à OpenAI les données du lot à la demande et consomment le quota Codex. Le site est local, l’analyse n’est pas hors ligne.
+Les notes /100 sont une grille de lecture, pas une mesure de CTR, de watch time ou de votes. Les 1 000 scénarios sont des variations locales des pondérations, sans spectateurs simulés. Les anciens gagnants ne sont pas fournis pour forcer le classement.
+Les changements de titre, image, brief ou audience rendent le rapport précédent obsolète. Les résultats et sources sont préservés localement, indépendamment de la sélection finale.
+Fond blanc, Helvetica/Arial, titres plus gras, hiérarchie typographique renforcée. Le style pourra être ajusté avec les captures d’inspiration à venir.

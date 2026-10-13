@@ -1,0 +1,25 @@
+Use case: ads-marketing, style-transfer revision of supplied Apex ad.
+Completely redesign the supplied poster following this strict creative correction. Output a finished portrait 9:16 advertisement in English. Preserve the precise Apex Trader Funding white brand lockup from the source and accurate promotion copy, but replace the entire visual treatment.
+ART DIRECTION: extremely clean, premium, restrained, elegant, easy to read. Approximately 90% of the background surface pure matte black (#030303), only 10% cobalt blue accents. White text. Genuine open black negative space around every block. Flat editorial typography, heavy condensed sans for the main offer, tidy modern sans for smaller text. No metallic or chrome type, no bevel, no embossed lettering, no 3D numerals, no shadows behind type, no star highlights, no lens flares, no sunburst, no blue atmosphere, no glowing panels, no science-fiction tunnel, no platform/stage, no grid, no icons whatsoever except the existing Apex brand logo. No clock icon, no emojis, no checkmarks.
+Only decorative 3D objects: THREE discreet dark blue tinted glass financial candlesticks with thin wick rods at the far side edges, partially cropped, one upper left and two lower right. Understated blue edge reflections, not neon tubes. These are marginal details and must not intrude on text. Central canvas remains matte black.
+LAYOUT: wide safety margins, centered top small white Apex lockup. Small widely tracked "5-YEAR ANNIVERSARY". Very large bold FLAT blue "92%" with a compact bold white "OFF" immediately below; this is the sole dominant blue region. Then white "OUR BIGGEST FLASH SALE EVER". Below, two generous stacked offer blocks without boxes or fills, separated only by one extremely thin dark gray horizontal rule. Clear hierarchy and generous spacing:
+"LEGACY EVALUATIONS"
+"92% OFF FIRST MONTH"
+"80% OFF RECURRING"
+then
+"INTRADAY & EOD EVALUATIONS"
+"92% OFF"
+Below, bold white "ONE DAY TO PASS"
+small "LEGACY • INTRADAY • EOD"
+Below, balanced simple inline CTA pair with no glowing cards:
+"REPLY: APEX" and "USE CODE: CF"
+APEX and CF may be blue flat type.
+Bottom clearly readable white deadline:
+"ENDS WEDNESDAY, OCTOBER 7"
+"11:59 PM ET"
+Two discreet small gray footer lines:
+"Evaluation discounts apply to accounts purchased during the sale."
+"Promotional lifetime PA fees expire October 7 at 11:59 PM ET."
+Use the text exactly as supplied. All letterforms crisp, typography carefully aligned, no visual clutter. Result should feel like a professionally art-directed luxury finance print advertisement. BLACK overwhelmingly dominates. Minimal and premium, subtle 3D side candlesticks, flat bold typography.
+
+Generation tool: built-in ImageGen. Backend model identifier not exposed; flare/sunburst unconfirmed.

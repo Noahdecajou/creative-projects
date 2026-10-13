@@ -1,0 +1,51 @@
+IMRE GAMS / CHARTFANATICS / V05
+
+PERIMETRE
+Revisions demandees sur 01, 02, 03 et 04. La V04 reste intacte.
+05, 06, 07 et 08 : exports, masters et apercus copies depuis V04, sans nouveau rendu ni bruit supplementaire.
+
+01 - PRICE IS NOT VALUE
+MacBook et capture remplaces par un grand schema AMT : rotations du prix, vendeurs sur la borne haute, acheteurs sur la borne basse et juste valeur au centre.
+Source pedagogique : frame_17100.jpg (00:09:30) et transcript 00:05:47-00:14:05.
+Imre, titre, cartouche Auction Market Theory et style de fleche jaune conserves. Fleche ajustee pour pointer le schema.
+
+02 - WHY BREAKOUTS FAIL
+MacBook et capture remplaces par AMT -> B/I -> OPPORTUNITY, avec deux grandes illustrations : sortie du range rejetee en balance et progression de valeur en imbalance.
+B/I signifie Balance / Imbalance ; ces deux termes sont ecrits sous la progression.
+Sources : frame_66600.jpg (00:37:00), transcript 00:20:31-00:24:38 et 00:36:13-00:41:30.
+Les traces sont schematiques, pas une cotation reelle ni une promesse de resultat. Le signal rouge illustre un breakout qui echoue ; le vert illustre un regime de tendance.
+Imre, titre, cartouche Read the Market Regime et style de fleche jaune conserves.
+
+03 - WHAT REALLY DRIVES PRICE
+Extension du bord superieur du fond photographique pour supprimer la coupure a 30 px sur la grille 1280 x 720.
+Photo, portraits, texte, flèches, tableau et mise en page conservent leurs positions V04.
+
+04 - STOP CHASING PRICE
+Ecran photographique remplace par une illustration agrandie : le prix sort de la zone de juste valeur.
+Sources : schema AMT frame_17100.jpg et transcript 00:12:55-00:14:05 ; la distinction entre pic du prix et construction de valeur y est explicitee.
+Schema place derriere les portraits. Imre et Riz conservent leur pose, proportions et emplacement V04 ; titre inferieur et cartouche jaune conserves.
+
+FONDS ET TYPOGRAPHIE
+01, 02, 04 : fond continu sur tout le canvas, noir charbon avec nuances discretes rouge et verte. Aucun bord d'ecran ni plaque decalee.
+Titres Poppins et encadres reprennent la geometrie V04 ; seuls les libelles pedagogiques sont ajoutes. Les fleches 01/02/04 sont ajustees aux nouvelles illustrations.
+Formes et lettres sont rendues directement a 3840 x 2160 depuis le master de composition editable render_v05.ps1.
+
+PROVENANCE PHOTO
+Aucune nouvelle generation ni retouche de visage en V05.
+Assets photographiques V04 reutilises : Imre_direct_camera.png, Riz_original_cutout.png, 03_plate.png, 05_plate.png, 07_plate.png, 08_plate.png.
+Le portrait frontal Imre V04 et les scenes reconstruites en V04 restent des compositions generatives fondees sur les originaux, pas des photographies d'origine preservees pixel pour pixel.
+Prompts et provenance precedents : ../V04/Prompts_ImageGen.txt et ../V04/Livraison_V04.txt.
+Les 51 stills natifs 1920 x 1080 sont conserves dans Sources_HD avec leur manifest.
+
+EXPORTS
+Huit PNG 3840 x 2160, numeros 01-08. Photos sources agrandies ; visuels photographiques non natifs 4K.
+Masters sans bruit final ; bruit monochromatique gaussien 5 % applique une seule fois aux nouveaux exports 01-04. Exports 05-08 copies tels quels depuis V04.
+Archive : Livraison/Imre_Gams_8_Thumbnails_V05_3840x2160.zip, contenant exactement les huit PNG.
+Verification des dimensions, du nombre, des SHA256 dans l'archive et de l'identite de 05-08 avec V04.
+Controle visuel a 1280 et 320 px. Aucun fichier publie.
+
+REPRODUCTION
+Depuis le workspace : & 'Imre_Gams\Suivi\V05\render_v05.ps1' -Final
+Le script rend uniquement 01-04 et construit les planches a partir des huit apercus. 05-08 sont repris de V04.
+Prerequis : assets Masters/V05, copies des fichiers 05-08 V04 dans les dossiers V05, police Poppins, Suivi/add_final_noise.ps1.
+package_v05.ps1 cree et verifie le ZIP. Refuse d'ecraser une archive existante.

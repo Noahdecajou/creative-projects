@@ -1,0 +1,32 @@
+{
+  "Version": "V04",
+  "Date": "2026-10-12",
+  "PNGCount": 8,
+  "MasterCount": 8,
+  "Width": 3840,
+  "Height": 2160,
+  "Native4K": false,
+  "OriginalSourceCount": 54,
+  "OriginalSourceHashesUnchanged": true,
+  "VideoOrProxyDownloaded": false,
+  "FinalGrain": "5 percent uniform monochromatic, single final pass",
+  "VisualReview": "All eight previews at 320 and 1280 pixels; native eye crops on 01, 02, 04, 06; marker diagrams and luminous blue panels inspected",
+  "ModifiedThumbnails": [
+    "01",
+    "02",
+    "04",
+    "06",
+    "08"
+  ],
+  "IdenticalToV03": [
+    "03",
+    "05",
+    "07"
+  ],
+  "LocalPixelComparison": "Pixel_comparison_V03_V04.csv",
+  "Archive": "Casper_8_Thumbnails_V04_3840x2160.zip",
+  "ArchiveEntries": 8,
+  "ArchivePayloadHashesMatch": true,
+  "ArchiveBytes": 143144326,
+  "ArchiveSHA256": "2846F8EF88394B14DDF9ADBB5C0201C1D5F375DFB2995B17D5AE21015FA81555"
+}

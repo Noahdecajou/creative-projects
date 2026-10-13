@@ -1,0 +1,46 @@
+[
+  {
+    "id": "12",
+    "paths": [
+      "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V04_Trading_Refinements/masters/Sampsa_12.png"
+    ],
+    "prompt": "Edit the FIRST supplied image, an approved YouTube thumbnail. One complete landscape image 16:9. Preserve all headline text exactly, its typeface, placement, framing and colours. Preserve all untargeted people, hair, skin, clothes, hands and foreground pixels as closely as possible. Photographic, clean natural light; no smoothing, oversharpening, invented skin texture or extra wrinkles. No added grain; final noise added separately. Change only background. REMOVE the central chalkboard completely, the monitor, wall slogan and all trading diagrams. Replace with a simple cozy sage and walnut study, sparse shelves, warm lamp, gentle plant. Strong natural optical background blur, soft bokeh; no legible text in decor. Preserve the two men, sideward conversational gazes, all hands/fingers, table, clothes and main headline exactly. No microphones."
+  },
+  {
+    "id": "13_Blur",
+    "paths": [
+      "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V04_Trading_Refinements/masters/Sampsa_13.png"
+    ],
+    "prompt": "Edit the FIRST supplied image, an approved YouTube thumbnail. One complete landscape image 16:9. Preserve all headline text exactly, its typeface, placement, framing and colours. Preserve all untargeted people, hair, skin, clothes, hands and foreground pixels as closely as possible. Photographic, clean natural light; no smoothing, oversharpening, invented skin texture or extra wrinkles. No added grain; final noise added separately. Apply strong optical defocus ONLY to the library BACKGROUND. Do not change any furniture, object, colour or composition. Bookshelves, books, speakers, back wall, rear lamp and plant should become strongly blurred as with a portrait lens wide open. The two men, their clothes, faces, hair, hands, mugs, foreground table, and headline MUST remain sharply focused and unaltered. This image is a blur endpoint that will be blended back at only 10% and 15% opacity with the original. So background blur should be visibly strong, while all foreground pixels unchanged. No glow, no haze, no relighting."
+  },
+  {
+    "id": "15",
+    "paths": [
+      "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V04_Trading_Refinements/masters/Sampsa_15.png"
+    ],
+    "prompt": "Edit the FIRST supplied image, an approved YouTube thumbnail. One complete landscape image 16:9. Preserve all headline text exactly, its typeface, placement, framing and colours. Preserve all untargeted people, hair, skin, clothes, hands and foreground pixels as closely as possible. Photographic, clean natural light; no smoothing, oversharpening, invented skin texture or extra wrinkles. No added grain; final noise added separately. Change ONLY the red YouTube logo at far left: make the rectangle a vivid true YouTube red and add an attractive soft red luminous bloom immediately around its edges, strongest close to the logo, subtle fading onto the adjacent background. White triangle stays clean. Same size and position. Do not change ANY portrait, headline, underline, furniture, or rest of the image."
+  },
+  {
+    "id": "19",
+    "paths": [
+      "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V04_Trading_Refinements/masters/Sampsa_19.png",
+      "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V04_Trading_Refinements/sources_HD/Sampsa/Sampsa_16-37-00-00.jpg"
+    ],
+    "prompt": "Edit the FIRST supplied image, an approved YouTube thumbnail. One complete landscape image 16:9. Preserve all headline text exactly, its typeface, placement, framing and colours. Preserve all untargeted people, hair, skin, clothes, hands and foreground pixels as closely as possible. Photographic, clean natural light; no smoothing, oversharpening, invented skin texture or extra wrinkles. No added grain; final noise added separately. Correct ONLY the eyes and tiny surrounding eyelids of Sampsa in image1 to make unmistakable DIRECT EYE CONTACT WITH THE VIEWER. He must look straight into the camera lens at viewer eye level, not below lens, not off to either side. Both irises oriented to the central optical axis, relaxed natural eyes. Image2 is original real identity reference, do not copy its sideward gaze. Keep original head orientation, all face skin, expression, nose, lips, body, hands, background, diagrams and exact text unchanged. No enlargement of eyes, no overbright whites, no face repaint."
+  },
+  {
+    "id": "21",
+    "paths": [
+      "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V04_Trading_Refinements/masters/Sampsa_21.png",
+      "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V04_Trading_Refinements/sources_HD/Sampsa/Sampsa_16-05-00-00.jpg"
+    ],
+    "prompt": "Edit the FIRST supplied image, an approved YouTube thumbnail. One complete landscape image 16:9. Preserve all headline text exactly, its typeface, placement, framing and colours. Preserve all untargeted people, hair, skin, clothes, hands and foreground pixels as closely as possible. Photographic, clean natural light; no smoothing, oversharpening, invented skin texture or extra wrinkles. No added grain; final noise added separately. Correct ONLY Sampsa's eyes and tiny surrounding eyelids in image1 so he clearly looks directly INTO THE CAMERA LENS, meeting the viewer's eyes, no downward gaze. Slightly lift the gaze toward the lens optical centre if needed. Keep natural iris size and eyelids; do not enlarge eyes or overbrighten whites. Original image2 is identity reference, not gaze target. Do not repaint the face. Preserve all other facial features, skin, hair, head angle, expression, body, hands, charts, headline, exact framing."
+  },
+  {
+    "id": "11_Yellow",
+    "paths": [
+      "C:\\Users\\notti\\.codex\\generated_images\\01a12f86-0ef6-7450-9e2d-31feff2c3c7e\\exec-5492291c-8a0d-47c7-b99c-69cb97bba00e.png"
+    ],
+    "prompt": "Edit the FIRST supplied image, an approved YouTube thumbnail. One complete landscape image 16:9. Preserve all headline text exactly, its typeface, placement, framing and colours. Preserve all untargeted people, hair, skin, clothes, hands and foreground pixels as closely as possible. Photographic, clean natural light; no smoothing, oversharpening, invented skin texture or extra wrinkles. No added grain; final noise added separately. Change ONLY the colour of the central physical trading candlestick held by Sampsa: change emerald green frosted glass and inner green illumination to rich luminous YELLOW matching the yellow word edge. Update ONLY the associated light spill on nearest fingers and table reflection from green to yellow. Preserve the exact candle geometry and position, both men's pose and downward gaze toward it, faces, hands/fingers, all text and entire background. Same scene, same photographic lighting, only candle light/material hue changes. Controlled glow, no flame, no sparks, no extra objects."
+  }
+]

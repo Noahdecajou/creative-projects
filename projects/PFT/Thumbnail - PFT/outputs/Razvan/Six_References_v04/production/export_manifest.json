@@ -1,0 +1,80 @@
+[
+  {
+    "Number": 1,
+    "Title": "$158K Using This Reversal Trading Strategy",
+    "Reference": "Razvan_01_Reversal_Strategy_master_1672x941.png",
+    "Master": "Razvan_01_Reversal_Strategy_master_1672x941.png",
+    "NativeWidth": 1672,
+    "NativeHeight": 941,
+    "ExportWidth": 3840,
+    "ExportHeight": 2160,
+    "ExportMethod": "HighQualityBicubic; minimal center crop for exact 16:9",
+    "Stem": "Razvan_01_Reversal_Strategy",
+    "Evidence": "00:00-01:01; 03:30-07:32"
+  },
+  {
+    "Number": 2,
+    "Title": "I Don't Take Partials — Here's Why",
+    "Reference": "Razvan_02_No_Partials_master_1672x941.png",
+    "Master": "Razvan_02_No_Partials_master_1672x941.png",
+    "NativeWidth": 1672,
+    "NativeHeight": 941,
+    "ExportWidth": 3840,
+    "ExportHeight": 2160,
+    "ExportMethod": "HighQualityBicubic; minimal center crop for exact 16:9",
+    "Stem": "Razvan_02_No_Partials",
+    "Evidence": "28:40-29:27"
+  },
+  {
+    "Number": 3,
+    "Title": "Key Levels Made Simple",
+    "Reference": "Razvan_03_Key_Levels_master_1672x941.png",
+    "Master": "Razvan_03_Key_Levels_master_1672x941.png",
+    "NativeWidth": 1672,
+    "NativeHeight": 941,
+    "ExportWidth": 3840,
+    "ExportHeight": 2160,
+    "ExportMethod": "HighQualityBicubic; minimal center crop for exact 16:9",
+    "Stem": "Razvan_03_Key_Levels",
+    "Evidence": "02:24-06:39; 08:47-09:19; 12:36-12:56; 16:18-18:15"
+  },
+  {
+    "Number": 4,
+    "Title": "2 Breakevens Then 4R",
+    "Reference": "Razvan_04_Breakevens_To_4R_master_1672x941.png",
+    "Master": "Razvan_04_Breakevens_To_4R_master_1672x941.png",
+    "NativeWidth": 1672,
+    "NativeHeight": 941,
+    "ExportWidth": 3840,
+    "ExportHeight": 2160,
+    "ExportMethod": "HighQualityBicubic; minimal center crop for exact 16:9",
+    "Stem": "Razvan_04_Breakevens_To_4R",
+    "Evidence": "26:45-31:34"
+  },
+  {
+    "Number": 5,
+    "Title": "MASTER REVERSAL TRADING",
+    "Reference": "Razvan_05_Master_Reversal_Trading_master_1672x941.png",
+    "Master": "Razvan_05_Master_Reversal_Trading_master_1672x941.png",
+    "NativeWidth": 1672,
+    "NativeHeight": 941,
+    "ExportWidth": 3840,
+    "ExportHeight": 2160,
+    "ExportMethod": "HighQualityBicubic; minimal center crop for exact 16:9",
+    "Stem": "Razvan_05_Master_Reversal_Trading",
+    "Evidence": "03:30-07:32; 08:47-09:19"
+  },
+  {
+    "Number": 6,
+    "Title": "My Reversal Entry Model",
+    "Reference": "Razvan_06_Reversal_Entry_Model_master_1672x941.png",
+    "Master": "Razvan_06_Reversal_Entry_Model_master_1672x941.png",
+    "NativeWidth": 1672,
+    "NativeHeight": 941,
+    "ExportWidth": 3840,
+    "ExportHeight": 2160,
+    "ExportMethod": "HighQualityBicubic; minimal center crop for exact 16:9",
+    "Stem": "Razvan_06_Reversal_Entry_Model",
+    "Evidence": "06:14-06:39; 08:47-09:19"
+  }
+]

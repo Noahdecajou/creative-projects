@@ -1,0 +1,168 @@
+TRADEIFY FUTURES x CHART ACADEMY — ADVERTISING REFERENCE
+Analysed: 6 October 2026. Sources: all eight supplied PNGs in this folder, the user's branding explanation, and official Tradeify research in this chat.
+Purpose: persistent working reference for future adverts in this project.
+
+1. THE USER'S BRAND DIRECTION
+This is a partnership between Tradeify Futures and Chart Academy.
+The user explicitly identifies yellow, black, white, and the CTA treatment as Chart Academy branding. Preserve this attribution. Yellow is not being inferred as Tradeify's universal brand colour.
+Tradeify contributes the futures product, product name, green/mint accents, pricing and trading propositions. Together the result is a Chart Academy campaign promoting Tradeify Futures.
+Use the spelling Tradeify in new copy, even though some source filenames say Tradeifty and the user sometimes says Tradify.
+Keep this guide distinct from the cyan Tradeify FX references in ../Design - Ref. Do not substitute the FX accent or FX reply keyword into these Futures adverts.
+
+2. SOURCE INVENTORY AND CONTENT TRANSCRIPTION
+All text below is observed reference artwork content, not a claim that the offer remains active.
+
+A. 40% Off CA x Tradeify AD 2.png — 1080 x 1920
+ChartAcademy / Powered By tradeify header; Exclusive / Limited Offer at upper left; Status / Live Now at upper right.
+40% OFF; ON ALL ACCOUNTS. FOR A LIMITED TIME.
+Angled gold-edged phone with Tradeify Futures website, Israel Adesanya image and $5,000 Payout Received overlay.
+Right-hand features: Instant funding – Skip evaluations; No consistency once funded; End-of-day drawdown – no intraday traps.
+Phone also displays the best futures prop firm, $750K funding, daily payouts, and Get funded – 40% OFF.
+Bottom stacked CTAs: REPLY “Prop”; CODE “CA”.
+Design: yellow offer and feature icons; white text; black grid; yellow ground reflection; green retained inside the phone.
+
+B. CA x Tradeifty AD Growth.png — 1080 x 1920
+GROWTH / EVALUATION; tradeify deals green tag; peel-back 40% OFF badge.
+Four pinned white cards: 25K $59; 50K $87; 100K $153; 150K $221.
+Bottom adjacent CTAs: Reply: Prop and Code: CA.
+Design: enormous italic gold title, widely tracked italic white subtitle, two-by-two white note cards, coloured 3D pins, smoky black grid background.
+
+C. CA x Tradeifty Lightning Deal.png — 1080 x 1920
+ChartAcademy / Powered By tradeify; 40% OFF; LIGHTNING FUNDED.
+Instant Funding • 5 Day Payouts; tradeify deals green tag.
+Four dark cards: 25K-funded $207; 50K-funded $295; 100K-funded $396; 150K-funded $478.
+Each card says one-time-payment. 150K has MOST POPULAR yellow badge.
+Bottom adjacent CTAs: Reply: Prop and Code: CA.
+
+D. CA x Tradeifty Select Eval Deal (1).png — 1080 x 1920
+ChartAcademy / Powered By tradeify; 40% OFF; TRADEIFY SELECT EVALUATION.
+Pass in 3 days • Daily Payouts • No Daily Loss Limit.
+Four horizontal rows: 25K EVALUATION $65; 50K EVALUATION $99; 100K EVALUATION $159; 150K EVALUATION $221.
+Each row says ONE-TIME PAYMENT; 50K has MOST POPULAR badge.
+Bottom adjacent CTAs: Reply: Prop and Code: CA.
+Trust strip: 4.8/5 on Trustpilot • 4,113 reviews, with yellow star and horizontal yellow lines.
+Visible export defect: header lettering is duplicated/ghosted. Preserve the clean logo appearance from other references, not this defect.
+
+E. CA x Tradeifty Select Eval Deal_3.png — 1080 x 1920
+IMPORTANT FILENAME/CONTENT MISMATCH: filename says Select, but visible artwork says TRADEIFY LIGHTNING FUNDED and uses Lightning pricing.
+ChartAcademy / Powered By tradeify; 40% OFF; Instant Funding • 5 Day Payouts.
+Four dark cards: 25K-funded $207; 50K-funded $295; 100K-funded $396; 150K-funded $478.
+one-time-payment on all cards; MOST POPULAR on 150K.
+Bottom adjacent CTAs: Reply: Prop and Code: CA.
+This is a Lightning layout variant with a longer headline and without the tradeify deals tag.
+
+F. CA x Tradeify AD Email Version.png — 1200 x 1280, ratio 15:16
+tradeify futures wordmark and green label; 50% OFF; BIGGEST SALE EVER; ALL ACCOUNTS.
+Single white CTA: Code: CA.
+Trust strip: 4.8/5 on Trustpilot • 4,113 reviews.
+Design: yellow 50%, white OFF, dark grain and curved dot patterns. Treat this as an email format, not a 9:16 export.
+
+G. New CA x Tradeify AD.png — 1080 x 1920
+tradeify futures wordmark and green label; SPECIAL OFFER; 50% OFF; BIGGEST SALE EVER; ALL ACCOUNTS.
+Stacked white CTAs: Reply: Prop; Code: CA.
+Trust strip: 4.8/5 on Trustpilot • 4,113 reviews.
+Design: giant two-line offer, sparse centred copy, yellow divider accents, curved dot pattern, black texture.
+
+H. Tradeify AD_2.png — 1080 x 1920
+ChartAcademy / Powered By tradeify; Exclusive / Limited Offer; Status / Live Now.
+40% OFF; ON ALL ACCOUNTS • MULTIPLE USES; START TRADING. SCALE FASTER.
+Green hands/chart emblem and tradeify wordmark at centre.
+Price panel: 25K Evaluation $109 struck out → $65; 50K Evaluation $165 → $99; 100K Evaluation $265 → $159; 150K Evaluation $369 → $221.
+These base prices match standard Select in the official pricing reference, despite the artwork's generic Evaluation wording. Do not relabel as Growth.
+Stacked white CTAs: REPLY “Prop”; CODE “CA”.
+Offer Ends On Aug 31st, 11:59 EST. No year is visible; this is a historical reference deadline, not an active deadline.
+Design: black/gold grid; green ribbons, central green graphic and green discounted prices; soft bright glass panel rim.
+
+3. PALETTE AND HOW TO USE IT
+Chart Academy core: black/charcoal foundations, white information, yellow/gold offer emphasis and accents. Tradeify secondary identity: vivid green/mint in its wordmark tag, selected product graphics and some prices.
+Yellow carries the discount number, GROWTH headline, urgency, dots, feature lightning icons, popular badges, star, borders and glow. White carries OFF, plan names, prices on most layouts and body copy. Black keeps the composition legible and gives the lit elements depth.
+Working recreation tokens, approximate and inferred from PNGs, NOT official source hex values:
+  Background near-black: #080808; pure dark edge: #000000; charcoal panel: #1B1D1D.
+  Chart Academy yellow midtone: #FFD433; pale highlight: #FFF19A; gold shadow/end: #F5B91C.
+  White: #FFFFFF; silver highlight: #F4F4F4; silver shadow: #B8B8B8.
+  Fine neutral borders: #858585; muted dividers/text: #5A5A5A.
+  Tradeify green label: approximately #43FF67; mint accent where appropriate: approximately #53EA88.
+The yellow varies with gradient, metallic treatment, grain and lighting. A single flat yellow does not reproduce every reference.
+Measured bright-yellow channel medians across exports range from #FCCC51 to #FFDB56, with the phone layout at #FFD019. Channel medians describe raster pixels, not brand swatches.
+Approximate measured surface proportions:
+  Phone/benefits: 87.74% dark, 3.25% bright yellow, 3.77% light neutral, 0.95% bright green.
+  Growth cards: 70.25% dark, 4.96% bright yellow, 21.15% light neutral, 0.73% bright green.
+  Lightning cards: 86.56% dark, 1.97% bright yellow, 8.56% light neutral, 0.20% bright green.
+  Select rows: 90.75% dark, 2.07% bright yellow, 5.10% light neutral, essentially no bright green.
+  50% story: 73.97% dark, 7.31% bright yellow, 16.85% light neutral, 0.76% bright green.
+Do not mechanically apply a colour percentage rule. Huge yellow numerals can dominate attention while occupying little actual surface.
+Reproducible data: futures-colour-analysis.json. Script: ../analyse_futures_refs.py. The HSV buckets omit muted/pale yellow into other groups, so these are approximate luminous-accent proportions.
+
+4. TYPOGRAPHY
+Exact font family names and source font sizes are UNCONFIRMED. All eight references are flattened PNGs, and their inspected text metadata is empty. Do not describe a guessed font as an identified source font.
+Observed title style: modern heavy sans-serif/grotesque; broad round O/0; thick consistent strokes; compact spacing; uppercase offer and plan headlines. Discount numerals and OFF have very high visual weight. Several headline variants are italic/oblique, especially GROWTH and the phone 40% OFF.
+Body/CTA style: clean rounded/geometric sans-serif, lighter weight for introductory text, bold for Prop and CA. The paired CTA deliberately contrasts regular 'Reply:' / 'Code:' with bold keywords.
+Some secondary headlines use increased tracking: EVALUATION under GROWTH, SPECIAL OFFER, BIGGEST SALE EVER, and the small EVALUATION labels. This is intentional and should not be applied to all text.
+Hierarchy at 1080px width, approximate visible design scale rather than source font measurements:
+  Discount hero: roughly 180–360px equivalent type scale depending on one-line versus stacked layout.
+  Main plan headline: roughly 48–86px; GROWTH hero substantially larger.
+  Feature/body text: roughly 28–40px.
+  Account labels and CTA keywords: roughly 40–72px.
+  Card prices: roughly 90–140px; horizontal-row prices roughly 72–90px.
+  Trust/footer text: roughly 26–34px.
+Match glyph silhouettes, line widths, weight, tracking and line breaks against the actual selected image. Use a clean source logo asset when available. Do not retype logos as a substitute for exact brand artwork.
+Confirm font identities from an editable design or supplied font files when available; until then label any substitute as a substitute. There is no evidence that every export uses the same typeface.
+
+5. LAYOUT SYSTEM AND FINISH
+Seven story exports are 1080 x 1920, 9:16. Email is 1200 x 1280.
+Recurring reading order: co-brand/logo → discount → product and short benefits → prices or hero visual → response keyword/code → optional trust/deadline.
+Main families:
+  Offer-only: monumental yellow percentage + white OFF, centred supporting copy, stacked white CTA blocks, trust footer.
+  Product comparison: two-by-two cards for Lightning; four horizontal rows for Select; pinned white notes for Growth.
+  Feature/hero: angled phone at left, three feature blocks at right, stacked yellow-outline CTAs.
+  Price comparison: before/after prices in one glass panel, original prices struck through, new prices green.
+Background: near-black vignette, fine grain, very faint trading/chart grid or curved halftone dot field, local grey/gold glows. Green ribbons appear in one variant, not every advert.
+Cards: rounded rectangles; fine silver borders; charcoal interiors; metallic/glass edge highlights. Select has a narrow yellow stripe on the left; popular rows get stronger yellow borders. Growth cards have slight independent rotations and tactile pins.
+CTA treatments: (1) adjacent dark metallic rounded rectangles with bright upper edge; (2) stacked white rounded rectangles with black type; (3) stacked black rectangles with yellow outline and glow. Select the treatment that belongs to the chosen composition.
+Use the action split intentionally: 'Reply: Prop' starts a response/conversation; 'Code: CA' identifies the partnership purchase code. Email reference uses only Code: CA.
+There is no supplied fixed CTA link or landing URL. Do not invent one.
+Price layouts generally use about 30–75px outer margins on a 1080px-wide canvas. Text/card spacing and story placement must still account for the actual channel interface.
+Effects: yellow-to-gold discount gradients, white-to-silver OFF/prices, restrained bevel/drop shadow, occasional small price sparkles. Keep effects away from small body text.
+
+6. PRICE REFERENCE — OBSERVED 40% CAMPAIGN
+Account size            25K        50K        100K       150K
+Growth displayed        $59        $87        $153       $221
+Select displayed        $65        $99        $159       $221
+Lightning displayed     $207       $295       $396       $478
+These are the literal prices in the supplied graphics. Preserve them as reference campaign data, not current checkout guarantees.
+The corresponding official base-price snapshot researched 6 October 2026:
+Growth                  $99        $145       $255       $369
+Select standard         $109       $165       $265       $369
+Lightning               $345       $492       $660       $796
+Applying 40% off mathematically gives:
+Growth                  $59.40     $87.00     $153.00    $221.40
+Select                  $65.40     $99.00     $159.00    $221.40
+Lightning               $207.00    $295.20    $396.00    $477.60
+The source uses mixed whole-dollar presentation; do not infer a universal rounding policy from it. Verify the actual checkout price or user-supplied offer before a new live promotion.
+The separate 50% references do not provide account-by-account prices. Do not combine their headline with the 40% price tables.
+Official pricing source: https://help.tradeify.co/en/articles/14369021-tradeify-pricing-reference
+
+7. PRODUCT INFORMATION FOR FUTURE COPY
+Keep product-specific benefits attached to their actual plan and stage:
+Growth: evaluation potentially passed in one day; no evaluation consistency requirement; daily loss limit; funded payout consistency is 35%; five qualifying profitable days and additional payout criteria.
+Select: standard 40% consistency evaluation can pass in three days; optional paid 50% consistency add-on permits two-day potential. No daily loss limit in evaluation. After passing, choose Flex or Daily permanently for that account. Funded consistency requirement is absent. Flex has no daily loss limit and five-winning-day payouts; Daily has a loss limit, buffer and daily eligibility.
+Lightning: immediate access to simulated funded trading, no evaluation; progressive payout consistency 20%/25%/30% for relevant purchase dates. Detailed policy states no separate minimum day count, despite '5 Day Payouts' in these graphics.
+Current simulated funded split is 90/10; Elite Live split is 80/20. Account size is not an unrestricted cash balance available for withdrawal.
+End-of-day drawdown floor updates at the close but is enforced intraday. 'No intraday traps' must not be expanded into 'no intraday loss enforcement'.
+The phone layout combines benefits from different plans: 'Instant funding' and 'No consistency once funded' must not be presented as universal conditions of one Lightning account.
+Daily payouts mean eligibility under the appropriate plan, not unconditional guaranteed daily payments. A profit goal is not the withdrawal cap.
+Source links:
+  Growth: https://help.tradeify.co/en/articles/10495915-growth-evaluation-accounts
+  Growth payouts: https://help.tradeify.co/en/articles/11083796-growth-funded-account-payout-policy
+  Select: https://help.tradeify.co/en/articles/12853921-select-evaluation-accounts
+  Select payouts: https://help.tradeify.co/en/articles/12853966-select-flex-and-select-daily-payout-policies
+  Lightning payouts: https://help.tradeify.co/en/articles/10495932-lightning-funded-account-payout-policy
+  Drawdown: https://help.tradeify.co/en/articles/10495897-rules-trailing-max-drawdowns
+  Elite: https://help.tradeify.co/en/articles/12969284-tradeify-elite-program
+
+8. VARIABLES AND NEXT-AD WORKFLOW
+Default partnership cues for this reference family: Chart Academy yellow/black/white, Tradeify Futures green secondary cue, reply keyword Prop, campaign code CA. Override when the user specifies a different campaign.
+Variable fields: product, account size, discount, base/sale price, billing phrase, eligibility benefit, popular tier, expiration date/timezone, CTA keyword, code, trust rating/review count, channel and dimensions.
+The supplied 40%, 50%, 'biggest sale ever', 'multiple uses', August deadline, 4.8/5 rating and 4,113 reviews are observed campaign copy, not evergreen facts. Do not refresh or change them silently; use the new brief/current evidence.
+Before creating an advert, read this guide and inspect the relevant actual reference. Choose a layout that fits the message, then update the variables. Keep the brand blend even if no ChartAcademy logo is shown in the selected family.
+Before delivery: check spelling, clean co-brand artwork, plan/stage accuracy, all four prices, discount arithmetic/actual checkout presentation, code, reply keyword, deadline, mobile legibility, hierarchy, effects and alignment. Avoid copying the duplicated Select logo defect or misclassifying the Lightning image because of its filename.

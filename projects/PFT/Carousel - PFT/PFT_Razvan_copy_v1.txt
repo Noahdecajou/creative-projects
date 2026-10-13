@@ -1,0 +1,96 @@
+PFT — RAZVAN CAROUSEL
+Version 1 — copy edited; source verification and branding pending.
+
+SLIDE 1
+THE STRATEGY BEHIND A $158,000 PAYOUT
+
+Razvan received a $158K prop firm payout in just two weeks.
+
+Here’s the strategy behind it.
+
+SLIDE 2
+STEP 1: MARK KEY LEVELS BEFORE THE NEW YORK OPEN
+
+Razvan maps out:
+• Previous day highs and lows
+• Previous week highs and lows
+• Session highs and lows
+• Value area highs and lows
+
+His favourite opportunities appear when multiple key levels overlap in the same area.
+
+Visual: Chart with two or three levels converging in one highlighted zone. Use a supplied real chart, or clearly label a constructed chart as an illustrative example.
+
+SLIDE 3
+STEP 2: WATCH HOW PRICE REACTS
+
+Reaching a key level isn’t Razvan’s entry signal.
+He waits to see what price does when it gets there.
+
+DISPLACEMENT
+Price moves aggressively through the level.
+
+CONSOLIDATION
+Price starts chopping around the area.
+
+REVERSAL
+Price starts rejecting the level.
+
+The reaction determines what Razvan looks for next.
+
+Visual: Three mini charts showing the same key level and three distinct reactions. Label constructed charts as illustrative examples.
+
+SLIDE 4
+STEP 3: WAIT FOR REVERSAL CONFIRMATION
+
+Razvan prefers reversals because they offer higher reward-to-risk ratios and clearer targets.
+
+A rejection alone isn’t enough. One setup he demonstrates follows this sequence:
+
+Price reaches a key level
+↓
+A fair value gap forms through it
+↓
+The fair value gap is inverted
+↓
+Price closes back through the level
+↓
+Razvan enters on confirmation
+
+When trading Nasdaq around the New York open, Razvan says a 5-minute inversion is ideal for him. He can refine his execution on the 1-minute chart.
+
+Visual: One chart with numbered annotations matching the sequence. Confirm the sequence against the episode before drawing it. Label a constructed chart as an illustrative example.
+
+SLIDE 5
+STEP 4: LET THE WINNERS RUN
+
+Razvan uses logical levels, such as session highs and lows, as targets.
+
+Once price reaches the target, he switches to the 1-minute chart and trails his stop above each new candle as the move continues.
+
+Razvan says this simple rule can sometimes generate enough P&L to make up for the entire week.
+
+Visual: A short trade reaches the London low and continues lower, with trailing stops above successive candles. Confirm that this is a short-specific example before final production. Label a constructed chart as an illustrative example.
+
+SLIDE 6
+THE FULL PROCESS
+
+1. Mark the key levels
+2. Wait for price to reach them
+3. Read the reaction
+4. Wait for confirmation
+5. Enter with defined risk
+6. Target the next logical level
+
+In the full breakdown, Razvan opens his charts and walks through his trades, explaining the thought process behind them.
+
+WATCH THE $158K STRATEGY BREAKDOWN
+
+Full episode — link in bio.
+
+PRODUCTION NOTES — NOT FOR PUBLICATION
+• Await PFT references, logo, palette/font references and available photos.
+• Await podcast/transcript to verify payout amount and timeframe, attributed statements, inversion sequence and trailing-stop example.
+• Slide 5 wording currently preserves the supplied above-candle stop rule. It requires confirmation that the example is a short.
+• Keep text separate from generated imagery.
+• Final output: six 1080 × 1350 PNGs, ordered ZIP, contact sheet, editable source and generated visual prompts.

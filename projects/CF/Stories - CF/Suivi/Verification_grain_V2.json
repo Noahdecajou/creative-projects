@@ -1,0 +1,90 @@
+[
+  {
+    "file": "01_What_Candles_Dont_Show.png",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "grain_percent": 3,
+    "sigma": 7.65,
+    "grain": "Gaussian monochromatic, same noise in RGB channels",
+    "seed": 81008
+  },
+  {
+    "file": "02_Hidden_Orders_Moving_Price.png",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "grain_percent": 3,
+    "sigma": 7.65,
+    "grain": "Gaussian monochromatic, same noise in RGB channels",
+    "seed": 81009
+  },
+  {
+    "file": "03_What_Really_Moves_Price.png",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "grain_percent": 3,
+    "sigma": 7.65,
+    "grain": "Gaussian monochromatic, same noise in RGB channels",
+    "seed": 81010
+  },
+  {
+    "file": "04_Stop_Trading_Blind.png",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "grain_percent": 3,
+    "sigma": 7.65,
+    "grain": "Gaussian monochromatic, same noise in RGB channels",
+    "seed": 81011
+  },
+  {
+    "file": "05_Master_Order_Flow_Trading.png",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "grain_percent": 3,
+    "sigma": 7.65,
+    "grain": "Gaussian monochromatic, same noise in RGB channels",
+    "seed": 81012
+  },
+  {
+    "file": "06_See_Hidden_Orders.png",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "grain_percent": 3,
+    "sigma": 7.65,
+    "grain": "Gaussian monochromatic, same noise in RGB channels",
+    "seed": 81013
+  },
+  {
+    "file": "07_Hidden_Orders_Revealed.png",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "grain_percent": 3,
+    "sigma": 7.65,
+    "grain": "Gaussian monochromatic, same noise in RGB channels",
+    "seed": 81014
+  },
+  {
+    "file": "08_Price_To_Order_Flow.png",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "grain_percent": 3,
+    "sigma": 7.65,
+    "grain": "Gaussian monochromatic, same noise in RGB channels",
+    "seed": 81015
+  }
+]

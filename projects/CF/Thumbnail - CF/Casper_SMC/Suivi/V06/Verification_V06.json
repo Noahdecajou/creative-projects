@@ -1,0 +1,32 @@
+{
+  "Version": "V06",
+  "Date": "2026-10-13",
+  "PNGCount": 8,
+  "MasterCount": 8,
+  "Width": 3840,
+  "Height": 2160,
+  "Native4K": false,
+  "OriginalSourceCount": 54,
+  "OriginalSourceHashesUnchanged": true,
+  "VideoOrProxyDownloaded": false,
+  "FinalGrain": "5 percent uniform monochromatic, single final pass",
+  "VisualReview": "Eight previews at mobile size; four changed images at 1280; native eye and face crops, dense candlesticks, bottom-left name and portrait scale reviewed",
+  "ModifiedThumbnails": [
+    "02",
+    "04",
+    "05",
+    "06"
+  ],
+  "UnchangedThumbnailsByteIdenticalToV05": [
+    "01",
+    "03",
+    "07",
+    "08"
+  ],
+  "LocalPixelComparison": "Corrections_locales_V05_V06.csv",
+  "Archive": "Casper_8_Thumbnails_V06_3840x2160.zip",
+  "ArchiveEntries": 8,
+  "ArchivePayloadHashesMatch": true,
+  "ArchiveBytes": 143960471,
+  "ArchiveSHA256": "5607616AAF00E462DFF435D97EE49DD3EB16624698A64A7A0BFD91C089B4923C"
+}

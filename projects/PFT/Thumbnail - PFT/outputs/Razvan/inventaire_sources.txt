@@ -1,0 +1,26 @@
+PROP FIRM TRADER - RAZVAN - INVENTAIRE DES SOURCES
+JPEG natifs issus de Viewer Settings > Download Still. 3840 x 2160. Aucune recompression ni retouche.
+
+01 | Razvan | 00:01:18:00 | Explication, geste de la main | 3840 x 2160 | Razvan_01_00-01-18-00.jpg
+02 | Animateur | 00:00:48:00 | Interrogatif, sourcil releve | 3840 x 2160 | Animateur_02_00-00-48-00.jpg
+03 | Animateur | 00:01:36:00 | Attentif, regard lateral | 3840 x 2160 | Animateur_03_00-01-36-00.jpg
+04 | Animateur | 00:02:24:00 | Question, mains ouvertes | 3840 x 2160 | Animateur_04_00-02-24-00.jpg
+05 | Razvan | 00:07:12:00 | Explication animee, regard lateral | 3840 x 2160 | Razvan_05_00-07-12-00.jpg
+06 | Razvan | 00:08:48:00 | Explication face camera | 3840 x 2160 | Razvan_06_00-08-48-00.jpg
+07 | Razvan | 00:11:12:00 | Neutre et pose; portrait principal V01 | 3840 x 2160 | Razvan_07_00-11-12-00.jpg
+08 | Animateur | 00:12:00:00 | Attentif, regard vers invite | 3840 x 2160 | Animateur_08_00-12-00-00.jpg
+09 | Razvan | 00:14:24:00 | Intense, regard lateral | 3840 x 2160 | Razvan_09_00-14-24-00.jpg
+10 | Animateur | 00:18:24:00 | Serieux, en discussion | 3840 x 2160 | Animateur_10_00-18-24-00.jpg
+11 | Razvan | 00:19:12:00 | Attentif, ecoute | 3840 x 2160 | Razvan_11_00-19-12-00.jpg
+12 | Animateur | 00:37:36:00 | Ecoute, regard lateral | 3840 x 2160 | Animateur_12_00-37-36-00.jpg
+13 | Animateur | 00:39:12:00 | Adresse directe au public | 3840 x 2160 | Animateur_13_00-39-12-00.jpg
+14 | Razvan | 00:01:03:00 | Serieux, explication calme | 3840 x 2160 | Razvan_14_00-01-03-00.jpg
+15 | Razvan | 00:08:18:00 | Alerte, regard vers camera | 3840 x 2160 | Razvan_15_00-08-18-00.jpg
+16 | Razvan | 00:19:00:00 | Concentre, regard direct | 3840 x 2160 | Razvan_16_00-19-00-00.jpg
+17 | Razvan | 00:01:26:00 | Explication de trois-quarts | 3840 x 2160 | Razvan_17_00-01-26-00.jpg
+19 | Razvan | 00:02:32:00 | Attentif, visage detendu | 3840 x 2160 | Razvan_19_00-02-32-00.jpg
+20 | Razvan | 00:07:45:00 | Explication animee | 3840 x 2160 | Razvan_20_00-07-45-00.jpg
+22 | Razvan | 00:11:08:00 | Neutre professionnel, regard lateral | 3840 x 2160 | Razvan_22_00-11-08-00.jpg
+24 | Tableau | 00:13:36:00 | Niveaux cles; source du fond V01 | 3840 x 2160 | Tableau_24_00-13-36-00.jpg
+25 | Tableau | 00:14:36:00 | Schema de retournement et inversion | 3840 x 2160 | Tableau_25_00-14-36-00.jpg
+26 | Graphique | 00:22:24:00 | Exemple Nasdaq commente dans episode | 3840 x 2160 | Graphique_26_00-22-24-00.jpg

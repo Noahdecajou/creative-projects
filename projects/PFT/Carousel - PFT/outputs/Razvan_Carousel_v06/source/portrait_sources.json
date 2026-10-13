@@ -1,0 +1,31 @@
+{
+  "method": "Original JPEG camera frames; uniform cropping/scaling only. No generative portrait, denoising, face restoration, skin smoothing or detail synthesis. Graphic fades remain separate layout layers.",
+  "originals": {
+    "portrait_front_source.jpg": {
+      "sha256": "a7c8d929a17ce6f75d872b51ad881c36844f67399887c16a24e1b977b10b0ee5",
+      "original_file": "Razvan_17_00-01-26-00.jpg",
+      "source_folder": "C:\\Users\\notti\\Documents\\ChatGPT\\Thumbnail - PFT\\outputs\\Razvan\\sources_HD"
+    },
+    "portrait_gesture_source.jpg": {
+      "sha256": "7f5cd071c84b0dfbfde74e0d1ebd6868588eb1b281839b6cef3c6c40ac814366",
+      "original_file": "Razvan_01_00-01-18-00.jpg",
+      "source_folder": "C:\\Users\\notti\\Documents\\ChatGPT\\Thumbnail - PFT\\outputs\\Razvan\\sources_HD"
+    },
+    "Razvan_05_00-07-12-00.jpg": {
+      "sha256": "9480921a32810b8ad2e87d5f70101c154749fc7437368975775336986ae685c2",
+      "original_file": "Razvan_05_00-07-12-00.jpg",
+      "source_folder": "C:\\Users\\notti\\Documents\\ChatGPT\\Thumbnail - PFT\\outputs\\Razvan\\sources_HD"
+    },
+    "Razvan_09_00-14-24-00.jpg": {
+      "sha256": "37957efb6749d0468636540f8dd0c0c2d4a86b3cf6b0175152af71147f8b2932",
+      "original_file": "Razvan_09_00-14-24-00.jpg",
+      "source_folder": "C:\\Users\\notti\\Documents\\ChatGPT\\Thumbnail - PFT\\outputs\\Razvan\\sources_HD"
+    },
+    "Razvan_22_00-11-08-00.jpg": {
+      "sha256": "9cb2edc57a9491abc88a718d34f94266f45d2c2400bd438f8c25018a53872136",
+      "original_file": "Razvan_22_00-11-08-00.jpg",
+      "source_folder": "C:\\Users\\notti\\Documents\\ChatGPT\\Thumbnail - PFT\\outputs\\Razvan\\sources_HD"
+    }
+  },
+  "generated_nonportrait_asset": "trailing_overhead_daylight.png retained from approved V04/V05; no human face."
+}

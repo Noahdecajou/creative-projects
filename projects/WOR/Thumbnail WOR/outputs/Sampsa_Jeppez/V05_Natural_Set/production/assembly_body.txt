@@ -1,0 +1,50 @@
+
+$specs=Get-Content -Raw -LiteralPath (Join-Path $PSScriptRoot 'Local_regions.json')|ConvertFrom-Json
+$report=@()
+foreach($s in $specs){
+ $id=$s.id
+ $op=Join-Path $base ('masters\Sampsa_'+$id+'.png')
+ $gp=Join-Path $PSScriptRoot ('Generated_'+$id+'.png')
+ $orig=[LocalV5]::Read($op);$gen=[LocalV5]::Read($gp)
+ if($s.patches){$out=[LocalV5]::Read($op);$feather=3;if($s.feather){$feather=$s.feather};foreach($r in $s.patches){[LocalV5]::Blend($out,$gen,[int[]]$r,$false,$feather)}}
+ else{$out=[LocalV5]::Read($gp);foreach($r in $s.faces){[LocalV5]::Blend($out,$orig,[int[]]$r,$true,8)};foreach($r in $s.hands){[LocalV5]::Blend($out,$orig,[int[]]$r,$false,6)};foreach($p in $s.polygons){$xy=[int[]]@($p|ForEach-Object {$_[0];$_[1]});[ExtraV5]::Polygon($out,$orig,$xy)}}
+ $outside=$null
+ if($s.patches){$rs=[int[][]]@($s.patches|ForEach-Object {,[int[]]$_});$outside=[LocalV5]::OutsideChanged($orig,$out,$rs);if($outside-ne0){throw 'Unexpected external pixel change'}}
+ $out.Save((Join-Path $root ('masters\Sampsa_'+$id+'.png')),[Drawing.Imaging.ImageFormat]::Png)
+ $report+=[pscustomobject]@{Id=$id;OutsideLocalPatchChangedPixels=$outside;Width=$out.Width;Height=$out.Height}
+ $orig.Dispose();$gen.Dispose();$out.Dispose()
+}
+# Yellow only changes candle, finger light and reflection; portraits stay exactly green version.
+$green=[LocalV5]::Read((Join-Path $root 'masters\Sampsa_11_Green.png'))
+$yellow=[LocalV5]::Read((Join-Path $PSScriptRoot 'Generated_11_Yellow.png'))
+$out=[LocalV5]::Read((Join-Path $root 'masters\Sampsa_11_Green.png'))
+$rect=[int[]]@(782,375,291,566)
+[LocalV5]::Blend($out,$yellow,$rect,$false,10)
+$outside=[LocalV5]::OutsideChanged($green,$out,[int[][]]@(,$rect));if($outside-ne0){throw 'Yellow changed outside candle region'}
+$out.Save((Join-Path $root 'masters\Sampsa_11_Yellow.png'),[Drawing.Imaging.ImageFormat]::Png)
+$report+=[pscustomobject]@{Id='11_Yellow';OutsideLocalPatchChangedPixels=$outside;Width=$out.Width;Height=$out.Height}
+$green.Dispose();$yellow.Dispose();$out.Dispose()
+# Blur comparison: endpoint mixed at precisely 10% and 15%. Foreground restored from original.
+$orig=[LocalV5]::Read((Join-Path $base 'masters\Sampsa_13.png'))
+$blur=[LocalV5]::Read((Join-Path $PSScriptRoot 'Generated_13_Blur.png'))
+$polys=@(
+ @(172,837,214,667,239,528,316,435,382,415,387,316,439,267,501,254,551,278,570,321,578,368,591,391,576,426,624,452,652,530,698,626,723,705,665,758,432,817),
+ @(985,734,1005,639,1035,574,1081,518,1174,467,1180,437,1174,402,1188,350,1192,306,1230,277,1304,267,1348,296,1366,355,1355,423,1322,463,1422,511,1488,567,1505,667,1486,775),
+ @(151,940,151,856,274,811,385,755,526,715,632,690,689,689,739,691,927,691,1009,692,1110,712,1262,732,1376,770,1569,849,1575,940)
+)
+foreach($pct in @(10,15)){
+ $out=[LocalV5]::Read((Join-Path $base 'masters\Sampsa_13.png'))
+ [ExtraV5]::Mix($out,$blur,($pct/100.0))
+ foreach($poly in $polys){[ExtraV5]::Polygon($out,$orig,[int[]]$poly)}
+ # Keep headline region and both main facial/hand regions fully original.
+ [LocalV5]::Blend($out,$orig,[int[]]@(145,80,1400,158),$false,3)
+ [LocalV5]::Blend($out,$orig,[int[]]@(390,285,210,217),$true,3)
+ [LocalV5]::Blend($out,$orig,[int[]]@(1172,290,194,235),$true,3)
+ $out.Save((Join-Path $root ('masters\Sampsa_13_Blur'+$pct+'.png')),[Drawing.Imaging.ImageFormat]::Png)
+ $report+=[pscustomobject]@{Id=('13_Blur'+$pct);BlurEndpointOpacity=$pct;Width=$out.Width;Height=$out.Height}
+ $out.Dispose()
+}
+$orig.Dispose();$blur.Dispose()
+$report|ConvertTo-Json -Depth 6|Set-Content -LiteralPath (Join-Path $PSScriptRoot 'Local_pixel_verification.json') -Encoding utf8
+'15 edited masters assembled.'
+

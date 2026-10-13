@@ -1,0 +1,3950 @@
+{
+  "schema": 1,
+  "scope": "code-prompts-workflows-only",
+  "projects": [
+    {
+      "project": "Thumbnail WOR",
+      "destination": "projects/WOR/Thumbnail WOR",
+      "counts": {
+        "included": 100,
+        "media_or_binary": 980
+      }
+    },
+    {
+      "project": "Stories",
+      "destination": "projects/WOR/Stories",
+      "counts": {
+        "included": 28,
+        "large_or_embedded_asset": 27,
+        "media_or_binary": 147
+      }
+    },
+    {
+      "project": "Spotify",
+      "destination": "projects/WOR/Spotify",
+      "counts": {
+        "included": 4,
+        "media_or_binary": 7
+      }
+    },
+    {
+      "project": "Carousel - WOR",
+      "destination": "projects/WOR/Carousel - WOR",
+      "counts": {
+        "included": 4,
+        "large_or_embedded_asset": 5,
+        "media_or_binary": 44
+      }
+    },
+    {
+      "project": "Thumbnail - PFT",
+      "destination": "projects/PFT/Thumbnail - PFT",
+      "counts": {
+        "included": 57,
+        "media_or_binary": 340
+      }
+    },
+    {
+      "project": "Stories - PFT",
+      "destination": "projects/PFT/Stories - PFT",
+      "counts": {
+        "included": 13,
+        "media_or_binary": 169
+      }
+    },
+    {
+      "project": "Spotify - PFT",
+      "destination": "projects/PFT/Spotify - PFT",
+      "counts": {
+        "included": 10,
+        "media_or_binary": 26
+      }
+    },
+    {
+      "project": "Carousel - PFT",
+      "destination": "projects/PFT/Carousel - PFT",
+      "counts": {
+        "included": 91,
+        "large_or_embedded_asset": 8,
+        "media_or_binary": 363
+      }
+    },
+    {
+      "project": "Thumbnail - CF",
+      "destination": "projects/CF/Thumbnail - CF",
+      "counts": {
+        "included": 332,
+        "media_or_binary": 1663,
+        "private_or_runtime": 10
+      }
+    },
+    {
+      "project": "Stories - CF",
+      "destination": "projects/CF/Stories - CF",
+      "counts": {
+        "included": 13,
+        "media_or_binary": 64
+      }
+    },
+    {
+      "project": "Spotify - CF",
+      "destination": "projects/CF/Spotify - CF",
+      "counts": {}
+    },
+    {
+      "project": "Carousel - CF",
+      "destination": "projects/CF/Carousel - CF",
+      "counts": {
+        "included": 37,
+        "media_or_binary": 146
+      }
+    },
+    {
+      "project": "Apex - ADS",
+      "destination": "projects/ADS/Apex - ADS",
+      "counts": {
+        "included": 3,
+        "media_or_binary": 8
+      }
+    },
+    {
+      "project": "Tradeify - ADS",
+      "destination": "projects/ADS/Tradeify - ADS",
+      "counts": {
+        "included": 10,
+        "media_or_binary": 21
+      }
+    },
+    {
+      "project": "Tradezella - ADS",
+      "destination": "projects/ADS/Tradezella - ADS",
+      "counts": {
+        "included": 4,
+        "media_or_binary": 15
+      }
+    },
+    {
+      "project": "Ninja Trader - ADS",
+      "destination": "projects/ADS/Ninja Trader - ADS",
+      "counts": {
+        "included": 3,
+        "media_or_binary": 26
+      }
+    },
+    {
+      "project": "Lucid - ADS",
+      "destination": "projects/ADS/Lucid - ADS",
+      "counts": {}
+    },
+    {
+      "project": "Vest - ADS",
+      "destination": "projects/ADS/Vest - ADS",
+      "counts": {}
+    },
+    {
+      "project": "Carousel - COPY",
+      "destination": "projects/Shared/Carousel - COPY",
+      "counts": {}
+    },
+    {
+      "project": "WOR Studio",
+      "destination": "projects/WOR/WOR Studio",
+      "counts": {
+        "included": 29,
+        "outside_studio_allowlist": 63
+      }
+    }
+  ],
+  "files": [
+    {
+      "path": "projects/ADS/Apex - ADS/Design-Rules.txt",
+      "bytes": 622,
+      "sha256": "e570348b8777d38918e3015c2606299115d79dadd1b09c328c05a432f3afcd8f"
+    },
+    {
+      "path": "projects/ADS/Apex - ADS/Output/Apex-5-Year-92-Flash-Sale-CF-prompt.txt",
+      "bytes": 1838,
+      "sha256": "e9c70bdbc5f6e2ac0c25ac1c8081a7d68d959bfce52dcbaf8cfaae2f44923482"
+    },
+    {
+      "path": "projects/ADS/Apex - ADS/Output/Apex-Clean-v2-prompt.txt",
+      "bytes": 2782,
+      "sha256": "045610c089d6c1684095231d099588a5c51239de1aba26b959a485b9438db6c6"
+    },
+    {
+      "path": "projects/ADS/Apex - ADS/PROJECT.md",
+      "bytes": 128,
+      "sha256": "39f2824c3bb2f346fb163bc5dce33f8ed395b2ca1dd2d9cceb7fec621a7cbe15"
+    },
+    {
+      "path": "projects/ADS/Lucid - ADS/PROJECT.md",
+      "bytes": 129,
+      "sha256": "e925dc18062283a72d41a5a5b78009263908a9d6e8ce33547d5302973f3f2aef"
+    },
+    {
+      "path": "projects/ADS/Ninja Trader - ADS/Animations/render_chess_action.py",
+      "bytes": 5727,
+      "sha256": "135cb2e07fc629f1facb9f84d044bae8bd37acaf4090e0bd381521d328d5c222"
+    },
+    {
+      "path": "projects/ADS/Ninja Trader - ADS/Animations/render_knight_photo.py",
+      "bytes": 4050,
+      "sha256": "5d12bfc2925bfac006218e96951ca20105204fde67713897cf67f122f3989893"
+    },
+    {
+      "path": "projects/ADS/Ninja Trader - ADS/Animations/render_loop.py",
+      "bytes": 4197,
+      "sha256": "83abff99ff327dd7a7ed6f31bb62142f84a612b3734be09723a8f7e4b4b8ca00"
+    },
+    {
+      "path": "projects/ADS/Ninja Trader - ADS/PROJECT.md",
+      "bytes": 136,
+      "sha256": "7d120b08ee614d53435a9561a7eed870dda928102811ea0fefb5025ecd38be93"
+    },
+    {
+      "path": "projects/ADS/Tradeify - ADS/AGENTS.md",
+      "bytes": 1551,
+      "sha256": "960427e0ff6b1dddb950dd7d2d80416cc3bde075fa985688f3e15b1f31573aca"
+    },
+    {
+      "path": "projects/ADS/Tradeify - ADS/Ads - Futures/CA-x-Tradeify-Select-40-test-v1-prompt.txt",
+      "bytes": 3051,
+      "sha256": "7f7a21099f56928f05f6793b4b052148526838d5058ebb2f36cddeb09a86294f"
+    },
+    {
+      "path": "projects/ADS/Tradeify - ADS/Design - Ref - Futures/REFERENCE-TRADEIFY-FUTURES-X-CHART-ACADEMY.txt",
+      "bytes": 16264,
+      "sha256": "9e542812eb2eda2ce6237c996d87785a95ce8d53162ac1d3446cc569f141066c"
+    },
+    {
+      "path": "projects/ADS/Tradeify - ADS/Design - Ref - Futures/futures-colour-analysis.json",
+      "bytes": 11738,
+      "sha256": "132cae2b7f386644e7052395d81f7b7648350b0a008804ccc63973fc8ff047d4"
+    },
+    {
+      "path": "projects/ADS/Tradeify - ADS/Design - Ref/REFERENCE-DESIGN-TRADEIFY-FX.txt",
+      "bytes": 9402,
+      "sha256": "fb4839741267ed712139738c2c8142850c6ce32c027895a828f40206fca76972"
+    },
+    {
+      "path": "projects/ADS/Tradeify - ADS/Design - Ref/analyse-couleurs.json",
+      "bytes": 10632,
+      "sha256": "df45819b8131b936c24c6f1bdf98eb5eb1f6a8a351d4e89fee9e20e421d30355"
+    },
+    {
+      "path": "projects/ADS/Tradeify - ADS/PROJECT.md",
+      "bytes": 132,
+      "sha256": "25c615120b3a8aa69423384346f6d8b4db734b6c28bf80259c4c1f48d3e79a2b"
+    },
+    {
+      "path": "projects/ADS/Tradeify - ADS/analyse_design_refs.py",
+      "bytes": 2139,
+      "sha256": "510c73530a909e7a89f8ce5547a34bd445fdbf26e80246e010e7da0f07c32408"
+    },
+    {
+      "path": "projects/ADS/Tradeify - ADS/analyse_futures_refs.py",
+      "bytes": 2830,
+      "sha256": "0a57c8b0990edf23394876912e8ad277bdda5e63d81ce13bbc765137dcefac77"
+    },
+    {
+      "path": "projects/ADS/Tradeify - ADS/output/tradeify-fx-test-01-prompt.txt",
+      "bytes": 2566,
+      "sha256": "1f993e7e98666cdb807ef4d022f48c6a7083a88f5cd74ae582110b625c3a46a8"
+    },
+    {
+      "path": "projects/ADS/Tradeify - ADS/output/tradeify-fx-test-01-v2-prompt.txt",
+      "bytes": 1000,
+      "sha256": "bf2d140bb7086404e4f5e2c1d345b7ebb50c25a09cb1179aae6a3a9d991d6c6e"
+    },
+    {
+      "path": "projects/ADS/Tradezella - ADS/Ads/TradeZella-03-prompt.txt",
+      "bytes": 3739,
+      "sha256": "2a080328f1637d5d9d7fa5141ec8406e99a919b45292569f596bb805aa7adc18"
+    },
+    {
+      "path": "projects/ADS/Tradezella - ADS/Ads/TradeZella-04-prompt.txt",
+      "bytes": 5008,
+      "sha256": "af9e7970a8dfe85f04b8e9b43dd3e69b5ec3a2520d6b2e1875b5c16f882f51de"
+    },
+    {
+      "path": "projects/ADS/Tradezella - ADS/Ads/TradeZella-Test-01-prompt.txt",
+      "bytes": 1760,
+      "sha256": "23078e5dfd208613f347680809ec54e03561a614521e9af40d89a430ed985ad7"
+    },
+    {
+      "path": "projects/ADS/Tradezella - ADS/Ads/TradeZella-Test-02-prompt.txt",
+      "bytes": 1277,
+      "sha256": "597a7444f471e1242ae3a51b1ca2671434d9858f7170063d1b589d7570d0d4b2"
+    },
+    {
+      "path": "projects/ADS/Tradezella - ADS/PROJECT.md",
+      "bytes": 134,
+      "sha256": "243f25e48de3bc2d8043521c05bb233495166c49bfecb671acc125981b7472cc"
+    },
+    {
+      "path": "projects/ADS/Vest - ADS/PROJECT.md",
+      "bytes": 128,
+      "sha256": "8441a9ba63a97bb66a73e1c0776bb40c04a0198204a1a677d1c6d17341410793"
+    },
+    {
+      "path": "projects/CF/Carousel - CF/PROJECT.md",
+      "bytes": 131,
+      "sha256": "68bda12578b666df1ad22a8f5e152c533671d198574b2ab3415839fc2245bf85"
+    },
+    {
+      "path": "projects/CF/Carousel - CF/Scott_Carousel_V01/QA/verification.json",
+      "bytes": 18232,
+      "sha256": "01a2afc48cba95b7e557e96f350a8dc413b391d98e6471032f19299f281099b1"
+    },
+    {
+      "path": "projects/CF/Carousel - CF/Scott_Carousel_V01/source/Copy_final.txt",
+      "bytes": 2435,
+      "sha256": "d3ca84cea5848a82f9a3649cbf6a44d63defb0285d0f05cae241aa921fa44c36"
+    },
+    {
+      "path": "projects/CF/Carousel - CF/Scott_Carousel_V01/source/Prompts.txt",
+      "bytes": 2112,
+      "sha256": "1b8f4ba5c661d772a781f0126e09031691ad9d173525c720b8ff3be8967676c2"
+    },
+    {
+      "path": "projects/CF/Carousel - CF/Scott_Carousel_V01/source/READ_ME.txt",
+      "bytes": 2500,
+      "sha256": "ca04b13d5bcfa9cd9c3a7090254c43d425df3607187a4cdd3669b40c567d158f"
+    },
+    {
+      "path": "projects/CF/Carousel - CF/Scott_Carousel_V01/source/Transcript_source.txt",
+      "bytes": 113925,
+      "sha256": "62dd136ac04d36de7e850e04f00a781595f69a5feb02f032b1528265347d4cf1"
+    },
+    {
+      "path": "projects/CF/Carousel - CF/Scott_Carousel_V01/source/build_carousel.py",
+      "bytes": 10966,
+      "sha256": "e0f6ce1abc341e504d0e282fb04da7326625888f9a8f7f359c4b848b7894c4b7"
+    },
+    {
+      "path": "projects/CF/Carousel - CF/Scott_Carousel_V02/QA/verification.json",
+      "bytes": 18228,
+      "sha256": "73e157c7e93402c2e5840f6acf94438ed7270e2ba873000c7389404ee6c43fe6"
+    },
+    {
+      "path": "projects/CF/Carousel - CF/Scott_Carousel_V02/source/Copy_final.txt",
+      "bytes": 2434,
+      "sha256": "487172f5faa1446a6788621d22403353729ccf23fb64b818e792fe1851f0a698"
+    },
+    {
+      "path": "projects/CF/Carousel - CF/Scott_Carousel_V02/source/Prompts_V02.txt",
+      "bytes": 2946,
+      "sha256": "10e33134c09afe99ed560bdafec700adce1c9274feb80c577baaf564ad207c3e"
+    },
+    {
+      "path": "projects/CF/Carousel - CF/Scott_Carousel_V02/source/READ_ME.txt",
+      "bytes": 1691,
+      "sha256": "ef548bc517fc57008fa3a68376e9c35eccd8d3c8dd4c75e5982eff0e79d7078c"
+    },
+    {
+      "path": "projects/CF/Carousel - CF/Scott_Carousel_V02/source/build_carousel.py",
+      "bytes": 12743,
+      "sha256": "9637eb17e84269304efbe0b3e8de7920e981e3d44b007b543cc5cf0ee8755365"
+    },
+    {
+      "path": "projects/CF/Carousel - CF/Scott_Carousel_V02/source/package_v02.py",
+      "bytes": 2011,
+      "sha256": "8e57d35405cd156a6e11381b5e3384127b6a4cba21bfae1ab3185028bdde77af"
+    },
+    {
+      "path": "projects/CF/Carousel - CF/Scott_Carousel_V02/source/revise.py",
+      "bytes": 5828,
+      "sha256": "219a3416fd77e5afe2e48393d0c1b46f2b9a35cf4cb6eca7dbf878403f206408"
+    },
+    {
+      "path": "projects/CF/Carousel - CF/Scott_Carousel_V03/QA/verification.json",
+      "bytes": 18516,
+      "sha256": "98a5ef13d74018f3aab1a71e8e5ba3746f697f563868c79c269600250c735108"
+    },
+    {
+      "path": "projects/CF/Carousel - CF/Scott_Carousel_V03/Scott_Carousel_V03_Complet/READ_ME.txt",
+      "bytes": 2234,
+      "sha256": "5e74122570e41fb3fffe3341327090729147a69d9209b2f7522d551957c8002a"
+    },
+    {
+      "path": "projects/CF/Carousel - CF/Scott_Carousel_V03/source/Copy_final.txt",
+      "bytes": 2436,
+      "sha256": "b5bb00b0f7c7607bf628d0d4b42b4bed2f0a7be6bcb3cc4c869cf4cc9998fe7d"
+    },
+    {
+      "path": "projects/CF/Carousel - CF/Scott_Carousel_V03/source/Prompts_V02.txt",
+      "bytes": 2946,
+      "sha256": "10e33134c09afe99ed560bdafec700adce1c9274feb80c577baaf564ad207c3e"
+    },
+    {
+      "path": "projects/CF/Carousel - CF/Scott_Carousel_V03/source/Prompts_V03.txt",
+      "bytes": 1829,
+      "sha256": "85ac1be662ed538b5afee3c18468b987599b389d60dbe22fd3d8223f7b18552f"
+    },
+    {
+      "path": "projects/CF/Carousel - CF/Scott_Carousel_V03/source/READ_ME.txt",
+      "bytes": 2234,
+      "sha256": "5e74122570e41fb3fffe3341327090729147a69d9209b2f7522d551957c8002a"
+    },
+    {
+      "path": "projects/CF/Carousel - CF/Scott_Carousel_V03/source/build_carousel.py",
+      "bytes": 13550,
+      "sha256": "6f98fe7090dcb80d169150351c91d294c839bd36425f3ac7ff7e7b1f9af5e5d0"
+    },
+    {
+      "path": "projects/CF/Carousel - CF/Scott_Carousel_V03/source/package_v03.py",
+      "bytes": 2042,
+      "sha256": "af3ff312d9c6a204cd5f49cd823805b81be5ba717584d424fc4448cc0dce1f70"
+    },
+    {
+      "path": "projects/CF/Carousel - CF/Scott_Carousel_V03/source/revision_v03.py",
+      "bytes": 3105,
+      "sha256": "26dffe9b11ff8967a514dfb0d6a331d650c43df65bab8b958c996ebf552ca9f5"
+    },
+    {
+      "path": "projects/CF/Carousel - CF/Scott_Video_Test_V01/READ_ME.txt",
+      "bytes": 1363,
+      "sha256": "73d451ef813847a67dbfecbedc39e9894bd0766e252bfdcc54754426805f30b5"
+    },
+    {
+      "path": "projects/CF/Carousel - CF/Scott_Video_Test_V01/audio_copy_verification.json",
+      "bytes": 513,
+      "sha256": "d1027acd6606497fe9047c7ec9128c0510a601fde6b4bf3ea45870d3d9c96826"
+    },
+    {
+      "path": "projects/CF/Carousel - CF/Scott_Video_Test_V01/build_video_tests.py",
+      "bytes": 2489,
+      "sha256": "05aa8aa11d621bef8ebfa46261be92a8d1d49d78af63c5ec84cdd01a458c639e"
+    },
+    {
+      "path": "projects/CF/Carousel - CF/Scott_Video_Test_V01/check_audio_copy.py",
+      "bytes": 1065,
+      "sha256": "eecd4c664b041e66f21ff7b08d85357f2051984ffa11e7b2fd8f1752bb77ae0f"
+    },
+    {
+      "path": "projects/CF/Carousel - CF/Scott_Video_Test_V01/extract_clips.py",
+      "bytes": 719,
+      "sha256": "f3b89b97c80dd0c5b25f992f5a079f0b89c7e5c68108a25a5f97f094f1886075"
+    },
+    {
+      "path": "projects/CF/Carousel - CF/Scott_Video_Test_V01/verification.json",
+      "bytes": 1059,
+      "sha256": "ce1e34c0dbe8a78ed46937570b37bbd05f7bced2bb9cf44738b3a44f5760fc2a"
+    },
+    {
+      "path": "projects/CF/Carousel - CF/Scott_Video_Test_V02/audio_copy_verification.json",
+      "bytes": 513,
+      "sha256": "829a1ba1e5257c533590c00335fa8e588f319044f862596cdee8dad814630ad5"
+    },
+    {
+      "path": "projects/CF/Carousel - CF/Scott_Video_Test_V02/build_video_tests.py",
+      "bytes": 2537,
+      "sha256": "6cc444280342a6448223f4c250fce5383c9fa1978e553fdbb75d51d3890171a0"
+    },
+    {
+      "path": "projects/CF/Carousel - CF/Scott_Video_Test_V02/check_audio_copy.py",
+      "bytes": 1067,
+      "sha256": "96d1865a587a7b36f7ef2599dc79e71ba8cf51ce99930a5b84106315f2f1d364"
+    },
+    {
+      "path": "projects/CF/Carousel - CF/Scott_Video_Test_V02/verification.json",
+      "bytes": 1061,
+      "sha256": "ddb78d80f42e12db0956700291fdb54f5c7382da798929ad6d4de559e82210b5"
+    },
+    {
+      "path": "projects/CF/Carousel - CF/Scott_Video_Test_V03/audio_copy_verification.json",
+      "bytes": 513,
+      "sha256": "1411cca130f05f2f12434aa9a7fa794461baa2ae74afe47e58ecc3e7d64ea28c"
+    },
+    {
+      "path": "projects/CF/Carousel - CF/Scott_Video_Test_V03/build_algo_video.py",
+      "bytes": 3194,
+      "sha256": "f0f8dd9ce1011caa5a8bbd13d6c5597ca25aa01324a527f6f97183bdb529a4c7"
+    },
+    {
+      "path": "projects/CF/Carousel - CF/Scott_Video_Test_V03/build_video_tests.py",
+      "bytes": 2567,
+      "sha256": "01466ece8545144046de9039c0c78101b6231217382a82c8feb5351c1691864e"
+    },
+    {
+      "path": "projects/CF/Carousel - CF/Scott_Video_Test_V03/check_audio_copy.py",
+      "bytes": 1084,
+      "sha256": "273f686064580f1307879b8df5c84fc6f4821f4748a20c1010c3272c6e730ca8"
+    },
+    {
+      "path": "projects/CF/Carousel - CF/Scott_Video_Test_V03/verification.json",
+      "bytes": 1061,
+      "sha256": "09c3ffd793d31c739db191af4089c63030a1321b912c08b37e98f83b77292e52"
+    },
+    {
+      "path": "projects/CF/Spotify - CF/PROJECT.md",
+      "bytes": 130,
+      "sha256": "d48010716fc070d91db442bc6d9ce3fecb3b660d98a45356f86d178c2441d50c"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Fiche_style.txt",
+      "bytes": 758,
+      "sha256": "9b2f0d0a9227ee61660c23c88bf6e7dd327174c40e6e1ea6506b94d61bbde04b"
+    },
+    {
+      "path": "projects/CF/Stories - CF/PROJECT.md",
+      "bytes": 130,
+      "sha256": "ab9c72bac08a39245d347c6ae38f6643f836235b0bc3c20ef3cca819cccbaad8"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Prompts.txt",
+      "bytes": 6372,
+      "sha256": "be93ed35f43ceaa2bb1a7915bce3ef88161d5a4873ed4284c0d3e436cb53b339"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Suivi/Source_compositions.json",
+      "bytes": 25380,
+      "sha256": "3867fb906d59f8902a48e48d9abeb2b319b38ad9d79ca2e16a84371bbf2c3788"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Suivi/Verification_exports.json",
+      "bytes": 1518,
+      "sha256": "c25be6ca2e570e3d86d0d06e72c67422388a33302b269d5a3402ac9f69327b90"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Suivi/Verification_grain_V2.json",
+      "bytes": 1945,
+      "sha256": "63c6798af37e5a7c1641940efb9f4ea9a016aa6e09dafbf4117957399973fa79"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Suivi/Verification_typographie_V3.json",
+      "bytes": 2191,
+      "sha256": "90fedab567d74e916c6d2ec13e743aaaf3bea3a8eb8f5e1c6245e13260cb6dbb"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Typography_V3/LIRE_MOI.txt",
+      "bytes": 754,
+      "sha256": "d30ef342382a472788d4cfdf1d98b9ed3198df37d316f9427a968621131efcf1"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Typography_V3/Prompts_et_sources.json",
+      "bytes": 9440,
+      "sha256": "d32680545a6d958816aa4e0dc5d22f18400bf1767a87b5a7f251d7c33e16b076"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Typography_V3/render.ps1",
+      "bytes": 542,
+      "sha256": "1db39ed5888cef9fa98d7f25dab13056de2016fa31619787bd7fe99d73ec5646"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Typography_V3/verify_package.py",
+      "bytes": 2039,
+      "sha256": "89e0ce799f7a021f2b7e0df6d11f8f8ff97f1a8646bbecef94cc01b21dae795a"
+    },
+    {
+      "path": "projects/CF/Stories - CF/add_grain_3pct.ps1",
+      "bytes": 2382,
+      "sha256": "3edd439a9869c9161796dc401c363c62fc9b221a8f247f84d24ea16594e2ac26"
+    },
+    {
+      "path": "projects/CF/Stories - CF/export_stories.py",
+      "bytes": 1824,
+      "sha256": "b6f04afdef161b5f8c8280bae7d8684d98541b15997388304a57df38b4e666ee"
+    },
+    {
+      "path": "projects/CF/Stories - CF/fix_riz_eye.ps1",
+      "bytes": 2929,
+      "sha256": "03f5452e785658f7b8a47c374bb231be6f34eb6a57da3004e3d3b38c1a1b57f1"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/LISEZ_MOI.txt",
+      "bytes": 1603,
+      "sha256": "f8634f3571e7e31ce18a9860dffc442fe564f4e5ae6ef2db6989ebbc3200dda0"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/LISEZ_MOI_V03.txt",
+      "bytes": 3585,
+      "sha256": "6001037185c9c778849066e0fae85506aadbe20be363bf09e3cc837024f40885"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/LISEZ_MOI_V04.txt",
+      "bytes": 3062,
+      "sha256": "061e317bee0d695d37fb700fd428559347de1a32869d57ef8680ad648a9592f5"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/LISEZ_MOI_V05.txt",
+      "bytes": 4428,
+      "sha256": "f29224318463937d7767e235f38893e8f9265b8e9a10e6d0bf8c01c2216c5977"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/LISEZ_MOI_V06.txt",
+      "bytes": 2142,
+      "sha256": "58fc01bb83beecf0feeded943749637003a621ff00713a5f15890bc04b305ef2"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/LISEZ_MOI_V07.txt",
+      "bytes": 2345,
+      "sha256": "b396be33f691d88e01060ea02fc595b1ab2dbd4f9f3404d905c796807ebfc7cc"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Livraison/Verification_Production_V03.json",
+      "bytes": 200,
+      "sha256": "8913a2446d1138c03aa9856e2db9e5071f109aa9fdcd09e354389d60cb1be754"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Livraison/Verification_Production_V04.json",
+      "bytes": 200,
+      "sha256": "be3f3cae8c41bffe0abec6da7c12b37a27c6d8b41d3d7f15626436ea356f5709"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Livraison/Verification_Production_V05.json",
+      "bytes": 200,
+      "sha256": "e7a3fbf3b14bece3a0b6e6f130a6848df314fa1187160e047d0c1343bd5d1062"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Livraison/Verification_Production_V06.json",
+      "bytes": 200,
+      "sha256": "b0bde380a85ee94bae2f62fe10b1a77dc782543001502f429c09a2c5481df0b4"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Livraison/Verification_Production_V07.json",
+      "bytes": 200,
+      "sha256": "732227b726a2ed7f928bedfef7ef55b6f8e544ddc0a8290cc48302b9ab3a8c8a"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Livraison/Verification_Projet_Complet_V02.json",
+      "bytes": 242,
+      "sha256": "4edfe58c3c6709a6fe48d92c4d6ffe6f230d65f62292f293b29b2dd52031d170"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/Brief_8_Thumbnails.txt",
+      "bytes": 10462,
+      "sha256": "996d5deb954d3e9fbcb394a983f2fc9317b657ea075022e690dcab1773693266"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/Casper_manifest.csv",
+      "bytes": 3705,
+      "sha256": "fc2b5b3468e45750ffc9dacfaa3527b629ab9778056e8b48383a10a48865b82d"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/Exports_V02_manifest.csv",
+      "bytes": 1615,
+      "sha256": "9f3709320004c38e3d337652c19dab01a4f72e4579135e0ea4f1377e27b6323a"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/Masters_V02_manifest.csv",
+      "bytes": 4004,
+      "sha256": "78848cba9ea556ce44248077222ea1b57c53e37f7f1608d09afda8dce004f5de"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/Notes_editoriales.txt",
+      "bytes": 3676,
+      "sha256": "05ef4a153d42c8241face944ddbf8d1430348ac8fa97b89bfc29723eda966c98"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/Prompts_imagegen_1.js",
+      "bytes": 1296,
+      "sha256": "39a91dd18a1c2a3bb21447b2603c4919405e7d28f808419d8cb2a12c7815a6af"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/Prompts_imagegen_2.js",
+      "bytes": 2103,
+      "sha256": "db1abe30e9f6c58b5c3b0c235d39d7412cff15ea2e9a399689566ab94f816238"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/Prompts_imagegen_3.js",
+      "bytes": 2857,
+      "sha256": "65cd4ffc980bcc76f3e5effae95aada9ec3751e638c37aea714bc970f7c42a2a"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/Riz_manifest.csv",
+      "bytes": 2441,
+      "sha256": "affdbdf572211b733a603b2283a96b87291fcf021ef14c4300b90d0ebab75047"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/Sources_Frameio.txt",
+      "bytes": 455,
+      "sha256": "ca2f75bbd36d2ff4b4872865ee3facdd6a3bb1792287f5dd8be86a439bf17658"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/Sources_HD_manifest_complet.csv",
+      "bytes": 9269,
+      "sha256": "716cdeba9380f6bf00653555194053408ef60896ec83d147b24b444d823ffda6"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/Suivi_titres.csv",
+      "bytes": 884,
+      "sha256": "63f6cd6df688ea365b5c6cf0ad097213ac5e347069c6f8c77ea512c4ba317290"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/Tableau_manifest.csv",
+      "bytes": 1893,
+      "sha256": "dfe3014fdcd080a6401953304c67e1a14d9a2f523f0c4c575328eae9565ffa06"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/Transcript_Frameio_lu.txt",
+      "bytes": 97970,
+      "sha256": "656e0b2dd02278d33ec41b8ff2785aa90d5a350ad05d9494eefa4fb3cb8c66ec"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/Transcript_UI_lu.json",
+      "bytes": 98841,
+      "sha256": "1365a5a4ba8b9ef754a6bfe0df1d01c0ce05b6e7334b4c0ba776436d3ba244d6"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/Typography_geometry_V01.csv",
+      "bytes": 2766,
+      "sha256": "3837bd9a2dc13d71255b708faf7f02c51d9a34e34ba0dadf9ef63fad2af04f8c"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/Typography_geometry_V02.csv",
+      "bytes": 2749,
+      "sha256": "4218b867c7d6526e3254c02dfac835fbf67b20aa6e127bcd3cb492953ee0c1b2"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V03/03_scene_prompt.txt",
+      "bytes": 2163,
+      "sha256": "3f2bf7b4f765ddbb65ed8dce8d4902cac991867ca4cfdc64eaef40442fcd054a"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V03/05_scene_prompt.txt",
+      "bytes": 2547,
+      "sha256": "50f0d7168a32a92fe0abdb7b863ce03bb8733f63121b893d8dcc1c108d1f632b"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V03/07_scene_prompt.txt",
+      "bytes": 2548,
+      "sha256": "8245ba01b2c2b9fc273e80edc56da3fe8c36a4bffbe703e54f186673b5e893f5"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V03/08_scene_prompt.txt",
+      "bytes": 2378,
+      "sha256": "369f7f153b77e876ee3d19ff965163b90d801cd21c448714f6464817811679d7"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V03/Exports_V03_manifest.csv",
+      "bytes": 1439,
+      "sha256": "1a13f28535ab61e403fc0090d3fcb14af31e6d8f6e433778457a96e71b27abb7"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V03/Generated_components_manifest.csv",
+      "bytes": 890,
+      "sha256": "b9a41d4053517a80022165afa183f790024ab8af39ce1f3b540612846cf88be1"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V03/Masters_V03_manifest.csv",
+      "bytes": 1403,
+      "sha256": "2b952f55cdebb3291ae5a2817606f30075fe43dd121389219a3edef52cc9fa91"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V03/Original_sources_verified.csv",
+      "bytes": 1558,
+      "sha256": "4d6a5036b746a5ed6dfc5937d0e14a551d45967795b1fb2c59f5997e191fca05"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V03/Suivi_titres_V03.csv",
+      "bytes": 1194,
+      "sha256": "7a04507ec0d871fa54398f98fcf8edf14043550a1c8ca1eae51b235208f0c77c"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V03/Typography_geometry_V03.csv",
+      "bytes": 3680,
+      "sha256": "bd1e157bd4acd5b815e55c90be22412da6dc2520087e1eb7c06fece6cbed5480"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V03/Verification_V03.json",
+      "bytes": 751,
+      "sha256": "764cebd388ffd3c2324fa2adfd6573c65f8fb1474c7e0077a12096640ac8db69"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V03/controle_visuel.ps1",
+      "bytes": 1039,
+      "sha256": "6ba30f858b7fa1576a127afa510c449dd46364a6e3e4327c06318b2b34b54b12"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V03/package_verify_v03.ps1",
+      "bytes": 5738,
+      "sha256": "4ff29529750b7e21feec9d7684f00b69d6fe3feef3603de13a29b21346ebbc1b"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V03/photo_composite.ps1",
+      "bytes": 7783,
+      "sha256": "62f317fbc87f872af02986be67209a1e546ff7343c91017a1e886e13fa9c1451"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V03/portrait_front_prompt.txt",
+      "bytes": 1531,
+      "sha256": "2e843a1db615358b9efc29ac0ee6b20f7a9576e99b09d5be289c83e409a6ac28"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V03/render_v03.ps1",
+      "bytes": 12202,
+      "sha256": "6774932d8e6823bdf508c5ac540360b9eaf15839033d56cb840f462199fb988a"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V04/Exports_V04_manifest.csv",
+      "bytes": 1439,
+      "sha256": "3bf5287fdfd73a448c7b61a2972316fc9416922d973f36a6fa84b7e0a274f878"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V04/Generated_components_manifest.csv",
+      "bytes": 394,
+      "sha256": "b0e34cfe1bff05c97fefd35c9e8baafc397ad4d3bb7bdb33d32d9f69e77677fc"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V04/Masters_V04_manifest.csv",
+      "bytes": 1403,
+      "sha256": "6786441ffd6bbe11f83f6f0349397bb19e63966207cc3758126313addcbbc659"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V04/Original_sources_verified.csv",
+      "bytes": 1558,
+      "sha256": "4d6a5036b746a5ed6dfc5937d0e14a551d45967795b1fb2c59f5997e191fca05"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V04/Pixel_comparison_V03_V04.csv",
+      "bytes": 606,
+      "sha256": "9c88880df1ebbdc25a3c281ab0ef21f8842eea2e3f3c92b3deb22c0389e539a3"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V04/Suivi_titres_V04.csv",
+      "bytes": 1427,
+      "sha256": "f1cb18e8a1245a55f46839422adc45de0e81e76b7815ba3580cd7fd9f77442d5"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V04/Typography_geometry_V04.csv",
+      "bytes": 3680,
+      "sha256": "faba19bc245fe2febb8486ae4bcb6ba6121d0975672143792e66e7a51da17c26"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V04/Verification_V04.json",
+      "bytes": 922,
+      "sha256": "12ed33235e12d23f6d8d34b599e66526895d1cd055b700c06e23dcdee124efa3"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V04/controle_visuel.ps1",
+      "bytes": 2609,
+      "sha256": "d9e085d485e595ca6f80a07a6eaa4e05a0493a1ded8479f5525643f5e4e8e106"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V04/gaze_composite.ps1",
+      "bytes": 2509,
+      "sha256": "6b8d1ed07d29c816c197588f0a93d0868a44fcf5a809776e5e7778a7add0134a"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V04/gaze_prompt.txt",
+      "bytes": 1070,
+      "sha256": "575b16123a7fb7bf07312d90155df712378014b7d198791200f02458121a7095"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V04/handdrawn_charts_prompt.txt",
+      "bytes": 2437,
+      "sha256": "1a0ebd356ab5bf52fefef488f08da8cebad0278cb61cc761c9d1f2357836119c"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V04/handdrawn_charts_prompt_selected.txt",
+      "bytes": 1995,
+      "sha256": "106eb143659b97d55e614825fec79d7890a81ebc21ccc28362550c8b88f9d114"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V04/package_verify_v04.ps1",
+      "bytes": 5729,
+      "sha256": "2ede231be656f9c69e513cd501b1e4ea2f88b005b29b05b533438593e730e0ec"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V04/prepare_marker_assets.ps1",
+      "bytes": 2732,
+      "sha256": "b56ddba1ef63e7bdf74ea8628b9f18c9f64a1aa63ae3fb5136deadfeefdb85ca"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V04/prepare_packaging.ps1",
+      "bytes": 1590,
+      "sha256": "6b582c22fe8c1dd829d35f086a2c14855e5073eb17310f67e1dc194681d4236c"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V04/prepare_renderer.ps1",
+      "bytes": 2945,
+      "sha256": "1b1e0afdbbd69e1879cb19b7dc307290c85a870674308cebf655421929484e98"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V04/render_v04.ps1",
+      "bytes": 11902,
+      "sha256": "dbc0d262efe7bd7ee159b3a84ff04eb86f570eb84cddc763caebebe6adf6ebad"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V05/03_hand_context_retouch_prompt.txt",
+      "bytes": 981,
+      "sha256": "2d4b3930a04e6447a526a3a95a2b0e09a913884dd6e9f1033c36c1be4e8c695e"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V05/03_hand_detail_prompt.txt",
+      "bytes": 831,
+      "sha256": "4462d47c449e2a2d657e12e6119968008414906a35a41ff849ce54b03461b9cb"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V05/03_hand_patch_manifest.json",
+      "bytes": 304,
+      "sha256": "c2b2a79be8c5f1302881c03dd7e3a0dcc849d32f575c1c4f0f563baf92f84616"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V05/03_hand_retouch_prompt.txt",
+      "bytes": 951,
+      "sha256": "2fb5dee2ba052042f6239adc848f8a6b51794a1021b3ad36ffa0eb1b25578ca0"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V05/03_scene_prompt.txt",
+      "bytes": 2729,
+      "sha256": "242e3728baef9536b83c588e2cdb755ed1e3cdb46c28ddecfb12da1ad2b0f237"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V05/Components_preserves_V04.csv",
+      "bytes": 192,
+      "sha256": "d9ee869722796b6cc670d6213733ed1c9790e4b178911126daba7ef9b4877613"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V05/Exports_V05_manifest.csv",
+      "bytes": 1439,
+      "sha256": "666ca7d67e06940008ef43a98a8ba52a9062de686135490fdd69da21e1a433e6"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V05/Generated_components_manifest.csv",
+      "bytes": 388,
+      "sha256": "7d35a76e17e3d378eb1342ea17979a9c1c072036843a2b932f60c95dc68a129e"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V05/Masters_V05_manifest.csv",
+      "bytes": 1403,
+      "sha256": "51b4178287832b2808bbd5a7f3e78d555ae34bb9da65be3d28874914cd836ec5"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V05/Original_sources_verified.csv",
+      "bytes": 1558,
+      "sha256": "4d6a5036b746a5ed6dfc5937d0e14a551d45967795b1fb2c59f5997e191fca05"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V05/Selection_composants.txt",
+      "bytes": 1135,
+      "sha256": "677963d7b45935c20752c6da8486ef373c0b2c35ad2e2f63748fc187307980de"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V05/Suivi_titres_V05.csv",
+      "bytes": 1713,
+      "sha256": "44b93a1bc48a11d3ed3c1a3df97de7c1ccdb03d17616c15239b1b434e19188e8"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V05/Typography_geometry_V05.csv",
+      "bytes": 5094,
+      "sha256": "a73f670479d7cd9c3fa78eeaedc72ac3696e9781cfd0e29ee7e579ee62ac218c"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V05/Verification_V05.json",
+      "bytes": 955,
+      "sha256": "73fac0512522079be9e300b79ceb1cbe6dac4d0aaadac802c7e3d7c4b1ca653c"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V05/Verification_main_locale.json",
+      "bytes": 120,
+      "sha256": "fedc06e4869c9628120d44add2fa718ea8df8875918e43e9eb7928d3cbab72f5"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V05/Visages_preserves_V04_V05.csv",
+      "bytes": 638,
+      "sha256": "0c6727c6290af9655847fef3021109c75f30ec16f4d47d064a8b32e0c73d6609"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V05/controle_visuel.ps1",
+      "bytes": 3934,
+      "sha256": "836dfa973ccbbd7dfc501700d41aa8c3bdd85160b8dcdc249522de14938b2aa4"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V05/drawing_functions.ps1",
+      "bytes": 8952,
+      "sha256": "78888f156b4397ca3a1c63c232e721f438f8b3a5f3f430a320a7b8503a4c6f38"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V05/hand_composite.ps1",
+      "bytes": 3014,
+      "sha256": "61a76698a1f501e5a5689ac91f1826fcde3d235f3f914f932be26225a96c9da1"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V05/package_verify_v05.ps1",
+      "bytes": 5700,
+      "sha256": "27e5d66bb26f196f52361831093c0e38fa72cb2bfc16f2490d7a19f85e9a6a8b"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V05/prepare_packaging.ps1",
+      "bytes": 1597,
+      "sha256": "c25a65058c084c138c6f7b0590cde0cde6fa7a51f17bbc8b53b3ed05888ebcf4"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V05/prepare_renderer.ps1",
+      "bytes": 4347,
+      "sha256": "7c4cf11ac4a6b4a4cb51c03962c779815248bcd703081d6f54a94b2246430eee"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V05/render_v05.ps1",
+      "bytes": 10841,
+      "sha256": "3eebf53c0de4a0c2053b8f46fa5fa64baea03c2284a65259ddb77ab10e801982"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V05/style_v05.ps1",
+      "bytes": 9257,
+      "sha256": "42856dee9006683dcf9d57b466f4932dce87a8253797cd0c7788a88a1bcf4358"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V06/Corrections_locales_V05_V06.csv",
+      "bytes": 379,
+      "sha256": "2a58677bfb553b78070f0856c7f69a3bab62768db3d115d286431774d5e8abaf"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V06/Exports_V06_manifest.csv",
+      "bytes": 1439,
+      "sha256": "911253c2bc268362e6bb52a7678758d81345939365693efb2a45d3ccdcf40188"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V06/Generated_components_manifest.csv",
+      "bytes": 216,
+      "sha256": "52f3c4fa02bc82d07075a7e62258e9f95f4daaba012c5e081c84b7c8d0c81992"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V06/Images_inchangees_V05_V06.csv",
+      "bytes": 359,
+      "sha256": "5508e5cd0703754e8aefad26d9cd3d0f0a0d2d2f00266544570b2c157d9785da"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V06/Masters_V06_manifest.csv",
+      "bytes": 1403,
+      "sha256": "bd265d265f9986f040a01062b4b0b6a1fa9c56911e44295d44c82729dec61294"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V06/Original_sources_verified.csv",
+      "bytes": 1558,
+      "sha256": "4d6a5036b746a5ed6dfc5937d0e14a551d45967795b1fb2c59f5997e191fca05"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V06/Prompt_Riz_regard.txt",
+      "bytes": 924,
+      "sha256": "b838c544a9d62f65ce35616e20dc219690d179a977d21000c54b4a753207af1e"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V06/Riz_gaze_manifest.json",
+      "bytes": 271,
+      "sha256": "84ef231c42d36de8f5159c6aac5dfacb08a89db2fe4de47b5713b64452e9cda0"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V06/Suivi_titres.csv",
+      "bytes": 404,
+      "sha256": "4fc310ffb39b8b7aa8bee29fe1abe304da5cb830a38102f86609872848089afc"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V06/Typography_geometry_V06.csv",
+      "bytes": 5091,
+      "sha256": "ace6c4e91a4e2359b771610ae685776076477b207f7d20e1898ff88d988575e6"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V06/Verification_V06.json",
+      "bytes": 970,
+      "sha256": "6eeb14f141eaf878910295964bbf04949e4619487102320b6ea2359b593bff6c"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V06/drawing_functions.ps1",
+      "bytes": 8952,
+      "sha256": "78888f156b4397ca3a1c63c232e721f438f8b3a5f3f430a320a7b8503a4c6f38"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V06/gaze_composite.ps1",
+      "bytes": 3435,
+      "sha256": "b292e27a310642ab632a860eb93b0c3c393faece15621a3956e6db5905b73df7"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V06/package_verify_v06.ps1",
+      "bytes": 5763,
+      "sha256": "5cc4dc6c30bc6ab7920e1ac2ac281fec8f877802ca8ca81b12e97f468d7515de"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V06/render_v06.ps1",
+      "bytes": 10827,
+      "sha256": "2f8634b806573f0b9ed59ca5e502babaab43c85ef873fb4b4102f0f635545397"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V06/style_v06.ps1",
+      "bytes": 9462,
+      "sha256": "e5f0627b2967fe980d52be8997267bf29299fa44d23b29c32a8ad8cc1e5478ad"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V06/verify_local_changes.ps1",
+      "bytes": 4064,
+      "sha256": "198e0d7e410e3dc4f4c3fc423a8783036d38aea15948133e602307fc33ac8139"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V07/Brief_artistique_V07.txt",
+      "bytes": 2650,
+      "sha256": "e2a6cb889cbe591f7b556c308e37fe4422e4d9e874c0a8b18b659f7f18ec3c43"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V07/Composants_preserves_V06_V07.csv",
+      "bytes": 1202,
+      "sha256": "f1ddb3203d741bae4180928a1c4ee36d50f32049a0b23723df03dfbe5aa6cc8e"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V07/Corrections_locales_V06_V07.csv",
+      "bytes": 1217,
+      "sha256": "4ea0f54d475f382315e8da7bf013402c4061b667468a9a1111bdaf9ea919dd0a"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V07/Exports_V07_manifest.csv",
+      "bytes": 1567,
+      "sha256": "8d1dc337f2f1f1a3d7502c2921a923c81b3b42fe9eb18770dcc11a8c513b310c"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V07/Glow_geometry_V07.csv",
+      "bytes": 2113,
+      "sha256": "1d42836635c395ac26537b5dc208ff31eaa87c6f4d411bb95cd03b61968c495d"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V07/Masters_V07_manifest.csv",
+      "bytes": 1403,
+      "sha256": "8651373116bffb543fdea7af4f04e5af87aa7d4249093676af8d13b7c1ce8953"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V07/Original_sources_verified.csv",
+      "bytes": 1558,
+      "sha256": "4d6a5036b746a5ed6dfc5937d0e14a551d45967795b1fb2c59f5997e191fca05"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V07/References_manifest.csv",
+      "bytes": 1287,
+      "sha256": "f6cf81c1d269afdb892cac6a227563dd6098aed7a3a7905b2169986e7fd8b551"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V07/Suivi_titres.csv",
+      "bytes": 510,
+      "sha256": "52619c1b25c9eee692f0cf6853f5152d29e76b3a5cbbe25f21d1f47f0c44e81b"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V07/Typography_geometry_V07.csv",
+      "bytes": 4313,
+      "sha256": "20c5d005bbc70f685975c4f8e996c1496cc37e7c1d6c09be297fba339346af17"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V07/Verification_V07.json",
+      "bytes": 1198,
+      "sha256": "048255161898c0eef36d700dd156c5abea38d68bdcce79a00d091c53fc9997d6"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V07/Visages_preserves_V06_V07.csv",
+      "bytes": 604,
+      "sha256": "8b30527505771123b2def71b2ce5bf267efea61f3140fbd71a68a68c5f5d4915"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V07/charts_v07.ps1",
+      "bytes": 3286,
+      "sha256": "4220d4cec652527da35ee7e81094f9a034fc0b8db123758c71cf0649e4c1bb48"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V07/drawing_functions.ps1",
+      "bytes": 8954,
+      "sha256": "c82de2e1c0c752e1e90ea35018293253b88c18e82aa0eff1ac3e3d6161f59886"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V07/glow_v07.ps1",
+      "bytes": 5924,
+      "sha256": "ddb60240487ab506bc30d78aaaffe3562494c475cb24382ec4eeb93fa0c5202e"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V07/package_verify_v07.ps1",
+      "bytes": 6049,
+      "sha256": "93de9c97ae74f83252b9481677c2f2f46c530becc16cadcc7790b35a06238bb9"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V07/render_v07.ps1",
+      "bytes": 11025,
+      "sha256": "abf5f9c15726bcb1a631e809a5269968ecebf722250c592bd144044411b20ac4"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V07/style_v07.ps1",
+      "bytes": 9464,
+      "sha256": "156808493a04e2ad77a2f48eb34374d985b728e645141a23e19a09e121ac1703"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V07/verify_v07.ps1",
+      "bytes": 6018,
+      "sha256": "55047bf2a2678e44dc47d491f0f8f09dbf6ac02c5bec2ab6a962924abf36fbc5"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/Verification_V02.json",
+      "bytes": 655,
+      "sha256": "32f95244280c1f888d95c6ec478f00a9734bc06f736cd1ac6d63d596130719c3"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/Verification_visages_V02.csv",
+      "bytes": 1242,
+      "sha256": "99050404c17b525242c451d207ff84765e2e9e53a633d83549c39f3623024edb"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/add_final_noise.ps1",
+      "bytes": 1737,
+      "sha256": "3581f9cdb989eabece68f28ac5c41ad3ffc2be99840b298bdc5a1930a24c5f6f"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/collect_sources.ps1",
+      "bytes": 2298,
+      "sha256": "c14e8f83e18192d202e2b1818fe78e4d61eee60b08c9b5dcd8e7f8fb742402c2"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/drawing_functions.ps1",
+      "bytes": 8952,
+      "sha256": "78888f156b4397ca3a1c63c232e721f438f8b3a5f3f430a320a7b8503a4c6f38"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/finish_portraits_v02.ps1",
+      "bytes": 3251,
+      "sha256": "78fb3b2e221cd87af73d582eddf0786afcfbdf2b5613a2204718b74d3171b4ba"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/package_and_verify.ps1",
+      "bytes": 5066,
+      "sha256": "c03684555beead4ce0913a096dfbff9bdf36728f2d0ab5b768c886ed3745370c"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/prepare_portraits.ps1",
+      "bytes": 4107,
+      "sha256": "ddf576e85c71386c3f210fec9076eab55593ca088195424d8b235fcc15f5631b"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/prepare_v06.ps1",
+      "bytes": 1974,
+      "sha256": "55ad1309b2f8e04a68eed4a213838715c9b0968c4c12659ea2882622cfd77ff3"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/prepare_v07.ps1",
+      "bytes": 1869,
+      "sha256": "19947851b08d7729019982b99548b03288b1bdf87e761195fee987b82938a9d4"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/render_v01.ps1",
+      "bytes": 11248,
+      "sha256": "ebe27d3dc4c2cc9a7360e8ee112068baba5be54efcc11b9385f05a60b3a5a969"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/render_v02.ps1",
+      "bytes": 12040,
+      "sha256": "3ab8ced307bc39cc08787d553b8d38ed42a27c2db36d1b241d4958b2a4d30296"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Apercus/V12/Galerie_V12.html",
+      "bytes": 4161,
+      "sha256": "c1dac09f3fc06bc4f372c876b1ed6953bfd4482e0e495dae4696e5774cae21dd"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Apercus/V13/Galerie_V13.html",
+      "bytes": 4178,
+      "sha256": "b580778b69eb585137ffcca3b90946f13ecb331ae43cae842714c35c17084d1c"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Apercus/V14/Galerie_V14.html",
+      "bytes": 4191,
+      "sha256": "9a0d24fdedfad71f5039c0ba1670a1e8a625f0406b9b8dea5428fec63a5fae46"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Sources_HD/Transcript_Imre.txt",
+      "bytes": 81095,
+      "sha256": "65fe424b93e9c8f60ad10755ec325b7f26e365e5c0b849fb1f5fd1a99c438c0c"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/Brief_utilisateur.txt",
+      "bytes": 10462,
+      "sha256": "996d5deb954d3e9fbcb394a983f2fc9317b657ea075022e690dcab1773693266"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/Corrections_V03.txt",
+      "bytes": 2643,
+      "sha256": "cb4cc8a9fb2bbb92a83df1a6820fc9ed32e35247be8d1059f273b1418eebc1ea"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/Exports_manifest.csv",
+      "bytes": 2653,
+      "sha256": "7d6d3c7fad4ba0a3406a44d0a77e690f799a0a774967002623ecc45b9de9f656"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/Exports_manifest_V02.csv",
+      "bytes": 2653,
+      "sha256": "7d6d3c7fad4ba0a3406a44d0a77e690f799a0a774967002623ecc45b9de9f656"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/Exports_manifest_V03.csv",
+      "bytes": 2653,
+      "sha256": "7d6d3c7fad4ba0a3406a44d0a77e690f799a0a774967002623ecc45b9de9f656"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/Livraison_V02.txt",
+      "bytes": 2470,
+      "sha256": "bdd332e8e8f81d0b497818ee1ad3d697546b26106037fdde9acd87951548fa61"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/Livraison_V03.txt",
+      "bytes": 2741,
+      "sha256": "0573d03785900860b7de278e285994552014bea6a5afb5515e74c2a1852cdaff"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/Prompts_ImageGen_V01.txt",
+      "bytes": 7164,
+      "sha256": "ba09463aba987be9d73777d36228637ffa8838ddba3eb206106025114874298e"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/Prompts_ImageGen_V02.txt",
+      "bytes": 7948,
+      "sha256": "3152b7e82ae98b8a3ea0a890d8c5d4442fae87485821d2d915fb68816090ddbd"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/Prompts_ImageGen_V03.txt",
+      "bytes": 9132,
+      "sha256": "bcf9001cacff8db6aa60550393b9de1c14a2564fb411c5026227f254619a788f"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/Retouche_Imre_V03.txt",
+      "bytes": 1182,
+      "sha256": "4089dde6a0ee8054cea4a272e9a42083293a3e0967f9fcd34a8ebc170a83ff88"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/Retouche_Riz_V02.txt",
+      "bytes": 780,
+      "sha256": "159636b4e48b460d64b041cc9efa271d558ddffa8243f67b11ef4e2468816208"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/Sources_manifest.csv",
+      "bytes": 12548,
+      "sha256": "e7615c1b17c6b9b1270bc9b90ed0b54165e85e1b31094a39cd08bcae92c2338d"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/Titres_et_sources_V01.txt",
+      "bytes": 3369,
+      "sha256": "d8daf9d2b362cee4e085f2f1703a20d1bd38cbad3b555d578bf554bf6f16397a"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/Titres_et_sources_V02.txt",
+      "bytes": 3498,
+      "sha256": "bfa04dfa58fd8139323c8a7c9e870656b209f8e4f3dec6f2b910efd0a383ff90"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/Titres_et_sources_V03.txt",
+      "bytes": 3734,
+      "sha256": "5b8312fd7b2dbf3be147eec6105ac3504f4354c30cf63aa91e517a6cdfe0652c"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V04/Livraison_V04.txt",
+      "bytes": 4923,
+      "sha256": "8f6dbae4410d1fa9dd3f47588880c5787337da261330639d748b305af77c11c9"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V04/Manifest_masters_V04.csv",
+      "bytes": 1839,
+      "sha256": "3b6725d8d2c48432fe07e65ce39299848a6a9ca27c17a2502c3394e95af2d357"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V04/Prompts_ImageGen.txt",
+      "bytes": 6977,
+      "sha256": "1ec614a49e22875fec2512c5ce66e322c3785396e0cd8d421c610ba58af79af8"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V04/Titres_et_sources_V04.txt",
+      "bytes": 4005,
+      "sha256": "62773afe85c2005e0156616e82cfe7bd2c27c8b3abef5f615253ecbe4522509c"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V04/Typography_geometry.csv",
+      "bytes": 2972,
+      "sha256": "47b84ae4c1ed534f93073f3c4345c0e516c77d8f8607f0a428cb878a16222867"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V04/Verification_exports_V04.csv",
+      "bytes": 1222,
+      "sha256": "734f7e8ec9a277a7375bf5b5990dc52daccea5e35230253c0c722606fc2d7241"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V04/package_v04.ps1",
+      "bytes": 2520,
+      "sha256": "713f185eae0c35d5b42e1e65f21c1f4225f2a0d6e7ce2fcd547b14cb281026e4"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V04/render_v04.ps1",
+      "bytes": 17801,
+      "sha256": "7e0e6d41ef960c4c7f9ac4367fdc363e568529a501bd42a5639f95ba794802e6"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V05/Livraison_V05.txt",
+      "bytes": 3832,
+      "sha256": "67acc585886ebc64ac07d0843995bd6fee75159d1be5c249c16eac77557a2e7e"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V05/Manifest_masters_V05.csv",
+      "bytes": 1839,
+      "sha256": "2949486e8ae1559c4a655cd33ab7036eeeea735e35b9211392a61c855c20acd4"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V05/Portrait_and_scene_preservation.csv",
+      "bytes": 158,
+      "sha256": "0020b43138fdaf20a18e0ffb5ba328122246efb0e6efaf6d9f44b5e6221b3839"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V05/Portrait_assets_preservation.csv",
+      "bytes": 236,
+      "sha256": "0e81def401f8291edc1248c1e1c4055cfe21a45b700c62c34cbab48f123c0c6e"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V05/Production_V05.txt",
+      "bytes": 1137,
+      "sha256": "21bf2b2c231005a4aa6e6e1887eddcb0c0558c38d3f15bb2f258a690b65d7846"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V05/Titres_et_sources_V05.txt",
+      "bytes": 1797,
+      "sha256": "a61cc0ad382eb18af4a261e4f2ec990a70b6e1b835b862764348c5d2faef0538"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V05/Typography_geometry.csv",
+      "bytes": 3627,
+      "sha256": "f8ab402094ca97e14e1b072d08cd1e7b6313b53c641c07c2a562e91b9c1f153d"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V05/Unchanged_05_08.csv",
+      "bytes": 826,
+      "sha256": "9bbbcfde147c9c04339c4dd721920efa0a3b0a0de0cf3514398bde29500a65b2"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V05/Verification_exports_V05.csv",
+      "bytes": 1222,
+      "sha256": "4108578eefb84730958a8d5bd43bcdfa0986600a493dec74690825d9366d25dc"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V05/package_v05.ps1",
+      "bytes": 2522,
+      "sha256": "f72d746deaadabacadb2d3cbc418f98501721b8c6c1ab595c01d1ede160153ce"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V05/render_v05.ps1",
+      "bytes": 21209,
+      "sha256": "3eb8bda2a2da14065c80032f9e0cbfd2f15133da1d4b0ee5c38fd159cafc0df7"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V05/verify_preservation.ps1",
+      "bytes": 2952,
+      "sha256": "eacd2b7d0684bafe8a08c0d25cb36632a1f1f8e84206f59a8809211d173835a2"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V06/Livraison_V06.txt",
+      "bytes": 2493,
+      "sha256": "e01a9b84d313c943e7716d643fca545e0426cdf0fd4395c28ba46d630c1be3be"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V06/Manifest_masters_V06.csv",
+      "bytes": 1839,
+      "sha256": "ed4114a021b536b73787ae2e566e0fb69d2bd30e7ee12f3aeffa022c45f0878c"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V06/Preservation_V05_V06.csv",
+      "bytes": 1146,
+      "sha256": "889082a1d5242a017cd2585f73478630304a5e8135de6994e103b161b457a321"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V06/Typography_geometry.csv",
+      "bytes": 3627,
+      "sha256": "2c681e60b9fab2b3942f3db5678d34d2105e735f6d4f6b54a5097cbb51cf836e"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V06/Verification_exports_V06.csv",
+      "bytes": 1222,
+      "sha256": "f94fe932718fe62333939dfb9e1b3f9d9831d9b7c1749fa1afefe7df222265e1"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V06/color_lighting.ps1",
+      "bytes": 1904,
+      "sha256": "8b9af9f73d3fcc7a3b8258911798b347060099c17032cab1b5e2ae1cdd55d6f7"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V06/package_v06.ps1",
+      "bytes": 2524,
+      "sha256": "3a9725ff4c2cc9ff1585baa17811e8bddd9fdcefa6f8268abd458ad9f713cdce"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V06/render_v06.ps1",
+      "bytes": 20879,
+      "sha256": "f5991604473915ea517d62cada3c2ac1e347b5b3e8f49ab8c421af568fb141e0"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V06/verify_v06.ps1",
+      "bytes": 1625,
+      "sha256": "d0662427a05631dc2e180fd34d51c1d9e4cb610a567235bb1fda96d8ae3895fe"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V07/Livraison_V07.txt",
+      "bytes": 3210,
+      "sha256": "d74e625c1166af3b78670d71a697713efe1dbf8935999ed1a4fc2166d0f44ffb"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V07/Manifest_masters_V07.csv",
+      "bytes": 1839,
+      "sha256": "5386eb231f6aba733000dde3d662d1c3b16976e767406568c4e56c9abdd7ce0c"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V07/Preservation_V06_V07.csv",
+      "bytes": 494,
+      "sha256": "aa8a06d3752ef605cb2695176a0d283b685c50ecc0ae123404fdf6e9258d75ba"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V07/Typography_geometry.csv",
+      "bytes": 4020,
+      "sha256": "73556b89984e921f40c8ccc7cc74c06547c101477bf7e84a763d0c6262f8cb0f"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V07/Verification_exports_V07.csv",
+      "bytes": 1222,
+      "sha256": "25b8426dc7a94fbb4646f9dd0e1683cff0bc88417c2109e5c83cfdf0acd7bdce"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V07/color_lighting.ps1",
+      "bytes": 1905,
+      "sha256": "0e9eff6680e03e20bb1b1a3abd6e8d84f89fb725678c28c4d9753ff78845d465"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V07/package_v07.ps1",
+      "bytes": 2534,
+      "sha256": "508c892f7cf78c639ca40f6b399c23f93735ffb8a432e52add7942b77ecd3256"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V07/render_v07.ps1",
+      "bytes": 23008,
+      "sha256": "36e8d4980b3ba4ddd3e906043f37e843030c9186a17a57e7d490032843eb044f"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V07/verify_v07.ps1",
+      "bytes": 1936,
+      "sha256": "02a632a484963d83969cbd15730d8f76e807803bc568b4c382e7a5cf0e65af5f"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V08/Livraison_V08.txt",
+      "bytes": 2762,
+      "sha256": "4af090e2234a5d9d0f18a71d8f7fae9ba2cc4e58e296dbba5ac866a0755d4c30"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V08/Manifest_masters_V08.csv",
+      "bytes": 1953,
+      "sha256": "39ff9491231d449907f78805f35b179bfd37d90c3c319a8c65ac084231c90415"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V08/Preservation_V07_V08.csv",
+      "bytes": 929,
+      "sha256": "b7c09ff63fc35b2e77de9c34016a9a4393a0f255121fb73e99dd305b72c0df1a"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V08/Prompt_Background_Refinement.txt",
+      "bytes": 2007,
+      "sha256": "459dcfa7a3f8f667a04e772f85b876112f4cf4a5cb3989b4a2455e0c56f40697"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V08/Prompts_ImageGen.txt",
+      "bytes": 4558,
+      "sha256": "1cf279987a99328d09fd7a5420bbd62232bf8775d8baef81548c9b60e34710dc"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V08/Typography_geometry.csv",
+      "bytes": 4020,
+      "sha256": "73869492e6fab004dfbec64bd8e5e5eec9c07eba191fbde31e0282b086c6cf78"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V08/Verification_exports_V08.csv",
+      "bytes": 1222,
+      "sha256": "998dc667680dbc052335042ebae71e8e406934c74261fbcb8df0a36092653a5b"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V08/package_v08.ps1",
+      "bytes": 2536,
+      "sha256": "f84cb1adfcee503409805e976dfb3d39ca31e96c501d25d0d03ff88245b9d43e"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V08/render_v08.ps1",
+      "bytes": 23361,
+      "sha256": "b70b3ca642cae07bb6ab241cb2fddea7fcc0bffb56da810ed83027e2a72adbc7"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V08/verify_v08.ps1",
+      "bytes": 1625,
+      "sha256": "1c8a4cd762bb2d65d8553901ee54080e4ca5e65eb79ec18a9be4fd2cb31867d5"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V09/Livraison_V09.txt",
+      "bytes": 2047,
+      "sha256": "4775281475eed8c69f3bcd40ca90bf633ebc77b10a67d6304d49bc2a0a5e8b67"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V09/Manifest_masters_V09.csv",
+      "bytes": 1954,
+      "sha256": "21d252400aa33ec19553656167053e49fc134b0cc8170f0a852b3e375dcbdae6"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V09/Preservation_V08_V09.csv",
+      "bytes": 1146,
+      "sha256": "53d2f8bb145f17337107451e037d49259c1d6ad8647f5a07a2acad366dff40a7"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V09/Prompt_ImageGen.txt",
+      "bytes": 1421,
+      "sha256": "264b7fc0f6be6e19172f47779a9668b148318a2c6fe27294695a5609ef229fe1"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V09/Typography_geometry.csv",
+      "bytes": 4020,
+      "sha256": "54061e4a6da4f9a108b0b33586dbdc001c96bc5c1d1b49e2b7eb3d40bbbd3755"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V09/Verification_exports_V09.csv",
+      "bytes": 1222,
+      "sha256": "28242300e0f3409be379b6fcb65218f7ff309a83a05888c6d716976f965b9cfa"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V09/package_v09.ps1",
+      "bytes": 2538,
+      "sha256": "b96e2ed0017eda77852b2085b6916876e2c6150da221d22526dd736d81083d23"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V09/render_v09.ps1",
+      "bytes": 22776,
+      "sha256": "467b129f4a34cde4c8071fc4882bfa1408b8869d0e4b85350935a6654ecc8583"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V09/verify_v09.ps1",
+      "bytes": 1629,
+      "sha256": "0fdc11ea27758670a517840d83c869bc4d26b1724292001bd2c8a6862471cc50"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V10/Livraison_V10.txt",
+      "bytes": 1290,
+      "sha256": "a15f910b3c33558494aff8778e9c4a3e7957e2c7c0bc036bca41b661df4345bf"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V10/Manifest_masters_V10.csv",
+      "bytes": 1954,
+      "sha256": "ad7a215204932a64cce5b3911725ca82fb13e58fe19cf3481db252695e6209f2"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V10/Preservation_V09_V10.csv",
+      "bytes": 1146,
+      "sha256": "66cce90920514b4c273876bdc4dde819f8431da83cfecdc327db51574b115a8f"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V10/Prompt_ImageGen.txt",
+      "bytes": 850,
+      "sha256": "83389d81faa3b90613b8568e4f9ca4b3c20cda480bec2da0cd95f7320115bda6"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V10/Typography_geometry.csv",
+      "bytes": 4020,
+      "sha256": "54061e4a6da4f9a108b0b33586dbdc001c96bc5c1d1b49e2b7eb3d40bbbd3755"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V10/Verification_exports_V10.csv",
+      "bytes": 1222,
+      "sha256": "b395d6b9b4923290cad65991728bc233fce55843b88d14a2ffd2f130dabde244"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V10/package_v10.ps1",
+      "bytes": 2540,
+      "sha256": "dc0c04e09b89ba2c0457c6d07d6af0fc1fdf2829211fdd628b687a023394a785"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V10/render_v10.ps1",
+      "bytes": 22778,
+      "sha256": "3a8317d68c05d87bdf43d2bf0d4009eab021d33f86bb60bc13fbf97356a0ae9d"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V10/verify_v10.ps1",
+      "bytes": 1631,
+      "sha256": "4fe6e23808512089fe45c9f94241cc8f72c8f598b9c82cb6846f65d101ec3777"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V11_Test08/Livraison_et_feedback.txt",
+      "bytes": 3012,
+      "sha256": "ed2cfce8854a6f2a3a109c6478fddab5e69440fd0608cd60c0329513e087988c"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V11_Test08/Prompt_Cleanup.txt",
+      "bytes": 1180,
+      "sha256": "e9be1ccc6274323c12d031607ee3cad03b4bb283cedfb935a6e394b71b914405"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V11_Test08/Prompt_ImageGen.txt",
+      "bytes": 2916,
+      "sha256": "1aeaacff4d10d1f492843d19e194ba848f3547ff64f70043c2b2cf8ea2685e9f"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V11_Test08/Title_alignment.csv",
+      "bytes": 208,
+      "sha256": "a87815a659d630a84a75002beb0dd7430de1fd199ed21a1d9358aa0b55ff9b9d"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V11_Test08/Typography_geometry.csv",
+      "bytes": 670,
+      "sha256": "bad2721c125b69c8693042b8b4f2adcb440642ef901a3b76426f347334168937"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V11_Test08/Verification_export.csv",
+      "bytes": 320,
+      "sha256": "1ce4ffcfffa6b851945437d221b2e1012bc62707ae36a4458579700840dd1add"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V11_Test08/render_test08.ps1",
+      "bytes": 11225,
+      "sha256": "6a065c447ae71fb4c3368b89d3256178499b06f6a6a68b8180f34288798de68b"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V11_Test08/soft_glow.ps1",
+      "bytes": 2046,
+      "sha256": "cb87c3c1a2e22cc10325708efb7624816664833fff9422b3ba35c9f360361b3f"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V11_Test08/verify_test08.ps1",
+      "bytes": 2002,
+      "sha256": "94e337933b5d397160fd95d20ca0403e6593ac34884bc1d70c1e6b201d67ea62"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V12/Arrow_geometry.csv",
+      "bytes": 1440,
+      "sha256": "41297f55c4275b3f186ac3a8d85c72422efb85ec5856f5399eee4679c6d987d9"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V12/Livraison_V12.txt",
+      "bytes": 2759,
+      "sha256": "6f71881a243ddf8d3500850b7cd6f6fc7f6b636654da92aa4e17e477148f7ccb"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V12/Manifest_masters_V12.csv",
+      "bytes": 1741,
+      "sha256": "1ac09df93900f7f7fb5e1c090d1ffc3bb6362bdb4994dad41735c2294b4f08ac"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V12/Prompt_fond_ImageGen.txt",
+      "bytes": 979,
+      "sha256": "b2780609a490d850cec0e3a7113e975e631cffc145a81e6be1a6878c8956e59d"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V12/Typography_all_eight.csv",
+      "bytes": 4383,
+      "sha256": "5251f6804446e40432853b11b570166d8bdce4a199039f867e0126fcbecd3927"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V12/Typography_geometry.csv",
+      "bytes": 3521,
+      "sha256": "da0d1590b8b96dc76f328f7e9969b5a2e0e49cc9050cdedd151465380efa361d"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V12/Verification_artwork_V12.csv",
+      "bytes": 9905,
+      "sha256": "dd3119b6f376d7803fd466eb6ba651681e994ca7e81f0045feffdcc4f96bc26d"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V12/Verification_exports_V12.csv",
+      "bytes": 1219,
+      "sha256": "44d67ccffd0ec47cf65f036244f54d7ca80efab111b5de9d17f001dd886f338a"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V12/finish_v12.ps1",
+      "bytes": 9063,
+      "sha256": "ce85e3ecdff9c7ddcda42e873b5fdd135c409db2f098294f1bbcb830a9ce5b07"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V12/package_v12.ps1",
+      "bytes": 2542,
+      "sha256": "42ff8e72ffb04ac86a2a0ceefc11eaef5e265528e06ade07b63e2e3440c75a17"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V12/previews_v12.ps1",
+      "bytes": 2013,
+      "sha256": "6a140b075f66edba79197753fd1a42ad520a57950d88f84b5748fc8375d6f301"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V12/render_v12.ps1",
+      "bytes": 21620,
+      "sha256": "f61f0ea319e37d1ec02c419b615a270fafa34bc8cbcdf8c9484e4e3308c65b7b"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V12/soft_glow.ps1",
+      "bytes": 2046,
+      "sha256": "cb87c3c1a2e22cc10325708efb7624816664833fff9422b3ba35c9f360361b3f"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V12/verify_v12.ps1",
+      "bytes": 5029,
+      "sha256": "583c7766b4b8cbdcd94b0f6da6d66395d857d1a9f486e049e5e2c798b0a39beb"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V13/Arrow_geometry.csv",
+      "bytes": 666,
+      "sha256": "4cd4611d40f865377d25c3911272d1d58c6b55318ccb32ff078de70980fc1c02"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V13/Illustrative_candles.csv",
+      "bytes": 2182,
+      "sha256": "bc608805bc967606637bc2abadf9cb533be49e9e81e53c570c9e1a7de8b5a143"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V13/Livraison_V13.txt",
+      "bytes": 2976,
+      "sha256": "31794a9dfe661e479571f5f6aba177dc47bc9b16a3d73f536667642bface1d79"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V13/Manifest_masters_V13.csv",
+      "bytes": 1741,
+      "sha256": "532560dcc3927714ddf20bb7f8a1c7af26480c3a3016a2819c2ecbd7598e8511"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V13/Pixel_preservation.csv",
+      "bytes": 158,
+      "sha256": "65c6f3954526e1db528d63f4923afd461652d59854cbabdbee4bc49fb86818b0"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V13/Reference_manifest.csv",
+      "bytes": 732,
+      "sha256": "bee25e8bd02e9ccf6bb67e184a9bebec0c67f034829407418afd07316e3e29a6"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V13/Typography_all_eight.csv",
+      "bytes": 4356,
+      "sha256": "2bb05749db48a585f72bcb97cf7c2938e6ebce1c74e55cf4f78b396d2ca76eb7"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V13/Typography_geometry.csv",
+      "bytes": 1028,
+      "sha256": "8ae5b45095ba35898ba95687586df7ef4b9e986cf062980d837fcecc412f6fef"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V13/Verification_artwork_V13.csv",
+      "bytes": 6122,
+      "sha256": "675e51d9ad9a6db8debf3362ff209420c115f3a43fcc546d4371e49c5246cef3"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V13/Verification_exports_V13.csv",
+      "bytes": 1219,
+      "sha256": "45e29fba0177c5f697ca9200b4b498159954a4117dbe8a69e449f4f94ef7ae48"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V13/charts_v13.ps1",
+      "bytes": 4968,
+      "sha256": "accafb2613586f3f3f2718c6ad214e8feda06d7d52f18991f1409ff363cca39f"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V13/finish_v13.ps1",
+      "bytes": 9065,
+      "sha256": "38011f55f3b2f7a10fed71b48c7bc9f81f34356aec6af2baf61962d2258078f6"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V13/package_v13.ps1",
+      "bytes": 2544,
+      "sha256": "b8151c0b3a4cef106eb6175bdce1b0d974074f862dfd25a691fece16dbcbb7d4"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V13/render_v13.ps1",
+      "bytes": 21785,
+      "sha256": "f3e593de7bb67f156ede576f01907a0cefb5c236da285a0115ecd70192c3e6ff"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V13/soft_glow.ps1",
+      "bytes": 2048,
+      "sha256": "639365e6409fd522e14ba7f30c442cd6cf5e0425de1291a53c051ca90cf5bcd7"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V13/verify_v13.ps1",
+      "bytes": 6115,
+      "sha256": "00d1100126b47853d47752f709a9b1dcf0d776aaf9389caf60dac407d05a8fc7"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V14/Arrow_geometry.csv",
+      "bytes": 666,
+      "sha256": "4cd4611d40f865377d25c3911272d1d58c6b55318ccb32ff078de70980fc1c02"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V14/Illustrative_candles.csv",
+      "bytes": 2182,
+      "sha256": "bc608805bc967606637bc2abadf9cb533be49e9e81e53c570c9e1a7de8b5a143"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V14/Livraison_V14.txt",
+      "bytes": 1424,
+      "sha256": "22036c1e0dd33fc1573ff37ade07cb224b8c8f00a2e4f209f4556653b2a49776"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V14/Manifest_masters_V14.csv",
+      "bytes": 1741,
+      "sha256": "e377e463338fdacb6ca60737ccfb06008818cba38b7723f5620660bd30af3ee0"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V14/Pixel_preservation.csv",
+      "bytes": 332,
+      "sha256": "5c1e882f369def93c45d9aef1d3f51c18d9e43c92d22c1ee75c937a5dab45c77"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V14/Typography_all_eight.csv",
+      "bytes": 4356,
+      "sha256": "2bb05749db48a585f72bcb97cf7c2938e6ebce1c74e55cf4f78b396d2ca76eb7"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V14/Typography_geometry.csv",
+      "bytes": 1028,
+      "sha256": "8ae5b45095ba35898ba95687586df7ef4b9e986cf062980d837fcecc412f6fef"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V14/Verification_exports_V14.csv",
+      "bytes": 1219,
+      "sha256": "d1e63ce7882acb804226f07971853f46d16f15a5ec86a3f62bc83b08e67ad63b"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V14/charts_v14.ps1",
+      "bytes": 4986,
+      "sha256": "422e310568a5e551fb1a010e28f6a4e66bfb298512fc4c393ec50dd5f08c7f3b"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V14/finish_v14.ps1",
+      "bytes": 9067,
+      "sha256": "265e1e5327c9ee031d41d681828082b3b4f8821c4f2775c47cd3a1b115df1e96"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V14/package_v14.ps1",
+      "bytes": 2546,
+      "sha256": "81dce053bad79cd145a7750e155e1455ffaeae3cedeed7b9ff7b7786b0f640d2"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V14/render_v14.ps1",
+      "bytes": 21787,
+      "sha256": "167b20c0b858d025e2f4b2a1efd2bd314e7092de64153ad07010e43cd34168c0"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V14/soft_glow.ps1",
+      "bytes": 2050,
+      "sha256": "33cc0a36a7782562345ef581e5b690d155fa2c9a306c74ba61ec869af52e2b8c"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V14/verify_v14.ps1",
+      "bytes": 3556,
+      "sha256": "19b51da5714866c2337a31ccfb0173f395d68324a72b78a6d6d0cb079dd990f8"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/Verification_V02.csv",
+      "bytes": 1098,
+      "sha256": "d451582466ce0fa700885d87a63c814ffefc6dbc8b7c8620560fd6d68955cd8d"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/Verification_V03.csv",
+      "bytes": 1098,
+      "sha256": "7c97afb1b8c18319d36c8f6dab2fa0f03940987da49cfe9188e3662600960610"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/add_final_noise.ps1",
+      "bytes": 1737,
+      "sha256": "3581f9cdb989eabece68f28ac5c41ad3ffc2be99840b298bdc5a1930a24c5f6f"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/build_previews_reference.ps1",
+      "bytes": 2194,
+      "sha256": "3f66d66ed52fe114ec8fa1033772f79005f6c4a0f463ea3b84dedda2325122b4"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/collect_sources.ps1",
+      "bytes": 2240,
+      "sha256": "0bd571bdbb3d6dd2d342632f7aa0a035037db1248bca0bb93a95560cde8c739d"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/package_v02.ps1",
+      "bytes": 6436,
+      "sha256": "c348439a40b61690a925ff8b772e09f0bef81573ecd1476f00dee22c0ebda5be"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/package_v03.ps1",
+      "bytes": 6537,
+      "sha256": "e6586f7b28b25d2436cffd5d2c67362b4238826dbd1c6e6b6ce28fc0ab644bdb"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/render_v01.ps1",
+      "bytes": 11532,
+      "sha256": "ca0ace485e617486e7a30729e0426b4cd031cc0d7999297b161f6ad8e1f2aa6b"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/render_v02.ps1",
+      "bytes": 11536,
+      "sha256": "5f3790bc89d1a5dd1920c86042d6e5c1932f296cc53527f0d9b5754c6ad7c198"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/render_v03.ps1",
+      "bytes": 13987,
+      "sha256": "eee3f6cc58cea2c264ed8c1a5248433412558ed54269e5b874e3f21727bc865c"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Livraison/Scott_Pulcini_8_Thumbnails_V03_4K/Suivi/Accroches.txt",
+      "bytes": 4311,
+      "sha256": "cae8e8c461bbc1a92a6f54405879aafa6d4e0d90b85440cbea672ea5bbaeec84"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Livraison/Scott_Pulcini_8_Thumbnails_V03_4K/Suivi/Controle_qualite.txt",
+      "bytes": 1257,
+      "sha256": "cb91f715c79471f9766338297089692f67adca8c9fcf21c6cbe4ef5a2c112ef6"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Livraison/Scott_Pulcini_8_Thumbnails_V03_4K/Suivi/Corrections_et_sources.txt",
+      "bytes": 2273,
+      "sha256": "4230e7c8511988d6df66869c20b07a34dbad78b1538901770b50ddf22f18ae45"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Livraison/Scott_Pulcini_8_Thumbnails_V03_4K/Suivi/Direct_screen_composites.json",
+      "bytes": 1530,
+      "sha256": "c112ddf0ab20ad7cbc5c5ab6311dbc5b9724a3b4ab89df5c87dafc745eb847d3"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Livraison/Scott_Pulcini_8_Thumbnails_V03_4K/Suivi/LIRE_MOI.txt",
+      "bytes": 2825,
+      "sha256": "0eba8ee25dd04132e16d8a3f24228349c392062ed8caeb583468af61746ca6a1"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Livraison/Scott_Pulcini_8_Thumbnails_V03_4K/Suivi/Manifest_exports.json",
+      "bytes": 3950,
+      "sha256": "88cb8ad0e1898a3435f727554681b479bb8b3e1a975098bc53bc753777dc9fb6"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Livraison/Scott_Pulcini_8_Thumbnails_V03_4K/Suivi/Prompts.txt",
+      "bytes": 31870,
+      "sha256": "7f4e508e5d24867c01aa419221faa7b4e7079768a422b6e4bf9007037121296f"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/PROJECT.md",
+      "bytes": 132,
+      "sha256": "3003a9b00e4f038c7e09fb204efc70b0c948aa964b53c25f80d2eb4a5207b03e"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Prompt_ChartFanatics_8_Thumbnails_Nouvel_Invite.txt",
+      "bytes": 10462,
+      "sha256": "996d5deb954d3e9fbcb394a983f2fc9317b657ea075022e690dcab1773693266"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Stories/Scott_Pulcini_V01/Suivi/Prompts_et_sources.json",
+      "bytes": 25380,
+      "sha256": "3867fb906d59f8902a48e48d9abeb2b319b38ad9d79ca2e16a84371bbf2c3788"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Suivi/Exports_PNG_manifest.csv",
+      "bytes": 690,
+      "sha256": "c5935f54f4b6826471c5a30980d8d9fd4fcf9898353ca6d69999f5ac7bfe8c12"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Suivi/LIRE_MOI.txt",
+      "bytes": 1370,
+      "sha256": "5c6507e1d00c45d4f11c4c670bf2cee110c20f5f1cb2e2ebad5c9e0de24d2975"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Suivi/Riz_Camera_manifest.csv",
+      "bytes": 383,
+      "sha256": "5db4499c3336e163f11f805d66d24b6d4b977bebcde71df339452f415f01dd38"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Suivi/Riz_manifest.csv",
+      "bytes": 2139,
+      "sha256": "454315c43ec76942c6c025b4d9e3e1ebd6310780620de33e69e7214b87206372"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Suivi/Scott_Camera_manifest.csv",
+      "bytes": 1853,
+      "sha256": "462c18bb2e71e518e97b615b03073262f0b7482df0ab2cc30df67837996367fc"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Suivi/Scott_Pulcini_Accroches_V01.txt",
+      "bytes": 4176,
+      "sha256": "965240d5a2d0fd8d05536af254cc7c22600fe7929a962bc6603d163c73af8a04"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Suivi/Scott_Pulcini_Thumbnails_V01/Accroches.txt",
+      "bytes": 4176,
+      "sha256": "965240d5a2d0fd8d05536af254cc7c22600fe7929a962bc6603d163c73af8a04"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Suivi/Scott_Pulcini_Thumbnails_V01/Generated_sources.json",
+      "bytes": 2620,
+      "sha256": "df9fb36926ceeb0289ca954a7ba8b0b7dc222dc307340fce2c279b5917232385"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Suivi/Scott_Pulcini_Thumbnails_V01/LIRE_MOI.txt",
+      "bytes": 1623,
+      "sha256": "b9dc8d25f9b1bedf6d472271e11479a2fcc3f8462fe4fb3e4d93ed7cc4896137"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Suivi/Scott_Pulcini_Thumbnails_V01/Manifest_exports.json",
+      "bytes": 2758,
+      "sha256": "b297f2ea3385bd2be2d3b3f5b597d912750741e8da05df3eb9cc346938419a79"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Suivi/Scott_Pulcini_Thumbnails_V01/Prompts.txt",
+      "bytes": 18242,
+      "sha256": "ab64d37c30fe19882581115a35e4441f8f6b879cc4bc0d8b7dbeec5f16606fa5"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Suivi/Scott_Pulcini_Thumbnails_V01/Transcript_source.txt",
+      "bytes": 113925,
+      "sha256": "62dd136ac04d36de7e850e04f00a781595f69a5feb02f032b1528265347d4cf1"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Suivi/Scott_Pulcini_Thumbnails_V02/Corrections_et_sources.txt",
+      "bytes": 1696,
+      "sha256": "10410ee5359fe94bfab0eb0086a16a4a21d641388ca7134d894267a8a30c3492"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Suivi/Scott_Pulcini_Thumbnails_V02/Direct_screen_composites.json",
+      "bytes": 1530,
+      "sha256": "c112ddf0ab20ad7cbc5c5ab6311dbc5b9724a3b4ab89df5c87dafc745eb847d3"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Suivi/Scott_Pulcini_Thumbnails_V02/Generated_sources.json",
+      "bytes": 2620,
+      "sha256": "ac8088ab6976eed7455a026f1fcd7377d068f0e51ba9497ceb8102cf7fa68d62"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Suivi/Scott_Pulcini_Thumbnails_V02/Prompts.txt",
+      "bytes": 24023,
+      "sha256": "b870822b571bb2b7e957467bb0c348d6ccd76a60a1e9626d4e3337d894b7d22e"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Suivi/Scott_Pulcini_Thumbnails_V03/Accroches.txt",
+      "bytes": 4311,
+      "sha256": "cae8e8c461bbc1a92a6f54405879aafa6d4e0d90b85440cbea672ea5bbaeec84"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Suivi/Scott_Pulcini_Thumbnails_V03/Controle_qualite.txt",
+      "bytes": 1257,
+      "sha256": "cb91f715c79471f9766338297089692f67adca8c9fcf21c6cbe4ef5a2c112ef6"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Suivi/Scott_Pulcini_Thumbnails_V03/Corrections_et_sources.txt",
+      "bytes": 2273,
+      "sha256": "4230e7c8511988d6df66869c20b07a34dbad78b1538901770b50ddf22f18ae45"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Suivi/Scott_Pulcini_Thumbnails_V03/Direct_screen_composites.json",
+      "bytes": 1530,
+      "sha256": "c112ddf0ab20ad7cbc5c5ab6311dbc5b9724a3b4ab89df5c87dafc745eb847d3"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Suivi/Scott_Pulcini_Thumbnails_V03/Garment_composite_checks.json",
+      "bytes": 1789,
+      "sha256": "6effea79ee9df68f396b734eeb89d363806a8b400a131020c2c5eb9ecd79f0f9"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Suivi/Scott_Pulcini_Thumbnails_V03/Generated_sources.json",
+      "bytes": 12191,
+      "sha256": "6d334d11a867cfc691348c30fd15a5f80436bd1084a133712daddd0dba1e2275"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Suivi/Scott_Pulcini_Thumbnails_V03/LIRE_MOI.txt",
+      "bytes": 2825,
+      "sha256": "0eba8ee25dd04132e16d8a3f24228349c392062ed8caeb583468af61746ca6a1"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Suivi/Scott_Pulcini_Thumbnails_V03/Manifest_exports.json",
+      "bytes": 3950,
+      "sha256": "88cb8ad0e1898a3435f727554681b479bb8b3e1a975098bc53bc753777dc9fb6"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Suivi/Scott_Pulcini_Thumbnails_V03/Prompts.txt",
+      "bytes": 31870,
+      "sha256": "7f4e508e5d24867c01aa419221faa7b4e7079768a422b6e4bf9007037121296f"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Suivi/Scott_Pulcini_Thumbnails_V03/Transcript_source.txt",
+      "bytes": 113925,
+      "sha256": "62dd136ac04d36de7e850e04f00a781595f69a5feb02f032b1528265347d4cf1"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Suivi/Scott_Pulcini_Thumbnails_V03/Verification_ZIP.json",
+      "bytes": 913,
+      "sha256": "f1402926b61549693fa6f7f4a06d01676a1b8812918d0de6605e05bf3c1ce29d"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Suivi/Scott_Pulcini_manifest.csv",
+      "bytes": 2683,
+      "sha256": "b524eb372018b0ace94166d04a1ed07143233eb4c11889dc5989229826591e47"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Suivi/Sources_Frameio.txt",
+      "bytes": 357,
+      "sha256": "2764473c3dd06c011e9af0ad4ff5755d792956d49eae7331fc0d2bfa0c7b8876"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Suivi/Tableau_manifest.csv",
+      "bytes": 4122,
+      "sha256": "7b58f674a152b8e40ad05e8e753cbee2b7aa841a2fa749eec149fce96088a3f8"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/add_final_noise.ps1",
+      "bytes": 1737,
+      "sha256": "3581f9cdb989eabece68f28ac5c41ad3ffc2be99840b298bdc5a1930a24c5f6f"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/build_previews.ps1",
+      "bytes": 2194,
+      "sha256": "3f66d66ed52fe114ec8fa1033772f79005f6c4a0f463ea3b84dedda2325122b4"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/composite_orderflow_v02.ps1",
+      "bytes": 2884,
+      "sha256": "3a083e562e4c967f96919d37e0b86e058dcfb7c0892e0dea9877b34a8d7df973"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/isolate_polo_recolors_v03.ps1",
+      "bytes": 5256,
+      "sha256": "84282bf777bc93290e4645a94b6bab646d58ba383e2f134dbe04bd01abdf52ef"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/package_delivery.ps1",
+      "bytes": 6395,
+      "sha256": "9ba86ed6f0ddb9608c9117dc4afb43a2732b58b9271e0e80688992d9a11cbd4c"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/package_scott_thumbnails_v01.ps1",
+      "bytes": 7915,
+      "sha256": "85bb387561d1ad3f536fe66172ba1cb4e8cec7558e307e750e2523453c17a4b5"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/package_scott_thumbnails_v03.ps1",
+      "bytes": 9726,
+      "sha256": "09a31f52fe645b94deeef870d80695ec73772a92a3f64de4774692eb4bdb7587"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/repair_04_portrait_edges_v03.ps1",
+      "bytes": 3107,
+      "sha256": "b551dc49a33a4474b21b51aa195a39687a38be7ac090d842c0a5d259f92053d8"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/select_portraits.ps1",
+      "bytes": 1688,
+      "sha256": "8053bbf7b2a1b9c9b8bd1f1bf5dd3a6a6a31cbe0a56abdb662c3e48c6bd882f1"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/PFT_Razvan_copy_v1.txt",
+      "bytes": 3413,
+      "sha256": "24d5383fcf245ba8d660cb84101c45b85f1b854f30949447fca87d3d7018b3c0"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/PROJECT.md",
+      "bytes": 132,
+      "sha256": "14fcd08ef48720a3580aaa14557470971668c34ecd8e4122a4a10592f714884b"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v01/README.txt",
+      "bytes": 3219,
+      "sha256": "58259aaf58cf5bbaa29555af0bd84a69a2623e48e773919d81d7c5b31a5f4f6c"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v01/source/copy_rendered.txt",
+      "bytes": 2437,
+      "sha256": "488415e76c79a17bc8b9fb42a299adf07d23cf9c39e0a1c2a94c39e1d74900f2"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v01/source/delivery_verification.json",
+      "bytes": 400,
+      "sha256": "3c2144cbe0b216d6cb9d96e90ba852e25a2b1ebd24bb11116e3c04b5a607f52e"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v01/source/imagegen_prompts.json",
+      "bytes": 5458,
+      "sha256": "aa92d716254fd24a12d74ee72df37ccc1fce7846451472e2d5a6f5bfb323b40b"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v01/source/layout_verification.json",
+      "bytes": 20299,
+      "sha256": "4404af08f43aacfd7246cccc43691fbfb6a47b30f55bd7233b72ee69921f4264"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v01/source/preview.html",
+      "bytes": 839,
+      "sha256": "482152bf2a92e1fae13f0b0b58c6eb620de0cfeb1238292adc90d270a62e9cf4"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v01/source/transcript_source.txt",
+      "bytes": 38660,
+      "sha256": "27d628d7f70dc492a9ffc854b19f6605729dc7aeb518c5ac56017b4ac5b70177"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v01/source/verify_delivery.py",
+      "bytes": 2093,
+      "sha256": "e81eb66fc072851b1b103ad825382d312cc6695b06151e7d691bdadecfb375af"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v02/README.txt",
+      "bytes": 2998,
+      "sha256": "6babbd3728a3ba64065b9b2025c39e966474ae27be749e8e6994d14942b6f6ca"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v02/source/copy_rendered.txt",
+      "bytes": 2437,
+      "sha256": "44cbd55320f30ec6302018c4b97ff69ba166f00f966b945f0ddaf466ea0bba10"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v02/source/delivery_verification.json",
+      "bytes": 400,
+      "sha256": "3c2144cbe0b216d6cb9d96e90ba852e25a2b1ebd24bb11116e3c04b5a607f52e"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v02/source/imagegen_prompts.json",
+      "bytes": 5993,
+      "sha256": "cf69c0c2a91b23b323621b68b0fdd65ba0ffd52ca9a42391a12399dee6a09df8"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v02/source/layout_verification.json",
+      "bytes": 20299,
+      "sha256": "2daf09cc411496ba4ae2954596f8d0b4e839ba30597a667ac261d3eb952f69fa"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v02/source/preview.html",
+      "bytes": 839,
+      "sha256": "482152bf2a92e1fae13f0b0b58c6eb620de0cfeb1238292adc90d270a62e9cf4"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v02/source/transcript_source.txt",
+      "bytes": 38660,
+      "sha256": "27d628d7f70dc492a9ffc854b19f6605729dc7aeb518c5ac56017b4ac5b70177"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v02/source/verify_delivery.py",
+      "bytes": 2093,
+      "sha256": "66d92a4a0f60fadba50fb55a089b1597d294960982572bbc8dd30d48cae60fc7"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v03/README.txt",
+      "bytes": 3339,
+      "sha256": "5534fb71ed57025177ec4d9c85d92afe325c29a13957ab977db5e66c7c247aff"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v03/source/copy_rendered.txt",
+      "bytes": 2437,
+      "sha256": "ee863e079a3055ac3427609baa4405995ef672e2b5eeb366fae7ca2992d41efa"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v03/source/delivery_verification.json",
+      "bytes": 400,
+      "sha256": "3c2144cbe0b216d6cb9d96e90ba852e25a2b1ebd24bb11116e3c04b5a607f52e"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v03/source/imagegen_prompts.json",
+      "bytes": 5993,
+      "sha256": "cf69c0c2a91b23b323621b68b0fdd65ba0ffd52ca9a42391a12399dee6a09df8"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v03/source/imagegen_prompts_v03.json",
+      "bytes": 7641,
+      "sha256": "5ed6d7fe80174dbd8c3a7f23fc9636df1e560c76ab768df00d42c43f062e2d0d"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v03/source/imagegen_repair_v03.json",
+      "bytes": 917,
+      "sha256": "fd334979c96382b57df32ffc3d0288dcbed5fc2a59ed6923e1a22b494aab24cf"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v03/source/layout_verification.json",
+      "bytes": 20299,
+      "sha256": "590930f96eebb028981af6f1eed757d78004717fb8bdc1ee88f37795d64284c7"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v03/source/preview.html",
+      "bytes": 839,
+      "sha256": "482152bf2a92e1fae13f0b0b58c6eb620de0cfeb1238292adc90d270a62e9cf4"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v03/source/transcript_source.txt",
+      "bytes": 38660,
+      "sha256": "27d628d7f70dc492a9ffc854b19f6605729dc7aeb518c5ac56017b4ac5b70177"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v03/source/verify_delivery.py",
+      "bytes": 2093,
+      "sha256": "625a1a6a1508c3932e561bc71fbf13207b1932df093bb1235f2b56de1660fadd"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v04/README.txt",
+      "bytes": 3794,
+      "sha256": "56d9c330161958e9aef12db89d283be664ad5005322cef4ce69f45c476e0d787"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v04/source/copy_rendered.txt",
+      "bytes": 2437,
+      "sha256": "ee863e079a3055ac3427609baa4405995ef672e2b5eeb366fae7ca2992d41efa"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v04/source/delivery_verification.json",
+      "bytes": 400,
+      "sha256": "3c2144cbe0b216d6cb9d96e90ba852e25a2b1ebd24bb11116e3c04b5a607f52e"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v04/source/imagegen_prompts.json",
+      "bytes": 5993,
+      "sha256": "cf69c0c2a91b23b323621b68b0fdd65ba0ffd52ca9a42391a12399dee6a09df8"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v04/source/imagegen_prompts_v03.json",
+      "bytes": 7641,
+      "sha256": "5ed6d7fe80174dbd8c3a7f23fc9636df1e560c76ab768df00d42c43f062e2d0d"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v04/source/imagegen_prompts_v04.json",
+      "bytes": 6038,
+      "sha256": "6a88b3a92357fb00fc46bcee140686efc2d52c0332579c735b6dc64ff10015fc"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v04/source/imagegen_repair_v03.json",
+      "bytes": 917,
+      "sha256": "fd334979c96382b57df32ffc3d0288dcbed5fc2a59ed6923e1a22b494aab24cf"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v04/source/layout_verification.json",
+      "bytes": 20299,
+      "sha256": "b1c3fd6e041f124fd299b19a3e4313f297b6a14cd6905a41a53d222fe2c9ab26"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v04/source/preview.html",
+      "bytes": 839,
+      "sha256": "482152bf2a92e1fae13f0b0b58c6eb620de0cfeb1238292adc90d270a62e9cf4"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v04/source/transcript_source.txt",
+      "bytes": 38660,
+      "sha256": "27d628d7f70dc492a9ffc854b19f6605729dc7aeb518c5ac56017b4ac5b70177"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v04/source/verify_delivery.py",
+      "bytes": 2093,
+      "sha256": "bb812dd24bf6a5800cf7e967f5153fa9f8d5e7868a9bfe441c1ae4b83c5c4dd7"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v05/README.txt",
+      "bytes": 4224,
+      "sha256": "ed859e14d8d3ac8fc772017e1c48cbd2161200d8b7ea735a167fd132f54fa99f"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v05/source/copy_rendered.txt",
+      "bytes": 2437,
+      "sha256": "ee863e079a3055ac3427609baa4405995ef672e2b5eeb366fae7ca2992d41efa"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v05/source/delivery_verification.json",
+      "bytes": 400,
+      "sha256": "3c2144cbe0b216d6cb9d96e90ba852e25a2b1ebd24bb11116e3c04b5a607f52e"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v05/source/imagegen_prompts.json",
+      "bytes": 5993,
+      "sha256": "cf69c0c2a91b23b323621b68b0fdd65ba0ffd52ca9a42391a12399dee6a09df8"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v05/source/imagegen_prompts_v03.json",
+      "bytes": 7641,
+      "sha256": "5ed6d7fe80174dbd8c3a7f23fc9636df1e560c76ab768df00d42c43f062e2d0d"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v05/source/imagegen_prompts_v04.json",
+      "bytes": 6038,
+      "sha256": "6a88b3a92357fb00fc46bcee140686efc2d52c0332579c735b6dc64ff10015fc"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v05/source/imagegen_prompts_v05.json",
+      "bytes": 2578,
+      "sha256": "34e77fda953b07f1888f8e4676ff4a55cb0a9a32cd988a69f0a7ba2df3006ab6"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v05/source/imagegen_repair_v03.json",
+      "bytes": 917,
+      "sha256": "fd334979c96382b57df32ffc3d0288dcbed5fc2a59ed6923e1a22b494aab24cf"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v05/source/layout_verification.json",
+      "bytes": 20299,
+      "sha256": "1b18b17728858f948d9c3a2c62de0b82f0c9641fa8705e42617e10b84fb370ad"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v05/source/preview.html",
+      "bytes": 839,
+      "sha256": "482152bf2a92e1fae13f0b0b58c6eb620de0cfeb1238292adc90d270a62e9cf4"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v05/source/transcript_source.txt",
+      "bytes": 38660,
+      "sha256": "27d628d7f70dc492a9ffc854b19f6605729dc7aeb518c5ac56017b4ac5b70177"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v05/source/verify_delivery.py",
+      "bytes": 2093,
+      "sha256": "bc78cb0f5682fa545696523a2b50b31be68c527fdb3f256f3e9eecf17afb46c1"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v06/README.txt",
+      "bytes": 2133,
+      "sha256": "d0ccf0c2aee4b800daad7f55b007e0dc7bbd4bb8997657bb9fb7a639b240d3d9"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v06/source/PHOTO_WORKFLOW.txt",
+      "bytes": 1208,
+      "sha256": "a356505d6c5f585bf21878d6f473aa2fec42f3c836eb44595978a288d08ccefe"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v06/source/copy_rendered.txt",
+      "bytes": 2437,
+      "sha256": "ee863e079a3055ac3427609baa4405995ef672e2b5eeb366fae7ca2992d41efa"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v06/source/delivery_verification.json",
+      "bytes": 648,
+      "sha256": "3a64d6d17f39305ac8373d107b688d7c34edcad3888e1577758d2c217d6e2cc0"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v06/source/layout_verification.json",
+      "bytes": 20299,
+      "sha256": "03fa88f61dec50e9b400bcaff2602e9e4499f2c860c807c8f6ab8d699b4913d4"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v06/source/portrait_pixel_verification.json",
+      "bytes": 1037,
+      "sha256": "05eb1c1f0c5618a6fb0345e12ea71fbcd9faa5c07a2b5fcd8548a0aec4e24a80"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v06/source/portrait_sources.json",
+      "bytes": 1808,
+      "sha256": "d3063ee21d6aaace3c93cdfb64d7f0841ca5a295422957f118b68da89f7188ca"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v06/source/preview.html",
+      "bytes": 839,
+      "sha256": "482152bf2a92e1fae13f0b0b58c6eb620de0cfeb1238292adc90d270a62e9cf4"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v06/source/transcript_source.txt",
+      "bytes": 38660,
+      "sha256": "27d628d7f70dc492a9ffc854b19f6605729dc7aeb518c5ac56017b4ac5b70177"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v06/source/verify_delivery.py",
+      "bytes": 3263,
+      "sha256": "b7c9d2cc83dd0f58d7a0135e80a630df6ea239780bfd0488fc701cba4b52531c"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v06/source/verify_portraits.py",
+      "bytes": 1935,
+      "sha256": "ddccdb74e26bb202700d0eed4d1bfafccab963ca8872d651cb958845b275c9cc"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v07/README.txt",
+      "bytes": 5114,
+      "sha256": "948a2f936d82a6c651871cdb0835d56ff8197d791c727b3bd103a52c95ffdaf5"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v07/source/compare_skin.py",
+      "bytes": 1151,
+      "sha256": "298fab3ae711ffd7b1ef2a78be0cf6e017199a7a69601520576902314214e662"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v07/source/copy_rendered.txt",
+      "bytes": 2437,
+      "sha256": "ee863e079a3055ac3427609baa4405995ef672e2b5eeb366fae7ca2992d41efa"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v07/source/delivery_verification.json",
+      "bytes": 400,
+      "sha256": "3c2144cbe0b216d6cb9d96e90ba852e25a2b1ebd24bb11116e3c04b5a607f52e"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v07/source/imagegen_prompts.json",
+      "bytes": 5993,
+      "sha256": "cf69c0c2a91b23b323621b68b0fdd65ba0ffd52ca9a42391a12399dee6a09df8"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v07/source/imagegen_prompts_v03.json",
+      "bytes": 7641,
+      "sha256": "5ed6d7fe80174dbd8c3a7f23fc9636df1e560c76ab768df00d42c43f062e2d0d"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v07/source/imagegen_prompts_v04.json",
+      "bytes": 6038,
+      "sha256": "6a88b3a92357fb00fc46bcee140686efc2d52c0332579c735b6dc64ff10015fc"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v07/source/imagegen_prompts_v05.json",
+      "bytes": 2578,
+      "sha256": "34e77fda953b07f1888f8e4676ff4a55cb0a9a32cd988a69f0a7ba2df3006ab6"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v07/source/imagegen_prompts_v07.json",
+      "bytes": 15097,
+      "sha256": "722f2b5f504761d7bd695381da7c5ff7b70c895b134aba4908a2a685b75891ec"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v07/source/imagegen_repair_v03.json",
+      "bytes": 917,
+      "sha256": "fd334979c96382b57df32ffc3d0288dcbed5fc2a59ed6923e1a22b494aab24cf"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v07/source/layout_verification.json",
+      "bytes": 20299,
+      "sha256": "cee42c4045398168c4c69f5044cff8b6df79dade2951a700d0798d98f8db4db3"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v07/source/preview.html",
+      "bytes": 839,
+      "sha256": "482152bf2a92e1fae13f0b0b58c6eb620de0cfeb1238292adc90d270a62e9cf4"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v07/source/transcript_source.txt",
+      "bytes": 38660,
+      "sha256": "27d628d7f70dc492a9ffc854b19f6605729dc7aeb518c5ac56017b4ac5b70177"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v07/source/verify_delivery.py",
+      "bytes": 2093,
+      "sha256": "d62b41bd0d17f9584071d3ecc462e865a7d109a5c9ae7e26daa483ad03a31386"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v08/README.txt",
+      "bytes": 2134,
+      "sha256": "600391af3ed29036aca12e36a4febcd40f2b0134ebe8adc5c19b3c44be3c0973"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v08/source/compare_skin.py",
+      "bytes": 1151,
+      "sha256": "298fab3ae711ffd7b1ef2a78be0cf6e017199a7a69601520576902314214e662"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v08/source/copy_rendered.txt",
+      "bytes": 2437,
+      "sha256": "ee863e079a3055ac3427609baa4405995ef672e2b5eeb366fae7ca2992d41efa"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v08/source/delivery_verification.json",
+      "bytes": 646,
+      "sha256": "2374d850d49b21d5dcdcbabd05bfb1b44670a006ae314dfe5a788bcb8ca67b2d"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v08/source/imagegen_prompts.json",
+      "bytes": 5993,
+      "sha256": "cf69c0c2a91b23b323621b68b0fdd65ba0ffd52ca9a42391a12399dee6a09df8"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v08/source/imagegen_prompts_v03.json",
+      "bytes": 7641,
+      "sha256": "5ed6d7fe80174dbd8c3a7f23fc9636df1e560c76ab768df00d42c43f062e2d0d"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v08/source/imagegen_prompts_v04.json",
+      "bytes": 6038,
+      "sha256": "6a88b3a92357fb00fc46bcee140686efc2d52c0332579c735b6dc64ff10015fc"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v08/source/imagegen_prompts_v05.json",
+      "bytes": 2578,
+      "sha256": "34e77fda953b07f1888f8e4676ff4a55cb0a9a32cd988a69f0a7ba2df3006ab6"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v08/source/imagegen_prompts_v07.json",
+      "bytes": 15097,
+      "sha256": "722f2b5f504761d7bd695381da7c5ff7b70c895b134aba4908a2a685b75891ec"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v08/source/imagegen_repair_v03.json",
+      "bytes": 917,
+      "sha256": "fd334979c96382b57df32ffc3d0288dcbed5fc2a59ed6923e1a22b494aab24cf"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v08/source/layout_verification.json",
+      "bytes": 20303,
+      "sha256": "ec9f933c322a10e6806e939a983cb0fa649379bcd4cb198f48022bbdede366e2"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v08/source/preview.html",
+      "bytes": 839,
+      "sha256": "482152bf2a92e1fae13f0b0b58c6eb620de0cfeb1238292adc90d270a62e9cf4"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v08/source/transcript_source.txt",
+      "bytes": 38660,
+      "sha256": "27d628d7f70dc492a9ffc854b19f6605729dc7aeb518c5ac56017b4ac5b70177"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v08/source/verify_delivery.py",
+      "bytes": 3718,
+      "sha256": "2fba0c03db782dc898af9c9e31df60c91fa5b57d63cdccb14cd446bc032af922"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v08_No_Text/export_backgrounds.py",
+      "bytes": 2457,
+      "sha256": "dd1fa3925216e9e8d50101fd62850dea9e32ad9c9b4a20c13ecee27498c5a9c4"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v08_No_Text/verification.json",
+      "bytes": 1597,
+      "sha256": "819fd45c456cacb686f666059b6a205367efd74d690ed2330494e1c46fe2b5a3"
+    },
+    {
+      "path": "projects/PFT/Spotify - PFT/AGENTS.md",
+      "bytes": 4048,
+      "sha256": "95375d0a822ad7327e5ad9fb657343ac59e0489feaeab2f0bc51aae7512b31de"
+    },
+    {
+      "path": "projects/PFT/Spotify - PFT/PROJECT.md",
+      "bytes": 131,
+      "sha256": "21e3d04c5ebfd4c450c4760e7a530ac14516d0bd6448a55e61a432b515830c2b"
+    },
+    {
+      "path": "projects/PFT/Spotify - PFT/outputs/Razvan/Razvan_Spotify_v02/Spotify_v02/README.txt",
+      "bytes": 362,
+      "sha256": "753360bfce36b734acb8526b54f13e877f4ef63fb3d2363eece67e20404c028f"
+    },
+    {
+      "path": "projects/PFT/Spotify - PFT/outputs/Razvan/Razvan_Spotify_v02/Spotify_v02/production/prompts.json",
+      "bytes": 3482,
+      "sha256": "82292147297e25e41f68825b1a8b4306315fb823a23631814522c2890d7894be"
+    },
+    {
+      "path": "projects/PFT/Spotify - PFT/outputs/Razvan/Razvan_Spotify_v02/Spotify_v02/production/verification.json",
+      "bytes": 755,
+      "sha256": "13138f2a067cbec3e9b87c71e78f1e7a4c3227a80bd5282fc3a22fde49c1179a"
+    },
+    {
+      "path": "projects/PFT/Spotify - PFT/outputs/Razvan/Spotify_v01/README.txt",
+      "bytes": 1045,
+      "sha256": "e0570562793ee987f25d9cca87149b10a5921206458555a6485c5d3512fefaf0"
+    },
+    {
+      "path": "projects/PFT/Spotify - PFT/outputs/Razvan/Spotify_v01/production/prompts.json",
+      "bytes": 6807,
+      "sha256": "d667265212f56b3adf89910bc8a742e4c8a815ea3872a95425a0e2db142dca32"
+    },
+    {
+      "path": "projects/PFT/Spotify - PFT/outputs/Razvan/Spotify_v01/production/verification.json",
+      "bytes": 1022,
+      "sha256": "a8816c29e955fbf11706c640bf8d6c2b1cdad56eb28152b49159c668e66f5248"
+    },
+    {
+      "path": "projects/PFT/Spotify - PFT/outputs/Razvan/Spotify_v02/README.txt",
+      "bytes": 362,
+      "sha256": "753360bfce36b734acb8526b54f13e877f4ef63fb3d2363eece67e20404c028f"
+    },
+    {
+      "path": "projects/PFT/Spotify - PFT/outputs/Razvan/Spotify_v02/production/prompts.json",
+      "bytes": 3482,
+      "sha256": "82292147297e25e41f68825b1a8b4306315fb823a23631814522c2890d7894be"
+    },
+    {
+      "path": "projects/PFT/Spotify - PFT/outputs/Razvan/Spotify_v02/production/verification.json",
+      "bytes": 755,
+      "sha256": "13138f2a067cbec3e9b87c71e78f1e7a4c3227a80bd5282fc3a22fde49c1179a"
+    },
+    {
+      "path": "projects/PFT/Stories - PFT/AGENTS.md",
+      "bytes": 6250,
+      "sha256": "383ef0c1bc549237529420a54e85a119908322fc387d8cdd6db1206013fda5f6"
+    },
+    {
+      "path": "projects/PFT/Stories - PFT/PROJECT.md",
+      "bytes": 131,
+      "sha256": "3e846be58f6d417d416a8eb0b0d11cb7ec0ae564cbfc1f5f4b3709e5b682ac33"
+    },
+    {
+      "path": "projects/PFT/Stories - PFT/outputs/Razvan_Stories_Green_v03/README.txt",
+      "bytes": 801,
+      "sha256": "9c46012aba89d2e539b829cfba9c2319c472b80b2d9fd0aeea3ef78bd39ba02a"
+    },
+    {
+      "path": "projects/PFT/Stories - PFT/outputs/Razvan_Stories_Green_v03/production/export.ps1",
+      "bytes": 5324,
+      "sha256": "ea3d1ceb95ff1282582d4f1a1072d1820df884c25c1b7793c68d0993fa85c7db"
+    },
+    {
+      "path": "projects/PFT/Stories - PFT/outputs/Razvan_Stories_Green_v03/production/manifest.json",
+      "bytes": 59151,
+      "sha256": "381ccc0f6e8365fa568ac3735fce33cfaad70b7b50d7b9efa32fd45f88068759"
+    },
+    {
+      "path": "projects/PFT/Stories - PFT/outputs/Razvan_Stories_Green_v03/production/verification.json",
+      "bytes": 7507,
+      "sha256": "b2725cfadb6e341fb578bbba48428dbf8ca278ae112458fcbc6d599ae2c8312a"
+    },
+    {
+      "path": "projects/PFT/Stories - PFT/outputs/Razvan_Stories_Sanjiv_v04/README.txt",
+      "bytes": 906,
+      "sha256": "eadfe186fa88167560700d2bb387c8987135f3a4a95cec92e60e984eb94c076f"
+    },
+    {
+      "path": "projects/PFT/Stories - PFT/outputs/Razvan_Stories_Sanjiv_v04/production/export.ps1",
+      "bytes": 5429,
+      "sha256": "2a43522158b0f136e1e2ab7441759c7a9b98aac879e417589214f7a8c36df506"
+    },
+    {
+      "path": "projects/PFT/Stories - PFT/outputs/Razvan_Stories_Sanjiv_v04/production/manifest.json",
+      "bytes": 55065,
+      "sha256": "194ef8ffc1f0a1f8bfe8f360d4a756ad72e951f03555e8f5e9b0a11c37e4b5e6"
+    },
+    {
+      "path": "projects/PFT/Stories - PFT/outputs/Razvan_Stories_Sanjiv_v04/production/verification.json",
+      "bytes": 7533,
+      "sha256": "7a385d2095c3dde1e43a8318a5fe47781aa9667c252fe845efc5d5bbb4a57e46"
+    },
+    {
+      "path": "projects/PFT/Stories - PFT/outputs/Razvan_Stories_v02/README.txt",
+      "bytes": 1009,
+      "sha256": "e5f448565c91362c50766c150fabb44c7683d0616a36c507f53c3a98a8395d0d"
+    },
+    {
+      "path": "projects/PFT/Stories - PFT/outputs/Razvan_Stories_v02/production/export.ps1",
+      "bytes": 6448,
+      "sha256": "2dd32738f72fffd9efb2fdeb4bf5d60980cd745b851eca90233ccfe40e881a0e"
+    },
+    {
+      "path": "projects/PFT/Stories - PFT/outputs/Razvan_Stories_v02/production/manifest.json",
+      "bytes": 34508,
+      "sha256": "82a50bd94ee9eb1875657f1dd0064e190770b8cd2d253074d59f812b769d054b"
+    },
+    {
+      "path": "projects/PFT/Stories - PFT/outputs/Razvan_Stories_v02/production/verification.json",
+      "bytes": 3499,
+      "sha256": "4f22568f40829bd0ff54aac68a1c794b66f9409bd0a695fa5de6ea0d2dfda806"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/PROJECT.md",
+      "bytes": 133,
+      "sha256": "26372e40e54cf9c41e3386cc605a9a988139f42aa2139e62c6ede6889f66660b"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Green_Gradient_v05/README.txt",
+      "bytes": 1712,
+      "sha256": "4e3f0f241350ab5d49e02bae34b0123e43dc34aa3dcb0a3b9ea83fe0b6d1c624"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Green_Gradient_v05/production/controle_visuel.txt",
+      "bytes": 835,
+      "sha256": "199ad13533d9b380afc3b339895ca25cb1a94d15af2fdf559c17b2fb0d48ab5a"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Green_Gradient_v05/production/export_and_verify.ps1",
+      "bytes": 12057,
+      "sha256": "b7ea40aacbf5bebbae00c953cd4fd2b91bd99262dd253648be79af701fa18fd6"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Green_Gradient_v05/production/export_manifest.json",
+      "bytes": 6554,
+      "sha256": "02019783e8f808ff92257ab9b5d28b38e84c59916414091558970ec8d81b77dd"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Green_Gradient_v05/production/generation_manifest.json",
+      "bytes": 54358,
+      "sha256": "a8640eae677ecf4e63b41e1d20c82e128515c6aa89bb799ed3a5726fce1ee845"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Green_Gradient_v05/production/package_and_verify.ps1",
+      "bytes": 2752,
+      "sha256": "a0df4246208a8329c11b0251a2a5cfc7e20582f0bbb6dc33cc91b33be7c99033"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Green_Gradient_v05/production/source_manifest.json",
+      "bytes": 781,
+      "sha256": "e2c05990a2f750a8260e963dbcb6e5cc27c17254a47f7ea213f111d48ffdae87"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Green_Gradient_v05/production/transcript_source.txt",
+      "bytes": 38660,
+      "sha256": "27d628d7f70dc492a9ffc854b19f6605729dc7aeb518c5ac56017b4ac5b70177"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Green_Gradient_v05/production/verification_images.json",
+      "bytes": 19631,
+      "sha256": "fb7f70033ea6ba2ce6d33ad2e4571ae5963650401c9f7f348dea1c5f866a7f42"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/README.txt",
+      "bytes": 3837,
+      "sha256": "c8d7eaa31ff96a108cdd5a7a69d0cd9c0287011cd969bff6fb226dfb882b2df8"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Sanjiv_Grain_v06/README.txt",
+      "bytes": 831,
+      "sha256": "521ba02d4a2ff9c904cf4d694adf3d28503570113cb36de5d06c1343b1ecfcf7"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Sanjiv_Grain_v06/production/compose_local_faces.ps1",
+      "bytes": 2881,
+      "sha256": "63fa32d6337a100bd417259496e17f3419c7b90331b7176437f790236bffefbe"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Sanjiv_Grain_v06/production/export_v06.ps1",
+      "bytes": 5833,
+      "sha256": "92ccf4d5860467b6481c601cb86532cf1f90bb51f2633e70cda3f607b093d784"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Sanjiv_Grain_v06/production/face_manifest.json",
+      "bytes": 12468,
+      "sha256": "442de7a6aa450a4c7525c5bae88a38df127015b89c48e66a72b3bb7849f55b13"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Sanjiv_Grain_v06/production/face_preservation_verification.json",
+      "bytes": 3243,
+      "sha256": "e092d735c3d95c9a4e89b7256b11ba6d31791fc100a9983fcb4fc4a4a5df758c"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Sanjiv_Grain_v06/production/grain_manifest.json",
+      "bytes": 4112,
+      "sha256": "97d3587abada8a13efc8bed041e6ffc9dbfdd43c6e3ffe550e24316f91520c35"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Sanjiv_Grain_v06/production/package_v06.ps1",
+      "bytes": 1778,
+      "sha256": "bc74f3c7b6c58fddf2081d0b2daf3d808492ceefa315a36dbe418a9fda69f855"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Sanjiv_Grain_v06/production/verification_images.json",
+      "bytes": 14605,
+      "sha256": "563b43c165159ef468db543ab7c59c48015e6348654d1af80555de651904f01c"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Six_References_v02/README.txt",
+      "bytes": 2657,
+      "sha256": "9f42a9b75b17333836ae4e18be00aa41177e8bac221485a2a8799bf271776f39"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Six_References_v02/production/concepts_et_prompts.json",
+      "bytes": 19938,
+      "sha256": "660604d1d86f4163eb3d1bee146a3579386ce28ba97fd8bdf247451496aae385"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Six_References_v02/production/export_and_verify.ps1",
+      "bytes": 9288,
+      "sha256": "282030b4084e3ef5b890b2bbab2c457ed9c4f8c33497027c6811afc2b3ec2d75"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Six_References_v02/production/export_manifest.json",
+      "bytes": 3217,
+      "sha256": "c1a84d68bd037d226384ce15df402d3b7c48e20c6eabc8c648706a23df463b2c"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Six_References_v02/production/generation_manifest.json",
+      "bytes": 25633,
+      "sha256": "dcd5c7f7a3dc4c6226231e3b2c1e68d7c438a5ee9c1ad67e519753a2e787809a"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Six_References_v02/production/prompts_generation.json",
+      "bytes": 21522,
+      "sha256": "61dbe31cc6791822a5f4685038f8d5b685d423c6cd950f1c20b8ed480003e7af"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Six_References_v02/production/source_manifest.json",
+      "bytes": 1591,
+      "sha256": "161962071e01fe55bbb9e1580e8dd76d14da3bc6f8fa5109dab496541b53dacf"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Six_References_v02/production/transcript_source.txt",
+      "bytes": 38660,
+      "sha256": "27d628d7f70dc492a9ffc854b19f6605729dc7aeb518c5ac56017b4ac5b70177"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Six_References_v02/production/verification_images.json",
+      "bytes": 8722,
+      "sha256": "671be91392f4670030b9c29c3c4b2c70501b62effa8e18fe61c6e8d95545991f"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Six_References_v03/README.txt",
+      "bytes": 3308,
+      "sha256": "7f5e5e8f03ce844bde6a3e7774311b10df81521d2d53a4966b525d75b9038d38"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Six_References_v03/production/export_and_verify.ps1",
+      "bytes": 12478,
+      "sha256": "ad9325baf16aa861bf2e4f3c52f5b26c133847284a33e99c9a4ba28ad1e8f4e8"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Six_References_v03/production/export_manifest.json",
+      "bytes": 2788,
+      "sha256": "6c57fc8450e94acf765be20f682bec07746f6f2804b70b56ec34cbacef12ed33"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Six_References_v03/production/generation_manifest.json",
+      "bytes": 37478,
+      "sha256": "1339919252b6f7c7e2c7b73421969a73e78f3e65c8ef5a4ba884d175dfb16c5e"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Six_References_v03/production/prompts_v03.json",
+      "bytes": 29319,
+      "sha256": "22da71096a34d387498ce35c933c95416ed059df57cd1fbd166b0420c101e08c"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Six_References_v03/production/retouches_v03.json",
+      "bytes": 3839,
+      "sha256": "ee6e484d60e489d445d13632ca5e126a92435c81a673b8c932e50124de10d2f8"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Six_References_v03/production/source_manifest.json",
+      "bytes": 1042,
+      "sha256": "61d81c0c4f7030d88b79916e67bcc7dd09bde943bf7f8ad2d1ec226d3d145af6"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Six_References_v03/production/transcript_source.txt",
+      "bytes": 38660,
+      "sha256": "27d628d7f70dc492a9ffc854b19f6605729dc7aeb518c5ac56017b4ac5b70177"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Six_References_v03/production/verification_images.json",
+      "bytes": 10130,
+      "sha256": "a7014b18ab6b91a8c6c7c7b0174a62bbe809fee0804a63fcd0e697d6e311d461"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Six_References_v04/README.txt",
+      "bytes": 1326,
+      "sha256": "48877a9173785df0795be8a069116322557cf881020adfe0f0384ef8f5d5f614"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Six_References_v04/production/export_and_verify.ps1",
+      "bytes": 10683,
+      "sha256": "53e4f3c4bf49675a0eabf80795e77c7ec2240bc637f0761330c02500f1b87c6a"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Six_References_v04/production/export_manifest.json",
+      "bytes": 2880,
+      "sha256": "b0228341c07f6ffd929aa5e3896e88d045f39731ff0bca4e40873f8a20ef74b1"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Six_References_v04/production/generation_manifest.json",
+      "bytes": 15802,
+      "sha256": "b14822ca5bc7fbaebea16279a1f8f551ab2786d62c458b58bca6ef368fa43bbb"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Six_References_v04/production/package_and_verify.ps1",
+      "bytes": 1903,
+      "sha256": "cca84bb512c797c71e93883f671397a5c66add9b373ce465d6d074bec780c186"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Six_References_v04/production/source_manifest.json",
+      "bytes": 1036,
+      "sha256": "24e76fae7a451907ecd2ceb59eafde58114358ae5ab37ec958c75be3763c7503"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Six_References_v04/production/transcript_source.txt",
+      "bytes": 38660,
+      "sha256": "27d628d7f70dc492a9ffc854b19f6605729dc7aeb518c5ac56017b4ac5b70177"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/Six_References_v04/production/verification_images.json",
+      "bytes": 9892,
+      "sha256": "e8f71babbabfa7b155566b14b99bfb135f4fc00d33bd3cd5167fadcabb543b58"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/inventaire_sources.json",
+      "bytes": 7633,
+      "sha256": "ca0519de24d08b1513dee1dd23eb39c1c0b4257e25f8213fbbe85f04853d387b"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/inventaire_sources.txt",
+      "bytes": 2485,
+      "sha256": "e8b6fa9f4d0881c03103dfb8a3f86c605b00dedfeb4aa11f566c6fbd8a89c633"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/production/contact_sheets.ps1",
+      "bytes": 1884,
+      "sha256": "7aa9627f39f9f0797dba09892551402f56a2f0a98ee174f274bf5323184f0004"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/production/controle_visuel.txt",
+      "bytes": 1123,
+      "sha256": "d2ed388b45ff56d6bc26d71b5d5730e6ebbf34d1f7a6d800fb048a43905cf413"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/production/finalize.ps1",
+      "bytes": 7262,
+      "sha256": "d0f8cc632e7f010ad137e10af7a6ebd4c1eab623be76226a111d11bab0d1cb0e"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/production/native_exports.json",
+      "bytes": 15447,
+      "sha256": "44e7b6f628f26659e6a1ce4b34a7fa0822b31dad0e9a6ee4d5204803f397b644"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/production/prompt_v01.txt",
+      "bytes": 3297,
+      "sha256": "085d398e844acb384ef2404d47567c9fe029184abcea250ceae341cc231bff4f"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/production/titres_et_angles.txt",
+      "bytes": 1271,
+      "sha256": "4bb414c91289a532f54ef50df3554ba542741508a0f52fcb89fde55f2c4d991b"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/production/transcript_source.txt",
+      "bytes": 38660,
+      "sha256": "27d628d7f70dc492a9ffc854b19f6605729dc7aeb518c5ac56017b4ac5b70177"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan/production/verification_images.json",
+      "bytes": 5283,
+      "sha256": "f910ed3bd8a837250a4e3a7e5a1801933d96211880868b452c1c6a063217cdb5"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan_Green_Gradient_v05_archive_verification.json",
+      "bytes": 360,
+      "sha256": "534919baa3a143d3cc6b69a9825eb4e56d9a8a45c38843e2b55c154475abbd81"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan_Sanjiv_Grain_v06_archive_verification.json",
+      "bytes": 340,
+      "sha256": "4f2f4ce2ae074996bab123e949a2ea2ab765579ddc6bfa223e706a6ea5f3e190"
+    },
+    {
+      "path": "projects/PFT/Thumbnail - PFT/outputs/Razvan_Six_References_v04_archive_verification.json",
+      "bytes": 355,
+      "sha256": "99d55dd8b51bd9b6be259a83fe8bcd572036857b2edeace1a9697abea0c52472"
+    },
+    {
+      "path": "projects/Shared/Carousel - COPY/PROJECT.md",
+      "bytes": 133,
+      "sha256": "3833730ad5d7686b1f5e2262a1aa85b2e3c5d603ae74426e1d554d2aadc2b60a"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/PROJECT.md",
+      "bytes": 132,
+      "sha256": "b7706f261fdfa29b055b449e0fc4aef93c083c1522f5f578227b2e5a189910ab"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Candace-Carousel-V10-ImageGen-Prompt.txt",
+      "bytes": 592,
+      "sha256": "06321a31f45021f0579dbeacf3a672acaf1cabd41b4b59b46bc09b41c791728d"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Candace-Carousel-V12-Image-Prompt.txt",
+      "bytes": 1051,
+      "sha256": "2151b60e80fd74382cc49c9ca1db6a153f7d05b4471ab90c272e6c293c41276a"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Candace-Carousel-V9-ImageGen-Prompt.txt",
+      "bytes": 500,
+      "sha256": "5942ec866ef6211481bb8a0041baf81e68e115eb024664a8a1556ab793493cdf"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Prompt-Workflow-Carrousel-PFT.txt",
+      "bytes": 5696,
+      "sha256": "f8c999bb003dc5e05f4b56a77d98d5d0cd6c3bdca41486168169277ffba5515d"
+    },
+    {
+      "path": "projects/WOR/Spotify/PROJECT.md",
+      "bytes": 125,
+      "sha256": "802f2c692f80cf8d0d6bbc7c9634131107e98a6e54a8962572a8baf963a4d5c1"
+    },
+    {
+      "path": "projects/WOR/Spotify/Prompt-Workflow-Spotify.txt",
+      "bytes": 2519,
+      "sha256": "2c465af1c36cab7e915fdd7e2f773ccb88e4564ab035233343962dc436b0b8de"
+    },
+    {
+      "path": "projects/WOR/Spotify/SPOTIFY-STYLE.md",
+      "bytes": 2681,
+      "sha256": "66d947556e4e5f72a189ac835189a3db940df95e754a1ff7106f3a89f0761294"
+    },
+    {
+      "path": "projects/WOR/Spotify/output/Candace-Spotify-v1-prompt.txt",
+      "bytes": 2394,
+      "sha256": "881483bcd54e481c037a6d74137847c65b2afd429d42c480b04e9393a58e68d9"
+    },
+    {
+      "path": "projects/WOR/Spotify/output/Candace-Spotify-v2-prompt.txt",
+      "bytes": 1530,
+      "sha256": "b36746a6e9bd9e09eecb816afc85831838da2ffbde414b66144f49ccabb62cc6"
+    },
+    {
+      "path": "projects/WOR/Stories/Candace/Candace_Lau_Espacement_Prompts.txt",
+      "bytes": 1826,
+      "sha256": "ac522d6c2ec3df89b53cbea4477ba12b09b7c93b4b94a429998dee31f4552dc1"
+    },
+    {
+      "path": "projects/WOR/Stories/Candace/Duo_Depuis_Captures_Originales/PROVENANCE.txt",
+      "bytes": 1319,
+      "sha256": "4cf3c5d0e22fcc9e72ebf898c0258a026af060e1dc1c8a93b020ae34f8ce822f"
+    },
+    {
+      "path": "projects/WOR/Stories/Candace/Duo_Depuis_Captures_Originales/render.cjs",
+      "bytes": 3996,
+      "sha256": "a3eacb735c9bb82c697398dfe4b4e96ff3fe5c812d12ede9da8216f8e211c074"
+    },
+    {
+      "path": "projects/WOR/Stories/Candace/Essai_Duo_Poppins/Retouche.txt",
+      "bytes": 1796,
+      "sha256": "ec3b71730fc610bf45b594eea0cc2194dd8d4328dea0541bda7974ad969eb8dd"
+    },
+    {
+      "path": "projects/WOR/Stories/Candace/Essai_Duo_Poppins/render.cjs",
+      "bytes": 3988,
+      "sha256": "87f6227f1db5348c7955cf78b79aa5805cd22b1dd770623ff79a3ce6dced21e5"
+    },
+    {
+      "path": "projects/WOR/Stories/Candace/Poppins_Photos_Originales/LIRE.txt",
+      "bytes": 1900,
+      "sha256": "735d620beb17f3f06dab8e66556947cb479f3de6fe25f648c555d8304217b6c3"
+    },
+    {
+      "path": "projects/WOR/Stories/Candace/Poppins_Photos_Originales/render-stories.cjs",
+      "bytes": 7747,
+      "sha256": "b67d45230e20dd736e484dec33b3e76cdd9c13ae7abf93b8f41e4a1f6cabdc57"
+    },
+    {
+      "path": "projects/WOR/Stories/Candace/Portraits_Reduits_Prompt.txt",
+      "bytes": 1280,
+      "sha256": "8b7ada37274934336a7e038f849773eff9287f75495128e01eb89b4fd777e917"
+    },
+    {
+      "path": "projects/WOR/Stories/Candace/Prompt_v1.txt",
+      "bytes": 2133,
+      "sha256": "669704d714e9b3221d084c164dde691b7671823a46a1f9b6944b1f85727b1a50"
+    },
+    {
+      "path": "projects/WOR/Stories/Candace/Prompt_v2.txt",
+      "bytes": 2114,
+      "sha256": "d856f342d9c5837d54258018ac71150d33d9d9ce68c870b9353cd3abe8998498"
+    },
+    {
+      "path": "projects/WOR/Stories/Candace/Prompt_v3.txt",
+      "bytes": 2433,
+      "sha256": "16b91710b644b09541ce164c5f495e91753182728458bf9278b3843c6105ae20"
+    },
+    {
+      "path": "projects/WOR/Stories/Candace/Retouche_Naturelle_Prompt.txt",
+      "bytes": 1343,
+      "sha256": "a8064d4034eba0d3b8bee19a51bcdb257fb31569295478b0c88f3e6ac968aeb5"
+    },
+    {
+      "path": "projects/WOR/Stories/Candace/Retouche_Nettete_Photo_Astra/Candace_5_Stories_Retouchees/LIRE_MOI.txt",
+      "bytes": 1646,
+      "sha256": "b844894f5ed3386d7e333d3bbf5eea9c1ebb8bee56ad2b1352614aa13044aab9"
+    },
+    {
+      "path": "projects/WOR/Stories/Candace/Retouche_Nettete_Photo_Astra/Export_Corrige_V2/LIRE_MOI.txt",
+      "bytes": 773,
+      "sha256": "99e8392a77a59a5c4e4816331f0e8baaf0f2d1390d5286f34adfe763dc0fbd6f"
+    },
+    {
+      "path": "projects/WOR/Stories/Candace/Retouche_Nettete_Photo_Astra/Export_Corrige_V2/Verification.json",
+      "bytes": 2503,
+      "sha256": "5e8e5cc2ac62576b355e847c5698d1cfa5782a2432ec8aacb67b4529da1d271d"
+    },
+    {
+      "path": "projects/WOR/Stories/Candace/Retouche_Nettete_Photo_Astra/Export_Corrige_V2/manifest.json",
+      "bytes": 8519,
+      "sha256": "bca08bdda1ae3981bfef5992fd3d98bff4977bd1bacb2341c581b8f365fc5231"
+    },
+    {
+      "path": "projects/WOR/Stories/Candace/Retouche_Nettete_Photo_Astra/LIRE_MOI.txt",
+      "bytes": 1646,
+      "sha256": "b844894f5ed3386d7e333d3bbf5eea9c1ebb8bee56ad2b1352614aa13044aab9"
+    },
+    {
+      "path": "projects/WOR/Stories/Candace/Retouche_Nettete_Photo_Astra/crop-metadata.json",
+      "bytes": 5797,
+      "sha256": "12694ec820eb5da8c7eedcfeecc25c4ca9b41c9c452ba921a619ea6481c74c3e"
+    },
+    {
+      "path": "projects/WOR/Stories/Candace/Retouche_Nettete_Photo_Astra/manifest.json",
+      "bytes": 8234,
+      "sha256": "a024ff48aeb03aca89001e9a84e013d3f806d47e88fd624cb674653a34f12a5e"
+    },
+    {
+      "path": "projects/WOR/Stories/Candace/Retouche_Nettete_Photo_Astra/retouch-prompts.json",
+      "bytes": 6002,
+      "sha256": "b57b711cbae62bd875ddd37c653ad7643a30454feec816ce9185f805602d8cd4"
+    },
+    {
+      "path": "projects/WOR/Stories/Candace/Retouche_Nettete_Photo_Astra/selected-portraits.json",
+      "bytes": 705,
+      "sha256": "b48d8ad1da43e348bddf4ee3b7d4e837cd4e2fcd6d7e166c22394c7b4e614d75"
+    },
+    {
+      "path": "projects/WOR/Stories/Candace/Retouche_Nettete_Photo_Astra/verified-files.json",
+      "bytes": 1419,
+      "sha256": "dd25024912b0251c0aff17317b12d75549bf1dc24de7f0dbe2d73719bf1371d1"
+    },
+    {
+      "path": "projects/WOR/Stories/Candace/Retouche_Nettete_Photo_Astra/verify-export.cjs",
+      "bytes": 1467,
+      "sha256": "3015d8a4c34452fc625b4b9d277b0ddd6b3047d8f89cc1924ce461a3178387ab"
+    },
+    {
+      "path": "projects/WOR/Stories/Candace/Stories_5_Angles/Prompts.txt",
+      "bytes": 9428,
+      "sha256": "b052e1ee4b457ab545ad564662964f114a565b68760e0b0a5f5a747d5154cadc"
+    },
+    {
+      "path": "projects/WOR/Stories/Candace/Stories_Candace_Lau_4K_Export/LIRE_AVANT_UTILISATION.txt",
+      "bytes": 688,
+      "sha256": "917c0eaa11e758de8521aa941cad6eb10f5475fcba3bcbde49805e0fd71d81b7"
+    },
+    {
+      "path": "projects/WOR/Stories/Candace/Stories_Design_Conserve_Poppins/render.cjs",
+      "bytes": 3928,
+      "sha256": "088f6da9cc161da20cb82fe9c249d3b475972ed38c94377b8ae970ac868d7cf7"
+    },
+    {
+      "path": "projects/WOR/Stories/PROJECT.md",
+      "bytes": 125,
+      "sha256": "0cb62eac1b5c983b7ae4ee58ba7cb0e5382ca8ec387e88d9f0e7905730bc0e46"
+    },
+    {
+      "path": "projects/WOR/Stories/References/Style_Words_of_Rizdom.txt",
+      "bytes": 4275,
+      "sha256": "086a567a7f63ecbc1b00bb223e8c94627a3ad25c91c2eff22e824e3460c68d18"
+    },
+    {
+      "path": "projects/WOR/Stories/Workflow_Stories_Invites.txt",
+      "bytes": 9987,
+      "sha256": "daafabd10d3615969b4e59406502525ab12255508b8dc482516f30c6d3ceb8e2"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/PROJECT.md",
+      "bytes": 131,
+      "sha256": "84d23132af756fbc0f9f3fd611832fb72a11300f2bdc928d5f56a204e29779ca"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Candace_2_5M_Peau_Photo/Prompt.txt",
+      "bytes": 2294,
+      "sha256": "85ad0a6c784f4005b7ddbcd81b1abc0e23548d96a4e94aa16f7766aea551d4b9"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Candace_All_Thumbnails_4K/Dimensions.csv",
+      "bytes": 1926,
+      "sha256": "41f7872e6f3dcb4a2914bb78d48bf37ab4bd5b5a5a5bc2dd5109c810e57c423e"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Candace_All_Thumbnails_4K/README.txt",
+      "bytes": 437,
+      "sha256": "0b8b52919342c2af5cd2e98b6ed3ed840296d1195809d495567a1c0158037093"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Candace_Riz_NumberOne_Peau_Naturelle/Prompt.txt",
+      "bytes": 1951,
+      "sha256": "597ea18c6653b6d28bed9b82263fc68e4f32db6437e853361ed7fc80423430d5"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Profirm_Trader_Workflow_Thumbnails.txt",
+      "bytes": 8392,
+      "sha256": "e4e13dcdae95b73623a8b6d8e3eeae3c736f8ed861bccaad8c18ae5c800a4c99"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/Sampsa_Jeppez_V01_ZIP_Verification.json",
+      "bytes": 384,
+      "sha256": "66b1b6e5ee8aecd39161e6ae9079ab51ccc7bc53b371d0805140f4c7d7fb177f"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V01/README.txt",
+      "bytes": 3255,
+      "sha256": "beeef94f542ea79c7ec2ae0babe9f7c134c7d1105e942158e3dd954a2d7674bc"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V01/production/01_prompt_composition.txt",
+      "bytes": 3512,
+      "sha256": "caf9ac60244007c61d31b55e764b95bce9d1679ce25cdc0148cb0e24118a501d"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V01/production/Review_50_passages.csv",
+      "bytes": 9586,
+      "sha256": "5818fc2bf1153504e969ed95b91ce8288bbfa0f72ef1d86cdfa2dec1bda03390"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V01/production/Selected_sources_24.csv",
+      "bytes": 3006,
+      "sha256": "f4e1ace4a98435fc1b151b3aa6357bc98670e4995f3433320ed0b0df740abf99"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V01/production/Titres_et_sources.txt",
+      "bytes": 2037,
+      "sha256": "8a3d332034ad4b8b22dd0a8e336bc581f1683a60924b28dd4163f275f824489f"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V01/production/Verification.json",
+      "bytes": 677,
+      "sha256": "2520bbf37d2814905f558e3d6d6273e00cfeab850669f6c78fcec45bd199acb6"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V01/production/WOR Jeppez.txt",
+      "bytes": 69413,
+      "sha256": "4aca95121b877e9b73029f0cd9dc310fe02983de520e66092f805d8a054760db"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V01/production/capture_manifest.csv",
+      "bytes": 6472,
+      "sha256": "5c80a7dc5ee41f4abd71acd7ff05636df7ed9f31002e558a379d8fd04cf5a8d6"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V01/production/collect.ps1",
+      "bytes": 1986,
+      "sha256": "be592da8765ce8cf63b2c780c2b82c8fead2ec992eeb9aaf3c6293ca0ef3dcff"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V01/production/curate.ps1",
+      "bytes": 2761,
+      "sha256": "51864f69c044c146b0ebc3416d8c640c7c40221fcfe1d970d9c22ba474c26788"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V01/production/finish.ps1",
+      "bytes": 6887,
+      "sha256": "c03564afb87f8426dd73a0d90b2ec84f5c6da8a0edb9b8eddc68e0f54e2eb97b"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V01/production/package.ps1",
+      "bytes": 2994,
+      "sha256": "2d40bd2a2cfdee06e7140fbab0f7f2d540f52235ce2a9f369f7f670e89e1f4c5"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V02_23_Inspirations/Galerie.html",
+      "bytes": 19297,
+      "sha256": "9986e31a715d2d03aff13459b1ac01aa72953900f8bee1761667d1a5d4329b9d"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V02_23_Inspirations/README.txt",
+      "bytes": 2898,
+      "sha256": "90cae0d6d8d7af8d86538f85a80f1a602650318c9936e70b8bde6b297b66af18"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V02_23_Inspirations/production/20_revision_prompt.txt",
+      "bytes": 718,
+      "sha256": "8e7ddda24b2e02c8bb7f36ab998dfb0a70273a5167a8502bacd0295d257bc196"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V02_23_Inspirations/production/Controle_visuel.txt",
+      "bytes": 1134,
+      "sha256": "c6aef949963323204b9aef48252c17ca60e4d333cec657a3f12c8ac4c5208c29"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V02_23_Inspirations/production/Generation_manifest.json",
+      "bytes": 8518,
+      "sha256": "fccfce4480270f2f7aa5ab9a8f11536dd21dd6fc04ba01a7b88e966512e37388"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V02_23_Inspirations/production/Revision20_pixel_check.json",
+      "bytes": 99,
+      "sha256": "c513b15c0422f7ef0c547bd5fd52be30953f1c1467a6a1b27be8994ace9fe716"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V02_23_Inspirations/production/Sources_intactes.csv",
+      "bytes": 2764,
+      "sha256": "da1a194745e2cff6ca44bdf9d6374fddecb5a795746799b15aa06ce274ff87f6"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V02_23_Inspirations/production/Titres_et_sources.tsv",
+      "bytes": 2383,
+      "sha256": "93bc027d8c8cf17e3d64ebba57f8540f21329ba2e843ef8388c05e227f29223e"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V02_23_Inspirations/production/Verification_exports.json",
+      "bytes": 9909,
+      "sha256": "6b513351be9e6019dc093f6e988e3b5fffc34890cb4c5ae19012d7f7df136914"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V02_23_Inspirations/production/Verification_package.json",
+      "bytes": 303,
+      "sha256": "264d22d86b4473ed4c113996812d7898e7f0ad7de9cf35104fa61ef652277936"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V02_23_Inspirations/production/Verification_zip_entries.json",
+      "bytes": 5444,
+      "sha256": "23106b1e33a6544632aec1e6f3ec8450dfd78c371326ec3821de126778db0609"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V02_23_Inspirations/production/WOR Jeppez.txt",
+      "bytes": 69413,
+      "sha256": "4aca95121b877e9b73029f0cd9dc310fe02983de520e66092f805d8a054760db"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V02_23_Inspirations/production/export.ps1",
+      "bytes": 6981,
+      "sha256": "5596eebbaf16da5ff498a9701999ce46701461a198e0cd33a3a3a1441949e040"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V02_23_Inspirations/production/package.ps1",
+      "bytes": 2118,
+      "sha256": "82baa452bee161faea85be9175783280974c375039c4a6923415cbb8c61a996d"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V02_23_Inspirations/production/variants.json",
+      "bytes": 45722,
+      "sha256": "9094060b7335b26f6a9a60cbce3ec9f70cd558182f21234baf3530856577046c"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V02_23_Inspirations/production/variants_final_prompts.json",
+      "bytes": 48863,
+      "sha256": "39aefc1970651fd3efa8e1ba4b321ba747975f5c557bd99eef99c31826fa521c"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/Galerie.html",
+      "bytes": 22527,
+      "sha256": "9178d94a8e2a62d147f39cd07a36c7096811cb03ad66180895003333e6f1617c"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/README.txt",
+      "bytes": 3233,
+      "sha256": "0f459e06bc25d294f245f69d611479164f650698338dc5c983ddcf6075b60e8b"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/production/Capture_Riz.json",
+      "bytes": 3279,
+      "sha256": "f6243a71b8ba6d547b345a4750df2786c2542ca0898920922f05eb74b496e81e"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/production/Capture_Sampsa.json",
+      "bytes": 4443,
+      "sha256": "f3a9a6b33af8d70940231ac5c53bdf17f4f6996c8759dff49339b99af9bb8e2f"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/production/Controle_visuel.txt",
+      "bytes": 1093,
+      "sha256": "b6f34b3140c35e45c3fdb77ce6f8a22a119f1c2c83649cbfb22ee401893d8a4f"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/production/Generation_checkpoint_10.json",
+      "bytes": 3057,
+      "sha256": "0893a38326352835d3fb3966ac12461730312ccf277044a6c8e8460e6e0fd0c2"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/production/Generation_checkpoint_18.json",
+      "bytes": 5481,
+      "sha256": "a36da939d4c764e5ed5203683acbd812f3b3c84cc6d26b5866c6cbd6a297e740"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/production/Generation_complete_initial.json",
+      "bytes": 7905,
+      "sha256": "2260fe4ab54a754ce2d14f08d91c8f9f15fb279b2788b61bb40735a8a740bda5"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/production/Generation_manifest.json",
+      "bytes": 11569,
+      "sha256": "9fc820dafd9833aec0957ad514062f37a578069435817d96725afc58e9445c85"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/production/Local_corrections.json",
+      "bytes": 2605,
+      "sha256": "3028311b20f4abb64fddb74471d72f135e68921d1a18f1fb155beb49da7dd6d7"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/production/Local_corrections_generated.json",
+      "bytes": 3272,
+      "sha256": "1df3467b971a7b5bcd6042ebdea55a0934b95da7fa69fe8cd854cd680c918250"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/production/Local_pixel_verification.json",
+      "bytes": 831,
+      "sha256": "89a4380328b85626c636369156ee0029a8c6f0068c3f7b7283518d4439d8f77d"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/production/Originals_intact_verified.json",
+      "bytes": 6662,
+      "sha256": "e3837933fc6919e929e1e3637999db2776119444e65f848c99062e860108bdc0"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/production/Selection_HD.json",
+      "bytes": 622,
+      "sha256": "1f5b0b7f18ba9e744810b414670fb156197dc65fde1196db9b5a5d73e5e4490d"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/production/Sources_Riz_verified.json",
+      "bytes": 6305,
+      "sha256": "c2cfaa4c6ec6ee97f3a27b5d73e8cd50849c99f08490dda22e6e807e3881a48b"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/production/Sources_Sampsa_verified.json",
+      "bytes": 8552,
+      "sha256": "109537bb04e3a6e97c8f3f0676a4a52cd83b8882af6b5f1373fddd319b698b03"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/production/Titres_et_sources.tsv",
+      "bytes": 2787,
+      "sha256": "6b780b70c8dc0a1123e75f74856827c0a2197b0e9e65178aa5378c2f41ecc73a"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/production/Verification_exports.json",
+      "bytes": 13083,
+      "sha256": "0cd0afda99824c4aaa2d3d2fded82fcc80cc5f0660cd0effe39f10f490c5ee8c"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/production/Verification_package.json",
+      "bytes": 339,
+      "sha256": "c18599f8c00f4280137fe148ad659d3adf3253b2b762f0dfd31fbb40dcab15b4"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/production/Verification_zip_entries.json",
+      "bytes": 55359,
+      "sha256": "2c72bbcd77d09f98e99becefdfaecba7821dc769e545bba4e672bea077ef1506"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/production/WOR Jeppez.txt",
+      "bytes": 69413,
+      "sha256": "4aca95121b877e9b73029f0cd9dc310fe02983de520e66092f805d8a054760db"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/production/apply_local_corrections.ps1",
+      "bytes": 3158,
+      "sha256": "ba1e66cb2bcd0394cc7ed70cfec1a5567081d7e79bfb275f63701f966b9c6397"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/production/contact_sources.ps1",
+      "bytes": 1860,
+      "sha256": "9c63beb2f34e1c4cad95c7094a922914b7af1d85642a139795aa092e1b626e9e"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/production/export.ps1",
+      "bytes": 5941,
+      "sha256": "0589e724fef0bbaa38fe07a8a882fd3acabb4970a58da40f819466f4a15c5c00"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/production/package.ps1",
+      "bytes": 2062,
+      "sha256": "dd180d3d1a19b366f303023dd9450a97480bc813b55f45766f6a5096b45be00c"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/production/variants_final_prompts.json",
+      "bytes": 101804,
+      "sha256": "7aa60c80b886933bd587048937a41bf6936df92606779dab7e18685a5256178b"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/production/variants_gaze_revision.json",
+      "bytes": 101804,
+      "sha256": "7aa60c80b886933bd587048937a41bf6936df92606779dab7e18685a5256178b"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V04_Trading_Refinements/Galerie.html",
+      "bytes": 13137,
+      "sha256": "a662ebd985137033a754d46c41136bb50f847640e983d54e86e50a00aeea773e"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V04_Trading_Refinements/README.txt",
+      "bytes": 1261,
+      "sha256": "e51dc0a3470a87844c7bad0378888e88bf406f9dd2301a30f97995b9612dfbb6"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V04_Trading_Refinements/production/Dental_manifest.json",
+      "bytes": 7059,
+      "sha256": "8d4b898cd953d7879cf9768e185941d897629eb1bfb5e634d0af0b6e0d01476c"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V04_Trading_Refinements/production/Generation_manifest.json",
+      "bytes": 9628,
+      "sha256": "1c66dee8ff61f312b253c2bcdc4df6e9683aa5f38b5c72e6876adcc109d2b97d"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V04_Trading_Refinements/production/Local_pixel_verification.json",
+      "bytes": 6593,
+      "sha256": "0df7e54387493ba50a72e842539bc741b65eae126f9bfa313d917c8c0dbc637c"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V04_Trading_Refinements/production/Local_preservation_regions.json",
+      "bytes": 3867,
+      "sha256": "e66d2383762d49321bcc6f91e7aa8c6359ef5fbd9a8a57be09b9337280997594"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V04_Trading_Refinements/production/Revision_prompts.json",
+      "bytes": 26097,
+      "sha256": "88cdb34e035c2e54e6313826e4ad1bf43838254af206cdd36b8859750a5b46a7"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V04_Trading_Refinements/production/Titres_et_revisions.tsv",
+      "bytes": 1897,
+      "sha256": "6cd8347f003bb417cf3f967d1a544b166c0999df00dedff1c9387216a6942ac0"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V04_Trading_Refinements/production/Verification_exports.json",
+      "bytes": 13610,
+      "sha256": "f8e18d1c6287dfb6007ec355acd27ea859df75e98fd7a81dc299f3047a22d440"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V04_Trading_Refinements/production/Verification_package.json",
+      "bytes": 339,
+      "sha256": "84acbbf39400a45614786985c47a08d89abc2d95a20c771440a84ec95b5c024c"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V04_Trading_Refinements/production/Verification_unchanged.json",
+      "bytes": 1084,
+      "sha256": "37568e1d845c9085044f2f7389d07b49d43a020bb3a7b6516a7764771e3a558a"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V04_Trading_Refinements/production/Verification_zip_entries.json",
+      "bytes": 44132,
+      "sha256": "fbc9be78e5f4c1d3a1ac6d2fda372f09b3399e6e4c0906f07d398e601fbab5f3"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V04_Trading_Refinements/production/WOR Jeppez.txt",
+      "bytes": 69413,
+      "sha256": "4aca95121b877e9b73029f0cd9dc310fe02983de520e66092f805d8a054760db"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V04_Trading_Refinements/production/Yellow_comparison_prompt.txt",
+      "bytes": 710,
+      "sha256": "4a43905f5b7540c12882b3614ef0d02024798df7f21bd7f157a4858abf9cf8cb"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V04_Trading_Refinements/production/assemble_local.ps1",
+      "bytes": 5492,
+      "sha256": "8038bab8d0d05e76dab056873bc1a261b9cf775cb8544f7b0c06bf2411c1476e"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V04_Trading_Refinements/production/export.ps1",
+      "bytes": 6209,
+      "sha256": "ccc0e773d137d9dd82e65cdbe386adfa04d88f191eaca3caafdf118e609d62dd"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V04_Trading_Refinements/production/package.ps1",
+      "bytes": 2064,
+      "sha256": "2a98c9c100433e5f1cfa8b9b75c0fe7075cb0ef5042efa4d449328338341d351"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V04_Trading_Refinements/production/variants_final_prompts.json",
+      "bytes": 127177,
+      "sha256": "7ed9933ca77f72e952128ccc82781d2e8c35e29abb5fafeee8d2ce8746b9f204"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V05_Natural_Set/Galerie.html",
+      "bytes": 16668,
+      "sha256": "02855bc6650acfdbffae022795ccdf5a0e382654e3d20620a75ca516f3e4f2ca"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V05_Natural_Set/README.txt",
+      "bytes": 1713,
+      "sha256": "32660a8446fe340839ecd8f9633bf18d08180b60668a00b4ef7fa89bed78a065"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V05_Natural_Set/production/Generation_manifest.json",
+      "bytes": 20295,
+      "sha256": "e8a3508d7932376c009ee45e7aef5a0dc782d5764caea2e545e0eab5a6ac0933"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V05_Natural_Set/production/Local_pixel_verification.json",
+      "bytes": 1672,
+      "sha256": "6e0b5895037afb7306c570f9995d4c843639b46e203a29f17282695288e86604"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V05_Natural_Set/production/Local_regions.json",
+      "bytes": 2645,
+      "sha256": "9e5c8eb840f5d3bfe5187f687a102602cfa4319aac1d609cc7a1892b40e8a2e4"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V05_Natural_Set/production/Revision_prompts.json",
+      "bytes": 4695,
+      "sha256": "bd38c6d6f459e00df90d6b395fc1b6fb8817d21b60129b541304388ad12a7f89"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V05_Natural_Set/production/Revision_prompts_batch2.json",
+      "bytes": 6423,
+      "sha256": "5898c957c603f43507f81ee51f084b966d32bd44223270198f5dc87bcf9c24e7"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V05_Natural_Set/production/Revision_prompts_batch3.json",
+      "bytes": 7097,
+      "sha256": "11f040c078a2b55a8a411674e18c1dec074e11da29e2487d66af582c3d5d5b29"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V05_Natural_Set/production/Titres_et_revisions.tsv",
+      "bytes": 1769,
+      "sha256": "74a8dc37fac3fd400da1affb8235303ef0d22e73ae5617c75e69d4c2d83cf66e"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V05_Natural_Set/production/Verification_exports.json",
+      "bytes": 14148,
+      "sha256": "0788a44c4af18763978618e489ca66549a37329d670fe2fe47bfd04d7d5d38fc"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V05_Natural_Set/production/Verification_final.json",
+      "bytes": 7436,
+      "sha256": "5105d1af869f24050847a2e444f13394cbbad68ab4c3ac50e943ee14103f627e"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V05_Natural_Set/production/Verification_package.json",
+      "bytes": 339,
+      "sha256": "7a2af2a772f8547626fd2ad77d5f5d8559b6fe9ae308200e1cea3266cbc6146f"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V05_Natural_Set/production/Verification_zip_entries.json",
+      "bytes": 43487,
+      "sha256": "ed9014d91f12eda6cd5ae78d2675190ef735be9d56ad43450a77e73bbd783195"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V05_Natural_Set/production/WOR Jeppez.txt",
+      "bytes": 69413,
+      "sha256": "4aca95121b877e9b73029f0cd9dc310fe02983de520e66092f805d8a054760db"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V05_Natural_Set/production/assemble_local.ps1",
+      "bytes": 7523,
+      "sha256": "e3a9b5552ba159979410d3e69b6dffa1a815d48a3ef8efc3455673c4855eb186"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V05_Natural_Set/production/assembly_body.txt",
+      "bytes": 3616,
+      "sha256": "55ec356aed1cfb09cbe5df14a56663d9f39c6f69bcfaca131da92b4783567298"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V05_Natural_Set/production/compare_and_verify.ps1",
+      "bytes": 2640,
+      "sha256": "d6ff48e4b6bcc7c7f5564443b499cc76e836f82fc61299ec7ea8fc7dfae793d7"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V05_Natural_Set/production/export.ps1",
+      "bytes": 6223,
+      "sha256": "ca2ad885c10dff961d4c2260ebeed20696a9fdaee223be127a23c90a04433842"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V05_Natural_Set/production/package.ps1",
+      "bytes": 2066,
+      "sha256": "6974c5537cf6be58999db16e037cba791f44782818b7d6f88087f49e7ddc05cb"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V05_Natural_Set/production/variants_final_prompts.json",
+      "bytes": 8096,
+      "sha256": "b2e10282e3a95aa582b2932ed165aba718509641deb529633dca99fe313f512f"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Workflow_Thumbnails_Photo_Naturelle.txt",
+      "bytes": 6159,
+      "sha256": "95caa51047515534fe7a96e93f56bbea6b21ac701fd13cf5707e701de7eb179b"
+    },
+    {
+      "path": "projects/WOR/WOR Studio/.gitattributes",
+      "bytes": 160,
+      "sha256": "0c61120c0de73927ab03943b5ef89fde52d69420c6fccfcf008d91ac9c3f61a0"
+    },
+    {
+      "path": "projects/WOR/WOR Studio/.gitignore",
+      "bytes": 622,
+      "sha256": "33a0205c0f306a38464529052efcc9f53b47bd09340931caf0316b40dcd79f7c"
+    },
+    {
+      "path": "projects/WOR/WOR Studio/AGENTS.md",
+      "bytes": 786,
+      "sha256": "ce44a27f0c727238212448a844a7bcf8740c052e42e45eb4d2d2b503a0b36786"
+    },
+    {
+      "path": "projects/WOR/WOR Studio/LIRE-MOI.txt",
+      "bytes": 4005,
+      "sha256": "75936936da6a465a5017d91b6d9d522fc36abecdc672348dd1ed7ff0f98aa3f6"
+    },
+    {
+      "path": "projects/WOR/WOR Studio/Ouvrir-WOR-Studio.cmd",
+      "bytes": 95,
+      "sha256": "a97ec99731ea7616505eff0c34eb07e4a0943426ddef6d6479dddd9f9056dc24"
+    },
+    {
+      "path": "projects/WOR/WOR Studio/Ouvrir-WOR-Studio.ps1",
+      "bytes": 1166,
+      "sha256": "208776f90bddc5f36c3921a60ed39555dee818cfec67d7b8afa53a09588c9b71"
+    },
+    {
+      "path": "projects/WOR/WOR Studio/PROJECT.md",
+      "bytes": 128,
+      "sha256": "966f1ce89606245d5fc92da2d0fc144a1c478e6795d03c501a094e45f05f0e94"
+    },
+    {
+      "path": "projects/WOR/WOR Studio/README.md",
+      "bytes": 1863,
+      "sha256": "fdb983d73aa3db78607d595b5e8b1c20d6bba56fc2c500fff14258743f191787"
+    },
+    {
+      "path": "projects/WOR/WOR Studio/Sync-WOR.ps1",
+      "bytes": 1322,
+      "sha256": "e82b8772dca2775f8dc060cd307c3e3dfb0f6278493605ade7938b9c3f6ae57b"
+    },
+    {
+      "path": "projects/WOR/WOR Studio/Workflow/Spotify.txt",
+      "bytes": 2519,
+      "sha256": "2c465af1c36cab7e915fdd7e2f773ccb88e4564ab035233343962dc436b0b8de"
+    },
+    {
+      "path": "projects/WOR/WOR Studio/Workflow/Stories.txt",
+      "bytes": 9987,
+      "sha256": "daafabd10d3615969b4e59406502525ab12255508b8dc482516f30c6d3ceb8e2"
+    },
+    {
+      "path": "projects/WOR/WOR Studio/Workflow/Thumbnail.txt",
+      "bytes": 6159,
+      "sha256": "95caa51047515534fe7a96e93f56bbea6b21ac701fd13cf5707e701de7eb179b"
+    },
+    {
+      "path": "projects/WOR/WOR Studio/dist/app.js",
+      "bytes": 45782,
+      "sha256": "0a33453127588297a4dc3f58fc9e75cf96f95cc15eba70e833db699ff99de5f8"
+    },
+    {
+      "path": "projects/WOR/WOR Studio/dist/extras.css",
+      "bytes": 8085,
+      "sha256": "590ced84c7e2672ac68d0b8fe4cce3ba059a9f2665eebab6134e01bb5150bca3"
+    },
+    {
+      "path": "projects/WOR/WOR Studio/dist/feed-catalog.js",
+      "bytes": 4751,
+      "sha256": "0b3c3a767a606662837b519c3b314f03c0639afee6023efaf35c349804ad4865"
+    },
+    {
+      "path": "projects/WOR/WOR Studio/dist/feed.css",
+      "bytes": 7045,
+      "sha256": "6b11f16069fc65d1f9a6cac6a7ebd21dbc15cde4787196355edf1b7f51d0a58c"
+    },
+    {
+      "path": "projects/WOR/WOR Studio/dist/feed.js",
+      "bytes": 9317,
+      "sha256": "9744d6e13c6b508c7bebc1837828f3f7b478f2021d08d0730e44f98b35c0c617"
+    },
+    {
+      "path": "projects/WOR/WOR Studio/dist/index.html",
+      "bytes": 3141,
+      "sha256": "582dccabaaf2b8c5350de424640b7be28141ed9648fd281fabed23a25e261fa1"
+    },
+    {
+      "path": "projects/WOR/WOR Studio/dist/lab.css",
+      "bytes": 8552,
+      "sha256": "38c9c3c75c83cc0d9ec9d3a07d5f34142308f1794c65daa66adfe0491be1adc6"
+    },
+    {
+      "path": "projects/WOR/WOR Studio/dist/lab.js",
+      "bytes": 24123,
+      "sha256": "d79f557e1e5230e483b526e9c2796f5b39fe5591937b2e6661909fed00393bce"
+    },
+    {
+      "path": "projects/WOR/WOR Studio/dist/pretest.js",
+      "bytes": 2909,
+      "sha256": "474aa3e65fc12fb091ae29fa1c4b650923931fd32e48c0dc020570da8cf4b03a"
+    },
+    {
+      "path": "projects/WOR/WOR Studio/dist/seed.example.js",
+      "bytes": 81,
+      "sha256": "098df3ba9702b5f91a35bd5fb135ac5dd9442237162261a37384826e0c34e221"
+    },
+    {
+      "path": "projects/WOR/WOR Studio/dist/studio.css",
+      "bytes": 4472,
+      "sha256": "b9057dc2436ce5f0a4ba2e1eb511e7f5b30777135a1ef386d872c17c1cd2d033"
+    },
+    {
+      "path": "projects/WOR/WOR Studio/dist/style.css",
+      "bytes": 18303,
+      "sha256": "df336a3895a4db0172fca196a6750689c21ac2b301882be6a7da37b16c6971c3"
+    },
+    {
+      "path": "projects/WOR/WOR Studio/dist/titles.js",
+      "bytes": 12349,
+      "sha256": "890cfbc68112eac4fc8ebcc57628ab6a5c29cfc14977e67ee2b9aa35f6849b8e"
+    },
+    {
+      "path": "projects/WOR/WOR Studio/lab.mjs",
+      "bytes": 14725,
+      "sha256": "97cdb84156a81a5270ec953797817a00cdadb3d92b242274089db3c7947fe16b"
+    },
+    {
+      "path": "projects/WOR/WOR Studio/package.json",
+      "bytes": 302,
+      "sha256": "ba01ab410054350d735ed1115957326547919ca501ae779bb6e11819fb7b90b4"
+    },
+    {
+      "path": "projects/WOR/WOR Studio/prepare-local.mjs",
+      "bytes": 392,
+      "sha256": "df6e83c6e8a7c7adbe07effa8646af24bdfb254fa317254f7b197115c44c6324"
+    },
+    {
+      "path": "projects/WOR/WOR Studio/server.mjs",
+      "bytes": 5657,
+      "sha256": "1e8f0cb5bffc798e29568916bf90b0421db18ef7c78524769a7de95c66d00baa"
+    },
+    {
+      "path": "projects/WOR/WOR Studio/sync-allowlist.json",
+      "bytes": 599,
+      "sha256": "1deb87ec559e961ddc33d1144248198e1f93b93321131e4e9bc70ed27c0a501b"
+    }
+  ]
+}

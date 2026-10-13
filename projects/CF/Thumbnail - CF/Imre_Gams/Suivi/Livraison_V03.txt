@@ -1,0 +1,21 @@
+IMRE GAMS - CHARTFANATICS - LIVRAISON V03
+
+Livraison : 8 PNG 3840 x 2160 dans Exports/V03 et archive contenant exactement ces 8 fichiers. Archive verifiee par taille et SHA256; dimensions de chaque PNG verifiees. Verification_V03.csv contient les empreintes.
+Planche : Apercus/V03/Planche_8_Thumbnails_V03.jpg.
+Controle mobile : Apercus/V03/Controle_Mobile_V03_ID.jpg, huit images 320 x 180.
+
+Sources : 51 stills natifs via Frame.io Download Still, 1920 x 1080, qualite maximale disponible 1080p. Aucun telechargement video ou proxy. Sources_manifest.csv contient timecodes, dimensions, SHA256 et provenance. Transcript fourni copie dans Sources_HD/Transcript_Imre.txt.
+Asset : https://next.frame.io/project/77d3822c-1ffb-48cd-8ff6-602a702372de/view/03067022-6f86-4567-acb5-b0116ad44886
+Video : Without Charts CF Imre_1.mp4. La sequence sur plateforme annoncee a la fin ne figure pas dans cette video; les supports de 01, 02 et 04 utilisent les vrais stills du tableau pedagogique de cet episode.
+
+Construction : references Scott conservees dans References; originaux dans Sources_HD. Retouches generatives et scenes reconstruites a partir des photographies originales des personnes. Ces portraits ne sont pas des copies pixel pour pixel des originaux. Texte ajoute separement en Poppins. Les schemas de 06 sont des illustrations pedagogiques simplifiees.
+Masters/V03 contient les plaques, decoupages et compositions 1280 x 720 avant bruit. Exports 3840 x 2160 agrandis : NON NATIFS 4K. Bruit gaussien monochromatique 5%, sigma 12.75, applique une seule fois apres agrandissement; masters sans bruit final.
+Tenues Imre : blanc 01/02/04/05/06; noir 03/07/08. Riz conserve son polo beige. Aucun microphone visible. 08 : pixellisation volontaire du visage d'Imre, sans modification du visage de Riz.
+Les accroches sont editoriales, pas des citations litterales. Elles correspondent au contenu indique dans Titres_et_sources_V03.txt. Aucun montant de gains ou statistique de performance invente.
+
+Versions : V01 et V02 conservees. V03 applique les retours sur regards, proportions, typographie, lueurs, logo et fleches. Details dans Corrections_V03.txt.
+Reproduction : render_v03.ps1 et les PNG sources Masters/V03; add_final_noise.ps1 est inclus dans Suivi. Polices Poppins installees sur cet ordinateur. Prompts_ImageGen_V03.txt documente les retouches initiales et la correction de Riz. Generations non deterministes; plaques conservees pour reproduire l'assemblage final.
+Rien n'a ete publie sur YouTube.
+
+Voir Corrections_V03.txt pour le bilan detaille. Le nouveau portrait frontal d'Imre est une retouche generative de sa source originale, pas une photo conservee pixel pour pixel. Les libelles de 08 suivent le feedback utilisateur.
+

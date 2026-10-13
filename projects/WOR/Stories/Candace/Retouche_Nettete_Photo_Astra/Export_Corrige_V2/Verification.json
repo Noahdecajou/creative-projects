@@ -1,0 +1,62 @@
+[
+  {
+    "file": "C:\\Users\\notti\\Documents\\ChatGPT\\Stories\\Candace\\Retouche_Nettete_Photo_Astra\\Export_Corrige_V2\\Stories_1080\\01_Trading_Easy.png",
+    "width": 1080,
+    "height": 1920,
+    "lower35PercentMeanPixelDifference": 0.9852
+  },
+  {
+    "file": "C:\\Users\\notti\\Documents\\ChatGPT\\Stories\\Candace\\Retouche_Nettete_Photo_Astra\\Export_Corrige_V2\\Exports_2160\\01_Trading_Easy.png",
+    "width": 2160,
+    "height": 3840,
+    "lower35PercentMeanPixelDifference": 0.9355
+  },
+  {
+    "file": "C:\\Users\\notti\\Documents\\ChatGPT\\Stories\\Candace\\Retouche_Nettete_Photo_Astra\\Export_Corrige_V2\\Stories_1080\\02_Duo_Reese_Candace.png",
+    "width": 1080,
+    "height": 1920,
+    "lower35PercentMeanPixelDifference": 1.15
+  },
+  {
+    "file": "C:\\Users\\notti\\Documents\\ChatGPT\\Stories\\Candace\\Retouche_Nettete_Photo_Astra\\Export_Corrige_V2\\Exports_2160\\02_Duo_Reese_Candace.png",
+    "width": 2160,
+    "height": 3840,
+    "lower35PercentMeanPixelDifference": 1.1071
+  },
+  {
+    "file": "C:\\Users\\notti\\Documents\\ChatGPT\\Stories\\Candace\\Retouche_Nettete_Photo_Astra\\Export_Corrige_V2\\Stories_1080\\03_ONE_Payout.png",
+    "width": 1080,
+    "height": 1920,
+    "lower35PercentMeanPixelDifference": 1.1805
+  },
+  {
+    "file": "C:\\Users\\notti\\Documents\\ChatGPT\\Stories\\Candace\\Retouche_Nettete_Photo_Astra\\Export_Corrige_V2\\Exports_2160\\03_ONE_Payout.png",
+    "width": 2160,
+    "height": 3840,
+    "lower35PercentMeanPixelDifference": 1.125
+  },
+  {
+    "file": "C:\\Users\\notti\\Documents\\ChatGPT\\Stories\\Candace\\Retouche_Nettete_Photo_Astra\\Export_Corrige_V2\\Stories_1080\\04_2M_Bougie.png",
+    "width": 1080,
+    "height": 1920,
+    "lower35PercentMeanPixelDifference": 1.0509
+  },
+  {
+    "file": "C:\\Users\\notti\\Documents\\ChatGPT\\Stories\\Candace\\Retouche_Nettete_Photo_Astra\\Export_Corrige_V2\\Exports_2160\\04_2M_Bougie.png",
+    "width": 2160,
+    "height": 3840,
+    "lower35PercentMeanPixelDifference": 0.9928
+  },
+  {
+    "file": "C:\\Users\\notti\\Documents\\ChatGPT\\Stories\\Candace\\Retouche_Nettete_Photo_Astra\\Export_Corrige_V2\\Stories_1080\\05_Secret_Payouts.png",
+    "width": 1080,
+    "height": 1920,
+    "lower35PercentMeanPixelDifference": 1.1815
+  },
+  {
+    "file": "C:\\Users\\notti\\Documents\\ChatGPT\\Stories\\Candace\\Retouche_Nettete_Photo_Astra\\Export_Corrige_V2\\Exports_2160\\05_Secret_Payouts.png",
+    "width": 2160,
+    "height": 3840,
+    "lower35PercentMeanPixelDifference": 1.1166
+  }
+]

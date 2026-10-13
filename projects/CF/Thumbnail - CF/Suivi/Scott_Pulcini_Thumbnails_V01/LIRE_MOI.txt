@@ -1,0 +1,19 @@
+SCOTT PULCINI — 8 THUMBNAILS — V01
+
+Huit adaptations, une par fichier du dossier Design - Ref.
+Fichiers finaux : 8 PNG de 3840 x 2160 pixels, 16:9.
+IMPORTANT : exports agrandis par interpolation bicubique depuis les masters générés. Ce ne sont pas des créations natives 4K. Les dimensions originales de chaque master figurent dans Manifest_exports.json. Aucun ajout de netteté ou de détails de peau pendant l'agrandissement.
+
+Production : image_gen intégré, références de design fournies, photos HD originales de Riz et Scott exportées avec Download Still dans Frame.io. Les compositions sont génératives à partir des photographies ; elles ne constituent pas un collage garanti pixel pour pixel. Les PNG masters sont aplatis, sans calques.
+Les tableaux intégrés ont été adaptés à la composition. La version 06 utilise un tableau pédagogique illustratif ; ce n'est pas une capture de plateforme de trading.
+
+Organisation dans le dossier de travail :
+- Sources_HD : photographies originales conservées intactes.
+- Design - Ref : références intactes.
+- Masters/Scott_Pulcini_Thumbnails_V01 : 8 PNG à leur résolution générée.
+- Exports_4K/Scott_Pulcini_Thumbnails_V01 : 8 PNG finaux.
+- Apercus/Scott_Pulcini_Thumbnails_V01 : planche générale, contrôle mobile et aperçus individuels.
+- Suivi/Scott_Pulcini_Thumbnails_V01 : transcript, accroches, prompts et manifestes.
+
+Les accroches sont des formulations éditoriales fondées sur le transcript, et non des citations littérales. Aucun ancien montant financier des références n'a été attribué à Scott.
+Aucune publication effectuée.

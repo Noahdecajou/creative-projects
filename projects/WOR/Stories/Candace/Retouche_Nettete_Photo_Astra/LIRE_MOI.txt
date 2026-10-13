@@ -1,0 +1,19 @@
+Candace Lau — portraits retravaillés
+====================================
+
+Contenu livré :
+- Stories_1080 : 5 PNG de 1080 × 1920 pixels, pour les stories.
+- Exports_2160 : 5 PNG de 2160 × 3840 pixels. Il s'agit d'exports agrandis, pas de photos natives 4K.
+- Comparaison_Visages.png et Comparaison.html : comparaison à échelle identique.
+- Apercu_5_Stories.png : vue d'ensemble.
+
+Méthode :
+Les cinq fichiers joints de 941 × 1672 pixels ont été conservés comme bases de mise en page. Les portraits ont été retravaillés séparément, avec les captures photographiques du podcast comme références de visage et de texture, puis réintégrés. Les titres, le nom Candace Lau, le CTA et les logos sont repris des fichiers d'origine.
+Pas de filtre de netteté agressif ni de flou ajouté sur les visages.
+
+Limite :
+Cette opération reconstruit des détails par génération. Elle ne récupère pas des détails photographiques perdus et peut modifier légèrement certaines expressions ou mèches. Des textures artificielles peuvent encore être visibles en fort agrandissement, particulièrement dans la version avec la bougie. Pour une fidélité photographique absolue, il faut un montage qui emploie exclusivement des prises de vue originales de chaque pose.
+Le texte et les polices des cinq fichiers joints à cette demande ont été conservés.
+
+Fichiers de travail :
+Les originaux utilisateur n'ont pas été écrasés. Images contient les compositions à la taille de départ. Sources contient les recadrages et les portraits retenus. Editable contient les compositions HTML autonomes. Le rendu se régénère avec render.cjs.

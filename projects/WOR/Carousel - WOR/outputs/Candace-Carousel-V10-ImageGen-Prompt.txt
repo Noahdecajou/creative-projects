@@ -1,0 +1,3 @@
+Built-in ImageGen — Lime candlestick revision
+
+Precise color edit of supplied isolated trading candlestick. Change ONLY green glass hue and green glow from emerald to bright vivid electric lime green, exact design accent reference #24FF02 (RGB 36,255,2). Must be the yellow leaning saturated lime of trading profit highlights, not turquoise, mint, teal, or emerald. Keep identical shape, size, composition, camera, three dimensional glass bevels, transparency and realistic texture. Bright lime edge glow restrained and crisp. Preserve transparent background alpha. No new objects or text.

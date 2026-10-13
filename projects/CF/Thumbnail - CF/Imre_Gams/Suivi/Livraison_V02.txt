@@ -1,0 +1,19 @@
+IMRE GAMS - CHARTFANATICS - LIVRAISON V02
+
+Livraison : 8 PNG 3840 x 2160 dans Exports/V02 et archive contenant exactement ces 8 fichiers. Archive verifiee par taille et SHA256; dimensions de chaque PNG verifiees. Verification_V02.csv contient les empreintes.
+Planche : Apercus/V02/Planche_8_Thumbnails_V02.jpg.
+Controle mobile : Apercus/V02/Controle_Mobile_V02_ID.jpg, huit images 320 x 180.
+
+Sources : 51 stills natifs via Frame.io Download Still, 1920 x 1080, qualite maximale disponible 1080p. Aucun telechargement video ou proxy. Sources_manifest.csv contient timecodes, dimensions, SHA256 et provenance. Transcript fourni copie dans Sources_HD/Transcript_Imre.txt.
+Asset : https://next.frame.io/project/77d3822c-1ffb-48cd-8ff6-602a702372de/view/03067022-6f86-4567-acb5-b0116ad44886
+Video : Without Charts CF Imre_1.mp4. La sequence sur plateforme annoncee a la fin ne figure pas dans cette video; les supports de 01, 02 et 04 utilisent les vrais stills du tableau pedagogique de cet episode.
+
+Construction : references Scott conservees dans References; originaux dans Sources_HD. Retouches generatives et scenes reconstruites a partir des photographies originales des personnes. Ces portraits ne sont pas des copies pixel pour pixel des originaux. Texte ajoute separement en Poppins. Les schemas de 06 sont des illustrations pedagogiques simplifiees.
+Masters/V02 contient les plaques, decoupages et compositions 1280 x 720 avant bruit. Exports 3840 x 2160 agrandis : NON NATIFS 4K. Bruit gaussien monochromatique 5%, sigma 12.75, applique une seule fois apres agrandissement; masters sans bruit final.
+Tenues Imre : blanc 01/02/04/05/06; noir 03/07/08. Riz conserve son polo beige. Aucun microphone visible. 08 : pixellisation volontaire du visage d'Imre, sans modification du visage de Riz.
+Les accroches sont editoriales, pas des citations litterales. Elles correspondent au contenu indique dans Titres_et_sources_V02.txt. Aucun montant de gains ou statistique de performance invente.
+
+Versions : V01 conservee. V02 corrige l'ordre de lecture de 02 et utilise un portrait frontal original de Riz pour 04.
+Reproduction : render_v02.ps1 et les PNG sources Masters/V02; add_final_noise.ps1 est inclus dans Suivi. Polices Poppins installees sur cet ordinateur. Prompts_ImageGen_V02.txt documente les retouches initiales et la correction de Riz. Generations non deterministes; plaques conservees pour reproduire l'assemblage final.
+Rien n'a ete publie sur YouTube.
+

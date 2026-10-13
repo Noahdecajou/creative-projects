@@ -1,0 +1,36 @@
+IMRE GAMS / CHARTFANATICS / V06 - COULEUR ET LUMIERE
+
+PERIMETRE
+Correction chromatique des 01, 02 et 04, dont le fond avait ete remplace en V05.
+Rouge et vert plus presents dans l'eclairage du fond ; graphiques plus vifs, bleus plus denses et lueurs des cartouches legerement renforcees.
+Zones sombres conservees au centre pour le contraste. Champs lumineux continus, sans coupure horizontale ni anneaux de degrade.
+Aucun changement de texte, de dimensions des elements, de position, de regard, de coiffure ou de cadrage.
+03, 05, 06, 07 et 08 : fichiers repris exactement depuis V05.
+
+PORTRAITS
+Les memes assets Imre_direct_camera.png et Riz_original_cutout.png sont reutilises, sans saturation ou contraste appliques aux visages, sans nouveau rendu generatif des personnes.
+Le detourage Imre V04 contient une legere transparence jusque dans le visage : les couleurs du nouveau fond peuvent contribuer tres legerement aux pixels composites, sans modifier l'asset source.
+La nature generative de certains assets photographiques V04 reste documentee dans Suivi/V04/Livraison_V04.txt et Prompts_ImageGen.txt.
+
+PRODUCTION
+Edition des couleurs et de l'eclairage dans le master de composition natif : render_v06.ps1 et color_lighting.ps1.
+Aucun appel ImageGen pour cette revision de calques editables ; aucun nouveau prompt de generation.
+Illustrations, textes et provenance pedagogique : Suivi/V05/Titres_et_sources_V05.txt.
+Sources de l'episode et photos d'origine conservees dans Sources_HD.
+
+LIVRAISON
+Huit PNG 3840 x 2160. Les photographies sources restent agrandies et ne sont pas natives 4K.
+Masters sans bruit final. Nouveaux exports 01/02/04 : bruit gaussien monochromatique 5 % ajoute une fois en derniere etape.
+Les cinq autres exports sont copies sans traitement supplementaire.
+Archive : Livraison/Imre_Gams_8_Thumbnails_V06_3840x2160.zip.
+V05 et versions precedentes conservees. Aucune publication.
+
+CONTROLES
+Lecture a 1280 et 320 px ; tons de peau, contraste des schemas et absence de coupure controles.
+Geometrie de tous les textes comparee a V05 ; SHA256 des assets de portraits et des cinq images non concernees compares a V05.
+Nombre de PNG, dimensions, contenu du ZIP et SHA256 des huit entrees verifies par package_v06.ps1.
+
+REPRODUCTION
+& 'Imre_Gams\Suivi\V06\render_v06.ps1' -Final
+Rend seulement 01, 02 et 04 ; utilise les copies V05 pour les cinq autres images.
+Prerequis : assets Masters/V06, previews et exports herites de V05, police Poppins, Suivi/add_final_noise.ps1.

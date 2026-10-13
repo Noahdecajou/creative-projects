@@ -1,0 +1,32 @@
+IMRE GAMS / CHARTFANATICS — V12 — 13 OCTOBRE 2026
+
+Livraison : série complète de huit thumbnails, PNG 3840 x 2160.
+La 08 est exactement le test V11_Test08 approuvé. Les 01 à 07 ont reçu les corrections de finition.
+
+CORRECTIONS
+- 01, 02, 04 : fond noir/charbon neutre, avec une illumination grise discrète ; suppression du fond rouge/vert.
+- Boîtes et graphiques : halos gaussiens centrés, sans ombre colorée décalée. Compositing du halo réglé pour éviter les paliers visibles sur fond sombre.
+- Photos 01 à 07 : légère courbe de contraste et saturation +5,5 %, sans modification de la géométrie des visages, sans lissage ni accentuation supplémentaire.
+- Grain ajouté : 0 %. Texture photographique source conservée.
+- 01, 02, 04, 06 : portrait face caméra conservé. 03 : Imre dessine et Riz observe.
+- 01 à 07 : seize flèches reconstruites en contours fermés, avec pointe intégrée et départ plat.
+- 05 : STEP BY STEP lisible et flèche dégagée du cartouche.
+- 06 : fond blanc/gris froid, couleurs des quatre diagrammes ravivées ; pointe jaune à 13 pixels logiques de la barre.
+- 07 : cartouches RIZ et IMRE, lueur rouge sur le titre et le logo YouTube, sans contour blanc autour du logo.
+- 08 : export approuvé conservé à l'identique, dont table bleue, visages orientés l'un vers l'autre, pixelisation d'Imre et titre PRICE → VALUE.
+
+SOURCES ET FABRICATION
+- Sources héritées : Masters/V10/03_plate.png, 05_plate.png, 07_plate.png, Imre_direct_camera.png, Riz_original_cutout.png. Copies sources identiques en V12.
+- Aucun nouveau portrait généré en V12. Fond neutre créé avec ImageGen ; prompt complet dans Prompt_fond_ImageGen.txt.
+- Photos, texte et formes composités via System.Drawing ; halo par convolution gaussienne dans soft_glow.ps1.
+- Réglage photo : saturation 1,055 ; courbe Tone(x) = clamp(x^0,975 + 0,12*(x-0,5)*(1-|2*x-1|)).
+- Provenance de la 08 : Suivi/V11_Test08, y compris vérification du visage de Riz prélevé dans la référence utilisateur.
+- Textes et géométrie : Typography_all_eight.csv. Flèches : Arrow_geometry.csv.
+- Rendu : render_v12.ps1 -Final ; contrôle : verify_v12.ps1 ; archive : package_v12.ps1.
+
+FORMAT ET CONTRÔLE
+- Huit masters sans grain et huit exports PNG. Les exports sont identiques aux masters propres.
+- 3840 x 2160 est la taille de sortie ; les éléments photo et générés ont été agrandis. Il ne s'agit pas de prises de vue natives 4K.
+- Aperçus 1280, 640 et 320 pixels ; planche complète et galerie HTML.
+- Contrôle visuel à 1280 et au format mobile, marges du texte, flèches, noms, couleurs, lueurs.
+- Vérification du ZIP : exactement huit PNG, dimensions vérifiées, empreinte SHA256 de chaque entrée égale à celle de son export.

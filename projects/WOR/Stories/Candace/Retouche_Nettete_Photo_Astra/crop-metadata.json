@@ -1,0 +1,203 @@
+[
+  {
+    "i": 0,
+    "n": "01_Trading_Easy",
+    "f": "Image ChatGPT 7 oct. 2026, 15_25_41 (1).png",
+    "detail": "Candace in profile looking to the right. Preserve her exact profile and the candlestick chart.",
+    "source_width": 941,
+    "source_height": 1672,
+    "output_width": 795,
+    "output_height": 752,
+    "mode": "extract",
+    "crop_x": 10,
+    "crop_y": 547,
+    "crop_width": 795,
+    "crop_height": 752,
+    "focus_input": "upper_body",
+    "focus_x": 0.43358129649309246,
+    "focus_y": 0.5518484581396945,
+    "focus_type": "upper_body",
+    "detection_bbox": {
+      "x": 0.03506907545164718,
+      "y": 0.3397129186602871,
+      "w": 0.7970244420828906,
+      "h": 0.424271078958815
+    },
+    "detection_source": "image_parse_body",
+    "landmarks": {
+      "face_center": {
+        "x": 0.42401700318809776,
+        "y": 0.46351674641148327
+      }
+    },
+    "detection_confidence": 0.983847,
+    "upscale_factor": 1,
+    "tradeoffs": [],
+    "url": "https://photoshop-api.adobe.io/v2/short-url/urn:aaid:ps:US:fe6004f6-8d2e-42a6-b17f-9ce0c63aa4c8"
+  },
+  {
+    "i": 1,
+    "n": "02_Duo_Reese_Candace",
+    "f": "Image ChatGPT 7 oct. 2026, 15_25_49 (1).png",
+    "detail": "Two people: the male host on the left and Candace on the right. Repair BOTH people equally. Preserve exact head angles, gestures, microphones and central trophy.",
+    "source_width": 941,
+    "source_height": 1672,
+    "output_width": 941,
+    "output_height": 619,
+    "mode": "extract",
+    "crop_x": 0,
+    "crop_y": 614,
+    "crop_width": 941,
+    "crop_height": 619,
+    "focus_input": "upper_body",
+    "focus_x": 0.5,
+    "focus_y": 0.5524101404214647,
+    "focus_type": "upper_body",
+    "detection_bbox": {
+      "x": 0,
+      "y": 0.3672248803827751,
+      "w": 1,
+      "h": 0.37037052007737914
+    },
+    "detection_source": "image_parse_body",
+    "landmarks": {
+      "face_center": {
+        "x": 0.5148777895855473,
+        "y": 0.4817583732057416
+      }
+    },
+    "detection_confidence": 0.995858,
+    "upscale_factor": 1,
+    "tradeoffs": [
+      {
+        "type": "compressed",
+        "param": "margin",
+        "requested": 0.03,
+        "actual": 0
+      }
+    ],
+    "url": "https://photoshop-api.adobe.io/v2/short-url/urn:aaid:ps:US:51b3dfd3-4f98-478c-8af7-2fa431633fc5"
+  },
+  {
+    "i": 2,
+    "n": "03_ONE_Payout",
+    "f": "Image ChatGPT 7 oct. 2026, 15_25_20 (1).png",
+    "detail": "Candace facing the camera. Preserve the exact face direction, expression and shoulder position.",
+    "source_width": 941,
+    "source_height": 1672,
+    "output_width": 939,
+    "output_height": 899,
+    "mode": "extract",
+    "crop_x": 0,
+    "crop_y": 494,
+    "crop_width": 939,
+    "crop_height": 899,
+    "focus_input": "upper_body",
+    "focus_x": 0.4989373007438895,
+    "focus_y": 0.5642643540669856,
+    "focus_type": "upper_body",
+    "detection_bbox": {
+      "x": 0,
+      "y": 0.29545454545454547,
+      "w": 0.997874601487779,
+      "h": 0.5376196172248804
+    },
+    "detection_source": "image_parse_body",
+    "landmarks": {
+      "face_center": {
+        "x": 0.5095642933049946,
+        "y": 0.4491626794258373
+      }
+    },
+    "detection_confidence": 0.999488,
+    "upscale_factor": 1,
+    "tradeoffs": [
+      {
+        "type": "compressed",
+        "param": "margin",
+        "requested": 0.02,
+        "actual": 0
+      }
+    ],
+    "url": "https://photoshop-api.adobe.io/v2/short-url/urn:aaid:ps:US:4c31a82c-86bd-4f74-91c2-a64d1e328be3"
+  },
+  {
+    "i": 3,
+    "n": "04_2M_Bougie",
+    "f": "Image ChatGPT 7 oct. 2026, 15_25_30 (1).png",
+    "detail": "Candace holds a glowing red trading candlestick. Preserve the hand, grip, candlestick and gaze direction exactly.",
+    "source_width": 941,
+    "source_height": 1672,
+    "output_width": 920,
+    "output_height": 812,
+    "mode": "extract",
+    "crop_x": 21,
+    "crop_y": 426,
+    "crop_width": 920,
+    "crop_height": 812,
+    "focus_input": "upper_body",
+    "focus_x": 0.538788522848034,
+    "focus_y": 0.4976973684210527,
+    "focus_type": "upper_body",
+    "detection_bbox": {
+      "x": 0.077577045696068,
+      "y": 0.26854066985645936,
+      "w": 0.922422954303932,
+      "h": 0.4583133971291867
+    },
+    "detection_source": "image_parse_body",
+    "landmarks": {
+      "face_center": {
+        "x": 0.5781083953241233,
+        "y": 0.4055023923444976
+      }
+    },
+    "detection_confidence": 0.998844,
+    "upscale_factor": 1,
+    "tradeoffs": [],
+    "url": "https://photoshop-api.adobe.io/v2/short-url/urn:aaid:ps:US:c3f6293e-acfa-49a6-85b3-8c3c99a8b568"
+  },
+  {
+    "i": 4,
+    "n": "05_Secret_Payouts",
+    "f": "Image ChatGPT 7 oct. 2026, 15_25_36 (1).png",
+    "detail": "Candace smiling with a trading journal behind her. Preserve the exact smile, teeth arrangement, gaze and journal.",
+    "source_width": 941,
+    "source_height": 1672,
+    "output_width": 891,
+    "output_height": 767,
+    "mode": "extract",
+    "crop_x": 50,
+    "crop_y": 578,
+    "crop_width": 891,
+    "crop_height": 767,
+    "focus_input": "upper_body",
+    "focus_x": 0.526567481402763,
+    "focus_y": 0.5751962380668941,
+    "focus_type": "upper_body",
+    "detection_bbox": {
+      "x": 0.053134962805526036,
+      "y": 0.3456937799043062,
+      "w": 0.946865037194474,
+      "h": 0.45900491632517576
+    },
+    "detection_source": "image_parse_body",
+    "landmarks": {
+      "face_center": {
+        "x": 0.5935175345377258,
+        "y": 0.47009569377990434
+      }
+    },
+    "detection_confidence": 0.919136,
+    "upscale_factor": 1,
+    "tradeoffs": [
+      {
+        "type": "compressed",
+        "param": "margin",
+        "requested": 0.03,
+        "actual": 0
+      }
+    ],
+    "url": "https://photoshop-api.adobe.io/v2/short-url/urn:aaid:ps:US:9056947a-0b00-46bb-96b5-2a6dac2014d7"
+  }
+]

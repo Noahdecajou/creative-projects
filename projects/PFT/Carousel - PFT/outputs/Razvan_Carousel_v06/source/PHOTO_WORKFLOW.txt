@@ -1,0 +1,14 @@
+PORTRAITS PFT — WORKFLOW V06
+
+Always start from the original camera/video JPEG in assets, checked against portrait_sources.json.
+Never use V01–V05 generated portraits or a previously generated carousel as a photographic source.
+Never regenerate Razvan's face, beard, hair, hands, skin, pose or anatomy.
+Never use AI face restoration, generative relighting, AI super-resolution or texture synthesis.
+Use uniform source cropping and scaling; never stretch width/height independently.
+Keep native portrait resolution sufficient for final export. Do not enlarge source crops above 100% in the 2160 x 2700 export.
+Keep text, chart geometry, atmosphere gradients, glow and the decorative OHLC candlestick on separate editable layout layers.
+If a desired pose is absent from the original footage, select another real frame or adapt the composition. Do not fabricate the pose.
+Preserve source file checksums and provenance. The renderer rejects altered portrait files.
+Check skin, beard, hair and anatomy in the 2x PNG and compare against the original frame before delivery.
+
+The previous overhead desk illustration remains on slide 5; it contains no face and is explicitly recorded as a generated illustration.

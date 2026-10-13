@@ -1,0 +1,40 @@
+Mode: image_gen integre
+Sources: thumbnails V03 conservees dans Sources; designs ChartFanatics dans References. Premiere generation avec photo originale Scott_Camera_00-07-40.jpg.
+
+[
+  {
+    "n": 1,
+    "prompt": "Create a finished vertical 9:16 1080x1920 Instagram Story promoting this ChartFanatics YouTube episode. Image 1 is the approved thumbnail, preserve its headline, scene, chart screen, yellow badge, Scott's WHITE polo and camera-facing pose. Image 2 is the project's actual story design reference: faithfully match its ChartFanatics logo at top, black charcoal background, portrait+large laptop scene, huge geometric sans typography and white highlight plate, name footer and outlined YouTube CTA. Image 3 is original Scott identity reference: natural photographic skin, softly even exposure, preserve likeness, no HDR, etched wrinkles or plastic smoothing. Recompose for vertical, do not simply put a horizontal thumbnail in a frame. Top logo near y200; artwork y390-1140 with Scott right laptop left, yellow curved arrow. Exact yellow badge \"Order Flow Explained\". Main large two-line title below artwork: \"WHAT CANDLES\" / \"DON'T SHOW\", CANDLES black on white rounded highlight. Footer exact \"With Scott Pulcini\". CTA exact \"Only available on\" then red YouTube icon and \"@chart-fanatics\" on white rounded plate in thin outlined container. Essential elements inside 60px horizontal margins and y160-1660. Bottom 220px predominantly black for story interface. Preserve dark fades and restrained red/green background glow. No JJ Simon, old headlines, money claims, extra sponsors, microphones or new words. One finished story, no mockup."
+  },
+  {
+    "n": 2,
+    "prompt": "Create ONE finished vertical 9:16 1080x1920 ChartFanatics Instagram Story to promote a YouTube episode. Image 1 is approved thumbnail, adapt its exact title and unique scene to vertical. Image 2 is actual ChartFanatics Story design reference: match its logo at top, charcoal black background, huge geometric Poppins-like title with highlight plates, photographic portrait scene, black fade and footer. Do not import old guest or old claims. Essential contents within 60px horizontal margins and y160-1660; bottom 220px black for interface. Brand logo near y200. Exact footer \"With Scott Pulcini\" then thin outlined box \"Only available on\" with red YouTube icon and \"@chart-fanatics\" on white rounded rectangle. Preserve title, natural actual likeness, clothing, expressions and hands, softly even exposure, natural skin, no invented wrinkles, HDR or plastic skin, moderate saturation. No new financial figures, dates, sponsors or microphones. Recompose into a full story, do not frame a horizontal thumbnail. Scott camera-facing RIGHT in WHITE polo, laptop LEFT displaying thumbnail's Bookmap heatmap, yellow curved arrow and yellow badge \"Iceberg Orders\". Large headline below photo in three centered lines \"THE HIDDEN\" / \"ORDERS\" / \"MOVING PRICE\". HIDDEN black bold on white plate, rest white. Restrained red left and green right halo. Same hierarchy as story reference.",
+    "thumbnail": "Hidden_Orders_Moving_Price"
+  },
+  {
+    "n": 3,
+    "prompt": "Create ONE finished vertical 9:16 1080x1920 ChartFanatics Instagram Story to promote a YouTube episode. Image 1 is approved thumbnail, adapt its exact title and unique scene to vertical. Image 2 is actual ChartFanatics Story design reference: match its logo at top, charcoal black background, huge geometric Poppins-like title with highlight plates, photographic portrait scene, black fade and footer. Do not import old guest or old claims. Essential contents within 60px horizontal margins and y160-1660; bottom 220px black for interface. Brand logo near y200. Exact footer \"With Scott Pulcini\" then thin outlined box \"Only available on\" with red YouTube icon and \"@chart-fanatics\" on white rounded rectangle. Preserve title, natural actual likeness, clothing, expressions and hands, softly even exposure, natural skin, no invented wrinkles, HDR or plastic skin, moderate saturation. No new financial figures, dates, sponsors or microphones. Recompose into a full story, do not frame a horizontal thumbnail. Main title above photo, exactly \"WHAT REALLY\" / \"MOVES PRICE\". REALLY black bold on white rounded plate, MOVES PRICE black on yellow plate. Riz LEFT navy polo and Scott RIGHT BLACK polo at wooden table, same clasped hands and green writing on black tablet/board from thumbnail. Yellow arrows and secondary green badge \"4 MARKET FORCES\". Large balanced photographic men; title and heads close but no overlap. No money figures.",
+    "thumbnail": "What_Really_Moves_Price"
+  },
+  {
+    "n": 4,
+    "prompt": "Create ONE finished vertical 9:16 1080x1920 ChartFanatics Instagram Story to promote a YouTube episode. Image 1 is approved thumbnail, adapt its exact title and unique scene to vertical. Image 2 is actual ChartFanatics Story design reference: match its logo at top, charcoal black background, huge geometric Poppins-like title with highlight plates, photographic portrait scene, black fade and footer. Do not import old guest or old claims. Essential contents within 60px horizontal margins and y160-1660; bottom 220px black for interface. Brand logo near y200. Exact footer \"With Scott Pulcini\" then thin outlined box \"Only available on\" with red YouTube icon and \"@chart-fanatics\" on white rounded rectangle. Preserve title, natural actual likeness, clothing, expressions and hands, softly even exposure, natural skin, no invented wrinkles, HDR or plastic skin, moderate saturation. No new financial figures, dates, sponsors or microphones. Recompose into a full story, do not frame a horizontal thumbnail. Preserve Scott LEFT WHITE polo and Riz RIGHT navy polo, Bookmap heatmap monitor centered behind them and yellow arrow. Yellow upper badge \"ORDER FLOW\". Large title below photo exactly \"STOP TRADING\" / \"BLIND\". BLIND black bold on white rounded plate, STOP TRADING white. Faces balanced with equal natural treatment. Photographic monitor texture from thumbnail.",
+    "thumbnail": "Stop_Trading_Blind"
+  },
+  {
+    "n": 5,
+    "thumbnail": "Master_Order_Flow_Trading"
+  },
+  {
+    "n": 6,
+    "thumbnail": "See_Hidden_Orders"
+  },
+  {
+    "n": 7,
+    "thumbnail": "Hidden_Orders_Revealed"
+  },
+  {
+    "n": 8,
+    "thumbnail": "Price_To_Order_Flow"
+  }
+]

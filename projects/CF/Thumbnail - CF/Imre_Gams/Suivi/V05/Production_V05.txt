@@ -1,0 +1,12 @@
+PRODUCTION V05
+
+Execution : modification du master de composition natif PowerShell/System.Drawing, avec illustrations geometriques et typographie Poppins.
+Aucun appel ImageGen pour cette revision ; aucune regeneration des portraits.
+Les prompts ImageGen des assets photographiques reutilises restent documentes dans Suivi/V04/Prompts_ImageGen.txt.
+
+Brief 01 : supprimer ordinateur et photo ; illustrer simplement AMT, avec vendeurs en haut, acheteurs en bas, prix oscillant autour de la juste valeur ; conserver Imre, titre et cartouche jaune.
+Brief 02 : supprimer ordinateur et photo ; agrandir AMT -> B/I -> Opportunity ; expliquer graphiquement la difference balance/imbalance et montrer un breakout rejete dans le range ; conserver Imre et le titre.
+Brief 03 : supprimer exclusivement la coupure horizontale du fond superieur, en conservant la scene et sa mise en page.
+Brief 04 : remplacer l'ecran par un grand schema prix/valeur derriere les portraits acceptes ; garder les visages et titres V04.
+
+Illustrations schematiques ancrees dans les dessins et explications de l'episode, sans axes, chiffres ou donnees de marche inventes.

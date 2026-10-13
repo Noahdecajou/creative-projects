@@ -1,0 +1,33 @@
+CASPER / CHARTFANATICS — V02 — 12 octobre 2026
+
+Source éditoriale : transcript automatique Frame.io du POV Casper, parcouru du début à la fin dans le navigateur. Une copie des passages lus est conservée dans Transcript_Frameio_lu.txt. Transcription automatique, sans correction de fond ; ce fichier ne constitue pas des sous-titres synchronisés.
+
+Angle recommandé : TRADING IN 3 DECISIONS.
+Autres accroches prioritaires : WHO'S IN CONTROL? / STOP OVERTHINKING.
+Les huit compositions reprennent les huit structures du brief local Prompt_ChartFanatics_8_Thumbnails_Nouvel_Invite.txt.
+
+Éléments utilisés et corroboration :
+- Condition / Zones / Trigger : cadre de décision expliqué et inscrit sur le vrai tableau de l'épisode, capture Tableau_00-23-00.jpg.
+- Volume profile : comparaison du volume au prix et du volume au temps ; dessin effectivement visible dans Tableau_00-31-00.jpg.
+- Let your winners run / Cut your losses fast : inscriptions réelles sur le tableau à 23 minutes, développées dans le transcript.
+- Stop overthinking / Trade with a system : angles éditoriaux tirés de la réduction des décisions et de la clarté de la méthode. Ce ne sont pas des citations verbatim.
+- Read the market : synthèse pédagogique de condition, zones et déclencheur.
+- Price to order flow : progression éditoriale cohérente avec l'explication des transactions, de l'absorption et des acteurs ; pas une promesse de résultat.
+
+Éléments exclus : chiffres du challenge et de P&L, montants, durée d'apprentissage, performance garantie. Les montants transcrits présentent des ambiguïtés et ne sont pas repris sur les visuels. Aucune affirmation issue de l'épisode Scott n'a été transférée.
+
+Choix des supports : les visuels 01, 02 et 04 montrent de véritables tableaux photographiés pendant l'épisode, insérés dans un ordinateur/support. Ce ne sont pas des captures d'une plateforme de trading. Les schémas de 06 sont des illustrations pédagogiques synthétiques, sans chiffres ni résultats de marché.
+
+Identités : CASPER pour l'invité, RIZ pour l'animateur. Pas d'ajout d'un nom légal non nécessaire.
+Langue des thumbnails : anglais. Communication et documentation : français.
+
+Sélection : 54 passages exportés via Download Still, dont 24 Casper, 16 Riz et 14 tableau. Sources conservées intactes. Portraits retenus : Casper 00:12:00, 00:16:00 et 00:20:00 ; Riz 01:16:00 et 01:34:00. Les portraits 01/02 sont identiques pour comparer le message et le support.
+
+Fabrication : détourage Adobe sur les sources 3840 x 2160, assemblage des visages photographiques ; génération de fonds vides et de réparations de vêtements/micros. Les masques sont consignés dans prepare_portraits.ps1. Le traitement V02 neutralise uniquement les reflets cyan proches des contours. Aucun filtre de lissage, d'accentuation, de pores ou de rides n'est appliqué aux visages.
+
+La variante 08 conserve volontairement la pixellisation du visage de Casper, conformément à la référence. Les mains et les corps suivent les limites des photos originales ; les scènes sont des photomontages éditoriaux.
+
+Résolution : fichiers finaux composés à 3840 x 2160 avec typographie rendue à cette taille ; plusieurs éléments générés et recadrages de portraits sont agrandis. Ce ne sont pas des créations intégralement natives 4K.
+Finition : une seule passe de bruit monochromatique de 5 % sur les exports, conformément au brief local. Masters conservés sans ce bruit.
+
+Versions : V01 = première composition conservée ; V02 = cadrages, contours, tableau de 05, espacement de 06 et pixellisation de 08 contrôlés. Aucune publication effectuée.

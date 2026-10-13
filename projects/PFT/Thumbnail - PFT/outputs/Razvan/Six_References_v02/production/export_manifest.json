@@ -1,0 +1,80 @@
+[
+  {
+    "Number": 1,
+    "Title": "$158K Using This Reversal Strategy",
+    "Reference": "$400K-Using-This-6-Step-Liquidity-Strategy (1).png",
+    "Master": "Razvan_01_158K_Reversal_Strategy_master_1672x941.png",
+    "NativeWidth": 1672,
+    "NativeHeight": 941,
+    "ExportWidth": 3840,
+    "ExportHeight": 2160,
+    "ExportMethod": "HighQualityBicubic; minimal center crop for exact 16:9",
+    "Stem": "Razvan_01_158K_Reversal_Strategy",
+    "Evidence": "00:00-01:01: result stated in episode introduction; 03:30-07:30: reversal strategy."
+  },
+  {
+    "Number": 2,
+    "Title": "I DON'T TAKE PARTIALS — HERE'S WHY",
+    "Reference": "EVERYTHING-ABOUT-LIQUIDITY (1).png",
+    "Master": "Razvan_02_No_Partials_master_1672x941.png",
+    "NativeWidth": 1672,
+    "NativeHeight": 941,
+    "ExportWidth": 3840,
+    "ExportHeight": 2160,
+    "ExportMethod": "HighQualityBicubic; minimal center crop for exact 16:9",
+    "Stem": "Razvan_02_No_Partials",
+    "Evidence": "28:40-29:27: Razvan explicitly says he does not take partial profits."
+  },
+  {
+    "Number": 3,
+    "Title": "Key Levels Made Simple",
+    "Reference": "Liquidity-Concepts-.png",
+    "Master": "Razvan_03_Key_Levels_Made_Simple_master_1672x941.png",
+    "NativeWidth": 1672,
+    "NativeHeight": 941,
+    "ExportWidth": 3840,
+    "ExportHeight": 2160,
+    "ExportMethod": "HighQualityBicubic; minimal center crop for exact 16:9",
+    "Stem": "Razvan_03_Key_Levels_Made_Simple",
+    "Evidence": "02:24-03:22 and 13:36: previous month/week/day and session high/low levels, plus VAH/VAL whiteboard."
+  },
+  {
+    "Number": 4,
+    "Title": "2 BREAKEVENS THEN 4R",
+    "Reference": "Liquidity-Masterclass-.png",
+    "Master": "Razvan_04_Two_Breakevens_Then_4R_master_1672x941.png",
+    "NativeWidth": 1672,
+    "NativeHeight": 941,
+    "ExportWidth": 3840,
+    "ExportHeight": 2160,
+    "ExportMethod": "HighQualityBicubic; minimal center crop for exact 16:9",
+    "Stem": "Razvan_04_Two_Breakevens_Then_4R",
+    "Evidence": "26:45-31:34: two breakeven trades before a third trade stopped out at roughly 4R while trailing."
+  },
+  {
+    "Number": 5,
+    "Title": "CATCH THE WHOLE MOVE",
+    "Reference": "MASTER-LIQUIDITY-TRADING.png",
+    "Master": "Razvan_05_Catch_The_Whole_Move_master_1672x941.png",
+    "NativeWidth": 1672,
+    "NativeHeight": 941,
+    "ExportWidth": 3840,
+    "ExportHeight": 2160,
+    "ExportMethod": "HighQualityBicubic; minimal center crop for exact 16:9",
+    "Stem": "Razvan_05_Catch_The_Whole_Move",
+    "Evidence": "01:38-02:04: aims for whole move rather than a scalp; 16:18-18:15: session high/low targets and trailing."
+  },
+  {
+    "Number": 6,
+    "Title": "MY REVERSAL ENTRY MODEL",
+    "Reference": "The-Only-Entry-Model.png",
+    "Master": "Razvan_06_Reversal_Entry_Model_master_1671x941.png",
+    "NativeWidth": 1671,
+    "NativeHeight": 941,
+    "ExportWidth": 3840,
+    "ExportHeight": 2160,
+    "ExportMethod": "HighQualityBicubic; minimal center crop for exact 16:9",
+    "Stem": "Razvan_06_Reversal_Entry_Model",
+    "Evidence": "06:14 retest; 08:47-09:19: 5-minute inversion with 1-minute execution/retest and engulfing."
+  }
+]

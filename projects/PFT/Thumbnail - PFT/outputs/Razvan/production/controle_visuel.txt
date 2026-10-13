@@ -1,0 +1,15 @@
+CONTROLE DU 7 OCTOBRE 2026
+
+84 exports natifs observes sur sept planches de reperage.
+Selection de portraits controlee en grand sur des apercus recadres de verification.
+Rejets finaux parmi les 23 portraits preliminaires :
+- Reperage 69, 00:02:29:00 : paupieres trop abaissees pour la banque finale.
+- Reperage 73, 00:08:22:00 : expression moins exploitable, paupieres abaissees.
+- Reperage 78, 00:00:32:00 : flou de mouvement sur le visage.
+Les numeros de selection correspondants 18, 21 et 23 ne sont pas livres dans sources_HD/.
+
+Portrait principal 00:11:12:00 : yeux ouverts, bouche fermee naturelle, visage net, leger regard lateral. Utilise pour V01.
+Controle V01 : identite reconnaissable, expression proche de la source, texte exact, absence de micro et de bras de micro, aucun ajout de main, pas de faux document ou resultat de trade.
+Controle miniature 320 x 180 : $158K, IN 2 WEEKS et STRATEGY REVEALED lisibles. Marque secondaire volontairement discrete.
+
+Limite technique : sortie generative 1672 x 941 agrandie a 3840 x 2160. Les sources Frame.io sont en UHD native. Les deux sont distingues dans README.txt.

@@ -1,0 +1,450 @@
+[
+  {
+    "File": "apercus\\Comparaison_Sanjiv_V05_V06.png",
+    "Width": 1050,
+    "Height": 1995,
+    "Bytes": 1985127,
+    "SHA256": "326534BA1E75A27BBA74EE5173FAEFA310222C4EE986D637E2B09A09A28141A0"
+  },
+  {
+    "File": "apercus\\Planche_13_V06.png",
+    "Width": 1280,
+    "Height": 2730,
+    "Bytes": 8284179,
+    "SHA256": "7623AE59BBCF3F1D806B1213FAF5F759D02262D55D2D91C3EDC57DF11E2EB021"
+  },
+  {
+    "File": "apercus\\Razvan_01_Reversal_Strategy_preview.png",
+    "Width": 1280,
+    "Height": 720,
+    "Bytes": 2518706,
+    "SHA256": "A0BE0C002F2E74BB1DEB8D040A889FEC172A4468F1190F8E61398C7E33E63D81"
+  },
+  {
+    "File": "apercus\\Razvan_02_No_Partials_preview.png",
+    "Width": 1280,
+    "Height": 720,
+    "Bytes": 2624299,
+    "SHA256": "BC9A588093E13904EB6E222219623C9BF6A83C30A375F44B50A66A6CA140E47D"
+  },
+  {
+    "File": "apercus\\Razvan_03_Key_Levels_preview.png",
+    "Width": 1280,
+    "Height": 720,
+    "Bytes": 2303462,
+    "SHA256": "683AF5A7295E09DED58BEC71D91DA114F96E4F90772C6FE6F88097EAFE363157"
+  },
+  {
+    "File": "apercus\\Razvan_04_Breakevens_To_4R_preview.png",
+    "Width": 1280,
+    "Height": 720,
+    "Bytes": 2793613,
+    "SHA256": "3C0A5CBD171F4A98E2CEA94631920C754F9F4456BC0B6ACD17ABAC662464A36A"
+  },
+  {
+    "File": "apercus\\Razvan_05_Master_Reversal_Trading_preview.png",
+    "Width": 1280,
+    "Height": 720,
+    "Bytes": 2731406,
+    "SHA256": "8FEA4A4A4E6FC6EC6C21DDB0D97665CF91599ED5C4B152C86FAECDC73BA4D353"
+  },
+  {
+    "File": "apercus\\Razvan_06_Reversal_Entry_Model_preview.png",
+    "Width": 1280,
+    "Height": 720,
+    "Bytes": 2725677,
+    "SHA256": "A44A378507419E226BEE7A63561FB36A0A0A1CDEFBE2875899F9F676C0F9A51F"
+  },
+  {
+    "File": "apercus\\Razvan_07_Farak_Prop_Firm_Trading_preview.png",
+    "Width": 1280,
+    "Height": 720,
+    "Bytes": 2565050,
+    "SHA256": "F60B1B3F05DC8B2540F5FCA0497D7B44EF6407DB4D54097C73D66CED429C1671"
+  },
+  {
+    "File": "apercus\\Razvan_08_Farak_Prop_Firm_Reversal_preview.png",
+    "Width": 1280,
+    "Height": 720,
+    "Bytes": 2567302,
+    "SHA256": "6390B973C8168BDE1B59AC63C1D8521F3371A230C224C64B015B5A6CA77732E6"
+  },
+  {
+    "File": "apercus\\Razvan_09_Farak_Nasdaq_Trading_preview.png",
+    "Width": 1280,
+    "Height": 720,
+    "Bytes": 2559354,
+    "SHA256": "C26D6BCB328A3F47C8DB06229C4496A68AE8C18FDE363AEFBC6EB6CA03137E5D"
+  },
+  {
+    "File": "apercus\\Razvan_10_Farak_Master_Reversal_preview.png",
+    "Width": 1280,
+    "Height": 720,
+    "Bytes": 2589472,
+    "SHA256": "FEFD3FA3F4CDC71D3B7F5BED224856AE1731F65289562ED090474D0C7D8B3EEC"
+  },
+  {
+    "File": "apercus\\Razvan_11_Farak_Master_Prop_Firm_preview.png",
+    "Width": 1280,
+    "Height": 720,
+    "Bytes": 2572696,
+    "SHA256": "8280FA0A50183B8E14335BDCDDD6022594D49A61A05957A991D9652462EE0F2C"
+  },
+  {
+    "File": "apercus\\Razvan_12_Farak_Master_Nasdaq_preview.png",
+    "Width": 1280,
+    "Height": 720,
+    "Bytes": 2580928,
+    "SHA256": "1A5EE95ABEB444B32C9D4DDB6D73A746DDD8E62076A7442F5BB60EDC586841FF"
+  },
+  {
+    "File": "apercus\\Razvan_13_Farak_Full_Strategy_preview.png",
+    "Width": 1280,
+    "Height": 720,
+    "Bytes": 2529906,
+    "SHA256": "1DD672C3E6C96FBA48F41D180436FF44E9FE7E99FA8D2AEABFC65107C0CD90BB"
+  },
+  {
+    "File": "exports_4K\\Razvan_01_Reversal_Strategy_3840x2160.png",
+    "Width": 3840,
+    "Height": 2160,
+    "Bytes": 22554909,
+    "SHA256": "9C7709D166B90A24BAC01100A7402362173818616879179577BAD291112F5017"
+  },
+  {
+    "File": "exports_4K\\Razvan_02_No_Partials_3840x2160.png",
+    "Width": 3840,
+    "Height": 2160,
+    "Bytes": 23548754,
+    "SHA256": "D280FA6C38B2E11CE0E5B7B143F5534E187FE36D4E96DAEADA1A2C5D87505CD8"
+  },
+  {
+    "File": "exports_4K\\Razvan_03_Key_Levels_3840x2160.png",
+    "Width": 3840,
+    "Height": 2160,
+    "Bytes": 20598735,
+    "SHA256": "5ED40B4847FCAAC3CC956B16154D491A74ED27DB21173AAA8B2DD1C60431578A"
+  },
+  {
+    "File": "exports_4K\\Razvan_04_Breakevens_To_4R_3840x2160.png",
+    "Width": 3840,
+    "Height": 2160,
+    "Bytes": 25046756,
+    "SHA256": "20F5C5DCEB6DBDD4F0617251607B853B71A7333F9A62737359110676639D7DFB"
+  },
+  {
+    "File": "exports_4K\\Razvan_05_Master_Reversal_Trading_3840x2160.png",
+    "Width": 3840,
+    "Height": 2160,
+    "Bytes": 24525033,
+    "SHA256": "BB4B8DDBD431025FB8B83F51D30A6D887119CAED60B8C50985DEED0939CA531F"
+  },
+  {
+    "File": "exports_4K\\Razvan_06_Reversal_Entry_Model_3840x2160.png",
+    "Width": 3840,
+    "Height": 2160,
+    "Bytes": 24507229,
+    "SHA256": "B9417F939DA2C39AFCEC11917070BCBC342F52ECB52614AEF56B3B6A296D62F8"
+  },
+  {
+    "File": "exports_4K\\Razvan_07_Farak_Prop_Firm_Trading_3840x2160.png",
+    "Width": 3840,
+    "Height": 2160,
+    "Bytes": 23133113,
+    "SHA256": "1ACD59B4BE9A979DFE992CCCD58554B53F92573330CEE338015B631E53898A54"
+  },
+  {
+    "File": "exports_4K\\Razvan_08_Farak_Prop_Firm_Reversal_3840x2160.png",
+    "Width": 3840,
+    "Height": 2160,
+    "Bytes": 23152795,
+    "SHA256": "278E7CFD59057BDB512AF8050926569B75382C38CB20287F5A5BDA06B9286FB5"
+  },
+  {
+    "File": "exports_4K\\Razvan_09_Farak_Nasdaq_Trading_3840x2160.png",
+    "Width": 3840,
+    "Height": 2160,
+    "Bytes": 23060941,
+    "SHA256": "FC677B96C74F88303E662AB3A26741ED37344833DD0FF9A03D10F290BB993565"
+  },
+  {
+    "File": "exports_4K\\Razvan_10_Farak_Master_Reversal_3840x2160.png",
+    "Width": 3840,
+    "Height": 2160,
+    "Bytes": 23237639,
+    "SHA256": "E24E19461AD033886D3926B7D7EF3492D72487C0ADB7CB1AC9D26F5606F3E5E3"
+  },
+  {
+    "File": "exports_4K\\Razvan_11_Farak_Master_Prop_Firm_3840x2160.png",
+    "Width": 3840,
+    "Height": 2160,
+    "Bytes": 23092759,
+    "SHA256": "3B7AC68F99BDCBEC6EF4A09D6AACCA44422D076EAE635B021EE89FAA1CC2110B"
+  },
+  {
+    "File": "exports_4K\\Razvan_12_Farak_Master_Nasdaq_3840x2160.png",
+    "Width": 3840,
+    "Height": 2160,
+    "Bytes": 23138563,
+    "SHA256": "16E9F7D7FB80AFB44439E82EF3755654C7732482081187D78FD2EC8C0DAF6431"
+  },
+  {
+    "File": "exports_4K\\Razvan_13_Farak_Full_Strategy_3840x2160.png",
+    "Width": 3840,
+    "Height": 2160,
+    "Bytes": 22818707,
+    "SHA256": "E02FAC8246141F0FDF81E10DA745A781AEF64D9B6FF27C1086E1B7DD724FB16B"
+  },
+  {
+    "File": "face_edits\\Razvan_02_No_Partials_master_1672x941.png",
+    "Width": 1672,
+    "Height": 941,
+    "Bytes": 2788133,
+    "SHA256": "88AFEBDC165F776D804F39B5FCA255B1D56695882034AF3CBBBBC79C94968177"
+  },
+  {
+    "File": "face_edits\\Razvan_04_Breakevens_To_4R_master_1672x941.png",
+    "Width": 1672,
+    "Height": 941,
+    "Bytes": 3200487,
+    "SHA256": "03E563E7EBD9D36D2FAAF676E2752C514B7655CE77B58189FCBB68AE7FEDC1F2"
+  },
+  {
+    "File": "face_edits\\Razvan_06_Reversal_Entry_Model_master_1672x941.png",
+    "Width": 1672,
+    "Height": 941,
+    "Bytes": 2986241,
+    "SHA256": "2FCBC08053641BFCF3D94ADD5E13CD7F462F3BEDDDC80D4D5C774BCC2541FBD2"
+  },
+  {
+    "File": "face_edits\\Razvan_07_Farak_Prop_Firm_Trading_master_1672x941.png",
+    "Width": 1672,
+    "Height": 941,
+    "Bytes": 2626598,
+    "SHA256": "2E01D0C2578E46F4CD7795436455C9E748E23B7B0C9ABDCF12D4C329FA6E7599"
+  },
+  {
+    "File": "face_edits\\Razvan_08_Farak_Prop_Firm_Reversal_master_1672x941.png",
+    "Width": 1672,
+    "Height": 941,
+    "Bytes": 2684158,
+    "SHA256": "E7DA604531CE013D0E5DDFA729ECAC5F8D94759DC9F7AC958A84A2555857ECF8"
+  },
+  {
+    "File": "face_edits\\Razvan_09_Farak_Nasdaq_Trading_master_1672x941.png",
+    "Width": 1672,
+    "Height": 941,
+    "Bytes": 2621270,
+    "SHA256": "172B1634542EB95FE65EFC3D06DF05CA59D176D1943B4F8809D5D557EC1A7719"
+  },
+  {
+    "File": "face_edits\\Razvan_13_Farak_Full_Strategy_master_1672x941.png",
+    "Width": 1672,
+    "Height": 941,
+    "Bytes": 2573831,
+    "SHA256": "B9EA7D29E29BCDEE4A16C06B2CE7ED9D9E558E74B2B43149302AB8B8149F46E4"
+  },
+  {
+    "File": "masters\\Razvan_01_Reversal_Strategy_master_1672x941.png",
+    "Width": 1672,
+    "Height": 941,
+    "Bytes": 3263288,
+    "SHA256": "9EB77CBF2E6A046D64686566016BB1D048784FA80AF243587ED90E6E53E047C6"
+  },
+  {
+    "File": "masters\\Razvan_02_No_Partials_master_1672x941.png",
+    "Width": 1672,
+    "Height": 941,
+    "Bytes": 3236309,
+    "SHA256": "A3F64F68BA8A31AA259689BE4C14C09272E535459332FA5856920A04591B486F"
+  },
+  {
+    "File": "masters\\Razvan_03_Key_Levels_master_1672x941.png",
+    "Width": 1672,
+    "Height": 941,
+    "Bytes": 3247448,
+    "SHA256": "82201F6B24A38EBC1A1D7ECA89CD6429EAC65397D6BD0C7756A70E686952E6CD"
+  },
+  {
+    "File": "masters\\Razvan_04_Breakevens_To_4R_master_1672x941.png",
+    "Width": 1672,
+    "Height": 941,
+    "Bytes": 3257178,
+    "SHA256": "581F8DBB2A6D25655FB54A7E61FBD9B4952C5F54B67C2904A30E13349E09618B"
+  },
+  {
+    "File": "masters\\Razvan_05_Master_Reversal_Trading_master_1672x941.png",
+    "Width": 1672,
+    "Height": 941,
+    "Bytes": 3242681,
+    "SHA256": "3F9D96A51464FB89DED710C7BEDC78CA8B700CFBC34283A59E9F0A4CE035A698"
+  },
+  {
+    "File": "masters\\Razvan_06_Reversal_Entry_Model_master_1672x941.png",
+    "Width": 1672,
+    "Height": 941,
+    "Bytes": 3328169,
+    "SHA256": "A6ADD7F7BD26863853C9487A12D0E23DD2CA714C8713C298AE209AD2DD87EB03"
+  },
+  {
+    "File": "masters\\Razvan_07_Farak_Prop_Firm_Trading_master_1672x941.png",
+    "Width": 1672,
+    "Height": 941,
+    "Bytes": 3291126,
+    "SHA256": "45D69236CE65D67DBEE6AB81A2ADE36EA9F609515AB836DBD0C074727B9D0697"
+  },
+  {
+    "File": "masters\\Razvan_08_Farak_Prop_Firm_Reversal_master_1672x941.png",
+    "Width": 1672,
+    "Height": 941,
+    "Bytes": 3303807,
+    "SHA256": "70DFE5BD81CBE28846C23633C2B36BCE6DDAD1F726D2F05A647509B844EED36B"
+  },
+  {
+    "File": "masters\\Razvan_09_Farak_Nasdaq_Trading_master_1672x941.png",
+    "Width": 1672,
+    "Height": 941,
+    "Bytes": 3298320,
+    "SHA256": "A444BC416EA55C6E7031070578FD50C896DE0382E0249C2DDE0CF54054B385D4"
+  },
+  {
+    "File": "masters\\Razvan_10_Farak_Master_Reversal_master_1672x941.png",
+    "Width": 1672,
+    "Height": 941,
+    "Bytes": 3226849,
+    "SHA256": "AA1441421B26DF4BD940BD7E933B083EFB19CCDE5A623CFE47DAB5226D17FE20"
+  },
+  {
+    "File": "masters\\Razvan_11_Farak_Master_Prop_Firm_master_1672x941.png",
+    "Width": 1672,
+    "Height": 941,
+    "Bytes": 3224814,
+    "SHA256": "FE226F07CCBDFC308FF8FE393DCD663C8C8F6448E6509DC6A0F9986AB07F582B"
+  },
+  {
+    "File": "masters\\Razvan_12_Farak_Master_Nasdaq_master_1672x941.png",
+    "Width": 1672,
+    "Height": 941,
+    "Bytes": 3215292,
+    "SHA256": "D2C68DEE16C1E4093A8D7403B9806D78E25A9EE3CB20FC79749593100D8665C4"
+  },
+  {
+    "File": "masters\\Razvan_13_Farak_Full_Strategy_master_1672x941.png",
+    "Width": 1672,
+    "Height": 941,
+    "Bytes": 3317056,
+    "SHA256": "0FFC36C70B9052805128FD10C4F746A09F0325F9FB3C3E0B573CA10FC6AFB2E8"
+  },
+  {
+    "File": "sources_HD\\Razvan_First_Frame_Original.jpg",
+    "Width": 3840,
+    "Height": 2160,
+    "Bytes": 199031,
+    "SHA256": "27765F7D292B2F7A5797577048C7A23591673E9B9C174EC67EAC1B4EB915B1CF"
+  },
+  {
+    "File": "sources_HD\\Sanjiv_Original_00-00-48-00.jpg",
+    "Width": 3840,
+    "Height": 2160,
+    "Bytes": 208693,
+    "SHA256": "A6F93C114364DCD2A89C3E19568EFC267B8DE999A2AD8CCA798827997E69BEDE"
+  },
+  {
+    "File": "sources_HD\\Sanjiv_Original_00-37-36-00.jpg",
+    "Width": 3840,
+    "Height": 2160,
+    "Bytes": 195688,
+    "SHA256": "5FC90D29E9AFB2B25FC8D3CE41E0A261B7FC699007CE76454711793866427163"
+  },
+  {
+    "File": "YouTube_1280x720\\Razvan_01_Reversal_Strategy_1280x720.jpg",
+    "Width": 1280,
+    "Height": 720,
+    "Bytes": 339461,
+    "SHA256": "8C67B4207311BD00F1587652144299320AB04AD9151C1440FBEC0361F35D13F1"
+  },
+  {
+    "File": "YouTube_1280x720\\Razvan_02_No_Partials_1280x720.jpg",
+    "Width": 1280,
+    "Height": 720,
+    "Bytes": 310582,
+    "SHA256": "E2B13560BB6DFB3747CB1AF84A1DF3E40589CA9A2A018E9813AFF9FE9152ACA5"
+  },
+  {
+    "File": "YouTube_1280x720\\Razvan_03_Key_Levels_1280x720.jpg",
+    "Width": 1280,
+    "Height": 720,
+    "Bytes": 331688,
+    "SHA256": "52A981600D2D117DFD043B30CD1AC138CF0A387E8C9283B49F5DF2FAF1B20DEA"
+  },
+  {
+    "File": "YouTube_1280x720\\Razvan_04_Breakevens_To_4R_1280x720.jpg",
+    "Width": 1280,
+    "Height": 720,
+    "Bytes": 337774,
+    "SHA256": "9A92BFC459C07ACF9AF3B9BC4EDF223FA7F2FA88BCEF879A92354BEF516B1F06"
+  },
+  {
+    "File": "YouTube_1280x720\\Razvan_05_Master_Reversal_Trading_1280x720.jpg",
+    "Width": 1280,
+    "Height": 720,
+    "Bytes": 318085,
+    "SHA256": "B1617B3F6589FA77A9CFAAEFD14DBD9FDE120FD5B13FB92045574C0274E9572B"
+  },
+  {
+    "File": "YouTube_1280x720\\Razvan_06_Reversal_Entry_Model_1280x720.jpg",
+    "Width": 1280,
+    "Height": 720,
+    "Bytes": 367285,
+    "SHA256": "EEAF2C06E87350566BF3BF55D139C27819421ADE614ADA095080A5FDCD5D025A"
+  },
+  {
+    "File": "YouTube_1280x720\\Razvan_07_Farak_Prop_Firm_Trading_1280x720.jpg",
+    "Width": 1280,
+    "Height": 720,
+    "Bytes": 357582,
+    "SHA256": "C0086E7BBF64C74C91DB4095822BF0774F8139E5B618BC52817CB30C6EBCCC12"
+  },
+  {
+    "File": "YouTube_1280x720\\Razvan_08_Farak_Prop_Firm_Reversal_1280x720.jpg",
+    "Width": 1280,
+    "Height": 720,
+    "Bytes": 365904,
+    "SHA256": "4410E55E46F8D0E7F9915ADE079650B7D75B83D8FAEC1091483629625880E88A"
+  },
+  {
+    "File": "YouTube_1280x720\\Razvan_09_Farak_Nasdaq_Trading_1280x720.jpg",
+    "Width": 1280,
+    "Height": 720,
+    "Bytes": 357787,
+    "SHA256": "92772D0664FCA1D21C6BE0E4267F71121457AD44D3B67E6A139BA18A8139599C"
+  },
+  {
+    "File": "YouTube_1280x720\\Razvan_10_Farak_Master_Reversal_1280x720.jpg",
+    "Width": 1280,
+    "Height": 720,
+    "Bytes": 314039,
+    "SHA256": "0DE52B0A710D95B63F89C63BB286021FDCAF8CFD8837E1EE5DFC041652721ECE"
+  },
+  {
+    "File": "YouTube_1280x720\\Razvan_11_Farak_Master_Prop_Firm_1280x720.jpg",
+    "Width": 1280,
+    "Height": 720,
+    "Bytes": 314316,
+    "SHA256": "CB6F77A1AE200EDFE6E8D7EB3017F45416A905BCBF5AF2982ECCEBA3A4219EC3"
+  },
+  {
+    "File": "YouTube_1280x720\\Razvan_12_Farak_Master_Nasdaq_1280x720.jpg",
+    "Width": 1280,
+    "Height": 720,
+    "Bytes": 315010,
+    "SHA256": "5EBA8527BBFA812129C559E98EE96A2566A56C40F3905E9CC347BAC8AC78DF48"
+  },
+  {
+    "File": "YouTube_1280x720\\Razvan_13_Farak_Full_Strategy_1280x720.jpg",
+    "Width": 1280,
+    "Height": 720,
+    "Bytes": 346951,
+    "SHA256": "38C78DE3D8A3577AC562FA21442D67ED37312F8EFC0CC31C11280B3622B6F06A"
+  }
+]

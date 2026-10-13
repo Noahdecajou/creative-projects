@@ -1,0 +1,62 @@
+{
+  "images": [
+    {
+      "file": "01.png",
+      "background": "hero_photo_grain",
+      "size": [
+        1080,
+        1350
+      ],
+      "sha256": "c27de646cbcdf7952415434792be14b24076c447b3a00be60b4f5bd5bb66734a"
+    },
+    {
+      "file": "02.png",
+      "background": "levels_photo_grain",
+      "size": [
+        1080,
+        1350
+      ],
+      "sha256": "de18c33714e0bad82fbff911afa378b7f2cdde785bf143372e21ad520501f6e9"
+    },
+    {
+      "file": "03.png",
+      "background": "reactions_photo_grain",
+      "size": [
+        1080,
+        1350
+      ],
+      "sha256": "610876db136eb614cae6efde0dc8cd3c43884c91431176141b858b06c4f27e46"
+    },
+    {
+      "file": "04.png",
+      "background": "minimal",
+      "size": [
+        1080,
+        1350
+      ],
+      "sha256": "35dc9c0d19c1418ca6214b2dce491b247346fd1dcb327cc0d22d035be16eac75"
+    },
+    {
+      "file": "05.png",
+      "background": "trailing_overhead_daylight",
+      "size": [
+        1080,
+        1350
+      ],
+      "sha256": "9bc5d238bf5d34ebccddb0b7a583f15925513c9e63b6ef534aef9063e9c3af6b"
+    },
+    {
+      "file": "06.png",
+      "background": "outro_photo_grain",
+      "size": [
+        1080,
+        1350
+      ],
+      "sha256": "997c10ba54064d0556c716f04e8df9383fc55607d9b9293a4795856e69124207"
+    }
+  ],
+  "approved_assets": "unchanged",
+  "crop_and_scale": "reused approved V08 Canvas constructor",
+  "layers": "backgrounds only; no text, charts, highlights, branding or footer overlays",
+  "zip_contents": "six ordered PNGs, validated"
+}

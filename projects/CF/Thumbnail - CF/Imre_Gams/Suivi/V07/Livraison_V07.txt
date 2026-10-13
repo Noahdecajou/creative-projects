@@ -1,0 +1,39 @@
+IMRE GAMS / CHARTFANATICS / V07
+
+MODIFICATIONS
+Grain : 3 % de bruit gaussien monochromatique sur les huit exports, en une seule passe depuis les masters sans bruit final. Les exports V06 a 5 % ne servent pas de base de travail.
+
+01 / 02 / 04 : fond noir dominant. La lumiere rouge est contenue dans le quart gauche, la verte dans le quart droit ; la moitie centrale est noire. Bords et fondus continus. Intensite des deux lumieres aussi reduite par rapport a V06.
+Lueur douce sur les lignes des graphiques, ajoutee sous les traces nettes pour une finition lumineuse lisible. Le halo est compose de couches fines decroissantes, pas de gros contours etages.
+Meme portrait, cadrage, texte, dimensions des cartouches et geometrie des schemas.
+
+06 : illustrations agrandies et contextualisees dans quatre zones du tableau.
+- BALANCE / FALSE BREAKOUT : prix oscillant dans le range, sortie rejetee et retour illustre en rouge.
+- IMBALANCE / VALUE SHIFTS UP : progression haussiere avec zones de valeur successives et fleche verte.
+- FAIR VALUE / MOST VOLUME : profil de volume schematique dont le niveau le plus actif est surligne en or.
+- MICRO-RANGE / BUILD THEN BREAK : construction d'un petit range suivie d'une sortie, avec point de transition et fleche verte.
+Portrait frontal et titre READ THE MARKET conserves a leur position et taille V06. Le tableau est elargi pour que les illustrations et leurs explications restent visibles sur mobile.
+Illustrations pedagogiques, sans cotations inventees ni promesse de resultat.
+
+08 : fleche superieure PRICE -> VALUE reconstruite avec un seul contour plein. Tige raccordee a la pointe sans capuchon arrondi qui depasse. Le reste de la composition est conserve.
+
+03 / 05 / 07 : masters strictement identiques a V06 ; seul le grain de l'export change.
+
+PROVENANCE
+Meme dossier Sources_HD et memes portraits que les versions precedentes. Aucun nouveau rendu generatif ni retouche de peau, d'expression ou de regard.
+Les assets photographiques generatifs V04 restent documentes dans Suivi/V04/Livraison_V04.txt et Prompts_ImageGen.txt.
+Sources pedagogiques 06 : transcript 00:05:47-00:14:05 (valeur, regimes, point de controle), 00:20:31-00:24:38 (breakouts en balance), 00:54:33-00:57:36 (construction de valeur et micro-range).
+Suivi complet des titres precedents : Suivi/V05/Titres_et_sources_V05.txt.
+
+PRODUCTION ET LIVRAISON
+Calques de composition editables : render_v07.ps1 et color_lighting.ps1. Aucun nouveau prompt ImageGen pour ces corrections de formes, couleurs, textes et parametres de finition.
+Masters 3840 x 2160 sans grain final. Sources photo agrandies : les photographies ne sont pas natives 4K.
+Huit PNG 3840 x 2160 dans Exports/V07.
+ZIP de huit PNG : Livraison/Imre_Gams_8_Thumbnails_V07_3840x2160.zip.
+Versions precedentes intactes. Aucun fichier publie.
+
+REPRODUCTION
+& 'Imre_Gams\Suivi\V07\render_v07.ps1' -Final
+Le script rend 01/02/04/06/08 et reprend les masters V06 sans bruit pour 03/05/07, puis applique 3 % une seule fois a chacun des huit exports.
+Prerequis : assets Masters/V07, masters V06 pour 03/05/07, police Poppins et Suivi/add_final_noise.ps1.
+package_v07.ps1 controle nombre, dimensions, taille et SHA256 des huit entrees du ZIP.

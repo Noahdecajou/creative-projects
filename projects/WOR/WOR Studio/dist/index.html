@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="fr">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#ffffff"><title>WOR Studio — Atelier visuel</title><meta name="description" content="Votre atelier local pour les thumbnails, Stories et covers Spotify Words of Rizdom."><link rel="stylesheet" href="style.css"><script defer src="seed.js"></script><link rel="stylesheet" href="extras.css"><link rel="stylesheet" href="lab.css"><link rel="stylesheet" href="studio.css"><link rel="stylesheet" href="feed.css"><script defer src="feed-catalog.js"></script><script defer src="feed.js"></script><script defer src="pretest.js"></script><script defer src="titles.js"></script><script defer src="lab.js"></script><script defer src="app.js"></script></head>
+<body>
+<aside class="sidebar">
+ <a class="wordmark" href="#" aria-label="Accueil WOR Studio">wor<span>studio<span class="red-dot">.</span></span></a>
+ <div class="workspace-label">ESPACE DE CRÉATION</div>
+ <button class="workspace" id="workspace"><span class="brand-square">W</span><span>Words of Rizdom<small>Projet pilote</small></span><span>⌄</span></button>
+ <nav aria-label="Navigation"><button data-view="board" class="nav active"><span>▦</span> Atelier <span class="nav-count">01</span></button><button data-view="ab" class="nav" aria-label="Prétest A/B"><span>⇄</span> Prétest A/B</button><button data-view="youtube" class="nav" aria-label="Dans YouTube"><span>▷</span> Dans YouTube</button><button data-view="titles" class="nav" aria-label="Prétest des titres"><span>T</span> Prétest des titres</button><button data-view="library" class="nav"><span>▧</span> Sources & références</button><button data-view="feedback" class="nav"><span>◉</span> Mes retours <span class="nav-count" id="feedback-count">0</span></button><button data-view="rules" class="nav"><span>☷</span> Règles créatives</button></nav>
+ <div class="sidebar-bottom"><div class="local-label"><i></i> Votre espace local</div><p>Projets conservés en local.<br>Analyse IA à la demande.</p><button class="text-button" id="help">Comment ça fonctionne ↗</button></div>
+</aside>
+<div class="shell"><header class="topbar"><div class="breadcrumbs">Words of Rizdom <span>/</span> <b id="crumb">Atelier</b></div><div class="top-actions"><span id="save-status" role="status">Chargement…</span><button class="button small" id="backup">↓ Sauvegarder</button><button class="avatar" aria-label="Espace personnel" id="about">N</button></div></header>
+<main id="main"></main>
+<footer>WOR STUDIO <span>Un thumbnail. Une direction. Toutes les déclinaisons.</span><span class="mono">LOCAL / V.07</span></footer></div>
+<dialog id="editor" class="editor"><div id="editor-content"></div></dialog>
+<dialog id="form-dialog" class="form-dialog"><div id="form-content"></div></dialog>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<input type="file" id="file-input" hidden accept="image/png,image/jpeg,image/webp" multiple><input type="file" id="restore-input" hidden accept="application/json">
+</body></html>

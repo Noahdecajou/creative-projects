@@ -1,0 +1,11 @@
+Selection Frame.io - Riz, Scott Pulcini et tableau - 8 octobre 2026
+
+Tous les fichiers sources sont des JPG exportes depuis Viewer Settings > Download Still, qualite 2160p. Dimensions verifiees : 3840 x 2160. Aucun agrandissement, aucune retouche de visage, aucune capture d'ecran utilisee comme photo finale. Les videos et leurs proxies n'ont pas ete telecharges en tant que fichiers.
+
+Regards camera : 3 Riz et 2 Scott. Scott 07:38 et 07:40 sont deux alternatives proches d'un meme passage avec regard vers l'objectif. Les alternatives de profil sont conservees separement.
+
+Tableau : 87 passages exportes ; 60 images avec ecriture ou dessins retenues ; 12 vues prioritaires. Les vues de plateau vide, ordinateur et effacement sont exclues de la selection. Les etapes proches sont conservees pour offrir davantage de choix. L'orientation des images reste celle de la source : les inscriptions du tableau sont a l'envers dans le cadrage natif.
+
+Les noms de fichiers indiquent HH-MM-SS. Les PNG sont des conversions sans agrandissement des JPG Frame.io ; ils ne restituent pas de details perdus dans la compression JPG. Les sources JPG restent intactes.
+
+Dossiers : Sources_HD = tous les exports ; Selections = photos retenues ; Exports_4K = PNG des 5 portraits camera et 12 tableaux prioritaires ; Apercus = planches de comparaison ; Suivi = dimensions et provenance.

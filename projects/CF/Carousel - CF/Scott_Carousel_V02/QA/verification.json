@@ -1,0 +1,1039 @@
+{
+  "files": [
+    {
+      "file": "01_100X_Better.png",
+      "dimensions": [
+        1080,
+        1350
+      ],
+      "copy": [
+        "Scott Pulcini",
+        "4 THINGS",
+        "THAT CAN MAKE YOUR TRADING",
+        "\u201c100X BETTER\u201d",
+        "$15M IN 3 YEARS",
+        "From a trader who says he made $15M",
+        "for himself and his trading firm.",
+        "chartfanatics.com",
+        "Swipe"
+      ]
+    },
+    {
+      "file": "02_Icebergs_Stop_Runs.png",
+      "dimensions": [
+        1080,
+        1350
+      ],
+      "copy": [
+        "ICEBERGS",
+        "+ STOP RUNS",
+        "A big green candle doesn\u2019t always",
+        "mean buyers are entering.",
+        "It could be traders getting stopped out.",
+        "100 contracts visible",
+        "900 hidden below",
+        "Illustrative order size",
+        "Scott watches iceberg orders to spot hidden size",
+        "and stop runs to separate forced exits",
+        "from genuine buying or selling.",
+        "SAME CANDLE. DIFFERENT STORY.",
+        "chartfanatics.com",
+        "Swipe"
+      ]
+    },
+    {
+      "file": "03_Options_Flow_Gamma.png",
+      "dimensions": [
+        1080,
+        1350
+      ],
+      "copy": [
+        "OPTIONS FLOW",
+        "+ GAMMA",
+        "Scott trades futures. He watches options daily.",
+        "Options dealers hedge in the underlying market.",
+        "That activity can help drive the futures market.",
+        "GAMMA LEVEL",
+        "Magnet \u2022 Target \u2022 S/R",
+        "Order flow aligns here",
+        "Concept illustration",
+        "When gamma + order flow align at the same level,",
+        "Scott says that confluence gives him an edge.",
+        "chartfanatics.com",
+        "Swipe"
+      ]
+    },
+    {
+      "file": "04_Algos.png",
+      "dimensions": [
+        1080,
+        1350
+      ],
+      "copy": [
+        "ALGOS",
+        "Trade the rotation",
+        "In a range, when price moves too far, too fast,",
+        "algorithms can snap it back.",
+        "Scott uses the 5-minute Price Change Algo",
+        "to alert him when price becomes extended.",
+        "LONG POSITION EXAMPLE",
+        "SELL SOME",
+        "ADD BACK",
+        "Concept illustration",
+        "He trades around an existing position:",
+        "Price extends: takes size off",
+        "Price rotates back: adds size back",
+        "chartfanatics.com",
+        "Swipe"
+      ]
+    },
+    {
+      "file": "05_Program_Buying_Selling.png",
+      "dimensions": [
+        1080,
+        1350
+      ],
+      "copy": [
+        "PROGRAM BUYING",
+        "+ SELLING",
+        "Scott looks for institutions trading huge",
+        "baskets of stocks \u2014 and strong directional moves.",
+        "Two major clues:",
+        "TICK at sustained extremes",
+        "+",
+        "200%+ relative volume",
+        "TICK -1000",
+        "RELATIVE VOLUME 200%",
+        "Concept illustration",
+        "When both appear, Scott says:",
+        "DON\u2019T FADE THE MOVE.",
+        "It can keep going further than \u201ctoo far.\u201d",
+        "chartfanatics.com",
+        "Swipe"
+      ]
+    },
+    {
+      "file": "06_Inside_The_Candle.png",
+      "dimensions": [
+        1080,
+        1350
+      ],
+      "copy": [
+        "HOW DOES SCOTT",
+        "ACTUALLY SEE ALL THIS?",
+        "Bookmap + order flow",
+        "Bookmap lets Scott look inside the candle.",
+        "RESTING LIQUIDITY",
+        "MARKET ORDERS",
+        "ICEBERG EVENT",
+        "Actual screenshot from Scott\u2019s episode",
+        "With add-ons: stop runs + iceberg orders.",
+        "Scott builds rules around what price does next",
+        "to decide whether to look for longs or shorts.",
+        "chartfanatics.com",
+        "Swipe"
+      ]
+    },
+    {
+      "file": "07_Full_Strategy_CTA.png",
+      "dimensions": [
+        1080,
+        1350
+      ],
+      "copy": [
+        "SEE SCOTT BREAK DOWN",
+        "THE FULL STRATEGY",
+        "Entries, exits, Bookmap, order flow",
+        "and real chart examples.",
+        "Scott Pulcini",
+        "Comment",
+        "\u201cSCOTT\u201d",
+        "and we\u2019ll DM you the full episode."
+      ]
+    }
+  ],
+  "count": 7,
+  "zip_integrity": "verified",
+  "text_bounds": [
+    {
+      "text": "Scott Pulcini",
+      "box": [
+        772,
+        62,
+        953,
+        84
+      ],
+      "size": 29
+    },
+    {
+      "text": "4 THINGS",
+      "box": [
+        324,
+        138,
+        756,
+        208
+      ],
+      "size": 96
+    },
+    {
+      "text": "THAT CAN MAKE YOUR TRADING",
+      "box": [
+        226,
+        239,
+        854,
+        268
+      ],
+      "size": 42
+    },
+    {
+      "text": "\u201c100X BETTER\u201d",
+      "box": [
+        275,
+        306,
+        805,
+        372
+      ],
+      "size": 80
+    },
+    {
+      "text": "$15M IN 3 YEARS",
+      "box": [
+        360,
+        1096,
+        720,
+        1137
+      ],
+      "size": 46
+    },
+    {
+      "text": "From a trader who says he made $15M",
+      "box": [
+        176,
+        1162,
+        904,
+        1203
+      ],
+      "size": 38
+    },
+    {
+      "text": "for himself and his trading firm.",
+      "box": [
+        244,
+        1218,
+        836,
+        1257
+      ],
+      "size": 38
+    },
+    {
+      "text": "chartfanatics.com",
+      "box": [
+        64,
+        1269,
+        342,
+        1293
+      ],
+      "size": 30
+    },
+    {
+      "text": "Swipe",
+      "box": [
+        837,
+        1270,
+        924,
+        1301
+      ],
+      "size": 30
+    },
+    {
+      "text": "ICEBERGS",
+      "box": [
+        350,
+        149,
+        730,
+        209
+      ],
+      "size": 82
+    },
+    {
+      "text": "+ STOP RUNS",
+      "box": [
+        290,
+        265,
+        789,
+        325
+      ],
+      "size": 82
+    },
+    {
+      "text": "A big green candle doesn\u2019t always",
+      "box": [
+        213,
+        381,
+        867,
+        421
+      ],
+      "size": 38
+    },
+    {
+      "text": "mean buyers are entering.",
+      "box": [
+        288,
+        437,
+        792,
+        476
+      ],
+      "size": 38
+    },
+    {
+      "text": "It could be traders getting stopped out.",
+      "box": [
+        168,
+        488,
+        912,
+        527
+      ],
+      "size": 38
+    },
+    {
+      "text": "100 contracts visible",
+      "box": [
+        602,
+        610,
+        906,
+        634
+      ],
+      "size": 30
+    },
+    {
+      "text": "900 hidden below",
+      "box": [
+        615,
+        785,
+        917,
+        812
+      ],
+      "size": 34
+    },
+    {
+      "text": "Illustrative order size",
+      "box": [
+        698,
+        856,
+        938,
+        874
+      ],
+      "size": 23
+    },
+    {
+      "text": "Scott watches iceberg orders to spot hidden size",
+      "box": [
+        76,
+        948,
+        1004,
+        987
+      ],
+      "size": 38
+    },
+    {
+      "text": "and stop runs to separate forced exits",
+      "box": [
+        176,
+        1004,
+        904,
+        1043
+      ],
+      "size": 38
+    },
+    {
+      "text": "from genuine buying or selling.",
+      "box": [
+        248,
+        1060,
+        832,
+        1099
+      ],
+      "size": 38
+    },
+    {
+      "text": "SAME CANDLE. DIFFERENT STORY.",
+      "box": [
+        238,
+        1160,
+        841,
+        1186
+      ],
+      "size": 38
+    },
+    {
+      "text": "chartfanatics.com",
+      "box": [
+        64,
+        1269,
+        342,
+        1293
+      ],
+      "size": 30
+    },
+    {
+      "text": "Swipe",
+      "box": [
+        837,
+        1270,
+        924,
+        1301
+      ],
+      "size": 30
+    },
+    {
+      "text": "OPTIONS FLOW",
+      "box": [
+        241,
+        149,
+        839,
+        209
+      ],
+      "size": 82
+    },
+    {
+      "text": "+ GAMMA",
+      "box": [
+        346,
+        265,
+        734,
+        325
+      ],
+      "size": 82
+    },
+    {
+      "text": "Scott trades futures. He watches options daily.",
+      "box": [
+        103,
+        380,
+        977,
+        419
+      ],
+      "size": 38
+    },
+    {
+      "text": "Options dealers hedge in the underlying market.",
+      "box": [
+        82,
+        448,
+        998,
+        487
+      ],
+      "size": 38
+    },
+    {
+      "text": "That activity can help drive the futures market.",
+      "box": [
+        98,
+        504,
+        982,
+        543
+      ],
+      "size": 38
+    },
+    {
+      "text": "GAMMA LEVEL",
+      "box": [
+        89,
+        722,
+        296,
+        743
+      ],
+      "size": 30
+    },
+    {
+      "text": "Magnet \u2022 Target \u2022 S/R",
+      "box": [
+        90,
+        768,
+        389,
+        802
+      ],
+      "size": 29
+    },
+    {
+      "text": "Order flow aligns here",
+      "box": [
+        569,
+        1134,
+        894,
+        1164
+      ],
+      "size": 29
+    },
+    {
+      "text": "Concept illustration",
+      "box": [
+        90,
+        1197,
+        321,
+        1221
+      ],
+      "size": 23
+    },
+    {
+      "text": "When gamma + order flow align at the same level,",
+      "box": [
+        63,
+        565,
+        1017,
+        604
+      ],
+      "size": 38
+    },
+    {
+      "text": "Scott says that confluence gives him an edge.",
+      "box": [
+        102,
+        621,
+        978,
+        660
+      ],
+      "size": 38
+    },
+    {
+      "text": "chartfanatics.com",
+      "box": [
+        64,
+        1269,
+        342,
+        1293
+      ],
+      "size": 30
+    },
+    {
+      "text": "Swipe",
+      "box": [
+        837,
+        1270,
+        924,
+        1301
+      ],
+      "size": 30
+    },
+    {
+      "text": "ALGOS",
+      "box": [
+        406,
+        149,
+        674,
+        209
+      ],
+      "size": 82
+    },
+    {
+      "text": "Trade the rotation",
+      "box": [
+        305,
+        275,
+        775,
+        316
+      ],
+      "size": 51
+    },
+    {
+      "text": "In a range, when price moves too far, too fast,",
+      "box": [
+        108,
+        366,
+        972,
+        405
+      ],
+      "size": 38
+    },
+    {
+      "text": "algorithms can snap it back.",
+      "box": [
+        270,
+        422,
+        810,
+        461
+      ],
+      "size": 38
+    },
+    {
+      "text": "Scott uses the 5-minute Price Change Algo",
+      "box": [
+        132,
+        493,
+        948,
+        532
+      ],
+      "size": 38
+    },
+    {
+      "text": "to alert him when price becomes extended.",
+      "box": [
+        126,
+        549,
+        954,
+        588
+      ],
+      "size": 38
+    },
+    {
+      "text": "LONG POSITION EXAMPLE",
+      "box": [
+        89,
+        854,
+        425,
+        873
+      ],
+      "size": 27
+    },
+    {
+      "text": "SELL SOME",
+      "box": [
+        174,
+        930,
+        314,
+        949
+      ],
+      "size": 27
+    },
+    {
+      "text": "ADD BACK",
+      "box": [
+        557,
+        1114,
+        696,
+        1133
+      ],
+      "size": 27
+    },
+    {
+      "text": "Concept illustration",
+      "box": [
+        90,
+        1196,
+        321,
+        1220
+      ],
+      "size": 23
+    },
+    {
+      "text": "He trades around an existing position:",
+      "box": [
+        181,
+        610,
+        899,
+        649
+      ],
+      "size": 38
+    },
+    {
+      "text": "Price extends: takes size off",
+      "box": [
+        279,
+        690,
+        800,
+        720
+      ],
+      "size": 38
+    },
+    {
+      "text": "Price rotates back: adds size back",
+      "box": [
+        219,
+        765,
+        860,
+        795
+      ],
+      "size": 38
+    },
+    {
+      "text": "chartfanatics.com",
+      "box": [
+        64,
+        1269,
+        342,
+        1293
+      ],
+      "size": 30
+    },
+    {
+      "text": "Swipe",
+      "box": [
+        837,
+        1270,
+        924,
+        1301
+      ],
+      "size": 30
+    },
+    {
+      "text": "PROGRAM BUYING",
+      "box": [
+        176,
+        149,
+        904,
+        209
+      ],
+      "size": 82
+    },
+    {
+      "text": "+ SELLING",
+      "box": [
+        353,
+        265,
+        726,
+        325
+      ],
+      "size": 82
+    },
+    {
+      "text": "Scott looks for institutions trading huge",
+      "box": [
+        168,
+        380,
+        912,
+        419
+      ],
+      "size": 38
+    },
+    {
+      "text": "baskets of stocks \u2014 and strong directional moves.",
+      "box": [
+        66,
+        436,
+        1014,
+        475
+      ],
+      "size": 38
+    },
+    {
+      "text": "Two major clues:",
+      "box": [
+        379,
+        496,
+        701,
+        536
+      ],
+      "size": 38
+    },
+    {
+      "text": "TICK at sustained extremes",
+      "box": [
+        270,
+        575,
+        810,
+        606
+      ],
+      "size": 39
+    },
+    {
+      "text": "+",
+      "box": [
+        527,
+        637,
+        553,
+        666
+      ],
+      "size": 47
+    },
+    {
+      "text": "200%+ relative volume",
+      "box": [
+        299,
+        721,
+        781,
+        755
+      ],
+      "size": 42
+    },
+    {
+      "text": "TICK -1000",
+      "box": [
+        110,
+        818,
+        246,
+        837
+      ],
+      "size": 26
+    },
+    {
+      "text": "RELATIVE VOLUME 200%",
+      "box": [
+        434,
+        818,
+        736,
+        837
+      ],
+      "size": 26
+    },
+    {
+      "text": "Concept illustration",
+      "box": [
+        90,
+        1032,
+        321,
+        1056
+      ],
+      "size": 23
+    },
+    {
+      "text": "When both appear, Scott says:",
+      "box": [
+        250,
+        1090,
+        830,
+        1128
+      ],
+      "size": 38
+    },
+    {
+      "text": "DON\u2019T FADE THE MOVE.",
+      "box": [
+        314,
+        1156,
+        765,
+        1190
+      ],
+      "size": 40
+    },
+    {
+      "text": "It can keep going further than \u201ctoo far.\u201d",
+      "box": [
+        174,
+        1220,
+        906,
+        1260
+      ],
+      "size": 38
+    },
+    {
+      "text": "chartfanatics.com",
+      "box": [
+        64,
+        1269,
+        342,
+        1293
+      ],
+      "size": 30
+    },
+    {
+      "text": "Swipe",
+      "box": [
+        837,
+        1270,
+        924,
+        1301
+      ],
+      "size": 30
+    },
+    {
+      "text": "HOW DOES SCOTT",
+      "box": [
+        256,
+        150,
+        824,
+        196
+      ],
+      "size": 64
+    },
+    {
+      "text": "ACTUALLY SEE ALL THIS?",
+      "box": [
+        171,
+        234,
+        909,
+        282
+      ],
+      "size": 64
+    },
+    {
+      "text": "Bookmap + order flow",
+      "box": [
+        264,
+        354,
+        815,
+        406
+      ],
+      "size": 50
+    },
+    {
+      "text": "Bookmap lets Scott look inside the candle.",
+      "box": [
+        142,
+        446,
+        938,
+        485
+      ],
+      "size": 38
+    },
+    {
+      "text": "RESTING LIQUIDITY",
+      "box": [
+        109,
+        563,
+        339,
+        584
+      ],
+      "size": 25
+    },
+    {
+      "text": "MARKET ORDERS",
+      "box": [
+        104,
+        862,
+        312,
+        880
+      ],
+      "size": 25
+    },
+    {
+      "text": "ICEBERG EVENT",
+      "box": [
+        684,
+        703,
+        874,
+        721
+      ],
+      "size": 25
+    },
+    {
+      "text": "Actual screenshot from Scott\u2019s episode",
+      "box": [
+        298,
+        1055,
+        782,
+        1083
+      ],
+      "size": 25
+    },
+    {
+      "text": "With add-ons: stop runs + iceberg orders.",
+      "box": [
+        149,
+        1097,
+        931,
+        1136
+      ],
+      "size": 38
+    },
+    {
+      "text": "Scott builds rules around what price does next",
+      "box": [
+        100,
+        1153,
+        980,
+        1192
+      ],
+      "size": 38
+    },
+    {
+      "text": "to decide whether to look for longs or shorts.",
+      "box": [
+        118,
+        1209,
+        962,
+        1248
+      ],
+      "size": 38
+    },
+    {
+      "text": "chartfanatics.com",
+      "box": [
+        64,
+        1269,
+        342,
+        1293
+      ],
+      "size": 30
+    },
+    {
+      "text": "Swipe",
+      "box": [
+        837,
+        1270,
+        924,
+        1301
+      ],
+      "size": 30
+    },
+    {
+      "text": "SEE SCOTT BREAK DOWN",
+      "box": [
+        156,
+        151,
+        924,
+        197
+      ],
+      "size": 64
+    },
+    {
+      "text": "THE FULL STRATEGY",
+      "box": [
+        241,
+        259,
+        839,
+        305
+      ],
+      "size": 64
+    },
+    {
+      "text": "Entries, exits, Bookmap, order flow",
+      "box": [
+        223,
+        376,
+        857,
+        415
+      ],
+      "size": 38
+    },
+    {
+      "text": "and real chart examples.",
+      "box": [
+        302,
+        432,
+        778,
+        470
+      ],
+      "size": 38
+    },
+    {
+      "text": "Scott Pulcini",
+      "box": [
+        444,
+        972,
+        636,
+        997
+      ],
+      "size": 31
+    },
+    {
+      "text": "Comment",
+      "box": [
+        398,
+        1053,
+        682,
+        1093
+      ],
+      "size": 55
+    },
+    {
+      "text": "\u201cSCOTT\u201d",
+      "box": [
+        417,
+        1141,
+        662,
+        1191
+      ],
+      "size": 60
+    },
+    {
+      "text": "and we\u2019ll DM you the full episode.",
+      "box": [
+        230,
+        1235,
+        850,
+        1275
+      ],
+      "size": 38
+    }
+  ]
+}

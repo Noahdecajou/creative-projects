@@ -1,0 +1,79 @@
+[
+  {
+    "id": "01",
+    "prompt": "Use case: precise-object-edit. Dental color retouch ONLY. The smiling man's visible tooth enamel currently has a yellow/brown cast. Make the existing enamel visibly clean natural ivory white: remove 65-70% of yellow cast and brighten enamel modestly about 12%. Retain tooth sizes, irregular shape, spaces, individual shadows and highlights exactly; realistic off-white teeth, no pure white veneers, no new teeth. Leave lips, gums, face and every other element exactly unchanged. On duo image change Sampsa's teeth (short brown hair, blue sweater), not Riz. Do not alter smile, skin, eyes, hair, beard, hands, clothing, background, chart, object, or exact typography. Same complete landscape thumbnail with local teeth whitening only. No added grain.",
+    "generatedPath": "C:\\Users\\notti\\.codex\\generated_images\\01a12f86-0ef6-7450-9e2d-31feff2c3c7e\\exec-f6cbbdcc-5528-4b25-8677-182fcaeb02b1.png",
+    "patch": [
+      759,
+      463,
+      113,
+      39
+    ]
+  },
+  {
+    "id": "06",
+    "prompt": "Use case: precise-object-edit. Dental color retouch ONLY. The smiling man's visible tooth enamel currently has a yellow/brown cast. Make the existing enamel visibly clean natural ivory white: remove 65-70% of yellow cast and brighten enamel modestly about 12%. Retain tooth sizes, irregular shape, spaces, individual shadows and highlights exactly; realistic off-white teeth, no pure white veneers, no new teeth. Leave lips, gums, face and every other element exactly unchanged. On duo image change Sampsa's teeth (short brown hair, blue sweater), not Riz. Do not alter smile, skin, eyes, hair, beard, hands, clothing, background, chart, object, or exact typography. Same complete landscape thumbnail with local teeth whitening only. No added grain.",
+    "generatedPath": "C:\\Users\\notti\\.codex\\generated_images\\01a12f86-0ef6-7450-9e2d-31feff2c3c7e\\exec-f85efc30-3377-4649-9cb7-66924ce1cea3.png",
+    "patch": [
+      776,
+      326,
+      91,
+      31
+    ]
+  },
+  {
+    "id": "08",
+    "prompt": "Use case: precise-object-edit. Dental color retouch ONLY. The smiling man's visible tooth enamel currently has a yellow/brown cast. Make the existing enamel visibly clean natural ivory white: remove 65-70% of yellow cast and brighten enamel modestly about 12%. Retain tooth sizes, irregular shape, spaces, individual shadows and highlights exactly; realistic off-white teeth, no pure white veneers, no new teeth. Leave lips, gums, face and every other element exactly unchanged. On duo image change Sampsa's teeth (short brown hair, blue sweater), not Riz. Do not alter smile, skin, eyes, hair, beard, hands, clothing, background, chart, object, or exact typography. Same complete landscape thumbnail with local teeth whitening only. No added grain.",
+    "generatedPath": "C:\\Users\\notti\\.codex\\generated_images\\01a12f86-0ef6-7450-9e2d-31feff2c3c7e\\exec-95693bf6-25a4-49a5-83ad-57f4670e1eba.png",
+    "patch": [
+      717,
+      476,
+      80,
+      36
+    ]
+  },
+  {
+    "id": "09",
+    "prompt": "Use case: precise-object-edit. Dental color retouch ONLY. The smiling man's visible tooth enamel currently has a yellow/brown cast. Make the existing enamel visibly clean natural ivory white: remove 65-70% of yellow cast and brighten enamel modestly about 12%. Retain tooth sizes, irregular shape, spaces, individual shadows and highlights exactly; realistic off-white teeth, no pure white veneers, no new teeth. Leave lips, gums, face and every other element exactly unchanged. On duo image change Sampsa's teeth (short brown hair, blue sweater), not Riz. Do not alter smile, skin, eyes, hair, beard, hands, clothing, background, chart, object, or exact typography. Same complete landscape thumbnail with local teeth whitening only. No added grain.",
+    "generatedPath": "C:\\Users\\notti\\.codex\\generated_images\\01a12f86-0ef6-7450-9e2d-31feff2c3c7e\\exec-94af00b3-1032-4d33-83de-6af037dfb804.png",
+    "patch": [
+      1145,
+      423,
+      133,
+      42
+    ]
+  },
+  {
+    "id": "10",
+    "prompt": "Use case: precise-object-edit. Dental color retouch ONLY. The smiling man's visible tooth enamel currently has a yellow/brown cast. Make the existing enamel visibly clean natural ivory white: remove 65-70% of yellow cast and brighten enamel modestly about 12%. Retain tooth sizes, irregular shape, spaces, individual shadows and highlights exactly; realistic off-white teeth, no pure white veneers, no new teeth. Leave lips, gums, face and every other element exactly unchanged. On duo image change Sampsa's teeth (short brown hair, blue sweater), not Riz. Do not alter smile, skin, eyes, hair, beard, hands, clothing, background, chart, object, or exact typography. Same complete landscape thumbnail with local teeth whitening only. No added grain.",
+    "generatedPath": "C:\\Users\\notti\\.codex\\generated_images\\01a12f86-0ef6-7450-9e2d-31feff2c3c7e\\exec-58e5cc65-1a07-46ce-8abc-c8c2d2bac236.png",
+    "patch": [
+      1188,
+      387,
+      104,
+      43
+    ]
+  },
+  {
+    "id": "11_Green",
+    "prompt": "Use case: precise-object-edit. Dental color retouch ONLY. The smiling man's visible tooth enamel currently has a yellow/brown cast. Make the existing enamel visibly clean natural ivory white: remove 65-70% of yellow cast and brighten enamel modestly about 12%. Retain tooth sizes, irregular shape, spaces, individual shadows and highlights exactly; realistic off-white teeth, no pure white veneers, no new teeth. Leave lips, gums, face and every other element exactly unchanged. On duo image change Sampsa's teeth (short brown hair, blue sweater), not Riz. Do not alter smile, skin, eyes, hair, beard, hands, clothing, background, chart, object, or exact typography. Same complete landscape thumbnail with local teeth whitening only. No added grain.",
+    "generatedPath": "C:\\Users\\notti\\.codex\\generated_images\\01a12f86-0ef6-7450-9e2d-31feff2c3c7e\\exec-468fd17a-0ac6-4159-8861-b67977fb2139.png",
+    "patch": [
+      1070,
+      384,
+      100,
+      43
+    ]
+  },
+  {
+    "id": "20",
+    "prompt": "Use case: precise-object-edit. Dental color retouch ONLY. The smiling man's visible tooth enamel currently has a yellow/brown cast. Make the existing enamel visibly clean natural ivory white: remove 65-70% of yellow cast and brighten enamel modestly about 12%. Retain tooth sizes, irregular shape, spaces, individual shadows and highlights exactly; realistic off-white teeth, no pure white veneers, no new teeth. Leave lips, gums, face and every other element exactly unchanged. On duo image change Sampsa's teeth (short brown hair, blue sweater), not Riz. Do not alter smile, skin, eyes, hair, beard, hands, clothing, background, chart, object, or exact typography. Same complete landscape thumbnail with local teeth whitening only. No added grain.",
+    "generatedPath": "C:\\Users\\notti\\.codex\\generated_images\\01a12f86-0ef6-7450-9e2d-31feff2c3c7e\\exec-35f4a32b-8bcb-4bc5-99ac-caf5e79e2453.png",
+    "patch": [
+      948,
+      544,
+      149,
+      56
+    ]
+  }
+]

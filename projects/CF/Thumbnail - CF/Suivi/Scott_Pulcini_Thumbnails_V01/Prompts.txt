@@ -1,0 +1,92 @@
+PROMPTS — SCOTT PULCINI — V01
+Outil : image_gen intégré. Chaque génération part des références et des photographies originales.
+
+01 — Live-Trading.png
+TEXTE PRINCIPAL : WHAT CANDLES DON'T SHOW
+
+Create ONE finished YouTube thumbnail, landscape 16:9, 3840 x 2160 pixels if supported, high quality.
+This is a precise adaptation of the user's own existing branded thumbnail, not a new art direction.
+Image 1 is the layout/design reference and edit target: reproduce its composition, spacing, bold sans-serif typography, white highlight pill, yellow bottom banner, charcoal background and natural table/laptop, curved yellow arrow.
+Image 2 is the original HD photograph of Scott Pulcini: use this real person's actual face, hair, neck and teal polo, preserve his identity, naturally hooded eyes and neutral expression; he looks at camera. This replaces the young man with glasses on the RIGHT. Clean photographic cutout/composite, not an illustrated or invented portrait. Same large head scale as design reference; don't add glasses.
+Image 3 is a real drawing board from THIS episode. Replace the old unrelated candlestick chart on the laptop with the black drawing board image, rotate its content 180 degrees to be right way up. Show the actual hand-drawn green curves/circles. Real screen surface, no invented performance chart, no fake data.
+Exact text replacements, only these texts:
+At top LEFT two large rows: "WHAT CANDLES" / "DON'T SHOW".
+"WHAT" is white; "CANDLES" is black inside the same white/light-grey rounded rectangle as the source.
+"DON'T SHOW" is white, on the second row. Match weight/shadow to reference.
+Yellow bottom banner reads "Order Flow Explained" in black.
+Leave the face and eyes completely clear of text. Keep safe edges 3%.
+Preserve the existing background treatment and the yellow arrow pointing to the laptop. No new icons, logos, profit numbers or badges. Remove all original text and the old guest. Remove all microphones.
+Highest priority is natural photographic skin and exact likeness: soft real skin microdetail, balanced natural complexion, light retouch only, no invented pores/wrinkles, no waxy/metallic/marbled/etched skin, no beauty smoothing, no sharpening halos. Preserve original face geometry. Real cloth fibers, clean hair edges. Do not imitate the skin treatment of the design reference. The original HD photo is the sole face/skin authority.
+One final thumbnail only, no comparison panel or collage.
+
+----------------------------------------
+
+02 — Crack-Prop-Firms-1.png
+TEXTE PRINCIPAL : THE HIDDEN ORDERS MOVING PRICE
+
+Output ONE finished landscape 16:9 YouTube thumbnail, requested 3840x2160. Faithfully duplicate the composition, fonts, palette and graphic treatment of IMAGE 1, the user's own thumbnail design, adapting its subject and text. Original HD portrait inputs are the sole authority for face identity and texture; clean photo cutouts/compositing, preserve actual skin color, natural detail, exact face geometry, age, naturally hooded eyes and expression. Light photographic retouch only, no marbled/etched/waxy skin, artificial pores, invented wrinkles, oversharpening, painted hair or neon on faces. Remove microphones. No invented profits or statistics. Replace the old people and all old text. Keep text clear of eyes, margins about 3%. No collage or comparison.
+IMAGE 2 is Scott Pulcini in teal polo, face forward to camera. Replace the bespectacled man at RIGHT with Scott at exactly the same large head scale/crop. Keep the laptop at LEFT, charcoal background, restrained green background light and curved yellow arrow. IMAGE 3 is this episode's actual black board with blue drawings: place this photographed board inside the laptop screen, oriented right way up (source is upside down), preserve credible hand-drawn diagram forms. No unrelated original candlestick data.
+Exact headline top LEFT, row 1 "THE HIDDEN", row 2 "ORDERS MOVING PRICE". "THE" white and "HIDDEN" black inside original light-grey rounded highlight pill. Second row white, may take most of available left width but do not cover Scott. Same bold sans font, shadow and typographic hierarchy as reference.
+Yellow rounded bottom banner exact text "Iceberg Orders" in black. Preserve the yellow arrow and original layout. Natural photographic skin, not the stronger skin processing of the design reference. Scott must remain clearly recognizable from the original photograph.
+
+----------------------------------------
+
+03 — $1.8-Million-in-Payouts.png
+TEXTE PRINCIPAL : WHAT REALLY MOVES PRICE
+
+Output ONE finished landscape 16:9 YouTube thumbnail, requested 3840x2160. Faithfully duplicate the composition, fonts, palette and graphic treatment of IMAGE 1, the user's own thumbnail design, adapting its subject and text. Original HD portrait inputs are the sole authority for face identity and texture; clean photo cutouts/compositing, preserve actual skin color, natural detail, exact face geometry, age, naturally hooded eyes and expression. Light photographic retouch only, no marbled/etched/waxy skin, artificial pores, invented wrinkles, oversharpening, painted hair or neon on faces. Remove microphones. No invented profits or statistics. Replace the old people and all old text. Keep text clear of eyes, margins about 3%. No collage or comparison.
+IMAGE 2 is Riz in navy zip polo: place him on the LEFT. IMAGE 3 is Scott Pulcini in teal polo: replace old guest on the RIGHT. Preserve their original forward camera gaze and identity. Maintain reference medium upper-body two-person composition at wooden table, charcoal grey background and bottom black drawing board. Remove BOTH microphones and all stands. Keep actual shirt colors from photos, not the old pale clothes. Use the board in IMAGE 4 for the table's black glass drawing surface, green genuine episode diagrams, readable upright orientation. Arms/hands resting naturally on table, anatomically credible, no artificial marker pose required.
+Exact large headline across TOP: "WHAT REALLY", white "WHAT" and black "REALLY" inside original white rounded highlight. Center yellow rounded rectangle between people contains "MOVES" / "PRICE" in black. Lower green banner on Scott's chest, matching original, contains "4 MARKET FORCES" in white. Two original style yellow arrows point toward the board and toward Scott, don't cross faces. No money figures, payouts, quant title or previous guest identity. Clean exact design duplication with real photographic portraits.
+
+----------------------------------------
+
+04 — Live-Tradinezg.png
+TEXTE PRINCIPAL : STOP TRADING BLIND
+
+Output ONE finished landscape 16:9 YouTube thumbnail, requested 3840x2160. Faithfully duplicate the composition, fonts, palette and graphic treatment of IMAGE 1, the user's own thumbnail design, adapting its subject and text. Original HD portrait inputs are the sole authority for face identity and texture; clean photo cutouts/compositing, preserve actual skin color, natural detail, exact face geometry, age, naturally hooded eyes and expression. Light photographic retouch only, no marbled/etched/waxy skin, artificial pores, invented wrinkles, oversharpening, painted hair or neon on faces. Remove microphones. No invented profits or statistics. Replace the old people and all old text. Keep text clear of eyes, margins about 3%. No collage or comparison.
+Preserve IMAGE 1's exact giant two-head composition: Scott Pulcini from IMAGE 2 on the LEFT instead of the young man with glasses, Riz from IMAGE 3 on the RIGHT. Both look at camera as in original HD photos. Keep heads large at edges, full eyes visible, their real teal and navy polos. Crop below shoulders to avoid the moving hands. Laptop/display in center behind heads. Replace unrelated old candlestick data with the black physical drawing-board photo IMAGE 4 inside that screen. Rotate the board content exactly 180 degrees so the handwritten word HERO reads upright. Preserve blue marker curves and circle layout; real photograph on screen, no neon.
+Top centered yellow rounded banner exact words "ORDER FLOW" in black. Keep yellow arrow under banner pointing to central drawing. Bottom giant headline row 1 "STOP TRADING" in white, row 2 "BLIND" in black inside the same white rounded rectangle as reference's Machine highlight. Same typography/scale and black bottom fade; no extra copy. Do not place any text on faces. Keep design's visual hierarchy and restrained background grey. No Live Trading claim.
+
+----------------------------------------
+
+05 — MASTER-PROP-FIRM-TRADING.png
+TEXTE PRINCIPAL : MASTER ORDER FLOW TRADING
+
+Output ONE finished landscape 16:9 YouTube thumbnail, requested 3840x2160. Faithfully duplicate the composition, fonts, palette and graphic treatment of IMAGE 1, the user's own thumbnail design, adapting its subject and text. Original HD portrait inputs are the sole authority for face identity and texture; clean photo cutouts/compositing, preserve actual skin color, natural detail, exact face geometry, age, naturally hooded eyes and expression. Light photographic retouch only, no marbled/etched/waxy skin, artificial pores, invented wrinkles, oversharpening, painted hair or neon on faces. Remove microphones. No invented profits or statistics. Replace the old people and all old text. Keep text clear of eyes, margins about 3%. No collage or comparison.
+Duplicate IMAGE 1's educational studio composition very closely: a single seated guest centered at wooden desk with warm lamp light to LEFT and cool blue room light to RIGHT, top enormous headline spanning the width, secondary right title row, left callout and bottom badge, right name label, same yellow arrows and underline.
+Replace old guest with original HD Scott Pulcini from IMAGE 2, real teal polo. Preserve his actual photographed face looking toward camera, do not force old guest's downward gaze. Natural seated posture, forearms resting on desk. Replace open book with real black glass drawing board from IMAGE 3, covered in green hand-drawn episode diagrams. It is a flat physical board on desk, credible reflections, hands resting to its sides, no duplicate or extra fingers.
+Exact text: top first line "MASTER ORDER FLOW" with MASTER white and ORDER FLOW pale warm yellow like reference. Second line at upper RIGHT: "TRADING" in white, yellow underline. Left callout two rows "4 MARKET" / "FORCES" in white. Small black/grey outlined name tag at right "SCOTT PULCINI" in white italic. Lower translucent dark badge "95 MINS", 95 yellow italic serif and MINS white bold sans, matching source style.
+Preserve photographic warm/cool room light but keep Scott's facial skin neutral and natural, no orange grading. No monetary amount, prop firm claim or old name. Respect face clear area. The 95 minutes corresponds to the supplied episode length.
+
+----------------------------------------
+
+06 — WhatsApp Image 2026-08-20 at 5.57.50 PM.jpeg
+TEXTE PRINCIPAL : SEE HIDDEN ORDERS
+
+Output ONE finished landscape 16:9 YouTube thumbnail, requested 3840x2160. Faithfully duplicate the composition, fonts, palette and graphic treatment of IMAGE 1, the user's own thumbnail design, adapting its subject and text. Original HD portrait inputs are the sole authority for face identity and texture; clean photo cutouts/compositing, preserve actual skin color, natural detail, exact face geometry, age, naturally hooded eyes and expression. Light photographic retouch only, no marbled/etched/waxy skin, artificial pores, invented wrinkles, oversharpening, painted hair or neon on faces. Remove microphones. No invented profits or statistics. Replace the old people and all old text. Keep text clear of eyes, margins about 3%. No collage or comparison.
+IMAGE 1 is a screenshot containing a YouTube thumbnail at its TOP. Use ONLY that thumbnail rectangle as the design reference, no black YouTube interface below, no timestamps/views/description/progress bar/UI. Recreate its very simple bright off-white educational room, whiteboard on wall, centered seated upper-body instructor in foreground, giant bold black headline along the very top and yellow rectangle highlight behind final words. Match position and scale closely.
+Replace old bespectacled young instructor with Scott Pulcini from original HD IMAGE 2, real teal polo, exact face, natural expression and camera gaze. Remove microphone; preserve head/neck/shoulder identity and natural skin. He sits centered beneath the top headline. Background whiteboard displays credible black-marker market diagrams, neatly hand-drawn chart curves/arrows and a small order ladder. Labels may ONLY be these relevant words in smaller marker lettering: "ICEBERGS", "STOPS", "OPTIONS", "FLOW". Black/blue handwritten marker on actual whiteboard surface, not a glowing screen or plastic icons. Diagrams flank Scott and are partly naturally hidden behind him. No financial performance figures.
+Exact headline single line across top: "SEE HIDDEN ORDERS". Black bold sans, yellow rectangular highlight behind "HIDDEN ORDERS" just as SMARTER is highlighted in reference. The headline is fully inside margins and above his hair. Keep this reference's uncluttered, photographic, bright composition; no extra branding, arrows, border, lower banners or text.
+
+----------------------------------------
+
+07 — WhatsApp Image 2026-08-23 at 5.46.28 PM (1).jpeg
+TEXTE PRINCIPAL : HIDDEN ORDERS REVEALED
+
+Output ONE finished landscape 16:9 YouTube thumbnail, requested 3840x2160. Faithfully duplicate the composition, fonts, palette and graphic treatment of IMAGE 1, the user's own thumbnail design, adapting its subject and text. Original HD portrait inputs are the sole authority for face identity and texture; clean photo cutouts/compositing, preserve actual skin color, natural detail, exact face geometry, age, naturally hooded eyes and expression. Light photographic retouch only, no marbled/etched/waxy skin, artificial pores, invented wrinkles, oversharpening, painted hair or neon on faces. Remove microphones. No invented profits or statistics. Replace the old people and all old text. Keep text clear of eyes, margins about 3%. No collage or comparison.
+Duplicate IMAGE 1's complete 16:9 layout: natural warm grey podcast/interview room, leafy plant at far LEFT, two seated men at a wooden table, laptop in bottom center, massive red rounded headline plate at TOP CENTER, second large white line below it, small white labels and curved hand-drawn arrows at upper corners, same central flat red play-button motif from the supplied design.
+Replace LEFT man with original Riz from IMAGE 2 (navy zip polo); no pixelation on anyone. Replace RIGHT man with Scott Pulcini from IMAGE 3 (teal polo). Preserve real faces and camera gaze even though design reference man is in profile. Riz's hands clasped naturally on table; Scott's hands resting naturally on table by laptop, all fingers anatomically credible. Proportions, head sizes and text spatial layout follow reference, Scott a little larger than Riz. No microphones.
+Exact main text in red rounded rectangle: "HIDDEN ORDERS" in white. Next centered line immediately below, same style as Roadmap: "REVEALED" in white.
+Small upper-left callout "RIZ" with hand-drawn white arrow toward Riz. Upper-right callout "SCOTT" with hand-drawn white arrow toward Scott. Remove every dollar amount, Operator and all original words. Keep central play graphic modest and flat, not a glossy plastic object. Remove any logos on laptop and any YouTube awards from the background; no extra branding. Soft believable lighting, true skin, photographic materials, faithful reference composition.
+
+----------------------------------------
+
+08 — WhatsApp Image 2026-08-23 at 5.46.28 PM (2).jpeg
+TEXTE PRINCIPAL : PRICE → ORDER FLOW
+
+Output ONE finished landscape 16:9 YouTube thumbnail, requested 3840x2160. Faithfully duplicate the composition, fonts, palette and graphic treatment of IMAGE 1, the user's own thumbnail design, adapting its subject and text. Original HD portrait inputs are the sole authority for face identity and texture; clean photo cutouts/compositing, preserve actual skin color, natural detail, exact face geometry, age, naturally hooded eyes and expression. Light photographic retouch only, no marbled/etched/waxy skin, artificial pores, invented wrinkles, oversharpening, painted hair or neon on faces. Remove microphones. No invented profits or statistics. Replace the old people and all old text. Keep text clear of eyes, margins about 3%. No collage or comparison.
+Duplicate IMAGE 1's interview-and-roadmap composition closely: two seated people in black leather chairs against muted grey/brown wall, upper-left large white text, horizontal white arrow, upper-right red rounded text plate, four translucent charcoal rounded cards along a dashed white curving route, table/chart surface across bottom, central flat red play-button from the supplied reference. Preserve this hierarchy and spacing.
+LEFT person is Scott Pulcini from IMAGE 2, teal polo, exact natural face and camera gaze. RIGHT person is Riz from IMAGE 3, navy zip polo, actual face and camera gaze. No pixelation on anyone. Faces must stay unobstructed and photographic; don't sharpen pores. Hands naturally relaxed, all fingers anatomically correct. Riz can hold a plain thin black tablet on lap as in reference, no motion blur or exaggerated gesture. No microphones.
+Exact top main text: "PRICE" at left in white, then broad white arrow pointing right, then "ORDER FLOW" in white inside the red rounded rectangle at upper right. Keep all lettering inside margins; no money or earnings claims.
+Four small roadmap cards from left to right read exactly "ICEBERGS", "OPTIONS", "ALGOS", "BIG MONEY" in white, keep every word visible and don't overlap faces. The dashed curve links these labels behind people. Keep central red play motif modest and flat.
+Replace the source's futuristic blue glowing tabletop blueprint with a real physical black drawing pad across foreground, based on episode board IMAGE 4 with natural blue marker annotations, matte reflections and credible surface. No neon, holographic effect or glowing skin. Warm wood edge of table. Preserve the rest of the grey/red design faithfully. No other text or unrelated logo.

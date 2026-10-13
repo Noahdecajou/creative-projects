@@ -1,0 +1,95 @@
+[
+  {
+    "file": "01_What_Candles_Dont_Show.png",
+    "native_dimensions": [
+      941,
+      1672
+    ],
+    "export_dimensions": [
+      1080,
+      1920
+    ]
+  },
+  {
+    "file": "02_Hidden_Orders_Moving_Price.png",
+    "native_dimensions": [
+      941,
+      1672
+    ],
+    "export_dimensions": [
+      1080,
+      1920
+    ]
+  },
+  {
+    "file": "03_What_Really_Moves_Price.png",
+    "native_dimensions": [
+      941,
+      1672
+    ],
+    "export_dimensions": [
+      1080,
+      1920
+    ]
+  },
+  {
+    "file": "04_Stop_Trading_Blind.png",
+    "native_dimensions": [
+      941,
+      1672
+    ],
+    "export_dimensions": [
+      1080,
+      1920
+    ]
+  },
+  {
+    "file": "05_Master_Order_Flow_Trading.png",
+    "native_dimensions": [
+      941,
+      1672
+    ],
+    "export_dimensions": [
+      1080,
+      1920
+    ]
+  },
+  {
+    "file": "06_See_Hidden_Orders.png",
+    "native_dimensions": [
+      941,
+      1672
+    ],
+    "export_dimensions": [
+      1080,
+      1920
+    ]
+  },
+  {
+    "file": "07_Hidden_Orders_Revealed.png",
+    "native_dimensions": [
+      941,
+      1672
+    ],
+    "export_dimensions": [
+      1080,
+      1920
+    ]
+  },
+  {
+    "file": "08_Price_To_Order_Flow.png",
+    "native_dimensions": [
+      941,
+      1672
+    ],
+    "export_dimensions": [
+      1080,
+      1920
+    ]
+  },
+  {
+    "zip": "Scott_Pulcini_8_Stories_V1.zip",
+    "count": 8,
+    "integrity": "verified"
+  }
+]

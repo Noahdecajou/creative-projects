@@ -1,0 +1,13 @@
+{
+  "name": "wor-studio",
+  "version": "0.7.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node prepare-local.mjs && node server.mjs",
+    "check": "node --check server.mjs && node --check lab.mjs && node --check prepare-local.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

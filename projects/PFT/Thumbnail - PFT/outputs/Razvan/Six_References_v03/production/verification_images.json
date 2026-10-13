@@ -1,0 +1,324 @@
+[
+  {
+    "File": "apercus\\Comparaison_Ref_V03_01.jpg",
+    "Width": 1920,
+    "Height": 1160,
+    "Bytes": 510066,
+    "SHA256": "020163C709A849DAB4F316FDB485FB9BA63EA665218E78006CC035E3B47EAAD9"
+  },
+  {
+    "File": "apercus\\Comparaison_Ref_V03_02.jpg",
+    "Width": 1920,
+    "Height": 1160,
+    "Bytes": 531221,
+    "SHA256": "19D0B4A43EB28C4BA06C3EAB7780F50F2EFE7FAC269D33AE4C2C5FBCC651A8FB"
+  },
+  {
+    "File": "apercus\\Comparaison_Ref_V03_03.jpg",
+    "Width": 1920,
+    "Height": 1160,
+    "Bytes": 498008,
+    "SHA256": "E0DBE53BB6B36D0DDB11A8004703CC9F919B432EEF853CE47ACD3D28AD0BE309"
+  },
+  {
+    "File": "apercus\\Planche_6_Thumbnails.png",
+    "Width": 1920,
+    "Height": 1740,
+    "Bytes": 6162091,
+    "SHA256": "5F6DE091EC37EB74132D0DDE3C1A0760202327DA61FDC232A86E37C4DB504BD2"
+  },
+  {
+    "File": "apercus\\QA_mobile_320x180.png",
+    "Width": 960,
+    "Height": 420,
+    "Bytes": 771994,
+    "SHA256": "432756993D813CB5961CFC0BE3DEA48B7C378731A5D5E0484CA8A2D20190E2D2"
+  },
+  {
+    "File": "apercus\\Razvan_01_Reversal_Strategy_mobile.png",
+    "Width": 320,
+    "Height": 180,
+    "Bytes": 111801,
+    "SHA256": "784457E51B80C2C399C67188DAB9D1A492DC86B8233AC1BF7F96666A4436EBC8"
+  },
+  {
+    "File": "apercus\\Razvan_01_Reversal_Strategy_preview.png",
+    "Width": 1280,
+    "Height": 720,
+    "Bytes": 1523844,
+    "SHA256": "E1460DEA9A589FB0D77025E51F27D8B3EB46786DCA12E5AD32388704FBDCF3FC"
+  },
+  {
+    "File": "apercus\\Razvan_02_No_Partials_mobile.png",
+    "Width": 320,
+    "Height": 180,
+    "Bytes": 122833,
+    "SHA256": "A0690AD7A17C6161D3E582BEB0A521D76754B509B5BFFC3E6521307272763AC1"
+  },
+  {
+    "File": "apercus\\Razvan_02_No_Partials_preview.png",
+    "Width": 1280,
+    "Height": 720,
+    "Bytes": 1708741,
+    "SHA256": "7B835771FB9313D36CE61923A487A3C7E448361797D6769D3A6DF9604055E1C5"
+  },
+  {
+    "File": "apercus\\Razvan_03_Key_Levels_mobile.png",
+    "Width": 320,
+    "Height": 180,
+    "Bytes": 100062,
+    "SHA256": "6E46F52BADAA3CB23CFD4E9B81577100488FA5871FA800AB573B6AC5855D2A37"
+  },
+  {
+    "File": "apercus\\Razvan_03_Key_Levels_preview.png",
+    "Width": 1280,
+    "Height": 720,
+    "Bytes": 1391944,
+    "SHA256": "A60A9FE684AB74BC9366CB722E9B916761471A24034E5AE34866E465FDF47F39"
+  },
+  {
+    "File": "apercus\\Razvan_04_Breakevens_To_4R_mobile.png",
+    "Width": 320,
+    "Height": 180,
+    "Bytes": 144261,
+    "SHA256": "54798D2AB09AA78642BB70B9658FA5BF2706669084FCD347726A53ED25BE22B1"
+  },
+  {
+    "File": "apercus\\Razvan_04_Breakevens_To_4R_preview.png",
+    "Width": 1280,
+    "Height": 720,
+    "Bytes": 1886245,
+    "SHA256": "F08608EB7350CC7F6741453FC6E0A28F47C4C1B62FDF4462D580AAF78CE2AA5F"
+  },
+  {
+    "File": "apercus\\Razvan_05_Master_Reversal_Trading_mobile.png",
+    "Width": 320,
+    "Height": 180,
+    "Bytes": 138506,
+    "SHA256": "42B5EC825C445288B5FACF99CC54566350E7ADD0B1B420EA26A9B60EB7CFA826"
+  },
+  {
+    "File": "apercus\\Razvan_05_Master_Reversal_Trading_preview.png",
+    "Width": 1280,
+    "Height": 720,
+    "Bytes": 1785107,
+    "SHA256": "2FCC33EE70E285E9392E52BB92CEC56A1C60FA9DBAD93A6CD42712CA565DB70A"
+  },
+  {
+    "File": "apercus\\Razvan_06_Reversal_Entry_Model_mobile.png",
+    "Width": 320,
+    "Height": 180,
+    "Bytes": 135636,
+    "SHA256": "E73EC849C0603321CD34BCC1A2FC6AA984D497A09642920042BF410BD487ED3C"
+  },
+  {
+    "File": "apercus\\Razvan_06_Reversal_Entry_Model_preview.png",
+    "Width": 1280,
+    "Height": 720,
+    "Bytes": 1759133,
+    "SHA256": "D7870FBEE7F86DCC7AF4C0C0CB2909070D0EE99C1A23C8C0F5374AB272FE8E4B"
+  },
+  {
+    "File": "exports_4K\\Razvan_01_Reversal_Strategy_3840x2160.png",
+    "Width": 3840,
+    "Height": 2160,
+    "Bytes": 9133754,
+    "SHA256": "3B2497B8BDD5431B8970731A9D5A00C9280040A40FEB72F0733291640C45EE6B"
+  },
+  {
+    "File": "exports_4K\\Razvan_02_No_Partials_3840x2160.png",
+    "Width": 3840,
+    "Height": 2160,
+    "Bytes": 11097615,
+    "SHA256": "75E624303BC815C186A9B9F61C0616683D3C803393E641E52B48F9C9EE1F9D81"
+  },
+  {
+    "File": "exports_4K\\Razvan_03_Key_Levels_3840x2160.png",
+    "Width": 3840,
+    "Height": 2160,
+    "Bytes": 8916789,
+    "SHA256": "FF6F696AD441D99D2093110F1C3BE9597B1E0482E6833467562CFEF5D0496BF6"
+  },
+  {
+    "File": "exports_4K\\Razvan_04_Breakevens_To_4R_3840x2160.png",
+    "Width": 3840,
+    "Height": 2160,
+    "Bytes": 11274615,
+    "SHA256": "58C8E96BF39CA59B9A822D2F1E2ED8D5885A3D6555C6A11E92CF97DDF54E19CF"
+  },
+  {
+    "File": "exports_4K\\Razvan_05_Master_Reversal_Trading_3840x2160.png",
+    "Width": 3840,
+    "Height": 2160,
+    "Bytes": 10143283,
+    "SHA256": "EDFD3DFB704143183221DBECF6ABB6DB71486761B22A5285EB24FA5C23118536"
+  },
+  {
+    "File": "exports_4K\\Razvan_06_Reversal_Entry_Model_3840x2160.png",
+    "Width": 3840,
+    "Height": 2160,
+    "Bytes": 10674268,
+    "SHA256": "961DDBB2495F879E3F037AED993D51E27F8918817C76DF5CED101D2E78C8FA79"
+  },
+  {
+    "File": "masters\\Razvan_01_Reversal_Strategy_master_1672x941.png",
+    "Width": 1672,
+    "Height": 941,
+    "Bytes": 1713176,
+    "SHA256": "63FCA331141CEFA942BF189E5ACE8C155F26F804334ACD463276400C1910AF7A"
+  },
+  {
+    "File": "masters\\Razvan_02_No_Partials_master_1672x941.png",
+    "Width": 1672,
+    "Height": 941,
+    "Bytes": 1835688,
+    "SHA256": "D46F5DAB668EEC8F4FF4FFFCBCCE99FF30B26FC0641D0E3365312550355A1F68"
+  },
+  {
+    "File": "masters\\Razvan_03_Key_Levels_master_1672x941.png",
+    "Width": 1672,
+    "Height": 941,
+    "Bytes": 1815209,
+    "SHA256": "A9558456C79D63B0A4FCFF9A98989B0477F24EB21734D8B9701DE864522A714F"
+  },
+  {
+    "File": "masters\\Razvan_04_Breakevens_To_4R_master_1672x941.png",
+    "Width": 1672,
+    "Height": 941,
+    "Bytes": 1893296,
+    "SHA256": "CF4D34961C35A7DDB48504835530B8CEE522AAC52CE4E02AC7DDDF10F6090598"
+  },
+  {
+    "File": "masters\\Razvan_05_Master_Reversal_Trading_master_1672x941.png",
+    "Width": 1672,
+    "Height": 941,
+    "Bytes": 1814530,
+    "SHA256": "651BC98A598376E63CEBE04783E1CFA8B7623A60A36ED3FD0BCB610D2674CD3B"
+  },
+  {
+    "File": "masters\\Razvan_06_Reversal_Entry_Model_master_1672x941.png",
+    "Width": 1672,
+    "Height": 941,
+    "Bytes": 1871463,
+    "SHA256": "B2D14D877AB43EB3A85E99A469F548B80F1A1511315E88C200CE5AFAFFA4B636"
+  },
+  {
+    "File": "production\\edit_inputs\\Reference_01.png",
+    "Width": 3840,
+    "Height": 2160,
+    "Bytes": 7701641,
+    "SHA256": "C8A78C0FB4E2E1D9099854C6D2DD92C3E9BFC18BC6D62EEEE37310CA759432E5"
+  },
+  {
+    "File": "production\\edit_inputs\\Reference_02.png",
+    "Width": 3840,
+    "Height": 2160,
+    "Bytes": 9208095,
+    "SHA256": "440713035FD82AD216535DD4740A58BE8191C87C9EC1612D0A8FC63EBDE892A5"
+  },
+  {
+    "File": "production\\edit_inputs\\Reference_03.png",
+    "Width": 3840,
+    "Height": 2160,
+    "Bytes": 7125303,
+    "SHA256": "8E9D68713C26FD1E38AC4DB91C11B0B88BE0B66E208EE801044EA67BB7FA7676"
+  },
+  {
+    "File": "production\\edit_inputs\\Reference_04.png",
+    "Width": 3840,
+    "Height": 2160,
+    "Bytes": 9589276,
+    "SHA256": "B24AE3DC4091EA3488DFE80EE7A46231B92C47DD20B8067FECF244AAF3552372"
+  },
+  {
+    "File": "production\\edit_inputs\\Reference_05.png",
+    "Width": 3840,
+    "Height": 2160,
+    "Bytes": 12112857,
+    "SHA256": "8F63AD7F5AAD5504E1F150252DF7DDC82DFFE93C2E055C7B03834D93255BA169"
+  },
+  {
+    "File": "production\\edit_inputs\\Reference_06.png",
+    "Width": 3840,
+    "Height": 2160,
+    "Bytes": 10134959,
+    "SHA256": "93C548FE10C186A558A3CFBA4434BBA5688EFC4FF5E4DF0E0228C2EA2082A442"
+  },
+  {
+    "File": "production\\edit_inputs\\V02_06_board_position.png",
+    "Width": 1671,
+    "Height": 941,
+    "Bytes": 1854883,
+    "SHA256": "C4DFA8F2E07A69097CE0B440696046AFD5D3C8327C5EB115F1DFDE301C7F1AEB"
+  },
+  {
+    "File": "sources_HD\\Animateur_02_00-00-48-00.jpg",
+    "Width": 3840,
+    "Height": 2160,
+    "Bytes": 208693,
+    "SHA256": "A6F93C114364DCD2A89C3E19568EFC267B8DE999A2AD8CCA798827997E69BEDE"
+  },
+  {
+    "File": "sources_HD\\Graphique_26_00-22-24-00.jpg",
+    "Width": 3840,
+    "Height": 2160,
+    "Bytes": 488729,
+    "SHA256": "0DB644A7B4FDB943193AB49F665B88B5B51EE2009FD1883055D1992686C01156"
+  },
+  {
+    "File": "sources_HD\\Razvan_22_00-11-08-00.jpg",
+    "Width": 3840,
+    "Height": 2160,
+    "Bytes": 205062,
+    "SHA256": "9CB2EDC57A9491ABC88A718D34F94266F45D2C2400BD438F8C25018A53872136"
+  },
+  {
+    "File": "sources_HD\\Razvan_Board_00-04-48-00.jpg",
+    "Width": 3840,
+    "Height": 2160,
+    "Bytes": 224502,
+    "SHA256": "A05677F82CC81ECD68EC9644197BD33328A4544DCD34D93E5AE05FD960ECCB6B"
+  },
+  {
+    "File": "YouTube_1280x720\\Razvan_01_Reversal_Strategy_1280x720.jpg",
+    "Width": 1280,
+    "Height": 720,
+    "Bytes": 236279,
+    "SHA256": "CE31B6F44C7798880D2559A46B308A66DF890F3E49D60292850932DFCA77ABF0"
+  },
+  {
+    "File": "YouTube_1280x720\\Razvan_02_No_Partials_1280x720.jpg",
+    "Width": 1280,
+    "Height": 720,
+    "Bytes": 226108,
+    "SHA256": "06CCE8F3FB2CE6A0C08B5761C87B2D3EEB2847918DB3ACAD21E1CA89766BCCE6"
+  },
+  {
+    "File": "YouTube_1280x720\\Razvan_03_Key_Levels_1280x720.jpg",
+    "Width": 1280,
+    "Height": 720,
+    "Bytes": 234898,
+    "SHA256": "EDF9A17081A90CA67EF69B1E0EBC43C8CC63214DE1BF0ADA9C69559E3E41EFDE"
+  },
+  {
+    "File": "YouTube_1280x720\\Razvan_04_Breakevens_To_4R_1280x720.jpg",
+    "Width": 1280,
+    "Height": 720,
+    "Bytes": 223214,
+    "SHA256": "852240E3E28A19ED6F13177847C603C1C1844C6FDBC7CD0E757EF5E1872F6F00"
+  },
+  {
+    "File": "YouTube_1280x720\\Razvan_05_Master_Reversal_Trading_1280x720.jpg",
+    "Width": 1280,
+    "Height": 720,
+    "Bytes": 187466,
+    "SHA256": "6D0BFAE30AAF4B7EEC37B9BE2366993F1B4EB9FC02A4F5F2ECE20D47C2FADA00"
+  },
+  {
+    "File": "YouTube_1280x720\\Razvan_06_Reversal_Entry_Model_1280x720.jpg",
+    "Width": 1280,
+    "Height": 720,
+    "Bytes": 260712,
+    "SHA256": "CBA2750529133D9DD262CD846A3EA5DB8FA86B16D76EBE532100D24EB7F28C75"
+  }
+]

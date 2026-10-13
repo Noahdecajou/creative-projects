@@ -1,0 +1,3 @@
+Built-in ImageGen — Emerald candlestick
+
+Precise object edit of supplied trading candlestick cutout. Change ONLY the red glass candlestick and red glow to rich luminous emerald green (#36d887). Preserve identical object shape, bevels, orientation, perspective, lighting, material texture, upper and lower wicks and placement. Restrained soft green glow, premium photographic glass, not fluorescent lime. Background transparent with clean alpha, no text or other objects. Same vertical composition.

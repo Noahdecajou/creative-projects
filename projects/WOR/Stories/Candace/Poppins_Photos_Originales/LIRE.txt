@@ -1,0 +1,17 @@
+Candace Lau - nouvelle version Poppins / photographies originales
+
+5 stories PNG, 2160 x 3840 pixels.
+Poppins Regular (400) pour les titres hors rectangles rouges, le nom et FULL PODCAST.
+Poppins Bold (700) uniquement dans les rectangles rouges : ONE Payout, $2+ Million, Hundreds of, Prop Firm Trading, #1.
+Les textes sont conserves. Les logos de marque et de plateformes sont issus des references.
+
+Portraits : photographies de l'interview, detourees par Adobe. Aucun portrait regenere, aucun lissage, aucune accentuation, aucune saturation ajoutee. Les echantillons RGB au centre des visages sont identiques aux photographies originales avant placement.
+Les poses ont ete adaptees aux photos disponibles. Sur la story 2, la bougie est un element de decor distinct, elle n'est plus tenue dans une main generee. Les elements graphiques restent distincts des photos.
+
+Limite : le montage et la typographie sont rendus directement en 2160 x 3840. Les portraits viennent de captures d'interview 1920 x 1080 et sont agrandis pour ce format ; ils ne possedent pas de detail photographique natif 4K. Le grain et la compression de la video source ne sont pas des textures inventees par generation.
+
+Sources locales : C:\Users\notti\Documents\Codex\2026-10-06\co\outputs\Frameio_32_images_HD\image_03_00-04-37.jpg, image_06_00-11-10.jpg, image_23_00-48-15.jpg et image_14_00-28-37.jpg.
+
+Fichiers HTML autonomes : les photos et la vraie police sont integrees, les titres restent editables.
+Fond seulement : cree par l'outil integre imagegen, prompt : empty decorative backdrop for Words of Rizdom podcast Story, portrait 9:16, almost black smooth charcoal, soft deep red light blooms at top left and bottom left, clean black center; no people, skin, fabric, objects, logos or typography; no grain, waves or contour patterns.
+Le fond et la typographie sont separes des portraits pour les revisions suivantes.

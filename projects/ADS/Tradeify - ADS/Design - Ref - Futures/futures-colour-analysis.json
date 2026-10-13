@@ -1,0 +1,542 @@
+{
+  "analysed_on": "2026-10-06",
+  "method": "RGB thumbnails up to 360x640; mutually exclusive HSV buckets. Dark V<0.45; light neutrals S<=0.18,V>=0.70; yellow H 0.09..0.18,S>0.40,V>=0.65; green H 0.28..0.46,S>0.40,V>=0.65; remainder other. Pixel proportions and channel medians describe flattened exports, not official brand tokens or source layer proportions.",
+  "images": [
+    {
+      "file": "40% Off CA x Tradeify AD 2.png",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "metadata": {},
+      "surface_percent": {
+        "dark": 87.74,
+        "yellow_gold": 3.25,
+        "white_and_light_grey": 3.77,
+        "green_mint": 0.95,
+        "intermediate_and_other": 4.28
+      },
+      "median_bright_yellow": "#FFD019",
+      "median_bright_green": "#48C581",
+      "quantized_palette": [
+        {
+          "hex": "#040506",
+          "percent": 12.06
+        },
+        {
+          "hex": "#0A0A09",
+          "percent": 11.0
+        },
+        {
+          "hex": "#0D0E0E",
+          "percent": 10.01
+        },
+        {
+          "hex": "#030304",
+          "percent": 9.86
+        },
+        {
+          "hex": "#060707",
+          "percent": 9.05
+        },
+        {
+          "hex": "#181611",
+          "percent": 8.62
+        },
+        {
+          "hex": "#121211",
+          "percent": 7.81
+        },
+        {
+          "hex": "#E5E297",
+          "percent": 7.54
+        },
+        {
+          "hex": "#080808",
+          "percent": 7.25
+        },
+        {
+          "hex": "#192222",
+          "percent": 6.48
+        },
+        {
+          "hex": "#373122",
+          "percent": 5.5
+        },
+        {
+          "hex": "#7E8C63",
+          "percent": 4.81
+        }
+      ]
+    },
+    {
+      "file": "CA x Tradeifty AD Growth.png",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "metadata": {},
+      "surface_percent": {
+        "dark": 70.25,
+        "yellow_gold": 4.96,
+        "white_and_light_grey": 21.15,
+        "green_mint": 0.73,
+        "intermediate_and_other": 2.92
+      },
+      "median_bright_yellow": "#FFD433",
+      "median_bright_green": "#4AFF6D",
+      "quantized_palette": [
+        {
+          "hex": "#C0CAC2",
+          "percent": 13.03
+        },
+        {
+          "hex": "#212121",
+          "percent": 12.26
+        },
+        {
+          "hex": "#0B0B0B",
+          "percent": 10.17
+        },
+        {
+          "hex": "#F4F3EE",
+          "percent": 9.11
+        },
+        {
+          "hex": "#080909",
+          "percent": 8.94
+        },
+        {
+          "hex": "#1A1A1A",
+          "percent": 8.46
+        },
+        {
+          "hex": "#101010",
+          "percent": 7.88
+        },
+        {
+          "hex": "#050505",
+          "percent": 7.74
+        },
+        {
+          "hex": "#161515",
+          "percent": 7.64
+        },
+        {
+          "hex": "#303132",
+          "percent": 6.01
+        },
+        {
+          "hex": "#F5D66A",
+          "percent": 4.88
+        },
+        {
+          "hex": "#7D817B",
+          "percent": 3.88
+        }
+      ]
+    },
+    {
+      "file": "CA x Tradeifty Lightning Deal.png",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "metadata": {},
+      "surface_percent": {
+        "dark": 86.56,
+        "yellow_gold": 1.97,
+        "white_and_light_grey": 8.56,
+        "green_mint": 0.2,
+        "intermediate_and_other": 2.71
+      },
+      "median_bright_yellow": "#FDCD51",
+      "median_bright_green": "#43FF67",
+      "quantized_palette": [
+        {
+          "hex": "#1B1B1B",
+          "percent": 12.4
+        },
+        {
+          "hex": "#000000",
+          "percent": 10.15
+        },
+        {
+          "hex": "#080807",
+          "percent": 9.34
+        },
+        {
+          "hex": "#121212",
+          "percent": 8.96
+        },
+        {
+          "hex": "#1E1E1E",
+          "percent": 8.94
+        },
+        {
+          "hex": "#3E3F3D",
+          "percent": 8.78
+        },
+        {
+          "hex": "#020202",
+          "percent": 8.52
+        },
+        {
+          "hex": "#181818",
+          "percent": 7.51
+        },
+        {
+          "hex": "#F3F6EB",
+          "percent": 7.32
+        },
+        {
+          "hex": "#010101",
+          "percent": 6.74
+        },
+        {
+          "hex": "#0F0F0E",
+          "percent": 5.75
+        },
+        {
+          "hex": "#C5BA9B",
+          "percent": 5.58
+        }
+      ]
+    },
+    {
+      "file": "CA x Tradeifty Select Eval Deal (1).png",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "metadata": {},
+      "surface_percent": {
+        "dark": 90.75,
+        "yellow_gold": 2.07,
+        "white_and_light_grey": 5.1,
+        "green_mint": 0.0,
+        "intermediate_and_other": 2.09
+      },
+      "median_bright_yellow": "#FCCC51",
+      "median_bright_green": null,
+      "quantized_palette": [
+        {
+          "hex": "#0D0D0D",
+          "percent": 12.25
+        },
+        {
+          "hex": "#000000",
+          "percent": 11.98
+        },
+        {
+          "hex": "#030303",
+          "percent": 11.94
+        },
+        {
+          "hex": "#17181A",
+          "percent": 9.83
+        },
+        {
+          "hex": "#0E0E0E",
+          "percent": 9.66
+        },
+        {
+          "hex": "#252525",
+          "percent": 8.82
+        },
+        {
+          "hex": "#EFE4C3",
+          "percent": 7.87
+        },
+        {
+          "hex": "#090A0A",
+          "percent": 7.52
+        },
+        {
+          "hex": "#010101",
+          "percent": 7.4
+        },
+        {
+          "hex": "#0C0D0D",
+          "percent": 5.25
+        },
+        {
+          "hex": "#5A584D",
+          "percent": 4.14
+        },
+        {
+          "hex": "#121213",
+          "percent": 3.34
+        }
+      ]
+    },
+    {
+      "file": "CA x Tradeifty Select Eval Deal_3.png",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "metadata": {},
+      "surface_percent": {
+        "dark": 87.38,
+        "yellow_gold": 1.99,
+        "white_and_light_grey": 8.17,
+        "green_mint": 0.0,
+        "intermediate_and_other": 2.46
+      },
+      "median_bright_yellow": "#FDCC53",
+      "median_bright_green": null,
+      "quantized_palette": [
+        {
+          "hex": "#010101",
+          "percent": 14.05
+        },
+        {
+          "hex": "#000000",
+          "percent": 10.7
+        },
+        {
+          "hex": "#121212",
+          "percent": 10.11
+        },
+        {
+          "hex": "#060605",
+          "percent": 8.69
+        },
+        {
+          "hex": "#1D1D1D",
+          "percent": 8.63
+        },
+        {
+          "hex": "#1B1B1B",
+          "percent": 8.38
+        },
+        {
+          "hex": "#F7F4EB",
+          "percent": 7.33
+        },
+        {
+          "hex": "#0C0C0C",
+          "percent": 7.3
+        },
+        {
+          "hex": "#171717",
+          "percent": 7.14
+        },
+        {
+          "hex": "#2A2A29",
+          "percent": 6.86
+        },
+        {
+          "hex": "#484846",
+          "percent": 5.9
+        },
+        {
+          "hex": "#BBAF92",
+          "percent": 4.92
+        }
+      ]
+    },
+    {
+      "file": "CA x Tradeify AD Email Version.png",
+      "dimensions": [
+        1200,
+        1280
+      ],
+      "metadata": {},
+      "surface_percent": {
+        "dark": 76.4,
+        "yellow_gold": 7.87,
+        "white_and_light_grey": 13.29,
+        "green_mint": 0.96,
+        "intermediate_and_other": 1.48
+      },
+      "median_bright_yellow": "#FFDA4A",
+      "median_bright_green": "#43FF69",
+      "quantized_palette": [
+        {
+          "hex": "#0F1010",
+          "percent": 12.26
+        },
+        {
+          "hex": "#FFFCE1",
+          "percent": 11.28
+        },
+        {
+          "hex": "#0B0B0B",
+          "percent": 11.11
+        },
+        {
+          "hex": "#151516",
+          "percent": 10.9
+        },
+        {
+          "hex": "#060606",
+          "percent": 10.71
+        },
+        {
+          "hex": "#212020",
+          "percent": 9.19
+        },
+        {
+          "hex": "#1B1B1B",
+          "percent": 8.52
+        },
+        {
+          "hex": "#262626",
+          "percent": 7.75
+        },
+        {
+          "hex": "#EEDB89",
+          "percent": 7.43
+        },
+        {
+          "hex": "#121213",
+          "percent": 5.39
+        },
+        {
+          "hex": "#9E8C4C",
+          "percent": 3.15
+        },
+        {
+          "hex": "#C1F8CA",
+          "percent": 2.31
+        }
+      ]
+    },
+    {
+      "file": "New CA x Tradeify AD.png",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "metadata": {},
+      "surface_percent": {
+        "dark": 73.97,
+        "yellow_gold": 7.31,
+        "white_and_light_grey": 16.85,
+        "green_mint": 0.76,
+        "intermediate_and_other": 1.12
+      },
+      "median_bright_yellow": "#FFDB56",
+      "median_bright_green": "#57FF74",
+      "quantized_palette": [
+        {
+          "hex": "#080808",
+          "percent": 11.27
+        },
+        {
+          "hex": "#FFFFFF",
+          "percent": 11.19
+        },
+        {
+          "hex": "#1A1A1A",
+          "percent": 11.01
+        },
+        {
+          "hex": "#222222",
+          "percent": 10.72
+        },
+        {
+          "hex": "#040505",
+          "percent": 8.96
+        },
+        {
+          "hex": "#121212",
+          "percent": 8.91
+        },
+        {
+          "hex": "#0B0B0C",
+          "percent": 7.91
+        },
+        {
+          "hex": "#0E0E0E",
+          "percent": 7.44
+        },
+        {
+          "hex": "#FFD953",
+          "percent": 7.32
+        },
+        {
+          "hex": "#D5E0D1",
+          "percent": 6.95
+        },
+        {
+          "hex": "#0A0A0A",
+          "percent": 5.18
+        },
+        {
+          "hex": "#40403A",
+          "percent": 3.14
+        }
+      ]
+    },
+    {
+      "file": "Tradeify AD_2.png",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "metadata": {},
+      "surface_percent": {
+        "dark": 80.54,
+        "yellow_gold": 2.84,
+        "white_and_light_grey": 11.54,
+        "green_mint": 2.1,
+        "intermediate_and_other": 2.98
+      },
+      "median_bright_yellow": "#FFCA38",
+      "median_bright_green": "#53EA88",
+      "quantized_palette": [
+        {
+          "hex": "#110C04",
+          "percent": 14.25
+        },
+        {
+          "hex": "#0B0906",
+          "percent": 10.79
+        },
+        {
+          "hex": "#0F0902",
+          "percent": 10.19
+        },
+        {
+          "hex": "#FFFBEA",
+          "percent": 9.95
+        },
+        {
+          "hex": "#040403",
+          "percent": 9.6
+        },
+        {
+          "hex": "#211C14",
+          "percent": 8.17
+        },
+        {
+          "hex": "#17120A",
+          "percent": 7.74
+        },
+        {
+          "hex": "#110F09",
+          "percent": 7.56
+        },
+        {
+          "hex": "#0A0602",
+          "percent": 6.63
+        },
+        {
+          "hex": "#9AA469",
+          "percent": 6.54
+        },
+        {
+          "hex": "#393C31",
+          "percent": 6.08
+        },
+        {
+          "hex": "#BCECCB",
+          "percent": 2.51
+        }
+      ]
+    }
+  ]
+}

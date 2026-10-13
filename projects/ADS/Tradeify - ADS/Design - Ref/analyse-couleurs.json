@@ -1,0 +1,485 @@
+{
+  "method": "RGB thumbnail maximum 270x480; HSV exclusive buckets. Dark V<0.45; light neutral S<=0.18,V>=0.70; bright cyan/blue H 0.43..0.60,S>0.35; remainder intermediate. These are approximate raster surface proportions, not original design tokens or layer measurements.",
+  "images": [
+    {
+      "file": "ChatGPT Image Sep 29, 2026, 09_29_26 AM (1).png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "metadata": {},
+      "pixel_distribution_percent": {
+        "fond_sombre_et_petrole": 82.6,
+        "cyan_et_bleu_lumineux": 8.2,
+        "blanc_et_gris_clair": 7.7,
+        "tons_intermediaires": 1.4
+      },
+      "dominant_quantized_colors": [
+        {
+          "hex": "#002227",
+          "percent": 19.9
+        },
+        {
+          "hex": "#86F8FB",
+          "percent": 15.0
+        },
+        {
+          "hex": "#000A0C",
+          "percent": 14.6
+        },
+        {
+          "hex": "#001114",
+          "percent": 13.2
+        },
+        {
+          "hex": "#021215",
+          "percent": 12.7
+        },
+        {
+          "hex": "#000607",
+          "percent": 11.6
+        },
+        {
+          "hex": "#042126",
+          "percent": 8.4
+        },
+        {
+          "hex": "#316368",
+          "percent": 4.6
+        }
+      ]
+    },
+    {
+      "file": "OPTION 1 - CA (1).jpg",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "metadata": {},
+      "pixel_distribution_percent": {
+        "fond_sombre_et_petrole": 81.7,
+        "cyan_et_bleu_lumineux": 9.0,
+        "blanc_et_gris_clair": 7.8,
+        "tons_intermediaires": 1.5
+      },
+      "dominant_quantized_colors": [
+        {
+          "hex": "#052227",
+          "percent": 15.7
+        },
+        {
+          "hex": "#86EBF6",
+          "percent": 15.0
+        },
+        {
+          "hex": "#040C0D",
+          "percent": 13.9
+        },
+        {
+          "hex": "#142325",
+          "percent": 13.2
+        },
+        {
+          "hex": "#0D1618",
+          "percent": 12.8
+        },
+        {
+          "hex": "#031619",
+          "percent": 12.3
+        },
+        {
+          "hex": "#010405",
+          "percent": 11.0
+        },
+        {
+          "hex": "#2D656D",
+          "percent": 6.1
+        }
+      ]
+    },
+    {
+      "file": "OPTION 1 - PFT (1).jpg",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "metadata": {},
+      "pixel_distribution_percent": {
+        "fond_sombre_et_petrole": 81.6,
+        "cyan_et_bleu_lumineux": 9.1,
+        "blanc_et_gris_clair": 7.8,
+        "tons_intermediaires": 1.5
+      },
+      "dominant_quantized_colors": [
+        {
+          "hex": "#052327",
+          "percent": 15.7
+        },
+        {
+          "hex": "#86ECF7",
+          "percent": 15.0
+        },
+        {
+          "hex": "#040C0D",
+          "percent": 13.9
+        },
+        {
+          "hex": "#142326",
+          "percent": 13.1
+        },
+        {
+          "hex": "#0D1618",
+          "percent": 12.9
+        },
+        {
+          "hex": "#031619",
+          "percent": 12.4
+        },
+        {
+          "hex": "#010405",
+          "percent": 11.0
+        },
+        {
+          "hex": "#2E6870",
+          "percent": 6.0
+        }
+      ]
+    },
+    {
+      "file": "OPTION 2 - CA (1).jpg",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "metadata": {},
+      "pixel_distribution_percent": {
+        "fond_sombre_et_petrole": 74.5,
+        "cyan_et_bleu_lumineux": 19.6,
+        "blanc_et_gris_clair": 4.5,
+        "tons_intermediaires": 1.3
+      },
+      "dominant_quantized_colors": [
+        {
+          "hex": "#01080A",
+          "percent": 14.0
+        },
+        {
+          "hex": "#020E12",
+          "percent": 13.6
+        },
+        {
+          "hex": "#010305",
+          "percent": 13.2
+        },
+        {
+          "hex": "#061D23",
+          "percent": 12.9
+        },
+        {
+          "hex": "#62EEFA",
+          "percent": 12.5
+        },
+        {
+          "hex": "#0E404C",
+          "percent": 11.8
+        },
+        {
+          "hex": "#1F9FB8",
+          "percent": 11.6
+        },
+        {
+          "hex": "#000304",
+          "percent": 10.3
+        }
+      ]
+    },
+    {
+      "file": "OPTION 2 - PFT (1).jpg",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "metadata": {},
+      "pixel_distribution_percent": {
+        "fond_sombre_et_petrole": 74.5,
+        "cyan_et_bleu_lumineux": 19.7,
+        "blanc_et_gris_clair": 4.5,
+        "tons_intermediaires": 1.3
+      },
+      "dominant_quantized_colors": [
+        {
+          "hex": "#01080A",
+          "percent": 14.0
+        },
+        {
+          "hex": "#020E12",
+          "percent": 13.6
+        },
+        {
+          "hex": "#010305",
+          "percent": 13.2
+        },
+        {
+          "hex": "#061D23",
+          "percent": 12.9
+        },
+        {
+          "hex": "#62EEFA",
+          "percent": 12.4
+        },
+        {
+          "hex": "#0E404D",
+          "percent": 11.9
+        },
+        {
+          "hex": "#1FA0B9",
+          "percent": 11.7
+        },
+        {
+          "hex": "#000304",
+          "percent": 10.3
+        }
+      ]
+    },
+    {
+      "file": "Tradeify FX Daily Launch Code CA (1).png",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "metadata": {},
+      "pixel_distribution_percent": {
+        "fond_sombre_et_petrole": 90.7,
+        "cyan_et_bleu_lumineux": 4.6,
+        "blanc_et_gris_clair": 3.3,
+        "tons_intermediaires": 1.5
+      },
+      "dominant_quantized_colors": [
+        {
+          "hex": "#04141A",
+          "percent": 15.6
+        },
+        {
+          "hex": "#083948",
+          "percent": 14.8
+        },
+        {
+          "hex": "#062935",
+          "percent": 14.1
+        },
+        {
+          "hex": "#030E12",
+          "percent": 12.5
+        },
+        {
+          "hex": "#051D27",
+          "percent": 12.0
+        },
+        {
+          "hex": "#030B0E",
+          "percent": 11.5
+        },
+        {
+          "hex": "#03080A",
+          "percent": 10.6
+        },
+        {
+          "hex": "#66ACB3",
+          "percent": 9.0
+        }
+      ]
+    },
+    {
+      "file": "Tradeify FX Daily Launch Code CA_2 (1).png",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "metadata": {},
+      "pixel_distribution_percent": {
+        "fond_sombre_et_petrole": 82.3,
+        "cyan_et_bleu_lumineux": 8.4,
+        "blanc_et_gris_clair": 7.8,
+        "tons_intermediaires": 1.5
+      },
+      "dominant_quantized_colors": [
+        {
+          "hex": "#012A31",
+          "percent": 18.4
+        },
+        {
+          "hex": "#8DFAFC",
+          "percent": 15.0
+        },
+        {
+          "hex": "#000C0E",
+          "percent": 14.4
+        },
+        {
+          "hex": "#011E23",
+          "percent": 13.9
+        },
+        {
+          "hex": "#001316",
+          "percent": 13.0
+        },
+        {
+          "hex": "#010709",
+          "percent": 10.7
+        },
+        {
+          "hex": "#021418",
+          "percent": 10.2
+        },
+        {
+          "hex": "#34686D",
+          "percent": 4.5
+        }
+      ]
+    },
+    {
+      "file": "Tradeify FX Daily Launch Code PFT (1).png",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "metadata": {},
+      "pixel_distribution_percent": {
+        "fond_sombre_et_petrole": 90.6,
+        "cyan_et_bleu_lumineux": 4.6,
+        "blanc_et_gris_clair": 3.3,
+        "tons_intermediaires": 1.5
+      },
+      "dominant_quantized_colors": [
+        {
+          "hex": "#04141A",
+          "percent": 15.6
+        },
+        {
+          "hex": "#083948",
+          "percent": 14.8
+        },
+        {
+          "hex": "#062935",
+          "percent": 14.1
+        },
+        {
+          "hex": "#030E12",
+          "percent": 12.4
+        },
+        {
+          "hex": "#051D27",
+          "percent": 12.0
+        },
+        {
+          "hex": "#030B0E",
+          "percent": 11.5
+        },
+        {
+          "hex": "#03080A",
+          "percent": 10.6
+        },
+        {
+          "hex": "#66ACB3",
+          "percent": 9.1
+        }
+      ]
+    },
+    {
+      "file": "Tradeifyb FX Three Routes Final Code CA (1).png",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "metadata": {},
+      "pixel_distribution_percent": {
+        "fond_sombre_et_petrole": 83.7,
+        "cyan_et_bleu_lumineux": 7.9,
+        "blanc_et_gris_clair": 6.5,
+        "tons_intermediaires": 1.9
+      },
+      "dominant_quantized_colors": [
+        {
+          "hex": "#081114",
+          "percent": 15.6
+        },
+        {
+          "hex": "#0D1D24",
+          "percent": 15.5
+        },
+        {
+          "hex": "#040A0C",
+          "percent": 14.3
+        },
+        {
+          "hex": "#8EF4F6",
+          "percent": 13.7
+        },
+        {
+          "hex": "#031014",
+          "percent": 11.6
+        },
+        {
+          "hex": "#030607",
+          "percent": 11.2
+        },
+        {
+          "hex": "#051A20",
+          "percent": 10.5
+        },
+        {
+          "hex": "#37575E",
+          "percent": 7.7
+        }
+      ]
+    },
+    {
+      "file": "Tradeifyb FX Three Routes Final Code PFT (1).png",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "metadata": {},
+      "pixel_distribution_percent": {
+        "fond_sombre_et_petrole": 83.8,
+        "cyan_et_bleu_lumineux": 7.9,
+        "blanc_et_gris_clair": 6.5,
+        "tons_intermediaires": 1.9
+      },
+      "dominant_quantized_colors": [
+        {
+          "hex": "#07171C",
+          "percent": 15.5
+        },
+        {
+          "hex": "#0C2128",
+          "percent": 15.0
+        },
+        {
+          "hex": "#040A0C",
+          "percent": 14.3
+        },
+        {
+          "hex": "#8EF4F6",
+          "percent": 13.6
+        },
+        {
+          "hex": "#081114",
+          "percent": 12.6
+        },
+        {
+          "hex": "#030607",
+          "percent": 11.3
+        },
+        {
+          "hex": "#031014",
+          "percent": 10.2
+        },
+        {
+          "hex": "#37565E",
+          "percent": 7.5
+        }
+      ]
+    }
+  ]
+}

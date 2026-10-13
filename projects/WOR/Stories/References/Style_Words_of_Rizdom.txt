@@ -1,0 +1,35 @@
+FICHE DE REFERENCE — STORIES WORDS OF RIZDOM
+Analyse des 12 JPG fournis par l'utilisateur le 7 octobre 2026.
+Les originaux sont conserves dans ce dossier. Cette fiche decrit le rendu visible et une methode de reconstruction; elle ne prouve pas le logiciel, la police ni les reglages utilises dans les sources.
+
+FORMAT ET PALETTE
+Stories verticales 1080 x 1920, ratio 9:16. Fond presque noir, nuances charbon et bordeaux. Halos rouges diffus dans le coin superieur gauche et le bas gauche; droite plus sombre. Grain fin visible, plus prononce sur les visuels Clement et Connor. Blanc pour le texte; rouge vif proche de #FF0000 pour les mots cles. Valeurs de couleur indicatives, non mesurees.
+
+HIERARCHIE
+1. Petit logo Words of Rizdom noir sur rectangle blanc, centre en haut. Environ 156 x 69 px dans les references, hauteur variable y=108 a 262.
+2. Accroche centree sur 2 a 3 lignes, parfois 4. Zone indicative y=230 a 720. Sans serif geometrique, alternance regular/bold, interlignage serre. Mots a fort impact en gras; chiffre ou concept principal sur bandeau rouge. Variante bandeau blanc avec texte noir/rouge. Coins droits ou legerement arrondis selon modele. Certaines versions Connor ont une ombre et un degrade discret dans les lettres.
+3. Portrait detoure grand format, invite seul centre ou duo de chaque cote. Visages sous le titre, generalement vers y=620 a 1200; epaules coupees par les bords. Microphones souvent conserves. Peau et cheveux nets, contraste local et nettete marques, rendu photographique.
+4. Nom noir sur cartouche blanc ajuste au texte, centre, vers y=1210 a 1350. Nom en casse normale, graisse plus legere que le CTA.
+5. FULL PODCAST, blanc gras majuscule, environ 90 a 100 px, centre sous le nom. Degrade noir sur le bas des portraits pour la lisibilite.
+6. THIS THURSDAY! puis 3 PM BST / 10 AM EDT, blanc regular, environ 48 a 52 px. Ce sont les textes des references, pas un horaire confirme pour Candace.
+7. Spotify et YouTube centres avec filet vertical blanc: soit marques en couleurs avec noms, soit pictogrammes blancs.
+8. Variante sponsorisee: PROUDLY SPONSORED BY puis quatre logos en rangee pres de y=1750: Market Journal, TradeZella, Alpha Prime, PropFirmTrader. Leur inclusion pour chaque nouvel episode doit suivre le brief.
+
+VARIANTES OBSERVEES
+Managing Billions: invite seul, deux bandeaux rouge/blanc, plateformes en couleurs, sans sponsors.
+How To Go: invite seul, montant en rouge, icones blanches et sponsors.
+Ex Market Maker: duo avec graphique GEX derriere; versions avec et sans sponsors, bloc bas reajuste.
+AI Exposed: duo avec chandeliers verts/rouges; bandeau rouge puis blanc; versions avec et sans sponsors.
+You Can Master: invite seul devant graphique GEX large; taille du portrait et position du titre ajustees entre versions; versions avec et sans sponsors.
+500% In 2 Years: invite seul, chiffre tres grand, fleche courbe blanche vers le visage.
+I Made 500% Returns: duo frontal, montant en rouge, microphones apparents, sans sponsors.
+Trading $50+ Million: duo, courbe verte illustrative derriere, bandeau rouge large, sponsors.
+Elite Trading: invite seul avec geste vers la tempe, accroche rouge, sponsors.
+
+METHODE DE RECONSTRUCTION PROPOSEE
+Empiler: fond noir; halos rouges flous; grain subtil; eventuel graphique lie au sujet; detourage photo; traitement photo modere; degrade noir au bas du portrait; logo; accroche et bandeaux; cartouche nom; CTA; horaire confirme; plateformes; sponsors si demandes.
+Garder la hierarchie commune, mais adapter les retours a la ligne et la taille du portrait au titre. Ne pas ajouter systematiquement graphiques, fleches ou effets 3D: ils varient selon le sujet.
+Police exacte inconnue: demander le fichier source ou son nom pour une reproduction typographique exacte. Effets et ordre des calques sont deduits du rendu.
+
+CANDACE V1
+ImageGen integre, adaptation invite seul a partir de la capture image_03_00-04-37.jpg du dossier precedent. Titre provisoire: The Reality Of Prop Trading. Nom: Candace. FULL PODCAST et plateformes en couleurs. Aucun horaire ni sponsor tant que le brief n'est pas confirme. Le portrait et les logos sont composites par generation: verifier la fidelite avant publication. Le fichier genere est une image aplatie, pas un document a calques.

@@ -1,0 +1,806 @@
+FINAL READY TO UPLOAD CF Scott Pulcini.txt
+English (US)
+
+00:00:00.000 — 00:01:14.840 · Speaker 1
+Welcome back everyone to Shop Fanatics, the go to channel for all of your very best strategy and concept breakdowns in the world of some of the greatest traders in the world as well. Talking of which, we have an incredible trader, a trading legend of some sorts. Someone who in the early 2000 was trading up to 10% of the daily volume on the E-mini S&P.
+
+We're talking tens of thousands of contracts. We're talking millions of dollars in terms of PNL. And today we're actually going to go into their bespoke strategy, something that most people are not doing and not seeing. But it is as clear as day as why this works, and why more traders, just like yourself should be looking at this.
+
+And without further ado, is the one and only Scott Pausini good to see you? I try to get the intros up, but Scott is an absolute pleasure to have you with us today. I know you've made the travel over, which I really, really appreciate and as I was just saying, one, you have a wealth of experience not only from a trading perspective, but more of an institutional perspective as well.
+
+But you have developed your strategy and pieced it all together over years of experience taking that institutional experience as well. But you've built it so that you can do this at home yourself. And so where should we begin for people.
+
+
+00:01:14.840 — 00:03:49.890 · Speaker 2
+That you've heard that original 10% of the world volume? A lot of it is unbelievable for people. Trust me, it's believable. I actually brought the statements to to verify to, you know, show you. But, um, the point is, you know, when I talk about my glory days, if you will, it's not it's not to brag. It's to, you know, tell people that one.
+
+I have the experience to know what I'm talking about. So, you know, you may want to listen to my take on what's really driving these markets, um, and to my story resonates with traders because I was, again, a huge trader. I can trade, you know, up to 3000 E-mini contracts at a time. Um, I made millions. I made $15 million in three years time for my for myself and my trading firm.
+
+And then it all went away overnight. Literally overnight. So of 2005 2006 when the algorithms which I'll show you part of that anyone trades nowadays knows what I'm talking about. They started taking over the markets and my my method of trading my edge disappeared. Most traders that have an edge, they've experienced something like that.
+
+If they've been in the game long enough where their edge is, it seems like it's just going to print money forever and then it's gone. So that's exactly what happened to me. And so, you know, right around 2007, the edge stopped working. And then I spent another 6 or 7 years literally trying to become an elite trader again, you know, redeveloping my style and, you know, looking at charts.
+
+And I just could never find anything that made me elite. I had to leave the business in 2013. I actually go into medical sales, um, and, you know, sitting in doctor's offices and having, you know, kiss their butt, like trying to sell them stuff. And, you know, having them treat me like a pen, knowing, like, talk about eating, you know, eating humble pie, like, ego wise, it's like, so many times I wanted to say, you know, I made more money in three years, and you're probably making your career, and you're talking to me like this is the type of thing the bottom line is I've gone through the wringer as far as the PTSD and the emotions.
+
+And, you know, there's a saying out there, there's nothing worse than having money and then losing it versus never having it. All right. Because. Because when you have it, you know what you're missing when it's gone. So my stories resonates with traders and it also resonates with traders showing them that they they can come back.
+
+Right. So that's my story as a, as a comeback story where the stuff I'm going to show today based on my experience. And then when I started to see with this new enhanced data that the CME puts out has been putting out for ten years now, um, it gives traders a real edge and it's also going to show traders. It's not for me to tell traders what areas they think are important.
+
+Right. Everyone has different things that they think work or no work. What I'm saying is if you demand, if you know this information and demand these setups in these areas, you're trading is going to be 100 times better, because this is what is making the market move. These four entities that I'm going to discuss today.
+
+
+00:03:49.930 — 00:04:45.850 · Speaker 1
+Definitely, I think we should dive straight in because I'm sure a lot of people are interested. And yeah, it's an incredible story, which I know we will go over in more depth when it comes to our Words of Wisdom episode that we record, which I'm super excited for because I know that is such a unique journey, as you say.
+
+You know, everyone just assumes in trading, once you have an edge, that's it. Right. Yeah, as you said, like it's just, you know, the money print is on and you'll just trade that edge forever. But the reality. Because in your case, you know, when people heard that, you know, you left the business, they would probably assume you blew up, right?
+
+Right. But in reality, the markets can change. Technology can change. And so even as you say overnight in a very quick short space of time, and I think when people hear that they probably get fearful. So even in today's episode, I'm sure we'll go over certain things of how you have confidence with this and what your thoughts are in terms of the future of what you're trading right now.
+
+If you think that can change or not. But where should we begin here? We have obviously some four key entities planned out already.
+
+
+00:04:45.890 — 00:07:59.620 · Speaker 2
+Yeah. So again, apologies for the handwriting. It's probably the worst out there. I was telling you beforehand that sometimes I take notes and I can't even read my own handwriting when I go back to look at it. But, um, so these are the for my, again, my experience that four main entities that are driving these markets.
+
+Right. So if you are trading again, I don't care what strategy you're trading. I don't care what areas that you're that you're looking at. These are the main drivers of the market. And you have to know this information to give you to to know why your thing, your setup, works or doesn't work right. So the number one for me, and this has been the driver of my trading for the last eight years, you know, these four these are the four important drivers of the markets.
+
+The most important that that I've seen. So number one is the is the iceberg and stops 2016. It's been ten years now and most traders even know this exists. It has been it's been around for ten years. So they offered this enhanced data that shows with 100% certainty, um, accuracy I should say, were these iceberg and stop runs are so iceberg orders are orders that these big institutions used to hide their size from the algorithms, right?
+
+The same algorithms that knocked me out of the game. That's why these firms are using these icebergs. Because if they put a big order in these elbows running away and try to make them chase, there's other reasons to get into. But the number one thing are these iceberg and stop runs and then stop runs. On the flip side are usually retail traders puking out of positions like the institutions don't usually puke out one order puke type of thing.
+
+But that's important to note too, because again, I'll just I'll show you this. You know, if you're if you see a move to the high, if you're just looking at candlesticks and you see these big, you know, green bars, you think, oh, look at all this buying when you when you dive into the actual data, enhanced data, you'll see a lot of times it's just stop runs.
+
+Well, stop runs are not initiative buying. Most times it's just guys puking. So that is really good information to know if you're thinking about trying to jump on a trend and it's just all stop runs, it's very likely going to reverse. So things like that, you need to know in these markets to to navigate them correctly.
+
+Again, I don't care what strategy you're using. Then number two is the is the options flow. So iceberg is established. Runs are number one. But option the options flow the zero data exploration flow is a very very close second. And is it's about to overtake the stops and icebergs. As far as the importance, um, I used to be one of the biggest, uh, traders scalpers, but I also I used to be one of the biggest manipulators too.
+
+Right. So back then, uh, spoofing was legal, right? So if you put, you know, you had an order in the order book and I would have an offer in, and I would start to, you know, push the market towards my offer. And I put in bids below to try to scare the market into my offer with no intention of actually trading. I'm just trying to scare the market.
+
+So that's illegal. Now they've all allowed that, right? So, um, the point is that that game, that's the game I used to play the manipulation game. So nowadays the biggest manipulation game is this options flow. Were these these entities load up the the dealers the options dealers and the dealers have to hedge in the underlying.
+
+So I'm going to be talking about today futures markets. But the same thing is going on in the stocks. It doesn't matter. You have to know what's going on with the app. You know the gamma levels which I'll show and the and the flow as well because this is the whole game now.
+
+
+00:07:59.660 — 00:08:40.099 · Speaker 1
+Yeah, yeah. And we've been uh, lucky to have on someone recently in terms of options flow. And they really highlighted the importance of even as a futures trader, to your point, the importance of understanding the options flow and what's going on over there and how it impacts the futures markets, why it has an impact on the futures market.
+
+Because even if you don't use it, having this insight and knowledge is only healthy, right? If you're going to be trading these financial markets that are so in-depth and there's so many layers to them, it's good to know those layers, even if you're not going to use it per se. For what reason you won't use it, I'm not sure, but at least having the knowledge of why that works, why it's it's important even that's going to benefit you.
+
+Having the knowledge, right?
+
+
+00:08:40.140 — 00:10:01.510 · Speaker 2
+You're right. The knowledge is the key. And I'm not a big options trader at all. My trading, as you'll see, is very, very simplistic. And that's how I like to keep it. So I don't confuse myself. But I do want to know where these levels are. I don't need to know all these exotic options strategies. I just need to know where this activity is and where is the flow.
+
+You know which way is. And moving to to give myself a fighting chance, you know, with the manipulation. And then the third one is the actual algo. So there's a ton of Argos out there. Obviously. You know, algo is probably comprised at least 70 to 80% of all trade. Right. So between the algos and the options flow game or the dealer's hedging, it's it's close to 90% in my estimation, probably even more, probably 95%.
+
+And the other 5% is the program buying or selling. So that's when the big money, the these big institutions come in and they just unload baskets of stocks and it just plows through the market. That happens maybe 5% of the time. Right? So I'll show a ways to to watch out for that type of activity. But that again it's only 5% of the time.
+
+So what traders should be focusing on what drives the market's 95% of the time. And then the first three are what 95% of the trade is right. So but you have to be aware when that 5% comes in because you don't want it. You don't want to be in the way when it when it happens. But these are the four main, uh, main things that are driving all markets.
+
+And, you know, I don't trade stocks, individual stocks, but it's the same stuff that are driving the stocks as well.
+
+
+00:10:01.550 — 00:10:41.470 · Speaker 1
+Definitely. Well, last we prepared the next segment. I'd love to ask you in terms of obviously taking that break from trading at the time and then coming back, what was it that led you to not only come back, but then, you know, so put this together, this information and, and sort of come across and piece that that puzzle piece, if you will, together.
+
+Because especially when you did that, there was a lack like even now there's a lack of information. I think it's changing, you know, through episodes like this and, and traders like yourself obviously sharing and getting out there and being willing to sort of share with the trading community, but especially back then, there would have been a lack of insights and anyone sort of leading the charge, if you will, in terms of information like this.
+
+So what would that look like for you in terms of piecing that together?
+
+
+00:10:41.510 — 00:13:32.510 · Speaker 2
+You know, back when I was at my trading firm, when I was the, you know, the big trader, we had a trading psychologist come in. So this is right. Whenever like most traders that were trading electronically, it was very easy. And then all of a sudden it started to disappear because the algos took over, like I said.
+
+So I wasn't the only one, obviously. So my trading firm had a side. It was called King Street Trading in Chicago. We had upwards of 70 traders right within two years. I think by 2006, 2007 we were down to 13. Wow. Right. So that's that's how drastic the changes, you know, the of the edge is changing. But at the time we had a trading psychologist who's arguably the top trading psychologist in the world nowadays.
+
+His name is Doctor Brett Steinberger. Right. So he was actually at my trading firm. So if you've ever seen the HBO show billions, they had the oh, they had the psychiatrist there to help traders that were, you know, getting pummeled. That's what he was there for. Right. So I started to talk to him because I was going through it wasn't completely tough times when he first got there, but he was writing a book called Enhancing Trader Performance, and he had asked me and he saw he came in literally.
+
+The 2003 was my top year. I made $10 million, so he wanted it. He was writing this book and it was just it wasn't just about training his. What made people elite at what they did. Right? So he's asking me if he can sit behind me and watch, you know, not that he can pick anything up because I was literally just flipping the order book all day long, trading order flow.
+
+But he just wanted to see, like, what were my mannerisms? What did I do? What were my habits like? I used to put a video camera behind me on tape and they take my screen, things like that. So he wrote this book Enhancing Trader Performance, and then throughout the book and the entire afterwards. So he we developed a very close relationship.
+
+Right. So fast forward to that. Remember, I was out of the business for 6 or 7 years, and he knew I was out of the business and he had called me one day, I think it was 2018, and he said, hey, you want to check out this program called book Com? And he goes, it reminds me of when I sat behind you, how you used to visualize the markets.
+
+And the minute I brought this, this software up, I'm like, I'm back. Like, this is this is what I need. This is how I need to visualize the market, right? And that was before this iceberg. Stop. Iceberg information I'm going to show you in the minute I saw that. Because when I got back in, I was just going to trade stocks.
+
+I was actually training with SMB. I think you've had you had this stuff, I think. Oh yeah, I remember him and I was going to trade stocks because I was so jaded by futures getting knocked out again that the PTSD thing. But then when I saw the stuff iceberg information, I'm like, this is the best I've ever seen.
+
+So I flipped back to futures at that point. And again, with my experience as a trading so much volume, I just started to see these tendencies with this, this enhanced data that that the CMU was broadcasting. And then from there I took off. And, you know, I'm on my way back and, you know, started my own stuff and my own trade room and things like that.
+
+So I educate and I trade now, but that's what got me back in the game as Doctor Brett showing me, you know, the book maps, software. And the minute I saw it, I knew I was I was on my way back.
+
+
+00:13:32.510 — 00:13:53.960 · Speaker 1
+Well that's great doctor Brett's a great guy. I had the pleasure of meeting him once when we did, like, an SMB roundtable because it's full of life and energy. Yeah. Um, and you can see why you would be very effective. You know, as a, as a psychologist and performance absolutely enhancing, uh, and then, you know, having that relationship.
+
+It's funny how in the finance world there's so many participants with how many like links, um.
+
+
+00:13:54.120 — 00:13:54.720 · Speaker 2
+Small world.
+
+
+00:13:54.880 — 00:14:02.880 · Speaker 1
+Small world in the end. Yeah, that's exactly it. But where should we, uh, start then, in terms of sort of visualizing, you know, what we're going to be covering today and the strategy.
+
+
+00:14:02.920 — 00:19:02.090 · Speaker 2
+Okay. So we're going to start with, again, the number one thing that I, that I believe is it's the foundation of all my trades, right. So I have my important areas like other traders have important areas. But I will not trade those areas unless I see this activity, the stop iceberg activity. So 2016 the CME came out with uh it's called MBO data, right?
+
+It's called market by order data. So up until then and some some data vendors still use market by price, which is just shocking to me. I'm not going to start naming names, but there's only a few data providers that offer this MBO data. And again, it's the most important thing that I've ever seen. The best edge I've ever seen in trading, where they are showing you with this enhanced data, where these large institutions are placed in their orders.
+
+Right. Which is the large institutions are the biggest players. Right. So you want to know where they're playing. Not that they're always right, but the point is and I'll get into showing you this, that the area is important because when you have an area of invested trade traders, when it moves out of that area, that's where you get the bigger moves versus getting chopped up all day long with algos.
+
+When you see this activity, you're like, okay, game on. And it's at my area. Here's here's a stop iceberg event. Now I know if I'm expecting a big move out of here. This is like my confirmation type of thing, right? So in 2016 they came as MBO data is called market by order, where they show full transparency of the order book first and foremost.
+
+Right. So if you're looking at MVP and again I'm not going to name data providers, but you can Google it. See if yours does that. All it's showing is the top ten offers and top ten um bids right below and above. That's real orders. Anything you see above there is not actual real orders. It's like stale. Right?
+
+So they were there at one time, but it's not necessarily real orders. The the MBO data shows the entire order book. Right. So you can see, you know, any price level and see if there's wrestling liquidity there, things like that. And there are real orders. Right. Very important. The other thing the MBO shows you is the MVP market by price data.
+
+That's that's that was the old data that that was the orders in the order book are aggregated. Right. So it's like you'll see 350 in the order book. We don't even see that anymore. But that was was the old story. That was the old, old kind of size. And I'll show you that a little later. But, um, all it shows you is 350 with the MBO data.
+
+You see, it's broken down by each entity whose orders they are. Right. And then what you also see is your. So if you're trading, you see where you are in the queue in the order book, which is very important especially for algos. Right. That's actually how I took off as a trader when I was trading. I figured out back then, is this first and first out type of type of order, right.
+
+So if you put your order in and so I would see like a 1000 lot. Right. And I would, I would get in it and then I'd see it load up to 2000. I'm like okay well I know once I get filled there's another 1000 behind me because I came in after me. And if I need to peel out of the trade. So it was just it was a strategy that I worked back then.
+
+But nowadays you can see where you are in the Q2. Is it that important now for like click traders? Not really, because most of the order books are, you know, ten, 15 lots up, up and down the order book. So it's not going to help you as much, but at least you get to see where you are in the queue. Um, and then the biggest thing that the MBO data provides is the stop iceberg information.
+
+So you can see with 100% accuracy where the big money is playing. Right. So the big money uses these iceberg orders when when a firm comes in, say they want to buy 1000, they all they have to display in the order book. So here's the here's the price ladder. Right. And say they want to buy a thousand. Well in the order book.
+
+They have to put you know it's not exactly. It's usually around 10%. Right. So in the order book it looks like 100. Right. So and so that's the tip of the iceberg. Right. And then below there is another 900. So the market will come down. Someone sees a hunter lot and they said oh I'm gonna hammer through that and push the market lower.
+
+And then behind there's another 900, right. So all of a sudden it's like they run into an iceberg, a wall, right? It's not very technical stuff. So that's a big deal because when you see that now, you know, one the big money is playing there in this case there by icebergs. And then someone tried to sell there and they're not getting their way right.
+
+So that is that's the edge right. So if you know where these areas are when the market moves away from here, that's where you're going to get the bigger moves, because whoever sold here is in trouble. If this does end up breaking lower, then you know the big money is is not. They're all doing different things.
+
+And I get that all the time too. They say, well, you don't know what the big money is doing. Are they are they getting out of shorts or are they hedging hedging their position? Are they hedging options. It doesn't. You don't need to know that. You don't need to confuse yourself with the wise. And I get that all the time.
+
+Like, well why would why were they doing that. It doesn't matter. All you need to know is that area and know when it moves away from there. There's 1 or 2 things that are going to happen. I have two different trades for this. Right. So when it moves away from there,
+
+
+00:19:03.410 — 00:20:37.970 · Speaker 2
+that's when you get the bigger moves. Because again you have all that all that kind of a size that are traded there. They need to get out of their positions. And then going to the owl goes, I have a trade called a reversion trade where the market will come back to the event as well. And that's a trade in its own right.
+
+And that is the best scalping method that I know of in these markets. Again, I used to be one of the biggest scalpers out there, and there's a reason I don't do it anymore because it's not viable. As far as you know, I was one of the fastest clickers on the planet. I wasn't as fast as a computer. Right? So if I could scalp that way nowadays, and there's so many traders that still want to scalp off the order book, good luck.
+
+There may be a savant or two in the world, right? But, you know, again, I was one of the fastest. I can't do it. So my point is this reversion type of trade and I'm going to go over all this is one of the best ways for those traders that want to be more of a scalp type trader, right. Knowing this information too. Like I was saying in your important areas makes all the difference, right?
+
+So I don't care what candlestick pattern you have, what you know, what you're using for your indicator Bollinger bands or Fibonacci. Again, it's not for me to tell you what you think is important. What I'm telling you, if you understand this information confirming your areas now, you have yourself a real edge.
+
+That's actually something's actually really happening there versus you happening. It's happening. Right. Because most traders just chalk up losses to probabilities, which it is. But most of the time you're going to figure out, oh, I lost her because I, you know, I went long and there was a big cell iceberg there, or I went long and it was just by stops.
+
+And that was an initiative buying things like that. You're going to start to make more sense of whatever your strategy is.
+
+
+00:20:38.010 — 00:21:50.500 · Speaker 1
+Yeah, exactly. And I think that goes into exactly what we were saying, where even if you do not trade this way, having the knowledge is vital. And I think it's quite interesting that you don't really find people who learn it and don't use it. Right, in the sense that, you know, people might learn the Fibonacci and what that how that's used, why people use it, but then choose not to use it.
+
+Right. In terms of order, flow and the icebergs and the gamma levels. These the difference here is that when people do learn this, it's quite rare you ever say, oh, I'm not going to use it, right. You know, because the, the level of insight, as you say, like it's essentially taking everything that people want from trading, which is certainty.
+
+Not to say this gives certainty, but it gives such a detailed insight of the truth of the market. Exactly right. And therefore it's undeniable in its use case and power in terms of giving you those that awareness when you're trading, regardless of strategy, that awareness is going to be so much stronger.
+
+So as you said, the why isn't important. I think a lot of us probably focus too much on the whys and uncertainty and, you know, the whatever the most fanciest strategy you know of today is when in reality, once you have this information, it's about then just reaction, right? Being able to know, okay, here's my if and then statement.
+
+
+00:21:50.500 — 00:23:21.060 · Speaker 2
+Exactly, exactly. If there's a process I'm going to show mine um of the my rules around these events. Right. So back to what you're saying to is so book map that's my main. You know, if it wasn't for book map, I would not even be a trader these days. Right. Um, like I said to my story, but their exact model for their, for their platform is to see inside the candle, right?
+
+So yeah, there's candles, but not not all candles are made equally or not all balance areas. So I still look at balance areas and you know with candlesticks and like that. But they're not all created equally. So if you can see what's happening inside the candle, inside that balance area, whatever you're looking at, that's the key.
+
+And yes, if you have one is identifying, but then you have to know how to trade it. Right. As far as the rules. And that's, you know, that's where I come in for, for myself and for people is I show them because of my experience, one of my, you know, huge volume experience that I've had trading millions and millions of contracts.
+
+But just watching these for the last nine years, I've watched hundreds of thousands of these events, these setups that I'm going to show you, and I've developed my own system, or it's not even system, it's just rules around these areas, and it's not predicting anything. When I see the event, if it does a certain thing, I go long but does a certain thing, I go short.
+
+I know exactly where I'm getting out and if I'm wrong. So everything's set up and then yes. And when you see it, you put it on. Does every trade work? Absolutely not. And no, trade always works, right. But it is, in my opinion, the best edge I've ever seen in the markets. Right. So and that's why I, you know, use that as the foundation of my training.
+
+
+00:23:21.100 — 00:23:22.020 · Speaker 1
+Absolutely incredible.
+
+
+00:23:22.060 — 00:25:33.989 · Speaker 2
+All right. So again, so the heat map is you know, it's the core of my training would not be around as a trader if it wasn't for the sea map. Right. So it looks like this. And I'll show you the real time examples to our real examples. But over here for me, and you can set up any way you want. But I have the order book.
+
+So this is the dome top of the market, right. You have your your sell orders, your buy orders. And then on the heat map this is where everything occurs. So this is showing first and foremost you get the market orders and we call them bubbles. But like so the the by the by bubbles. So I use a the net delta two. So I want to see the net buyers and sellers.
+
+Who's winning. Right. So if they're green there's more buyers and sellers. That's it. Right. So the green bubbles are going up and then the red bubbles are going down. These are just literally marketers that are transacting right. And that that's what's transacting in the dome. Right. Then you're also going to see on the book map which is very, very, very relevant information.
+
+You're going to see the liquidity. Right. So not all liquidity is the same. So in the order book you'll see, you know obviously they're not always the same. You'll see. I want to use this for offers like 15, 25. And then up here will be like 200. Well, in the order book on the heat map, it'll look like this big red or orange line.
+
+Right. So it's just it's all relative to the size you'll see at the market. You'll see a bunch of liquidity going like disappearing and coming in and coming out. That's the algos playing their game. Those are those, you know, market order algos right. The heavy resting liquidity is is the most important as far as magnets and targets.
+
+Right. So we'll get into that. But I'm just giving you an example of what this looks like on the heatmap. Right. So and then you know below you'll see the resting bids like a huge bid down here. Say it was 300. Again huge these days is 300. Yeah. And I'll show you my when I was a scalper used to be 3000 lots up and down the E-mini S&P order book.
+
+Right. So now it's it's like 20 or 30. So you got your buy bubbles your sell bubbles. And then down here um you need the, the book map. It's the, it's called the CME or the embryo bundle. We need that add on to get the stop iceberg information. So down here is where you'll get. It'll display the stop iceberg orders and the stop runs right.
+
+So you'll have a zero line here. The bi icebergs are above the zero line and the sell icebergs are below the zero line. Right. So
+
+
+00:25:35.230 — 00:26:55.829 · Speaker 2
+this will display this here. So I actually had a developer in my trade room. He's a brilliant guy. He found a way to draw these events on the heat map. So not only do I have the market bubbles, then the events that happen on the iceberg, events that will draw the exact prices on the heat map. Because for years, like I do, book map webinars once a week for them, live trading webinars on Thursdays, I would literally so I would get an iceberg event and I would have to find the bubbles that the prices that the iceberg occurred and draw the the horizontal lines manually to implement my rules around that event.
+
+Now we actually I have his own drawing tool on the book Map marketplace as well that I use that will draw this information for me, right. So it draws the icebergs and then it also draws is the same thing for the stop runs. Right. So the stop runs are yellow as well. Yellow and red. So above by stops are um above the line.
+
+And then cell stops are below the line. So the same as the icebergs. But there's a huge difference between stop runs and icebergs, right. So this is what it looks like on the book map heatmap. So then I have rules. Once I see an event again my important area then I have rules behind that. Now what we're talking about the events that happened.
+
+The sub chart. Right. So you got the by ice and then the cell ice below depending on you know where it happens. So in this case say it's a bias
+
+
+00:26:57.510 — 00:32:44.400 · Speaker 2
+by iceberg. So I know there's a large entity trading at this price. Let's just say it's 77,500 many S&P right. So this occurs and it happens usually on a number of prices. Right. It's not always on one price But so the market's coming down. They're selling. They're selling. And all of a sudden you see these big red bubbles.
+
+Again red read market orders market orders market. And it triggers this buy iceberg right. So it's like I always I always say that the trader whoever is like trying to be aggressive gets a mouthful of ice right. Muffled iceberg. Right. So someone's like thinking they're going to blow through that 100 lot, 1000 lot example I gave you before in the order book it looks like 100.
+
+And then below it it's there's another 900, right. Yeah. So does it always just reject. No. But it rejects more than it doesn't because this is the big money. And a lot of times they'll just keep putting in the icebergs and the market's going to eventually relent. Right. So the market comes down and you get these this iceberg that fires off.
+
+Right. That's number one I do not put a trade on unless I get this information. I don't care how good my area looks, how much I think something's going to happen. And that's a huge fallacy of of most retail traders is trading what they think is going to happen versus having it confirmed. Right. The way I confirm These areas is again, this is from watching hundreds of thousands of these.
+
+If the market is able to move a five minute ATR out of the zone. So I use a this is all part of the zone drawing tool to five minute Wilders ATR right. It's available on almost all software programs. You know thicker swims or anything like that. So and thinkorswim and stuff you get the five minute ATR but you never really know what you're anchoring it to.
+
+So I am anchoring it to this event. Right. So when the market moves out of this event let's let's I guess we'll just use this. Right. So if it moves the five minute ATR I consider that a bullish in that. Right. Because it's strong enough because you got to remember. And I'm going to show you this with the reversion trade.
+
+You have these algos that love to snap the Mac the market back to the event the current ATR right. So it's like they just they sniff out this volume and it just snaps back. That's the reversion trend that I was referring to that I'll show you. But the point is so I confirm whether it's bullish or bearish if it's able to push a five minute ATR.
+
+Above or below right, then if it's able, I won't enter a trade unless it can push just outside of an ATR. So in this case I use and this is all from trial and error at 115% of an ATR. So that's where I'll enter my trade long or short. So there was that by iceberg event on the sub chart. I'm sorry it looks like this.
+
+And then there was a zero line. So I had the event. So I will not put a trade on. So say I'm looking. It's a support level and I'm looking at. Right. So I have different areas that I again my important areas that I look for these events I get the event I want to buy and I you know, I don't have anything going on. All of a sudden iceberg fires off and I'm like, okay, now I need to see this prove bullish, will prove bullish to me is when it can move the five minute ATR out of the zone.
+
+Right. Um, and again the propensity for these markets to snap back at the ATR, I wait for it to get 115% of an ATR. And that's when my entry goes then my exit goes all the way. So for me and again this is from Trial and Error two. But the best way to avoid in any trailer that's watching this has ever trade in any time period in the markets.
+
+Knows this game with the out like you get in and you just get tortured on the whipsaw most of the time, right? Again, most of the time you do sometimes get that kind of move that keeps going. That's five, 10% of the time. The other 90% of the time is this nonsense, right? And they also know, like these elbows pick up where this where this big money came in, right where the iceberg comes in.
+
+So they know when that stops, they then they start playing their game again. And I'm going to show I'm going to show you the price change game. Um, but I demand that it pushes the full ATR out of that zone plus 15% beforehand. But like I said. And then for my stop, I also demand that for me to be wrong it has to push back that ATR.
+
+It's got to get through the volume of that. Right. So remember there's trap traders in here right. So it's very difficult most times for just to melt right back through that event because whoever was, whoever got short in here, when the market moves away, when it comes back, they went out. Right. So that that leads to some of my patterns that I'm going to talk about.
+
+But the point is for me to be wrong, if I'm going long here at 115% of an ATR, I force the market. If I'm going to be wrong, it's got to come back to that full ATR. It's got to get through the volume of that. Right. And then move another ATR plus to stop me out. Okay. So my position sizing is based on that. So the zone drawing tool that I keep referring to this is all built into there.
+
+So you literally put your size in the in the tool and it says there are what you're willing to risk right. So if I'm risking, you know, $1,000 on a trade, it tells me the exact percentages of how much that I can risk per trade that that doesn't. So there's no questions like that's where traders fail to they their over trading their account.
+
+They trade way too big you know. And it's they don't really know where they're getting out or getting in. And then they're trading too big. So I know exactly what I'm getting in 115% of an ATR. I know where I'm getting out. It's got to come all the way back through all those areas, like I said, to stop me out. And then I know based on where I'm getting in and getting out now, it tells me my my sizing, what I can put on.
+
+And I know if I put the straight on and does this and I get stopped out, I'm losing a thousand bucks and there's no questions. And I'm not, you know, over trading my account so that that's the basic premise around my position trades. Right. So again, when you get these iceberg events there's lots of trade in there.
+
+So when it doesn't finally move away and it can push the ATR out, that's where you get your bigger moves. And that's why I demand all my position trades have this activity before before I place them.
+
+
+00:32:44.440 — 00:32:50.320 · Speaker 1
+And in terms of those trades how how in terms of a target how do you justify the target for those sort of tricks.
+
+
+00:32:50.320 — 00:36:55.970 · Speaker 2
+Right. So for the position trades that's where it gets subjective right. So that's why I find it funny. Like I get I get a lot of like emails asking me, um, what's your pal. What did you do. Like show me some stats. That's where it gets subjective, right? Because say, I get in and say there's a big iceberg down here, right?
+
+And I get long and I'm looking at a gamma level, right, which we're going to go over. Right. Which is the second most powerful thing that I've seen. And I'm saying I'm holding this thing against the gamma level. Another trader gets the same iceberg event. They get out when it moves two actors, right. So they get out.
+
+They're profitable. I say I'm waiting for my gamma level. Something happens in the market like an Iraq headline that's been happening every five minutes for the last six months. Yeah. And it does that. Well, they made money. I lost money on the same event. Does that make does that make this edge not existent or not useful?
+
+No one trader got out here. I get out here. So I have my areas that I will that I try to hold to. The most important thing though, and this is huge for traders. This is probably the biggest mistake that I that I see traders make is the trailing of their stop. Right? I can't even tell you how many traders like you know.
+
+So they say they start getting this move and they say they get in here and they're looking for a move up here. Just say it's like a 180 or away or whatever 280 yards away. They get their move and they're like, okay, I'm going to move my stop to break even because I don't I'll make sure I don't lose money on that straight.
+
+Well, what do you think these elbows are designed to do? Most of them that when that's when you start getting this type of trade, they're going to snap it back, stops you out, and then it goes right when I get in and you say what? What are your what? Your targets. Right? I have my specific targets, other triggers, other targets.
+
+Right. That's where it gets subjective. But the point is if I'm holding for my target, I get I'll get out of intermediate. And then I'll also get out on this price change elbow game that I'm gonna show you. That's another entity in the market. But say I'm looking for a huge gamma level, right? And this is what I was getting at.
+
+The biggest fallacy that that traders have is they get this move, say they're looking for the same gamma level, and then they they get this move and they say, okay, I got in here, I'm moving my stop up to here. And then the market goes into rotation mode, algo mode. They get stopped out. Does this for like 20 minutes or whatever.
+
+Then it finally goes. They're out. I'm still in because I don't play that game. So the only how I trail my stops. So I remember we talked about my stop is one ATR plus is 115% below the zone if I go long. Right. So if I'm going long, it's 115% above an 815% of an ATR, above the zone, above the volume of that. And for me to step out, it's got to get through that volume event and 115% below the zone.
+
+The only time I trail my stop besides getting out in important areas. Like I said, the only time I actually trail my stop is with the new event, right? It makes sense. The market doesn't care where I want to make money or not lose money, right? It cares about volume and volatility. So why would I move my stop to some arbitrary random place the market doesn't care about?
+
+I move my stop so the market starts moving up. I get a new event with that same 115% of an ATR below if I'm long, that's where I trail my stop to that. Right? So there's days where, especially on trend days where you'll get like, I'll get a bye iceberg. I go long and then I'll get like, buy stops. And then I have a pattern, a different strategy that I'll put on.
+
+And I'm long on that. And then I get another one and none of them prove bearish. I'm in in and they're all different trades. Or I can be adding to my original trade based on the new event. But I'm never stopping out because the market never has the power to push the ATR below the zone. So I can be catching these huge trend runs with multiple positions on, and I'm trailing my stop to the most recent event.
+
+I don't move my stop and get elbowed out. If it can push the A tier back below there, well then I get stopped out. And I know that market's also telling me something. If it's able to push now all of a sudden that's a bearish event. Now I'm like okay is there anything up here to get short on. Right. And I get out of my lung and then I get short because I'm a day trader, right?
+
+So I'm constantly monitoring these iceberg events to decide, you know what I'm doing. I have distinct rules around them, exact rules and the sizing and everything that's there for me. All I have to do is identify them and pull the trigger. Right. That's it.
+
+
+00:36:56.010 — 00:37:04.980 · Speaker 1
+On average, how many times? I know it would depend on market conditions and what's being presented, but is there an average that stands out to you of like how many trades a day you'll be looking at taking?
+
+
+00:37:05.020 — 00:39:18.020 · Speaker 2
+Well, if I'm position trading, first of all, you got to realize. So what made me such a such a great scalper at the time is I process information very, very quickly. Right. So nowadays that's not viable like we talked about. I'm able to watch ten different markets futures markets at one time and trade. You know I have 20 different strategies a.k.a. important areas that I trade in.
+
+I'm able to do that. Um, some traders I shouldn't say most traders can't do it. Some traders can't can't only watch 1 or 2 and that's fine. That's just your processing speed. I could put on ten, 15, 20 trades in a day because I'm watching so many markets. If you're watching, just say it's the NQ and the S position.
+
+Trading wise I would say between the two you'll get, you know between 5 and 7 in a day for position trades. Right. Based on these events there are some days that like lately the E-mini S&P hasn't had any activity as far as stops and icebergs. But that's the beauty of this. This works in any futures market, right?
+
+So that's why I watch so many, because the edge is so powerful. If something's not happening in, you know, the main markets like NQ or ES or CL and I hear something far enough in weeder soybeans this is all the same stuff. All I'm looking for volume and volatility. So the key is though that I fail to mention is you're not trading every iceberg that occurs.
+
+Right. I have thresholds for for each market. Right. So meaning for instance in the E-mini S&P I need to see at least 700 icebergs to make that a tradable event. If I see less than 700, I ignore it. Right. So every blip on the sub chart I don't trade or you know, it won't even draw my zone. I won't even draw the zone.
+
+If it's not, it's not hitting my threshold. Right. So once I see 700 or more then I know it's go time. And the markets are different, obviously, because it's not the same size going through them. Nasdaq is only 150. So if I see 150 in Nasdaq now, now I'm ready to play. Anything less than that, I don't participate.
+
+Right. So each market has its own thresholds, and that's what I have. You know that I that's part of the zone drawing tool too, based on my thresholds. And you can make the thresholds whatever you want. But like I said I've been trading these for nine years and hundreds of thousands of these is from watching so many of them.
+
+I know what size is meaningful in a market and what's not or tradable that you're not just going to get whipsawed out of the trade instead.
+
+
+00:39:18.260 — 00:39:22.940 · Speaker 1
+So in terms of, uh, the numbers, they represent, the number of contracts, correct. In terms of that iceberg.
+
+
+00:39:23.100 — 00:39:50.300 · Speaker 2
+Correct. So icebergs for the E-mini S&P, I demand 700 icebergs or 500 stops. Uh, for the ES for the MQ, it's 150 icebergs or stops crude 150 icebergs or stops gold 150 icebergs stuff. So the main the biggest one is the ES or, you know, the other one. Two I don't trade it very actively is ah is bonds right. So I demand 500 icebergs and bonds to, to make it a tradable event.
+
+
+00:39:50.300 — 00:39:59.820 · Speaker 1
+So with the introduction of single stock futures. Is that something you're quite excited about in terms of that? If the volume and the volatilities and liquidity is there, you could start applying this to.
+
+
+00:39:59.860 — 00:40:08.180 · Speaker 2
+Absolutely. I'm a little nervous because I'm already watching so many things. But yeah, I mean I'm I'm very it's supposed to start this summer right.
+
+
+00:40:08.340 — 00:40:09.300 · Speaker 1
+I haven't seen very soon yet.
+
+
+00:40:09.340 — 00:40:27.780 · Speaker 2
+Yeah I haven't seen it yet. But yeah, I mean, I, I can't even imagine the edges that you can find in the individual stocks. Right. And again, when I got back in the business, I was training to, to trade stocks. But when I saw this information, this MBO data I went to futures. But I will gladly trade stocks if I'm seeing these same patterns in the futures.
+
+
+00:40:27.820 — 00:40:33.580 · Speaker 1
+Absolutely amazing. And is there anything else we should cover before we go on to the actual trade examples?
+
+
+00:40:33.620 — 00:41:25.550 · Speaker 2
+Right. So you get the it doesn't even matter what it is, right? It could be by ice. So there's four types of events to buy ice, sell ice icebergs buy stops and sell stops. Right. For this reversion trade, it doesn't matter what kind of event it is. There's just these algos for some reason. And again, the analogy I like to use is because everyone always wants especially.
+
+What I've noticed is the smarter a person is, the worse of a trader they are because they have to have a reason for everything that's happening in the market. You're never going to have a reason for everything that's happening in the market, right? So the analogy I like to use is when you walk into a room and you want light, do you have to dissect all the light bulb out and look inside and figure out why it works?
+
+Or do you just care how it works and turn the light on? Right? So a lot of this stuff I don't even need to know. Like why? Why did the market snap back to the documents? I have no idea.
+
+
+00:41:26.590 — 00:43:26.350 · Speaker 2
+A lot of times, I mean, I have some inkling on something. It's like the icebergs on games I used to play. Right. So just a quick example of this. Why this reversion trade may work again, this is just one of my reasons is like, say back then I could put on 3000 contracts, right. And say I sold 2000 here. Right. And the market did this.
+
+And now I'm sitting here like in my mind, I have my my area that I'm going to stop out. Right. And I'm like, I'm just holding my breath, praying that it comes back like, oh my God, I put on too many. I'll never do this again. Please come back. You know, praying to the trading gods, right? So when it comes back so when it, when it moves against me, if I have any bullets left.
+
+So back then I could put on 3000. If I had so say I had 1000 left, I would keep selling, trying to stop the market, trying to hold the market, to push it back to my area where I was originally to, to get out of my trade because I was wrong, right? At least for the time being, I was wrong. So that's one of the reasons I think a lot of these, especially iceberg events where whoever say there were sell icebergs in here, right, sell ice and the market did this well, many times, if they have any remaining bullets, they push it back to get out of their trade.
+
+Right. Um, so it comes back and then I would get out of my 2000 or start to peel out, and that causes the next wave up. So this is a reoccurring pattern for not only position trades for the reversion trade. So that's one of the reasons that I, that I think the markets come back again. I don't know, I don't care.
+
+The other reason is all goes for some reason. They just like to stamp it back to these volume events. Right. So the reversion trade is where you get the volume event. And I'm looking at the zone drawing tool draws all this stuff out on the heat map. You have the one ATR the two. Remember this is the five minute ATR.
+
+While there's ATR the one ATR, the two ATR, the three ATR above and below the zone right. We have specific trades. And this is you're asking before about targets. And and I said it's very subjective. And one trader may get out somewhere and somewhere. This is very straightforward where if you say I'm taking the the one ATR trade,
+
+
+00:43:27.430 — 00:50:20.290 · Speaker 2
+you're in at the ATR and you're out when it comes back to the zone. Right, the two and then the three. So traders may be saying well which one do I take. Well I don't know which one you take because we have different methods of entering these. First of all you can take them aggressively as the market moves into the ATR.
+
+You're just you're literally just standing in front of the of the move or we have another trade. and I'm going to show you these are my examples. It's called the Back in Black Trade. I have funny names for all my stuff, so it's memorable where it tags something important. So you know we're referring to gamma levels.
+
+It could be a Fibonacci. It could be a Bollinger band. These would be great. These are probably great trades for I don't trade Bollinger bands but write a great trade off for Bollinger Bands because that's all reversion of the mean stuff, right? So you already know it's going to revert to the mean. Then you have a volume event there that, you know, has a propensity to come back to the zone, at least in my estimation, at least 70% of the time, probably more.
+
+Right. So say you got a Bollinger band up here and it's at the three ATR where you wait for it to take the Bollinger band. And as it as it takes a Bollinger band, you take the three, the two, the one back to the zone. Right. So it's a very defined trade. You know, where your ATR are and you know where you're getting out when it comes back to the zone.
+
+It's a very scalpel trade. And it's a trade that traders gravitate towards because a lot of traders have a very hard time taking position trades and then sitting in a trade for hours waiting for it to hopefully get to the target. This trades a more in and out trade, but it's a scout trade. Yeah. So I have those two types of trades that I take for the stop iceberg events.
+
+Okay. So the second biggest entity market moving entity is this uh, this option is flow zero mostly zero data expiration apps and flow right. So this is just taken off. Back when I was a scalper, it was almost nothing. And I'll show you your chart for this. Every year it's grown. The total options trade in the market between stocks and futures.
+
+It's 70 million contracts a day now. It used to be like seven or less right. So it's it's this is becoming more and more the entire marketplace. Right. And when I show you these things you'd be amazed. It's so I look at. So there's two options platforms that I look at. And again I am not an options trader. I don't trade complex things.
+
+I just want to know I want to know the options flow. And I also want to know where these large gamma levels are, because that's where one if you see gamma levels, I'm going to show you different ways of looking at it. But the zero data expiration gamma levels on spot gamma they look like this. And if they're 99% or higher.
+
+Those are the meaningful ones according to breadth and spot gamma ray. So if you see a 99% next level, right. We talked about potential targets like the odds of that getting going up there as a magnet is is undeniable, right. So you'll be and I'm going to show you examples of this. Right. So you'll be sitting here and the s will be down here and it will find its Or Nasdaq and it will find its way to these gamma lows.
+
+But of the day they're magnets then they're also support and resistance levels too. So once again knowing this information say you have a Bollinger band or you have a candlestick pattern. Yes, those worked, but I just think that a lot of traders don't understand why they work. Now you start to see your candlestick pattern and then you're aware of this stuff.
+
+You say, oh that's 99. There's huge gamma levels here. I know, because what's going on is these dealers, these options dealers are delta neutral, meaning they're not taking directional trades. They have to hedge themselves when? When the markets get to these areas. So when the market comes to this in this case it's a support or a resistance area.
+
+You know that the options either are going to be selling there. Does that mean it's just going to every time to stop dead there. No. But most of the time it will. Because you know, they're not they're not the only entity in the market, but they are a huge, huge entity. And the bigger the next level, the more they have to hedge.
+
+So almost always you're going to get some kind of reaction there, at least if it's a short time or short for a short period. So you can imagine if you have whatever you have there, a candlestick pattern or Fibonacci or whatever. Now you throw in this and then all of a sudden, hey, what do you know, there's some sell icebergs up here, too.
+
+That's called confluence. That's the best edge in trading. Instead of just trading these areas like a Bollinger band randomly, just hoping it holds, now you have yourself what's really moving these markets are these gamma levels or options. These are hedging and the stop iceberg stuff. So the gamma levels you want to know where they're after targets.
+
+And then for support and resistance you'll get on both sides of the market right. Um and then the other thing that I look at so I use Spock, gamma, and method Q for those. I'm going to show those. And then the other very important thing is the real time options flow. Spock has a thing called the hero. This is they pay like 50 grand a month for the for this information from the CBO.
+
+Right. And it stands for hedging impact of real time options. That's the acronym for hero. Right. So you will be amazed. And I'm going to show you these examples. It's not the market moves. And then these dealers are hedging these dealers. It's the it's the tail wagging the dog. So these dealers are hedging.
+
+And it happens almost every time it happens before the market move they start. You got to know notional moves right. So if it's moving a billion or more. This is I'm just using SPX for for example. But this goes on in all stocks. It goes on. And all futures to ESP is the biggest futures or options market out there.
+
+So is the most impactful. But when you see these huge billion or more notional moves the market will move. So usually a billion move, notionally in the E-mini CP is worth about 30.20 to 30 points and the Nasdaq's 100 points, right. So you will see this option, this flow come in and then the markets just rip with it again.
+
+This is futures and stocks. And it's not the other way around. It's these options either. And think about this. This is what I was saying about the manipulation game right. These options dealers whoever these entities are they know these options dealers have to hedge in the underlying asset. Right. So instead of them buying the underlying and I wish I would have known that this game because it wasn't even that it wasn't even around back when the options trade was so small back then.
+
+But say I got loaded up back then, I could put down 3000 contracts with, say, I loaded up and I had nowhere to put on. I could have started buying options from the dealers, knowing that they have the edge in the futures. Right. So this is the newest game. It's the zero date to zero DT. They refer it to and this is running everything again.
+
+It used to be when I first started doing webinars with Spike Gamma, he used to act like this was the entire market. And I'm like, yeah, you know, these dealers are a big deal, but they're not the entire market. They're not still not the entire market, but they are very close to being the entire market. And I'm not kidding you.
+
+Most days it's either the owl goes, and I'm going to show you one of the hours that I trade off of. It's the owl goes or the market makers in there, and that's it. 5% of the time, like we talked about earlier in the episode, the big money, the program buying or selling comes in. But the other 90%, 90% plus are these options, options dealers or these algos?
+
+So what would you rather look for your trading something that happens 95% of the time or 5% of the time, right. So you have to know what's going on with these where these gammas levels are. And you have to know what the real time options flow, which ways that's going, especially if it's moving notionally a billion or more.
+
+
+00:50:20.330 — 00:51:26.690 · Speaker 1
+Definitely no, I love that. And I think, you know, to your point, the I only learned recently how much that volume of zero impacts the futures markets. And I think a lot of people out there don't actually know how much of how much weight is held behind that. And again, to your point, by knowing where these levels are, and it is as simple as literally these levels like just support and resistance levels, essentially how it represents in terms of the chart, um, or the visual, if you can you trade any of the strategy candlesticks, whatever it may be.
+
+Just having those levels alone are going to be super beneficial. And then even if you don't again use them, you will at least understand why price is reacted in whichever way when reaching those levels, right? Um, so it doesn't catch you off guard. And our job is traders, no doubt, is to have the awareness.
+
+And our biggest job, in my opinion, would be that learning how to, you know, slowly reduce the losses, slowly improve, uh, those take profits and things like this where you get such precise levels are going to help you to do that. Right, right. Make those small incremental changes that over time builds the PNL, protects and builds the PNL.
+
+
+00:51:27.050 — 00:51:57.620 · Speaker 2
+Right? Absolutely. Um, again, you have to know these levels are because it's becoming the entire market across the board. The algos are the biggest entity, but there's many, many hours, right? There's there's reversion to the mean algos. There's, you know, price change out. The one that I, that I pay attention to.
+
+And this is being able it's able to be seen through again book map. They have a add on called market Pulse. So it's called the price change algo. Right. And I use in the very basic sense it's just default. It's a five minute price change. Algo
+
+
+00:51:58.940 — 01:00:12.040 · Speaker 2
+price change right. So the way this works is when there's nothing going on. Right. So again when the big money is in here the market will price change. It could price change for 50 points or 100 points. Whatever market you're looking at when there's nothing going on, that's when these these algos start to go full bore.
+
+Right. So the way this this algo works is when the market moves too far, too fast based on the last, in this case five minutes. These algos snap it back. And then on the book map you'll get it'll color. So I have a color that's it's colors at 70%. This is all default. So if the markets move 70% or more over the last five minute window, it'll it'll alert you.
+
+You can have a sound or you can you can see it visually, but you will see again I have examples of this many, many, many examples where the market hits, the price changed, meaning moved too far, too fast, and the market goes this way and then it'll price change. This way you'll get that coloring and it'll, it'll do this.
+
+So every time a price changes it goes the other way. So this explains a lot of the range trade why it's even traded in a range right. When nothing's going on then you get these price change. All goes that come in the market and you can literally scalp around them. I don't trade these. I'm too old to trade this type of way anymore.
+
+You know, this is all I used to do is stare at the order book and in and out, in and out. But what I do do is we talked about earlier, like, if I get a position trade on and I'm aiming say for Gex levels that we talked about, right. Yeah. Well say there's something before they say there's like a smaller guest level.
+
+And then I see when we get up there, I see the price change algo firing off. Oh, I know that there's very likely going to snap back. So what I'll do is I'll trade around my position. So say I got a ten line on right. Comes up here, I'll get out of five and I'll wait for it to price change back down and I'll put it back on.
+
+So I always wait for an important area to get out. But on the on, you know, in the direction of my trade. So in this case I'm long when it pulls back. Uh, it doesn't have to be important area. I'll put it back on just on the price change. Right. So it's a price changes back down I'll put that five back on. Comes back up to an important area and you'll be amazed.
+
+Like I'm convinced that the best way to r right. The risk reward factor is not trying to catch, you know, say in the Nasdaq 200 point moves, it's catching 20, 3040 point rotations when this when this occurs. So instead most traders get in the position trade. And you know they've got a target and they're sitting there for hours and they're doing this and they're getting frustrated.
+
+Well when you understand this price change game you can now take advantage of that rotation stuff when nothing's going on. So it's like you're almost wanting that to happen because every time. Especially lately the ATR and Nasdaq's been like 60 you know. So you'll get these 60 point rotations. You get in, you get in.
+
+You're in your full position. You get out of some road price change back down. You put them back on, get out, put them back on, get out, put them back on. So it's like you catch these rotations. So you're catching 60 point moves 60 points 60 points. How often do you how often does that happen versus this whipsaw trade versus straight 300 point moves.
+
+Right. So it's like you're taking advantage of these algos that come in the market that love to snap price when nothing's going on. You do have to realize though, there's going to be at some point even say you're doing this game. It's going to price change when the big money comes to play. And they do come to play every day.
+
+At some point you're going to get run over, but, you know, you just stop yourself out at an ATR and then you wait for it to start again and you can do this, but I like to do it to scalp around my position. But this is a major player in the market, and I have a couple examples that I'll show you from that. Right. And then the last major market moving entity.
+
+Um, probably the biggest one. And this one is easy to see coming, but it's I use it more to get out of the way. Right. So we've been talking about all these different strategies with Dubai icebergs, icebergs and you know, gamma levels and reversion trades. Right. So it's like I'm taking a reversion trade.
+
+So this is a long reversion. It takes the ATR I'm hoping it comes back to the zone. So on days like when this is happening this is when the reversion is getting run over because it just keeps going. Right. So when that's happening you get some clues that it's programed buying or selling. So program buying or selling the large institutions that just dump baskets of stocks into the market, the best way to determine that is by the NYSE and the Nasdaq.
+
+Tick right. Showing you that. So I think it's like, you know, 3500 Nasdaq stocks and 4000 NYSE stocks, give or take. Um, so if you if you again I use the thinkorswim. But you can get this on any platform search or anything. It's like dollar sign tick, right? So you get it for the NYSE. And the NYSE is usually responsible for the um the ES and then like the YM futures right.
+
+So that's where you can watch for that. And then the Nasdaq tick is obviously um for the Nasdaq. Right. So the way you can you can watch for this. This is the number one signal. So I actually have audio alerts when this happens. So the tick looks like this. It'll be and I put levels at plus a thousand tick -1000.
+
+And then I'll have sublevels of 500 -500 and then plus 500. Right. And then you have the zero line right. Well most days the tick stays between the plus 500 and -500. That means there's nothing really going on. Then you have 5% of the time, if that is probably even less than that, where the tick starts hitting extremes.
+
+And I don't just mean one pot because some traders actually play this reversion where it hits its the extreme, and then it rips back to zero and they catch that quick movement, right? I'm not talking about that because that does happen when I'm talking about when to stay out of when you know that this is probably going to keep going, right?
+
+All because I am traditionally like a fade type trader. Right. So on days like this, this is where I get hurt, where I want to trade my versions or whatever, that if the tick keeps it goes to -1000 or more. Some days you'll start and this is when you really know they're in there. The program sellers minus, you know, 13 1400.
+
+And it just sits down here for like 20 minutes at a time. That's how you know, that's one way that you know. And you're going to know. Because if the market just keeps going, right. And then the other way it's looking for heavy relative buying. So if you're seeing so I use the Seer chart and I look back. So in there you can program how far you want to look back.
+
+So my look back on the for the relative I am is 30 days on the series chart. So I'll look and it'll tell me I want to know if it's 200% or more. So the volume for that exact five minute time period is to say it's 10:00, right? It'll tell me if it if it's 200% or more for the last 30 days, It'll light up. I have mine light up yellow and it'll let me know.
+
+It's the exact time period over the last 30 days. This is above average volume, right? That's just alerts me something bigger is going on. And many times you can use this as well to hold on to tracer. We talked about targets earlier. If you don't see any relative I'm coming in and you say you get in a position trade long and you see the relative volumes at 80% for the day, that's when that price change algo takes over, right?
+
+If you see that 400%, 300, 400% that this is the same premise, everything's based on volume of volatility, right? Same premise of the iceberg. Right? I was saying earlier how I look for these events because I know traders are trapped. Well, if you're seeing 300 or 400% relative volume, you can bet you're going to get an outsized move at some point.
+
+Don't mean it's going to happen right then. Yeah, a lot of times you'll see a market ranging like this, and then all of a sudden you see the relative volume start to spike and it's still in that range. Well, that's telling you something big is about to happen. And then that's where you get your bigger moves.
+
+Right. So the point is you can use the relative volume to stay in trades longer. But for this example, if you're seeing tick extremes, either you know, plus or minus and it's like hanging at those thousand levels and you see heavy relative volume do not fade the move again, they're done. Eventually they'll be done eventually.
+
+It doesn't last all day, but it could last, you know, half hour hour or the market. And this is where traders get in trouble too. The more experience you have in the markets, the more you're expecting that. Right? Because you just see that nonstop. You're like, oh, this can't go any further. This can't go any further.
+
+That's what traders get on days like this, this traders like me that have experience get hurt because they're like this. Can't you see yourself? This can't keep going. It can't keep going. Don't ever think a market can't keep going. Yeah, but the best tell is if it's hanging at the tick line and you're getting heavy relative volume, stay out of the way of that entity.
+
+Again. That happens 5% or less of the time. But when it happens you do not want to be messing around on the market fading.
+
+
+01:00:13.080 — 01:00:16.680 · Speaker 1
+So from here we're going to look at the examples on the chart. Yeah. Right.
+
+
+01:00:17.320 — 01:02:19.320 · Speaker 2
+Um, well, this first and foremost is my. Um, back in the day when I was scalping, just to show you why firms basically use icebergs nowadays. So you can see back then. So you can see back then there were thousands up. Right. So for instance, this was there was 2300 here. This was actually a thousand. This was mine.
+
+I was sitting here in the order book. This is the game. I used to play it. Right. So this I was talking about how active I was and just watching order flow. But the point is, back then, if I were to say I wanted to buy, I jump up and buy this order. You could see I was most of that bid right there. But if I buy it and I need to get out, I can lean on this size nowadays.
+
+First of all, there's no size in there and you see a big order, but when the market comes down, it just disappears. It's like a vacuum, right? So this is why Scout trying to scalp the dome is so hard these days, because the size is nothing and it's not real half the time anyway. So this is just an example of we can get into this.
+
+And if we do another one you know the counterparty, you'll be able you can used to see who you traded with. And it was just you know this this is the game I'd play out along. This is how I traded, you know, 50,000 a day. In and out, in and out, in and out. But I have extensive volume experience as the this is the point.
+
+Here's another example. You could see I was just loaded on all the offer or most of these offers, most of the bids, and I was just playing, you see, I think I was short 370. It's not that clear. But um, and here's another thing to just this is when I finally took off as a trader, I stopped watching my PNL. You see, here I have it.
+
+It's a green that day, but I stopped watching it. It's watching every flip of the money. Because when you're looking at money, at trading money in real world terms, you don't make correct decisions because you're like, oh, there goes my mortgage. Oh, there goes my car payment, right? Take it off your screen and just trade.
+
+I have your loss limit for the day. If you hit your loss limit, you know you should have a broker that just cuts you off. But you know, that day is just not meant to be. Move on to the next day. You know, again, if we do another podcast, I'll tell you my ridiculous stories of losing $800,000 in five minutes two different times in one year.
+
+It was brutal. All because I didn't respect my lust limit for the day, which was supposed to be $100,000. So that's a whole nother
+
+
+01:02:20.400 — 01:02:21.280 · Speaker 2
+story. Yes, exactly.
+
+
+01:02:21.440 — 01:02:22.240 · Speaker 1
+People will be asking.
+
+
+01:02:22.880 — 01:07:56.260 · Speaker 2
+So this is this is some of the examples that I was trying to show you guys on the on the board. Most of these examples are from last week. Right. So it's not like I'm cherry picking stuff from, you know, a year ago. This is literally last week. So this is an example of the market moving higher. So remember we talked about the four different types of of orders right.
+
+So this is this sub chart. So you can see these ribeye stops. That's this yellow box. And then you see the sellers come in here. So one you know the buying is usually when you see stop runs almost always it's retail traders puking right. So that is not initiative buying most of the time right. We do have a we do have a I do have a setup that's called a stop and hold where retail trader pukes.
+
+And then it's able to push the ATR above. And then the big money continues to come in. But most of the time this is just retail traders puking. So wouldn't you want to know that? So say you're looking at a breakout and you want to get long. You're just looking at a candlestick and you see these huge candles going higher.
+
+You know, these yellow or green candles. You're like, yeah, I want to get in. Well, wouldn't wouldn't behoove you to know what's inside this candle like we were talking about, right. It's by stops and stops by stops are usually fades because it's just pukes. It's not initiative. And then you have cel ice coming in.
+
+The big money selling here as well. That is very important information to know. And again I don't care what what you're looking at as far as your indicator or what your edge is, if you don't have this information first and foremost, then you just don't have all the information. And I'm telling you, you will be a hundred times better trader understanding this stuff, right?
+
+So this particular day, this is last Monday, I think it was you see the stop runs that failed right away. And you can see here too. So this is the zone drawing tool I was, I was telling you about. So this was the most recent one here. This is the most recent one here too. But you see there is cell ice. The blue line is the ATR we talked about.
+
+And then the yellow line is where I would initiate my short. In this case, where I remember I said, I want to see the market move 115% out of the zone, right? And then if I enter a short here, my stop goes. Remember we said I forced Mark to move that ATR back, get through the volume event where I know there's trapped traders.
+
+Right. Somebody was in here buying. You see these blue bubbles and the sellers came in that triggered that. So I know there's trapped traders here. So it's going to be very hard to just rip right through here. It did stutter here a couple of times and move a little bit in the air more by. But the point is my stop.
+
+If I got short off of this event, my stop would have been up here and I never would have been stopped out. Right then it came up here again, more puking. Right? And then so this right here was telling me again, I just don't jump in just because I see sellers at buy stops when it when it proves to me Arca can get a ATR out of the zone, that tells me this is more likely to move lower than higher.
+
+Right. And you can see the after effect here. Right? So this wasn't a huge move, but it was a 200 point move in Nasdaq. Right. So that was that by ice here. The slice was here. You get the skull and crossbones. This is part of my zone drawing tool. If it takes the ATR both ways, it just does that. But the most recent event was this.
+
+And this moved 200 points lower right. So and you can see here too this is a good example of the the big money pit I call paper. The institutions are not always right. In this case the bias did come here come up here. And it still proved bearish. Right. And that was telling you something's up. If you see these things failing it's more of a propensity to continue lower right.
+
+It's telling you which is an ATR that this can happen. So this day you know you had a 200 point move because of this information that it gave you. Here's an example. This was the next day gold. Again it doesn't matter what futures market you're looking at, as long as you get the thresholds that you're looking for.
+
+Um, this was actually I started this late. My room showed me where this was, but this was a size event, right? This that means it was 150 more. I think this one was 300 this day. Um, one it was at some decks levels that were I'm going to show you that we talked about with the options activity. So these are longer term guest levels where I know dealers are hedging.
+
+Then you get the cell ice, right, and then you also get. So this is the heavy wrestling liquidity that I was telling you about that are like magnets, right? So the longer it's been in here and the brighter it is, the more of a propensity for these markets to come to these as magnets. It's not the opposite. Like a novice trader would look at this at the start of the day and be like, well, look at all these big bids.
+
+And again, this is just showing you the order book. It's all it's doing as heatmap, um, in heatmap form. But most novice traders would be like, well look at all these buyers down here. I want to get long. It's actually the opposite. The market is going to come tag these areas eventually. Um, and then it will probably go higher once they get their fills.
+
+But you got to remember this is the big money. They want their fills. They will push the market into these orders. That's exactly what I used to do here. Right. So I would get long. So if you imagine this as a heat map, then this wasn't a round. Back then it would look just like this on the heat map. So I would start getting along here and I would, I would buy, I would buy and I would see if there was any resistance there.
+
+Would I buy some more? And I would load up the bids and I push it into my resting orders. It's the same game is going on today, right? So that's how I know. So what I'm saying to, like, listen to my experience. This is what I'm talking about because I used to play this exact game, right? So this day and on top of that, so say you open up your, your, your book map and you're like, wow, look at that resting liquidity I know the market's going to be heading there.
+
+Doesn't mean it goes there right away. But eventually it will get there. Then you see sell ice and you see it's Gex levels. Now that's an edge. And this isn't this is before any other indicator that someone's using say you're using the Bollinger Bands and that was the top of a Bollinger band, or this is a candlestick formation that you got.
+
+That was a short formation. Now you get confluence or you get confirmation with the sell ice. And hey, there's wrestling liquidity there. Okay. This thing's moving lower. Everything's in place for my trade. You see how you can really tighten up your setups by stuff that's actually happening in the market?
+
+
+01:07:56.300 — 01:07:57.580 · Speaker 1
+Build your confidence around it.
+
+
+01:07:57.860 — 01:08:01.260 · Speaker 2
+Right. Versus just hoping that something's going to happen just because you see your setup. Right.
+
+
+01:08:01.300 — 01:08:44.819 · Speaker 1
+And what's the reality for like someone like yourself where you've shown us the platform you're using before. You know, I think a big hurdle that a lot of people put in front of themselves. And there's a real hurdle as well in terms of learning the new platforms and layouts, for example, because like looking at the screenshot, for example, I can imagine there's people who may not have never seen the screenshot before.
+
+And even if they have, they reluctance to learn would probably be just because, oh, that seems that looks complex. Or it looks like there's a lot going on, right? Is the reality very similar to when learning candlestick charts of to begin with? Of course, it's going to feel that way because it's completely unknown.
+
+You just need to put the time in to just learn the platform and understand the different pieces and puzzle pieces and how they go together. And then it becomes more natural to.
+
+
+01:08:44.859 — 01:12:41.390 · Speaker 2
+Right? Absolutely. I mean, again, you're not if you have to put in the time to learn this stuff because this is what's driving all trade, right? So and this is not complicated I know it looks complicated. It's really, really not coming. Again I've when I was trading, when I showed you those first screenshots, I was just trading the dome.
+
+I didn't have charts up. That's how simplistic my training was. And I've always gravitated. The simpler you can make it, the better, because then you have all these conflicting signals, right? All you're seeing here is the volume events that I was showing you. The the liquidity. It's just the orders in the order book.
+
+And then my zone drawing tool, which is the volume that like I said, and then you have Gex levels. That's it. Like you're not this is not a bunch of indicators on here. It's just showing you the, the main, the things that are driving the market. Right. So one, if you're not trading with this stuff and understand it, I don't even know how you're making money.
+
+You are you should be very excited because now you had this and now you're going to take off in my opinion, right? So I can't guarantee anything because you can show two traders the exact same trade and one guy will lose money, another won't make money. But if you have this information, at least you are in the know.
+
+Here's another example. This was on Friday and I'll show you when we get to the option stuff, how this kind of signal this was going to happen too. But you can see this is this is specific time to if you guys are going back and looking at this, this is so this would be what, uh, 2:00 eastern. So you see it started a little earlier here in And he asked, you had the cells come in and there's your ATR.
+
+So this is the new zone drawing tool. I have to it actually when he tags that ATR it draws this arm. Right. Remember we talked about the ATR. And then this is where I would get short just outside that yellow line. Right. So anyway this was a short setup. And you see the move it made off of the celly. So that was already telling you the big money was willing to sell here.
+
+And I'm going to show you something with the options too. They told you it was even more likely to do this right. And then an hour later, here's a slice. And as a huge move, what was this? This was like a this is a 300 point move, right? So again you you have more information. One it was it failed through these guest levels.
+
+Right. And you're seeing slice the two. If you paid attention to the webinar, the two major entities in these markets that are driving things right. So that was literally on Friday. Now here's some these are instances where these are my important areas. Right. We talked about earlier. It's not for me to tell traders what areas they think are important.
+
+What I'm saying is if you demand an iceberg event in that area now, you have yourself a real edge. This was an example. So I use lead with levels. These things are incredible in their own right. We haven't gotten into them today, but they're really, really powerful too. She's been around for like 15 years.
+
+I don't even know what this is. An example of the light bulb example I gave you. Or she doesn't divulge this all proprietary. It got to the point where I didn't even know why they work. I'm just like, okay, they work. That's all I need to know. So I just demand a volume event in those areas. It's go time. This could be anything.
+
+This could be this was VWAP at the time. It could be VWAP. It could be a Bollinger band. It could be Fibonacci. It could be anything. Anything that you look at. Just demand that. And then the rules behind it, you see it move the ATR out of there. I was short right. So and these are just examples of my important areas where I'm looking for the volume.
+
+But this was a market profile composite a lot of people use market profile a composite is just when the days are merged together. Came down here. Here's BAE icebergs right there. It was actually this is called the double whammy. So I have names for six distinct stop iceberg events and I have names for them.
+
+This was so we talked about earlier. So you had cell stops. That's usually guys puking right. Then you had buy ice. So think about the power of that. In its own right where, you know, the pukes are probably not initiative sellers. This guy's getting out. And then you didn't see the big money coming in. And you can see now it's also in an important area.
+
+Market rips. Right. So again, you're just confirming an area with stuff that's happening right now in the market, which is the most important thing. This is I call this one a sexy sexy. This was so I get I have a memorable names for these these games that we're going to get in these next levels here in a second.
+
+This came down to two method q x levels and a spot gamma level. And then so we already know the dealer is going to be hedging here. Again it doesn't mean it's just going to stop here. But more than likely because unless there's something bigger going on it's going to bounce because they have to hedge. They are not directional traders.
+
+Then you throw in bias that came in here off the charts.
+
+
+01:12:41.670 — 01:12:46.710 · Speaker 1
+You just layering those confluences together. The more they can align, the more conviction you have behind your trading.
+
+
+01:12:46.750 — 01:12:56.670 · Speaker 2
+Absolutely. And you can imagine this was just off the Gex levels if you can imagine, like what do you trade off? What are your areas that you look at? Like what's the most important thing you use Bollinger Bands to use?
+
+
+01:12:56.830 — 01:13:03.470 · Speaker 1
+For me, I'm using, uh, candlesticks. So you. You have a disgrace. And that side of these, um.
+
+
+01:13:03.510 — 01:13:04.870 · Speaker 2
+Well, no candlesticks work.
+
+
+01:13:06.390 — 01:13:35.270 · Speaker 1
+Exactly. Yeah, but my. I haven't had time to go, uh, because I do all these things and put more focus there, so I don't actively trade. Uh, last year I was. But the thesis behind what I do, even with the candlesticks, is trying to identify without using order flow. Like, okay, where would the liquidity be?
+
+All the orders be right? Right, right. Which, uh, when you then understand that there's literally a chart that shows that shows that doesn't make sense to do it without it. Um, but yes, that the philosophy wise is the same mindset.
+
+
+01:13:35.310 — 01:22:44.779 · Speaker 2
+Right. Exactly. So you can see here too, that was that wrestling liquidity didn't quite get there. And this is the other thing too, because these algos, this is why firms use icebergs, because they pick up the size in the order book and they run it away. So it got real close to this. These algos picked the size up and ran it away.
+
+So that's why they use icebergs, right. So yeah. So you know, I've seen episodes of yours with the guy. A couple of guys have talked about liquidity and, you know, just I don't want to say guessing, but, you know, when it comes down there, they say, okay, there's going to be liquidity there if it touches multiple times.
+
+Well this is actually showing you there's liquidity there right. So that's very important to know especially you know again if he if one of your guests can remember his name, if he's using that system and then he actually pulls up the heat map and he says, okay, there's actual liquidity here. Oh, and here's some bias in that area, too.
+
+I know big money's playing there right now too. There's not a better edge. Yeah, there's not a better edge in my opinion. Um, this was so talk about, uh, patterns. Right? So I still look at candlesticks, but I look at him. The markets are in 1 or 2 states. They're either balancing or they're trending right?
+
+Balancing or they're trending. This is the most powerful position trade out there, in my opinion, that I take. It's called a fail balance breakout. Right. So the market tried. This is kind of you can see it took a little blip out of there when the markets tried to break out of balance. And it fails. Yeah. When it gets through the high volume and high volume, there was just a middle of a balance where the most trade occurred.
+
+When I get an event that proves bearish. You can see here somebody tried to hold it up with the bias. This is an example that the big money is not always right. But the area is important because there's a bunch of traders here and someone's got to get out. In this case this bias probably said oh wrong right. But the point is I'm using a chart pattern.
+
+They'll balance breakout confirming it with a. We call this a broken ice event. This one was six distinct events that I talk about. It got the ATR out. I was short and you can see the move that it made right. So again anybody can see this you know. But now you say okay now I have a volume event here too. Now I know where to get in, where to get out if I'm wrong and it's go time.
+
+Right. So this is just anybody, no matter what you're using, if you add this stuff in, I'm telling you, your whole trading life is going to going to change. And you can see here too. Speaking about decks levels. So this was the largest guest level on the board decks one metric one. Once it got through there what was support.
+
+See how it was trying to support it. And someone was buying there once. Got through there. Now it's it's resistance. Right. So you're using that information with your traditional pattern stuff chart. Chart structure stuff. It's just it's golden. So these are now we're getting into the revisions right.
+
+So we talked about that quick scalp trade. So this is what traders gravitate towards the most because they can't sit through position trades. So this is a great example. Buy ice came in. There was actually some sell stops earlier. The reversion worked that way to these. You would be absolutely floored if I showed you how many times these things work in a day.
+
+This was Nasdaq. This is a back in black where I waited for where we talked about. You can take them aggressively as the market moves into these ATR. So these dotted lines these dashed lines are the one ATR. Here's the two ATR threes up here. It's not on the screen but this one it got to the one ATR. You're running into all of these decks levels where you know the dealers are going to be hedging right.
+
+It doesn't mean it has to stop here. But when it does then you take the corresponding ATR back to the zone. You're out. Right. So this is a very thin out. Define trade. Right. Okay. So this is another example of the reversion trade where the stop iceberg event here. This was a buy stop run signified in yellow here.
+
+And with the trade is where you're this is a back in black where you're waiting for it to tag something in this case was a longer term gamma level next level and then a zero date to expiration. Get next level and you can see the market headed up right here. That's where it's stalled. Tag this. And then I don't have the finish of this but it was a winner.
+
+Came back to the zone. You're out. So another reversion. This is what I call an A plus reversion. So a plus reversion is same premise we talked about earlier where where traders are caught when it comes back it tends to reverse out of there because whoever was long in this area wants out. So say you were long in this area, did you?
+
+You always want to keep trading simple. The way to keep it simple is to say, what would I do if this was me, right? So if you're in this area and you're buying, how would you react if the market did this and you were holding your breath and you didn't step out? Well, when it came back, you he went out. Right. So that's what this trade is based off of where you're relying.
+
+First of all, the markets already retest these areas with ridiculous propensity. Anyway the reversion trade. But this one's a plus. And you can see it donated by the by the zone drawing tool where it's telling you that your entry for this one ATR was in a prior event. So it's a prior event. You get in the one ATR back to the zone.
+
+You're out again in and out type of trade. But this was a ES a plus reversion kind of we just talked about here is your prior event. This one was just before it. So the entry for the A plus reversion could be just in forward or in it, just as long as the stock was outside of it. So the stop is the red dashed dotted line.
+
+So in this case the A plus your entry was the one ATR. Um you're in there and you're out when it gets back to the zone. This was the prior event. So you're kind of leaning on that not to blow right through there because traders who were long here, especially how quickly moved out they went out when it comes back.
+
+And that ups Abbotsford Tower back to the monument to, um. This was taking the attr off of a hero flow alert. I'm going to get into that here in a second with the real time options flow. So the real time options flow came in. Here you can see the sell ice event came in and moved lower. And then a flow alert came in.
+
+So the spot Gamma Hero flow alerts signify large options activity firing off. And when you get those the market usually reverses. When I say usually my estimation is about three out of four times where the market will reverse where you can. You can jump in these reversion trades when you get that real time options flow, which you did here that fired off.
+
+You can jump on the one ATR back to the zone winner. Now we'll get into the options. This is the second biggest entity out there that uh it's it's a close second. It's you know most powerful market moving entity uh, is the uh the options flow in the gamma gamma levels where these options dealers have to hedge their positions.
+
+You can see the how this volume options volume has exploded. So it was even lower than this when I was, you know. Scalp. And it was almost nothing. And now it's, you know, over 70 million contracts a day, um, between stocks and futures. So it's just the zero data exploration game is just taking over the markets.
+
+And you have to know where these gamma levels are. And you have to know which way the flow is going. I'm not an in-depth options trader. I want to get better at it, but I don't need to be an in-depth options trader to trade futures and trade my, um, my system and my methodology. I just need to know, um, you know, where these levels are.
+
+And the other thing you want to know is the the positive versus the negative gamma from positive gamma. Then the markets tend to be more of a range type trade. Right. So if you have like um, you know, the markets are more contained or these dealers hedge, if the markets move up and they they're, they're, they're hedging their shorting of the market moves up and they're buying the market moves down.
+
+Whatever you're trading, if you're expecting big moves and positive gamma, You got to know that it's probably going to be more of a range type trade where they they sell rips and they buy dips. When you're in negative gamma, that's when the dealers amplify the moves, right. So this is very important to know.
+
+Again you don't have to be too technical about it. Both method Q and spot gamma signify when you're when whatever market you're looking at is a positive or negative gamma. Negative gamma. That's where you can, you know, get an event or get your setup. And you can be looking for amplified bigger moves just because of the negative gamma, um, structure.
+
+The other thing that is very, very important, this is the real time options for this is from space gamma spot gamma. This is called the hero hero indicator. So this is the acronym. Again I went over it earlier the hedging in real time options. So that's what that acronym for in real time options flow. So when you get these flow alerts the markets again tend to reverse.
+
+And it's telling you something bigger is going on. And the other thing that you want to look for are these notional moves. Right. So you can see the notional here. So reference by gamma likes to refer to 1 billion as meaningful. So when the market moves a billion or more you're going to get significant movement.
+
+And again this stuff is leading the futures. It's not the other way around. So many almost every time actually this moves first and then the then futures go. So you can see here I'll show you the futures market as well on the book map chart. But this was the actual the the, the purple line is the options flow and the white line is the, the actual market.
+
+Right. So you can see here this thing started to move notionally and the market didn't really relent because there's other there's a lot of times there's other entities in here. So somebody was absorbing the dealers selling here. So if it's moving lower then dealers are getting loaded up with options.
+
+Um, so they're, you know, they're on the other side. So somebody selling calls or buying puts. Well, the dealers are buying calls or selling puts. They're on the other side of the trade. They have to hedge with their futures. So if it's moving lower it just means that the dealer has to hedge in the futures going that direction.
+
+Right. So this was moving lower and the market didn't really do anything. And it just kept going going, going. And then the market finally relented. Here you could see it here on the on the map doesn't look as extreme on this view versus what it was, right? So
+
+
+01:22:45.820 — 01:23:58.339 · Speaker 2
+you got that flow alert that I showed you in the market, moved up a little bit like five points. And then they just kept hammering. These dealers were coming in hedging themselves. So that's what this activity is. And the market finally relented. So whoever was trying to hold it up didn't do very well after that.
+
+And another this is another large flow alert. This was uh, July 9th. You can see here. This is actually during one of my webinars that I was doing. You have the flow alert here. And the market didn't do much. But once it started turning over, then here comes the market. And this is another view of it. Right?
+
+You can see here how this option's flow just dictates everything. So the flow came in kind of hung here for a little bit. And then this started first. And then lo and behold here is your uh this one was a 40 point move notionally. This was uh went from right around positive 1 billion to -4 billion. So this is a 5 billion move.
+
+And you can see what it does to the market when that when that dealer flow comes in. They're just they have to hedge themselves in the futures and there's some not absorbing. These markets will react which they usually do. You know you do have the occasional the market does absorb the dealer flow. But 90% of the time, wherever this flow is going, that's where the market's going.
+
+There's another example of a flow alert that came in on the options flow
+
+
+01:23:59.500 — 01:25:52.340 · Speaker 2
+started moving lower. Dealers are hedging. Somebody is absorbing it. So we've been seeing more and more of this lately where somebody somebody was absorbing it. But then they had to finally say uncle because the flow keeps going and going and going. You can see it here that, that was this was actually on the end of the day on last Friday, 724.
+
+So the market was hanging at the highest. That's that white line. And then it did this, you know into the close so you can see. And then on top of that you got some ice coming in here too on both markets I showed this example earlier. Um but again you already know the options flow is moving lower notionally a lot.
+
+Then you see sell ice. Now you have yourself an actionable area to to take your short. Again, that's a slice you're getting short at the just outside the ATR. Your stuff goes on the other side. That was Nasdaq. Um, this was the esses. They actually started earlier to start it around, um, 10:00 Pacific, which was uh, that's 1:00 eastern and then 2:00 eastern.
+
+Here comes the slice and Nasdaq. So the, you know, the ES and the NQ usually moved the same, uh, I mean, reacting to the SPX order flow because there are a lot of the same mag seven stocks I highly highest weighted stocks right. So you can see these moves that occurred. This was literally on Friday. Uh this is another example of a large notional move yanking the market lower.
+
+Right. So this moved 8 billion and started at 2 billion down to -4 billion. Um, you can see what it did. This was on July 22nd, so that most of these examples are from last week. Right. So you can see what it did to the market. So this literally started before. So this was at 1:00 eastern. So that started before the futures actually started to move.
+
+Right. Right there. So again it's the it's the tail wagging the dog. It's not the other way around. It's not the futures moving the options. The options flow is moving the futures. And you have to be aware of that and your gamma levels, which I'll show you here shortly. Uh, here's another notional move here.
+
+
+01:25:53.900 — 01:25:55.740 · Speaker 2
+So you could see right there.
+
+
+01:25:58.140 — 01:28:49.990 · Speaker 2
+That was this. This turns over and you get a huge this move from 1 billion down, -1.2 billion. So over 2 billion move. That was that. And this is a good example too, of a um of a divergence. So you can see here this was telling you this market was probably gonna rally for for a couple different reasons. First of all.
+
+So that was the first flow move. That was that move. Right. And then you get the flow alert, right. The one that was telling you that the market's probably going to going to bounce. That was this move here. So what was what was interesting here. You don't see this very often but this the market did move lower here.
+
+And look at the hero. So the hero is not making and I show better on this. This next screenshot. Look at the divergence here right. So this could have told you this was this was ending one. Here's your stop iceberg event. Sell stops or usually just retail trader pukes usually reverses right. This one did hold at the time.
+
+And but then this one didn't finally relent it. But you can see here that was the original hero move. That big notional move. Then you got your flow alert. It did respond and the market made a lower low. The hero did not. That's telling you if this hero is not making new notional lows has a very very very high probability of bouncing.
+
+And you can see is exactly what happened. So again, knowing how this reacts and what it should be doing versus what it's what it's doing can give you the signals. And then you add in your stop iceberg information and you have yourself a huge, huge edge. And you can again layer layer this over your pattern or, or your important area you're looking at.
+
+It just gets you gives you confirmation of what you're what you're expecting to see. This is an example of the of the actual zero data expiration levels where the markets will come to these these heavy gamma areas. So these are zero date data expiration Gex levels right. So expiring today. It's the biggest game that there is.
+
+There are magnets. And then there's support and resistance. So you can see this market opened up and then started to gravitate towards this. And then this is what it ended up doing. You could see it came right down there. Not only was it a magnet, then it bounced from that area. So again, knowing where these are for magnets for targets and or initiating trades when it gets down there, you can imagine if it comes down here, you already know the dealers are going to be reacting.
+
+I don't just buy these areas blindly. Again, I my main driver, my method of my methodology to stop iceberg events. But you can imagine that comes down and then you get a bullish event, buy ice or sell stops or any event that proves bullish. Now. Now you have yourself a credible edge with the stop iceberg information layered on top of the Gex, the gamma levels that you know dealers are going to be edging at.
+
+These are meant for Q levels. They just started to release these last week. I think it was. What's great about method Q is they have these these real time guest levels for um for other futures. Right. So it's about gamma is basically the uh, the ES, the ESP,
+
+
+01:28:51.070 — 01:31:29.840 · Speaker 2
+you can get the hero flow for, you know, stocks and other entities, but you can't get the real time Gex levels. Method Q gives you these real time Gex levels. So you can see here this was crude and you can see it came up here. This is one of the I'm going to show you what I just talked about, looking for the icebergs to confirm these areas.
+
+So what was resistance then became support. And then look where it headed to the next. This is the major Gex level here. So this was this was like the second biggest one on the board. You can see up and down here. There wasn't that many below here. And then once it got above here, held had added to the to the major one here.
+
+And then you see here right at this same area what was resistance is now support. That was that Gex level I just showed you. And then look the bias came in here. That was this. Now you know it got through there. Now there's bias. You know that major gets levels up here. And you can see these are heavy resting liquidity here to even years and longer term gets level.
+
+So you can get long here. That's your target. This was a that was almost a almost a dollar move right in crude. So method cuz got them for all these different products like gold and wheat and soybeans. So they're trading any of those markets with all this information. In my opinion you're flying blind. Now we're under the price change.
+
+I'll go here. This is the third entity in the markets again. There's l goes all over the place in these markets and they all do different things. The main one, most powerful one that occurs when the market's ranging where you can trade this independently as a scalp or the way I traded as I scalp my position.
+
+But you can see this is market pulse price change algo. And this is default setting. So this is 70%. Meaning when this market moves 70% of a five minute window to too far, it'll color. And you can get sound alerts on this as well. It'll color in the market will reverse. So you can see here like he had he had. So the white winter positive or price changes going up.
+
+The blacker price change is going down. So you can see price changing going up. Reverse price changing going down. Reverse price changing. Going up reversed down reversed up reversed. So you don't know always exactly how far it's going to go and reverses. But it's pretty consistent within a you know an ATR or two.
+
+But you can just see this price change algo took over. Right. So when there's nothing going on this is when traders take position trades and they're getting frustrated and chopped up. Now you can add and now that you know what's going on you can actually take advantage of this right. So say I got short here and I'm using every wrestling liquidity as my target.
+
+At least get out of some right so I can get short here. And then as it comes down here
+
+
+01:31:31.120 — 01:31:54.160 · Speaker 2
+with the price change, I can get out. When the price changes back up, I can put it back on, comes back down, I can take it off again. This is just a portion of my position I'll leave a core on just in case it does blow through right away. But you can see you can take advantage of the game instead of being frustrated by it.
+
+You can see it and take advantage of it and scalp it on your position. Um, that's one example of the price change algo. Again, the third entity that is driving these markets.
+
+
+01:31:55.200 — 01:32:04.440 · Speaker 2
+And then here's another example. This one's in NQ. You can see here every time this thing spikes there is a buy stop run too. But it spike move lower moved higher.
+
+
+01:32:06.040 — 01:34:12.000 · Speaker 2
+This one moved lower moved higher back down back up. So you can see when nothing's going on. And there was actually iceberg events in here too. But you can you know if you're in a position at least you know why you're getting whipsawed and you can take advantage of it. If you're long, you get out. You get back in.
+
+Get out! Get back in. But it puts portion of your position. So that's that's how I trade around my position. I use the price change of last the fourth major entity. And this one's a whopper. Doesn't happen very often. Again, it's about maximum 5% of the time where you get the program selling the best. These institutions that unload their baskets of stocks, warning signs can be this was pre-market.
+
+This was before obviously the market opened, like I said, pre-market, but there was some activity beforehand. So you knew it was probably gonna be of all the session. But this market came started moving lower. This is where you get these extended moves when one you get the relative volume. I covered how to look out for this.
+
+You can see this NYSE. This was last week too right. So this thing hung at the we talked about the 1000 tick level. This is a Nasdaq tick. And it just stayed down here. Right. Usually the market will tag the tick in normal days. You know if it does if it's able to get to an extreme it'll snap back to the zero line where you can see this thing just stayed here for like a half hour and that was that relative to volume.
+
+So this was telling you don't fade this move. And you can see this one pop here was like -1400. So this is program sign. This is these are these are situations you do not want to step in front of this. You know they'll be done eventually. Just don't fade these if you can. You know again it's harder to see when it's coming.
+
+Like my other stuff. Like the other stuff I look at like the iceberg orders and the Gex levels. This one's harder to see coming, but it's it's easier to stay out of the way when you see this. Don't I don't I don't fade the market. Right. So you can see that I wrote the volume The Tick. And then that was this move here where it just kept going and going and going.
+
+He had one blip, but then it just kept going and going. So just be aware when you're seeing that program selling, you're going to get extended moves. And it doesn't have to bounce like it does most times. Those are the four entities and the these examples. And um, I will show some live live trading with these examples as well.
+
+
+01:34:12.040 — 01:35:17.490 · Speaker 1
+Well there you have everyone. You know, this has been such a masterclass into not just gamma levels, not just the book map or icebergs. But how to actually layer each one of those? One the power of them individually, but then layering them together to create such an accurate and more. Most of all, I would say an insightful way to trade and interact with the markets.
+
+No matter your strategy, I think we can both agree that, you know, actually learning this and actually using this is probably the better way to go. Yeah, but if you if you're stuck with your Fibonacci or whatever it is that you trade, having this knowledge and understanding, it is only going to help you.
+
+So really take the time to study now. Links with Scott will be in the description below, so make sure you check them out. Show him some love, any comments you have or any questions maybe that I missed? Feel free to throw them in the comment section below. We'll both be taking a look. And you know whether we do a part two with sculpture, I'm sure we'd love to do, um, you know, at least we'll have those questions there to be able to answer for the next time as well.
+
+Other episodes are on screen right now, so make sure you check those out. We may even be getting some live trading in there, so you might have seen that already. But until next time everyone, this has been shopping nice. Take care.
+

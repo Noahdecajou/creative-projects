@@ -1,0 +1,27 @@
+SCOTT PULCINI — CORRECTIONS V02
+
+Demande utilisateur
+01, 02, 04 : remplacer les dessins sur les écrans par des images réelles d'order flow du podcast.
+05 : Scott regarde le tableau noir et dessine avec le marqueur vert.
+07 : Scott parle à Riz ; Riz écoute et regarde Scott.
+08 : pixelliser le visage de Scott pour créer du suspense.
+Toutes les versions : typographie géométrique proche de Poppins, alternance Regular / Medium / Semibold ; lumière plus claire et contraste plus doux.
+Préserver les compositions et les textes approuvés, sauvegarder la V01.
+
+Écrans de trading : source fournie et vérifiée dans Frame.io
+https://next.frame.io/project/77d3822c-1ffb-48cd-8ff6-602a702372de/view/47a07360-211a-4e0e-afbb-b244de4fc711
+FINAL READY TO UPLOAD CF Scott Pulcini.mp4
+Images exportées par Viewer Settings > Download Still, qualité maximale disponible du lecteur : 1080p.
+Résolution des images natives : 1920 x 1080. Vidéo et proxy non téléchargés.
+Images originales préservées dans Sources_HD/Scott_OrderFlow.
+Passages exportés : 01:04:00:00, 01:07:30:00, 01:10:00:00, 01:15:00:00, 01:25:00:00.
+
+Portraits complémentaires : originaux 3840 x 2160 déjà exportés avec Download Still.
+05 : Sources_HD/Scott_Pulcini/Scott_Pulcini_00-44-00.jpg — tête inclinée vers la table.
+07 : Sources_HD/Scott_Pulcini/Scott_Pulcini_00-53-00.jpg — Scott parle vers la gauche.
+07 : Sources_HD/Riz/Riz_00-26-00.jpg — Riz écoute vers la droite.
+Les autres portraits conservent les sources originales de la V01.
+
+Texte et publication
+Les huit accroches approuvées sont conservées. Aucun nouveau résultat financier ajouté.
+Les versions V01 restent intactes. Aucune publication.

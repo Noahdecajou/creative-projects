@@ -1,0 +1,23 @@
+CASPER / CHARTFANATICS — 8 THUMBNAILS — V02
+
+Fichiers finaux : Exports_4K\V02\01...08...png
+Archive des huit PNG : Livraison\Casper_8_Thumbnails_V02_3840x2160.zip
+Planche : Apercus\V02\Planche_V02_640.jpg
+Contrôle mobile : Apercus\V02\Planche_V02_320.jpg
+
+Chaque PNG mesure exactement 3840 x 2160 pixels, en 16:9.
+Photos sources natives 3840 x 2160 ; fonds et réparations générés, ainsi que certains recadrages, agrandis. Les compositions ne sont donc pas intégralement natives 4K.
+
+Sources_HD : images Frame.io intactes, aucune vidéo ni proxy téléchargé.
+Selections : copies des sources choisies.
+References : les huit références approuvées de composition.
+Masters : détourages, éléments générés et compositions sans bruit final ; V01 conservée, V02 finale.
+Exports_4K : huit PNG avec la passe unique de grain demandée.
+Apercus : planches sources, sélections, variantes et contrôle mobile.
+Suivi : brief, transcript lu, provenance, titres, prompts exacts et scripts de composition.
+Livraison : ZIP vérifiés.
+
+Le fichier Suivi\Notes_editoriales.txt explique les choix d'accroches, les supports réels utilisés et les limites de la transcription.
+Les trois accroches prioritaires ont été utilisées ; aucun titre imposé par l'utilisateur ne reste à traiter.
+
+Reproduction locale : PowerShell 7 sous Windows, System.Drawing et police Poppins installée. Exécuter prepare_portraits.ps1 pour V01, finish_portraits_v02.ps1 pour les détourages V02, puis render_v02.ps1 -Final. Les générations sources sont déjà sauvegardées ; il n'est pas nécessaire de les relancer.

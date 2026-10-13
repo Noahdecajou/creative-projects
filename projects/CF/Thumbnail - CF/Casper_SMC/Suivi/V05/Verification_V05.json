@@ -1,0 +1,30 @@
+{
+  "Version": "V05",
+  "Date": "2026-10-13",
+  "PNGCount": 8,
+  "MasterCount": 8,
+  "Width": 3840,
+  "Height": 2160,
+  "Native4K": false,
+  "OriginalSourceCount": 54,
+  "OriginalSourceHashesUnchanged": true,
+  "VideoOrProxyDownloaded": false,
+  "FinalGrain": "5 percent uniform monochromatic, single final pass",
+  "VisualReview": "All eight previews at 320 and 1280 pixels; native faces and hands on new scene 03; local hand texture correction; gradient on VOLUME and arrow occlusion on 08; borderless panels inspected",
+  "ModifiedThumbnails": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08"
+  ],
+  "FacialRegionComparison": "Visages_preserves_V04_V05.csv",
+  "Archive": "Casper_8_Thumbnails_V05_3840x2160.zip",
+  "ArchiveEntries": 8,
+  "ArchivePayloadHashesMatch": true,
+  "ArchiveBytes": 143573350,
+  "ArchiveSHA256": "C4380C69CC353A87396C0ACF4D9E93937F8D0E52BB96244C98536F5DA2FB5977"
+}

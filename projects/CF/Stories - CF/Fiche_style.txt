@@ -1,0 +1,8 @@
+Projet : Scott Pulcini / ChartFanatics
+Livrable : huit stories independantes, une par thumbnail V03.
+References actuelles : BEST-Prop-Firm.jpg, SIMPLE-Strategy.jpg, Trade-The-BIGGEST.jpg.
+Format final : 1080 x 1920. Noir/charbon, halos rouges et verts moderes, typographie geometrique, mots cles sur bandeaux blancs/jaunes/rouges selon thumbnail.
+Logo ChartFanatics centre en haut. Portraits et scenes repris de chaque thumbnail. Nom : With Scott Pulcini.
+CTA repris des references : Only available on / YouTube / @chart-fanatics.
+Pas de reprise des chiffres ou du nom JJ Simon. Pas de nouveaux horaires ni sponsors.
+Outil : image_gen integre, une generation par story. Exports redimensionnes sans ajout de nettete ; sources natives conservees dans Masters.

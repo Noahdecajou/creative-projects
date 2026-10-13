@@ -1,0 +1,25 @@
+V07 — 13 octobre 2026 — ChartFanatics / Casper / Riz
+
+Demandes integrees
+- Agrandir encore Casper dans la 06.
+- Recomposer les graphiques des MacBook 01/02 d'apres six thumbnails utilisateur, avec priorite a la 02.
+- Reduire la lueur de la 08; varier les lueurs de toutes les images, avec accents directionnels et transitions irregulieres mais douces.
+
+Lecture des references
+nCXwyMkUugk-HD : bougies rouges et turquoise, grille quasi noire, support translucide et information hierarchisee.
+AFQ9ZE0LNZY-HD : bougies vert vif/rouges proches, niveaux blancs, points de reaction cercles.
+6np7H_X3570-HD : graphique dense, peu de libelles, zones transparentes.
+zOvr1jNo2ek-HD : contraste vert/rouge, cercles jaunes, grille discrete, halos locaux.
+Vulini8xbB0-HD et 88tyzO9CxGA-HD : schema de prix blanc simple, zone coloree et point de decision mis en evidence.
+Les personnes, titres, chiffres et promesses des references ne sont pas repris.
+
+Execution native depuis les composants editables approuves
+01 : schema blanc, zone verte translucide, trois etapes CONDITION / ZONES / TRIGGER, point de reaction jaune et declencheur vert. Suppression de la longue liste de notes.
+02 : bougies vert vif/rouges, meches fines, petits reflets clairs sur les corps, profil de volume bicolore, niveaux VAH / POC / VAL, reaction au bas de la zone entouree, un seul libelle BUYERS. 30 bougies de 34 pixels de corps, pas de 36 pixels a la resolution finale : 2 pixels d'intervalle.
+Charts pedagogiques illustratifs, sans cours reel, gain ni transaction attribuee a Casper.
+06 : hauteur de reference de Casper 420 vers 460, soit +9.52 % depuis V06; sommet 139 vers 125 dans le canevas 1280. Portrait original reutilise sans nouvelle retouche.
+Lueurs : modes gauche, droite, retour gauche haut/bas, bas droit, haut localise; intensite modulee continument. Les couleurs et aplats des boxes restent approuves, sans filet blanc. Ombres sombres conservees. 08 : pic alpha 48, diffusion 6.5 pixels contre 100 et 9 pour les accents des autres thumbnails; rayon plus court. La reduction de perception n'est pas un pourcentage unique.
+Le mot VOLUME garde son degrade jaune, avec une lueur surtout a gauche.
+
+Aucune generation de portrait ni nouvelle utilisation ImageGen dans V07. Edition des composants graphiques natifs et assemblage des photos deja approuvees. Tous les portraits, poses, regards, mains, vetements, textes externes et logos sont conserves; seule l'echelle du portrait 06 change.
+Rendu final a 3840 x 2160, grain monochromatique uniforme de 5 % une seule fois. Certains composants photographiques herites sont agrandis : livraison non entierement native 4K.

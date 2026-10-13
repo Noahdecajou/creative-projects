@@ -1,0 +1,6 @@
+"Portrait","Source","FaceRegion","ChangedOpaquePixels","Note"
+"Casper_front_photo.png","Casper_00-12-00_cutout.png","1850,350,420,480","0","Comparison restricted to fully opaque source and output pixels. Transparent edge RGB can change during alpha compositing. Before resizing and final grain."
+"Casper_explain_photo.png","Casper_00-16-00_cutout.png","1950,550,430,450","0","Comparison restricted to fully opaque source and output pixels. Transparent edge RGB can change during alpha compositing. Before resizing and final grain."
+"Casper_conversation_photo.png","Casper_00-20-00_cutout.png","1870,380,380,430","0","Comparison restricted to fully opaque source and output pixels. Transparent edge RGB can change during alpha compositing. Before resizing and final grain."
+"Riz_front_photo.png","Riz_01-16-00_cutout.png","1660,560,510,440","0","Comparison restricted to fully opaque source and output pixels. Transparent edge RGB can change during alpha compositing. Before resizing and final grain."
+"Riz_conversation_photo.png","Riz_01-34-00_cutout.png","1770,570,460,440","0","Comparison restricted to fully opaque source and output pixels. Transparent edge RGB can change during alpha compositing. Before resizing and final grain."

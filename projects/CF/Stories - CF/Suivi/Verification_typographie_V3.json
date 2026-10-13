@@ -1,0 +1,82 @@
+[
+  {
+    "file": "01_What_Candles_Dont_Show.png",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "font": "Poppins Regular and Poppins Bold from supplied TTF files",
+    "portrait_regions": "pixel-identical to V2",
+    "grain_new_typography_sigma": 7.65
+  },
+  {
+    "file": "02_Hidden_Orders_Moving_Price.png",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "font": "Poppins Regular and Poppins Bold from supplied TTF files",
+    "portrait_regions": "pixel-identical to V2",
+    "grain_new_typography_sigma": 7.65
+  },
+  {
+    "file": "03_What_Really_Moves_Price.png",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "font": "Poppins Regular and Poppins Bold from supplied TTF files",
+    "portrait_regions": "pixel-identical to V2",
+    "grain_new_typography_sigma": 7.65
+  },
+  {
+    "file": "04_Stop_Trading_Blind.png",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "font": "Poppins Regular and Poppins Bold from supplied TTF files",
+    "portrait_regions": "pixel-identical to V2",
+    "grain_new_typography_sigma": 7.65
+  },
+  {
+    "file": "05_Master_Order_Flow_Trading.png",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "font": "Poppins Regular and Poppins Bold from supplied TTF files",
+    "portrait_regions": "pixel-identical to V2",
+    "grain_new_typography_sigma": 7.65
+  },
+  {
+    "file": "06_See_Hidden_Orders.png",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "font": "Poppins Regular and Poppins Bold from supplied TTF files",
+    "portrait_regions": "pixel-identical to V2",
+    "grain_new_typography_sigma": 7.65
+  },
+  {
+    "file": "07_Hidden_Orders_Revealed.png",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "font": "Poppins Regular and Poppins Bold from supplied TTF files",
+    "portrait_regions": "pixel-identical to V2",
+    "grain_new_typography_sigma": 7.65
+  },
+  {
+    "file": "08_Price_To_Order_Flow.png",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "font": "Poppins Regular and Poppins Bold from supplied TTF files",
+    "portrait_regions": "pixel-identical to V2",
+    "grain_new_typography_sigma": 7.65
+  }
+]

@@ -1,0 +1,140 @@
+{
+  "version": "V04 - nouvelle photo 3, Poppins plus legere 2/4/6 et box 2 resserree",
+  "tool": "built-in image_gen",
+  "sourceURL": "https://next.frame.io/project/3c42a52f-41f1-4506-a0f7-9e3930f7e1c8/view/549141eb-2924-48b0-bd98-1d7c5881c8d1",
+  "captureMethod": "Frame.io UI native Download Still in 2160p. No source video download.",
+  "items": [
+    {
+      "n": 1,
+      "slug": "Reversal_Strategy",
+      "title": "$158K Using This Reversal Trading Strategy",
+      "reference": "C:\\Users\\notti\\Documents\\ChatGPT\\Thumbnail - PFT\\outputs\\Razvan\\Six_References_v03\\masters\\Razvan_01_Reversal_Strategy_master_1672x941.png",
+      "evidence": "00:00-01:01; 03:30-07:32",
+      "status": "unchanged from V03",
+      "generatedPath": "C:\\Users\\notti\\Documents\\ChatGPT\\Thumbnail - PFT\\outputs\\Razvan\\Six_References_v03\\masters\\Razvan_01_Reversal_Strategy_master_1672x941.png",
+      "inputPaths": [
+        "C:\\Users\\notti\\Documents\\ChatGPT\\Thumbnail - PFT\\outputs\\Razvan\\Six_References_v03\\masters\\Razvan_01_Reversal_Strategy_master_1672x941.png"
+      ],
+      "prompt": "Unchanged V03 master copied verbatim",
+      "callSeconds": 0
+    },
+    {
+      "n": 2,
+      "slug": "No_Partials",
+      "title": "I Don't Take Partials — Here's Why",
+      "reference": "C:\\Users\\notti\\Documents\\ChatGPT\\Thumbnail - PFT\\outputs\\Razvan\\Six_References_v03\\masters\\Razvan_02_No_Partials_master_1672x941.png",
+      "evidence": "28:40-29:27",
+      "status": "revised",
+      "generatedPath": "C:\\Users\\notti\\.codex\\generated_images\\01a1162b-f49a-7aa0-9e3d-7c951c66d9f5\\exec-c7a3114b-6152-4284-8383-4f6abadaefa4.png",
+      "inputPaths": [
+        "C:\\Users\\notti\\Documents\\ChatGPT\\Thumbnail - PFT\\outputs\\Razvan\\Six_References_v03\\masters\\Razvan_02_No_Partials_master_1672x941.png"
+      ],
+      "prompt": "Make a surgical edit of image 1, preserving its 16:9 composition, background, photographic lighting, colors, people, board contents and authentic logo except the explicitly requested changes. Deliver a polished premium YouTube thumbnail. Replace the over-heavy lettering with Poppins, a clean geometric sans-serif with circular bowls and generous counters. Use Poppins Medium 500 for the main copy and Semibold 600 only for emphasis; never ExtraBold/Black, never condensed. Much lighter strokes than the current image, visibly refined, airy, elegant and premium while still readable at mobile size. No heavy bevel, no thick stroke, only a very subtle soft shadow where needed. Keep exact spelling, capitalization and colors. Typography changes ONLY. Main white headline reads exactly “I Don’t Take Partials” in Poppins Medium, centered across one line, comfortably within margins. Under it, “Here’s Why” in black Poppins Medium on the same branded lime #D3FF00. SHRINK THE LIME BOX drastically: centered compact rounded rectangle that fits text tightly, approximately 580 pixels wide on this 1672-pixel image, with only 25-35px of horizontal padding at each end. It must NOT span the image width. Keep about 18px vertical padding. Keep the same lower-row center location, with black background visible to its left and right. Preserve both faces, smiles, gaze, monitor and chart, face sizes, backdrop and skin lighting precisely.",
+      "callSeconds": 31.807
+    },
+    {
+      "n": 3,
+      "slug": "Key_Levels",
+      "title": "Key Levels Made Simple",
+      "reference": "C:\\Users\\notti\\Documents\\ChatGPT\\Thumbnail - PFT\\outputs\\Razvan\\Six_References_v03\\masters\\Razvan_03_Key_Levels_master_1672x941.png",
+      "evidence": "02:24-06:39; 08:47-09:19; 12:36-12:56; 16:18-18:15",
+      "status": "revised",
+      "generatedPath": "C:\\Users\\notti\\.codex\\generated_images\\01a1162b-f49a-7aa0-9e3d-7c951c66d9f5\\exec-213e0269-f7af-4bba-9804-b1bf8cd1a58b.png",
+      "inputPaths": [
+        "C:\\Users\\notti\\Documents\\ChatGPT\\Thumbnail - PFT\\outputs\\Razvan\\Six_References_v03\\masters\\Razvan_03_Key_Levels_master_1672x941.png",
+        "C:\\Users\\notti\\Documents\\ChatGPT\\Thumbnail - PFT\\outputs\\Razvan\\Six_References_v04\\sources_HD\\Razvan_Cam4_First_Frame_02-33-58-04.jpg"
+      ],
+      "prompt": "Make a surgical edit of image 1, preserving its 16:9 composition, background, photographic lighting, colors, people, board contents and authentic logo except the explicitly requested changes. Deliver a polished premium YouTube thumbnail. ONLY replace the central Razvan portrait using image 2, the actual FIRST FRAME of his new camera video. Faithfully transfer his real natural face, haircut, eye/nose/mouth/jaw proportions, beard, earring, subtle neck tattoo, shoulders and black ALLSAINTS crewneck from image 2. Keep his actual direct-to-camera gaze and calm confident closed-mouth neutral expression exactly from this photo, not the manufactured smile from image 1. No exaggerated grin or enlarged eyes, no blending with previous face. Center him at the same size and position as the previous subject, removed cleanly from the photo's background and microphone. Soft neutral frontal fill illumination, brighter naturally balanced skin and black sweater than source, subtle editorial photographic retouch, smooth but natural skin detail, no etched artificial texture, no HDR or harsh contrast. The whiteboard and all its handwriting, annotated trading diagrams and every black/red/blue mark stay identical to image 1. Preserve ALL: PMH/L, PWH/L, PDH/L, Session H/L, VAH/VAL; volume profile VAH/POC/VAL; 5M IFVG with bearish inversion below zone and underside retest then falling; 1M Retest with SL above and Session Low below; CVD at key levels; Trail after target; 0.5-1% risk. Preserve footer EXACTLY “Key Levels Made Simple”, including its current typography and lime capsule; do not change font or composition on this thumbnail.",
+      "callSeconds": 64.2
+    },
+    {
+      "n": 4,
+      "slug": "Breakevens_To_4R",
+      "title": "2 Breakevens Then 4R",
+      "reference": "C:\\Users\\notti\\Documents\\ChatGPT\\Thumbnail - PFT\\outputs\\Razvan\\Six_References_v03\\masters\\Razvan_04_Breakevens_To_4R_master_1672x941.png",
+      "evidence": "26:45-31:34",
+      "status": "revised",
+      "generatedPath": "C:\\Users\\notti\\.codex\\generated_images\\01a1162b-f49a-7aa0-9e3d-7c951c66d9f5\\exec-8e93c746-dfce-4262-937d-4bcd92946707.png",
+      "inputPaths": [
+        "C:\\Users\\notti\\Documents\\ChatGPT\\Thumbnail - PFT\\outputs\\Razvan\\Six_References_v03\\masters\\Razvan_04_Breakevens_To_4R_master_1672x941.png"
+      ],
+      "prompt": "Make a surgical edit of image 1, preserving its 16:9 composition, background, photographic lighting, colors, people, board contents and authentic logo except the explicitly requested changes. Deliver a polished premium YouTube thumbnail. Replace the over-heavy lettering with Poppins, a clean geometric sans-serif with circular bowls and generous counters. Use Poppins Medium 500 for the main copy and Semibold 600 only for emphasis; never ExtraBold/Black, never condensed. Much lighter strokes than the current image, visibly refined, airy, elegant and premium while still readable at mobile size. No heavy bevel, no thick stroke, only a very subtle soft shadow where needed. Keep exact spelling, capitalization and colors. Change ONLY the top headline typography. Exact text “2 Breakevens” in black Poppins Medium inside the white capsule, followed by “Then 4R” in white Poppins Medium. One line across the top, about 92px type size on the current 1672-pixel-wide canvas, with breathable margins. The old type is almost Black 900; reduce stroke weight clearly to Medium 500, not merely reduce font size. Keep existing white rounded capsule, fitted to new text, and its position; refined understated soft shadow. Keep exact people, guest gentle expression, hands, marker, low whiteboard, yellow curved arrow, stone backdrop, logo and RAZVAN badge; no new text.",
+      "callSeconds": 31.583
+    },
+    {
+      "n": 5,
+      "slug": "Master_Reversal_Trading",
+      "title": "MASTER REVERSAL TRADING",
+      "reference": "C:\\Users\\notti\\Documents\\ChatGPT\\Thumbnail - PFT\\outputs\\Razvan\\Six_References_v03\\masters\\Razvan_05_Master_Reversal_Trading_master_1672x941.png",
+      "evidence": "03:30-07:32; 08:47-09:19",
+      "status": "unchanged from V03",
+      "generatedPath": "C:\\Users\\notti\\Documents\\ChatGPT\\Thumbnail - PFT\\outputs\\Razvan\\Six_References_v03\\masters\\Razvan_05_Master_Reversal_Trading_master_1672x941.png",
+      "inputPaths": [
+        "C:\\Users\\notti\\Documents\\ChatGPT\\Thumbnail - PFT\\outputs\\Razvan\\Six_References_v03\\masters\\Razvan_05_Master_Reversal_Trading_master_1672x941.png"
+      ],
+      "prompt": "Unchanged V03 master copied verbatim",
+      "callSeconds": 0
+    },
+    {
+      "n": 6,
+      "slug": "Reversal_Entry_Model",
+      "title": "My Reversal Entry Model",
+      "reference": "C:\\Users\\notti\\Documents\\ChatGPT\\Thumbnail - PFT\\outputs\\Razvan\\Six_References_v03\\masters\\Razvan_06_Reversal_Entry_Model_master_1672x941.png",
+      "evidence": "06:14-06:39; 08:47-09:19",
+      "status": "revised",
+      "generatedPath": "C:\\Users\\notti\\.codex\\generated_images\\01a1162b-f49a-7aa0-9e3d-7c951c66d9f5\\exec-fd91b62a-a878-405d-8aad-aa4e503fef57.png",
+      "inputPaths": [
+        "C:\\Users\\notti\\Documents\\ChatGPT\\Thumbnail - PFT\\outputs\\Razvan\\Six_References_v03\\masters\\Razvan_06_Reversal_Entry_Model_master_1672x941.png"
+      ],
+      "prompt": "Make a surgical edit of image 1, preserving its 16:9 composition, background, photographic lighting, colors, people, board contents and authentic logo except the explicitly requested changes. Deliver a polished premium YouTube thumbnail. Replace the over-heavy lettering with Poppins, a clean geometric sans-serif with circular bowls and generous counters. Use Poppins Medium 500 for the main copy and Semibold 600 only for emphasis; never ExtraBold/Black, never condensed. Much lighter strokes than the current image, visibly refined, airy, elegant and premium while still readable at mobile size. No heavy bevel, no thick stroke, only a very subtle soft shadow where needed. Keep exact spelling, capitalization and colors. Change ALL graphic headline and callout text to lighter Poppins while keeping current layout and exact words. Top single-line “My Reversal Entry Model”: My and Model white Poppins Medium 500, Reversal Entry black Poppins Medium 500 in fitted white rounded capsule. Center yellow callout “Wait For” / “The Retest” black Poppins Medium 500, retaining two lines and branded yellow #FFD400. Small two-row center card: “5M Inversion” lime on black Poppins Medium 500; “1M Execution” black on white Poppins Medium 500. The visual hierarchy relies on type size rather than heavy black stroke. Preserve all people and exact expressions, soft natural skin, brightness, black shirts, hands/marker, backdrop, every board diagram/word and EXACT WHITEBOARD POSITION across the bottom, logo and RAZVAN badge. Keep all text clearly separated from faces; no new elements.",
+      "callSeconds": 60.598
+    }
+  ],
+  "sourceFiles": [
+    {
+      "source": "C:\\Users\\notti\\Downloads\\frame_221716.jpg",
+      "file": "Razvan_Cam4_First_Frame_02-33-58-04.jpg",
+      "timecode": "02:33:58:04",
+      "use": "Selected for thumbnail 3; native first frame"
+    },
+    {
+      "source": "C:\\Users\\notti\\Downloads\\frame_221956.jpg",
+      "file": "Razvan_Cam4_10sec.jpg",
+      "timecode": "02:34:08:04",
+      "use": "Alternate portrait"
+    },
+    {
+      "source": "C:\\Users\\notti\\Downloads\\frame_222436.jpg",
+      "file": "Razvan_Cam4_30sec.jpg",
+      "timecode": "02:34:28:04",
+      "use": "Alternate smile portrait"
+    },
+    {
+      "source": "C:\\Users\\notti\\Downloads\\frame_224596.jpg",
+      "file": "Razvan_Cam4_120sec.jpg",
+      "timecode": "02:35:58:04",
+      "use": "Not selected: eyes partly closed"
+    }
+  ],
+  "repairs": [
+    {
+      "n": 3,
+      "inputPaths": [
+        "C:\\Users\\notti\\Documents\\ChatGPT\\Thumbnail - PFT\\outputs\\Razvan\\Six_References_v04\\sources_HD\\Razvan_Cam4_First_Frame_02-33-58-04.jpg",
+        "C:\\Users\\notti\\Documents\\ChatGPT\\Thumbnail - PFT\\outputs\\Razvan\\Six_References_v03\\masters\\Razvan_03_Key_Levels_master_1672x941.png"
+      ],
+      "prompt": "Create a finished landscape 16:9 thumbnail by placing the actual Razvan from IMAGE 1 onto the whiteboard thumbnail IMAGE 2. IMPORTANT: image 1 is the sole correct face/portrait; image 2's portrait is obsolete and must be completely removed and replaced, NOT subtly retouched. Use the photo in image 1 as a faithful photographic cutout, including its actual short DARK smooth sideways-swept haircut (not the textured brown wavy hair in image 2), actual smaller relaxed eyes, brow, straight nose, lips, beard shape, small earring and true head perspective. His head in image 1 is slightly three-quarter turned but eyes meet camera; preserve this exact pose and serious calm closed lips. The OLD PORTRAIT from image 2 must have zero influence on the replacement. Show the clear unmistakable face from photo image 1. Use his shoulders and black crewneck from image 1; remove microphone and room background. Put this new photographic cutout centered, about the same size as image 2's old figure. Apply soft neutral fill light and brighter exposure, natural gently retouched skin, no artificial etched or squiggly microtexture. All artwork from image 2 EXCEPT obsolete man is retained exactly: all whiteboard diagrams/notes/markings including Key Levels PMH/L PWH/L PDH/L Session H/L VAH/VAL, VAH POC VAL profile, 5M IFVG bearish inversion and underside retest, 1M Retest, SL and Session Low, CVD at key levels, Trail after target, 0.5-1% risk. Exact original footer “Key Levels Made Simple” unchanged type, size and lime pill. Preserve whiteboard, all board space and diagrams: only substitute the central photograph with the new real image 1.",
+      "callSeconds": 33.069
+    },
+    {
+      "n": 4,
+      "inputPaths": [
+        "C:\\Users\\notti\\Documents\\ChatGPT\\Thumbnail - PFT\\outputs\\Razvan\\Six_References_v03\\masters\\Razvan_04_Breakevens_To_4R_master_1672x941.png"
+      ],
+      "prompt": "Edit TYPOGRAPHY ONLY in this finished 16:9 thumbnail. Replace the excessively heavy top font completely with the real appearance of Poppins Regular 400 / Medium 500. The letters must have dramatically thinner strokes, about HALF the existing thick black strokes. This user specifically rejected heavy bold. No Bold, no Semibold, no extraheavy or Black. Visual target is premium airy geometric Poppins Regular with circular bowls, generous negative space inside each glyph, elegant thin-to-medium strokes. Set exact single-line headline “2 Breakevens Then 4R”, retaining black “2 Breakevens” in white rounded box followed by white “Then 4R” outside box. All words and numbers including 2 and 4R use the SAME restrained REGULAR weight. Choose ~90px size at current1672px wide so it fits across upper row and readable, generous baseline margins and tight fitted box. No bevel or thick outline, restrained shadow only. Preserve entire original composition outside this headline: both real people, faces, expressions, natural photographic lighting, marker hands, low whiteboard and all diagram lines, curved yellow arrow, warm neutral background, authentic PropFirmTrader logo and RAZVAN label. Only font family and stroke thickness change, nothing else.",
+      "callSeconds": 65.078
+    }
+  ],
+  "fontNote": "Poppins Regular/Medium requested in image edits; generated raster letterforms, not editable font layers.",
+  "timingNote": "Call durations include queue/wait, not model-only compute; do not sum as wall-clock batch time."
+}

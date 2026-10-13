@@ -1,0 +1,103 @@
+01_100X_Better.png
+Scott Pulcini
+4 THINGS
+THAT CAN MAKE YOUR TRADING
+“100X BETTER”
+$15M IN 3 YEARS
+From a trader who says he made $15M
+for himself and his trading firm.
+chartfanatics.com
+Swipe
+
+02_Icebergs_Stop_Runs.png
+ICEBERGS
++ STOP RUNS
+A big green candle doesn’t always
+mean buyers are entering.
+It could be traders getting stopped out.
+100 contracts visible
+900 hidden below
+Illustrative order size
+Scott watches iceberg orders to spot hidden size
+and stop runs to separate forced exits
+from genuine buying or selling.
+SAME CANDLE. DIFFERENT STORY.
+chartfanatics.com
+Swipe
+
+03_Options_Flow_Gamma.png
+OPTIONS FLOW
++ GAMMA
+Scott trades futures. He watches options daily.
+Options dealers hedge in the underlying market.
+That activity can help drive the futures market.
+GAMMA LEVEL
+Magnet • Target • S/R
+Order flow aligns here
+Concept illustration
+When gamma + order flow align at the same level,
+Scott says that confluence gives him an edge.
+chartfanatics.com
+Swipe
+
+04_Algos.png
+ALGOS
+Trade the rotation
+In a range, when price moves too far, too fast,
+algorithms can snap it back.
+Scott uses the 5-minute Price Change Algo
+to alert him when price becomes extended.
+He trades around an existing position:
+Price extends:
+takes size off
+Price rotates back:
+adds size back
+LONG POSITION EXAMPLE
+SELL SOME
+ADD BACK
+Concept illustration
+chartfanatics.com
+Swipe
+
+05_Program_Buying_Selling.png
+PROGRAM BUYING
++ SELLING
+Scott looks for institutions trading huge
+baskets of stocks — and strong directional moves.
+Two major clues:
+TICK at sustained extremes
++
+200%+ relative volume
+TICK -1000
+RELATIVE VOLUME 200%
+Concept illustration
+When both appear, Scott says:
+DON’T FADE THE MOVE.
+It can keep going further than “too far.”
+chartfanatics.com
+Swipe
+
+06_Inside_The_Candle.png
+HOW DOES SCOTT
+ACTUALLY SEE ALL THIS?
+Bookmap + order flow
+Bookmap lets Scott look inside the candle.
+RESTING LIQUIDITY
+MARKET ORDERS
+ICEBERG EVENT
+Actual screenshot from Scott’s episode
+With add-ons: stop runs + iceberg orders.
+Scott builds rules around what price does next
+to decide whether to look for longs or shorts.
+chartfanatics.com
+Swipe
+
+07_Full_Strategy_CTA.png
+SEE SCOTT BREAK DOWN
+THE FULL STRATEGY
+Entries, exits, Bookmap, order flow
+and real chart examples.
+Scott Pulcini
+Comment
+“SCOTT”
+and we’ll DM you the full episode.

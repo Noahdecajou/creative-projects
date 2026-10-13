@@ -1,0 +1,5 @@
+Mode: built-in ImageGen. New neutral backdrop only; no new portraits generated for 01-07.
+Output: C:\Users\notti\.codex\generated_images\01a12f9c-d8a7-7d51-97b1-19dd911232a5\exec-9de9c538-698d-4508-8004-f3e229254d04.png
+Asset: Masters/V12/background_charcoal.png
+
+Create a completely minimal empty 16:9 thumbnail backdrop. Matte deep black to dark charcoal, with only a VERY SUBTLE broad soft neutral-grey illumination near the upper middle, like a dark photographic studio wall. Rough target: outer regions RGB 8,8,9; lit area at most RGB 36,36,38. Smooth seamless falloff, rich dark centre-left negative space for bright text and charts, calm neutral light behind a portrait on the right. No visible texture, no grain, no banding, no objects, no shapes, no glass, no facets, no streaks, no vignette rings, no horizon, no coloured light. Absolutely no red or green. No people, text, logo, diagrams or graphics. This is only a simple black/grey background asset, landscape 16:9.

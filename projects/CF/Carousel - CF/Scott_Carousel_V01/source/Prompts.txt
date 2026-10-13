@@ -1,0 +1,10 @@
+BUILT-IN IMAGEGEN — SCOTT CAROUSEL V01
+
+01 Cover portrait
+Use case: identity-preserve. Asset: photographic background for a ChartFanatics educational Instagram carousel cover, portrait 4:5. Image 1 is original HD identity reference Scott Pulcini. Image 2 is layout/color reference only, do not copy its woman or text. Create a crisp natural photographic portrait of the exact man in image 1, same facial features, age, hair, natural skin texture and confident approachable expression. He wears a plain white polo as in previously approved ChartFanatics visuals. Remove microphone. Portrait from head to waist occupies lower 60 percent of canvas, head centered at y 58 percent; keep top 38 percent near-black charcoal with subtle soft red corner light totally empty for typeset title. Dark elegant podcast studio, subtle green corner glow, faint defocused candlestick screens at sides. Face bright and clearly visible, realistic photographic lighting, no metallic skin, no excessive pores or invented wrinkles. Bottom 15 percent fades gently to charcoal for separately composed copy. NO TEXT, NO LETTERS, NO LOGOS, NO NUMBERS. No money or profit imagery. Editorial photography, clean rich detail.
+
+02 Iceberg analogy
+Use case: photorealistic-natural. Create a photorealistic conceptual iceberg educational asset, horizontal 3:2 crop. One beautiful detailed ice iceberg in dark teal water, split level underwater photography, small 10 percent white ice tip above water, huge nine times larger blue icy mass visibly underneath, clear transparent water, charcoal background, subtle green light at lower corner and red at upper right consistent with premium ChartFanatics trading carousel. Iceberg at left half of image, right half clean dark negative space for later typography. No humans. No text, no numbers, no logos, no chart UI. Crisp photographic texture and naturally lit ice. This is an analogy for hidden order size; avoid cartoon and plastic.
+
+Technical charts are drawn deterministically in build_carousel.py. Slide 6 uses the original episode Bookmap screenshot. Slide 7 uses an original HD portrait.
+

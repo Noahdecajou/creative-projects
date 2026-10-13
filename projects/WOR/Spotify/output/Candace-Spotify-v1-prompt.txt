@@ -1,0 +1,13 @@
+Outil : ImageGen intégré.
+
+Use case: ads-marketing.
+Create one finished square Spotify podcast episode cover, 1080x1080 if possible, duplicating the visual design language of the supplied Words of Rizdom covers.
+Inputs: image 1 Spotify (6).jpg and image 2 Spotify (7).jpg are STYLE references, logo references, and authentic HOST identity references (the dark-haired bearded South Asian man). Image 3 image_03_00-04-37.jpg is the authentic GUEST identity source: Candace, Asian woman with straight black hair, beige overshirt over black top. Preserve her actual face and clothing faithfully. Do not use the male guests from style references.
+Background: almost black charcoal subtly grainy with restrained soft red glow upper left and right edge, dark bottom vignette. No original studio city background.
+Composition: same visual hierarchy as supplied covers. Small centered header at y=60-145: copy the exact white rectangular black 'words of rizdom' logo from style references, thin white vertical divider, name 'Candace' in clean white sans serif. Huge centered heavy modern sans-serif headline occupying y=180-440, exact text on three lines:
+'From an $80K Loss'
+'to $2+ Million'
+'in Payouts'
+White lettering. Put '$80K Loss' on a bright red rectangular highlight; put '$2+ Million' in black type on a white rectangular highlight. Strong tightly spaced editorial typography with balanced margins, fully readable at small size. Do not include quotation marks.
+Lower half: realistic sharply cut-out bust portraits, host on left and Candace on right, large faces around y=540-900, both naturally facing inward in podcast conversation, two black podcast microphones toward bottom; retain authentic skin texture and realistic portrait likeness. Candace's pose should closely follow input 3, no invented raised hand. Her beige overshirt and black top visible. Host appearance exactly as supplied references, light pale shirt. Between and behind the portraits add a subtle green/red candlestick chart recovering upward, strictly decorative and subordinate, no numbers or labels. Black fade along lower edge.
+Constraints: faithful series match, premium clean photographic compositing, no Spotify icon, no extra copy, no trophies, no cash, no extra people, no duplicated faces, no face beautification, no cartoon look. The cover should look like the next episode in the supplied five-cover series.

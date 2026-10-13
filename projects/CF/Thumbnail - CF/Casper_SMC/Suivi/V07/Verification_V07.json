@@ -1,0 +1,33 @@
+{
+  "Version": "V07",
+  "Date": "2026-10-13",
+  "PNGCount": 8,
+  "MasterCount": 8,
+  "Width": 3840,
+  "Height": 2160,
+  "Native4K": false,
+  "OriginalSourceCount": 54,
+  "OriginalSourceHashesUnchanged": true,
+  "UserStyleReferences": 6,
+  "ReferencesPreserved": true,
+  "NewImageGenCalls": 0,
+  "VideoOrProxyDownloaded": false,
+  "FinalGrain": "5 percent uniform monochromatic, single final pass",
+  "VisualReview": "Eight previews at 320 and 640; 01, 02, 06 and 08 at 1280; native enlarged portrait and screen crops reviewed",
+  "NewScreens": [
+    "01",
+    "02"
+  ],
+  "PortraitScale06": "460 / 420 = +9.52 percent",
+  "GlowChanges": "All eight, directional feathered light; 08 significantly reduced",
+  "LocalPixelComparison": "Corrections_locales_V06_V07.csv",
+  "ChangesOutsideRequestedAreas": 0,
+  "UnchangedPhotographicComponents": 12,
+  "UnchangedFaceSampleRegions": 10,
+  "ExternalTextAndTypographyGeometryUnchanged": true,
+  "Archive": "Casper_8_Thumbnails_V07_3840x2160.zip",
+  "ArchiveEntries": 8,
+  "ArchivePayloadHashesMatch": true,
+  "ArchiveBytes": 144993759,
+  "ArchiveSHA256": "EEF0132C57DD29CA840192FEA3BC0EF897BCDFEB3A1F2C20EA3FD0E897B00FBC"
+}

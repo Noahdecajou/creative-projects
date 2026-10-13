@@ -1,0 +1,56 @@
+[
+  {
+    "id": "04_Duo",
+    "prompt": "LOCAL EDIT ONLY. Remove EVERY dollar value, number and date on the chart at the left: remove A$30K, A$20K, A$10K, A$0 and all June dates. Reconstruct the same plain dark teal background in those little erased lettering areas. Keep the entire white/cyan line chart, grid, title, TWO MEN, faces, eyes, clothes, lighting and exact framing untouched. Do not redraw faces. No replacement words or numbers. Same exact image size and composition.",
+    "rects": [
+      [
+        12,
+        338,
+        85,
+        347
+      ],
+      [
+        88,
+        682,
+        379,
+        42
+      ]
+    ]
+  },
+  {
+    "id": "10",
+    "prompt": "LOCAL EDIT ONLY: replace ONLY the content of the green chalkboard behind the two men. This episode is about systematic TRADING, not content creation. Erase the existing diagram and the words Content, Process, Audience, Growth. Draw a clean chalk flowchart with exactly four legible labels: RESEARCH, BACKTEST, RISK, EXECUTE and connecting arrows, no other wording and no numerical claims. Keep the board frame, entire composition, title, both men's faces, eyes, skin, clothing, hands, desk and lighting pixel-identical. Do NOT retouch either person. Same exact image size and framing.",
+    "rects": [
+      [
+        601,
+        248,
+        531,
+        234
+      ]
+    ]
+  },
+  {
+    "id": "13",
+    "prompt": "LOCAL EDIT ONLY: remove the YouTube play-button award plaque in the center background bookshelf, behind the table and between the two men's heads. Replace just that small plaque with natural plain books matching the adjacent bookshelf and warm lighting. No award, badge, logo or replacement lettering. Preserve everything else, particularly both faces, their profile eye direction, skin, hands, original clothing, headline, furniture and framing. Same exact image size.",
+    "rects": [
+      [
+        872,
+        270,
+        174,
+        165
+      ]
+    ]
+  },
+  {
+    "id": "18",
+    "prompt": "LOCAL EDIT ONLY: replace ONLY the laptop SCREEN contents at lower right with a clean simple research checklist. On the screen show heading RESEARCH NOTES and just four large legible checklist rows with empty checkboxes: DATA, COSTS, RISK, RULES. No monetary values, no spreadsheet profit data, no numbers, no brand logos, no performance chart. Keep the physical laptop, keyboard, all headline typography, arrow, white background and the entire guest portrait exactly untouched. No face retouch. Same exact image size.",
+    "rects": [
+      [
+        1004,
+        517,
+        445,
+        285
+      ]
+    ]
+  }
+]

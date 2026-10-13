@@ -1,0 +1,17 @@
+{
+  "Version": "V02",
+  "Date": "2026-10-12",
+  "PNGCount": 8,
+  "Width": 3840,
+  "Height": 2160,
+  "NativeSourceCount": 54,
+  "OriginalSourceHashesUnchanged": true,
+  "SourceVideoOrProxyDownloaded": false,
+  "CreationEntirelyNative4K": false,
+  "ArchiveFile": "Casper_8_Thumbnails_V02_3840x2160.zip",
+  "ArchiveEntries": 8,
+  "ArchivePayloadHashesMatch": true,
+  "ArchiveBytes": 145306539,
+  "ArchiveSHA256": "D232737BFBE542E3DFD19BF027555029AC7521BBCB797DEE1CA7E3974BAD79F1",
+  "VisualReview": "All 8 designs at 1280px and 320px, plus native 100% face crops; source face-core opaque pixels matched exactly before resizing and grain."
+}

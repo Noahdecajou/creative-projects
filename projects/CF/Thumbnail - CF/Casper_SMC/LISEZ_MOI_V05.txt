@@ -1,0 +1,47 @@
+CASPER / CHARTFANATICS — V05 — 13 octobre 2026
+
+Livraison : huit PNG 3840 x 2160 pixels, 16:9, avec masters sans grain final.
+Compositions avec composants agrandis : ce ne sont pas des creations entierement natives 4K.
+Les versions precedentes sont conservees.
+
+Corrections appliquees
+01 — TRADE WITH / A SYSTEM sur deux lignes. Ecran du MacBook entierement recompose en tableau de notes numerique lisible. Contenu repris du vrai tableau 00:23:00 : ICT, OB, FVG, Structure; Condition / Zones / Trigger; Let your winners run / Cut your losses fast; TP barre.
+02 — Ecran du MacBook entierement recompose : volume profile, positions des autres traders, VAH / POC / VAL, volume au prix et volume dans le temps. Le graphique est illustratif, sans montant ni resultat attribue a Casper.
+03 — Nouvelle scene : Casper regarde le tableau et y dessine au marqueur, Riz regarde le meme tableau. Grand 3 a gauche de DECISIONS, espacement reduit sous TRADING IN. Fleche propre vers le tableau, box jaune avec lueur jaune, box verte sans contour blanc avec lueur verte. Retouche locale du dos de la main posee pour supprimer une texture artificiellement marbree.
+04 — STOP OVERTHINKING sur une ligne.
+05 — MASTER VOLUME PROFILE sur une ligne centree en haut; VOLUME recoit un degrade du jaune clair au jaune sature et une lueur douce.
+06 — Visuels et regard conserves; suppression des contours graphiques et lueurs assorties.
+07 — LET YOUR WINNERS RUN en une ligne, plus gras. Noms RIZ et CASPER dans des boxes. Icone YouTube sans contour blanc, avec lueur rouge.
+08 — PRICE, fleche et ORDER FLOW centres ensemble, espace reduit apres PRICE et nouvelle pointe de fleche. Fleche CONDITION vers ZONES masquee derriere la tete de Casper. Icone YouTube sans contour blanc avec lueur rouge.
+Ensemble — Les boxes graphiques ont des aplats/degrades sans filet blanc, avec lueur de la couleur de la box. Les elements photographiques physiques, comme le bord de l'ordinateur, ne sont pas des filets graphiques.
+
+Contenu et sources
+OB est lisible sous ICT sur la photographie du tableau, et le transcript cite les order blocks et fair value gaps.
+Les ecrans 01/02 sont des illustrations pedagogiques redessinees, pas des captures d'une plateforme de trading ni de transactions reelles.
+Titres en anglais. Orthographe de l'invite et de l'animateur : CASPER / RIZ.
+Aucun titre supplementaire, montant, gain ou performance ajoute.
+
+Fabrication
+ImageGen integre utilise pour reconstruire la scene 03 a partir des photos HD Casper 00:16:00 et Riz 01:16:00. La scene V03 sert uniquement de reference de composition.
+La nouvelle scene comporte des personnes et corps reconstruits a partir de references : elle n'est pas une conservation pixel pour pixel des photos originales.
+ImageGen integre utilise pour une petite correction de texture sur la main posee. Le masque local et le script de composition preservent le reste de la scene.
+Les autres portraits et scenes reprennent les composants approuves V04. Les titres, boxes, fleches et ecrans sont des elements natifs editables dans les scripts, rendus a la resolution finale.
+Voir les prompts et scripts dans Suivi/V05. Les details des versions precedentes restent dans LISEZ_MOI_V03.txt et LISEZ_MOI_V04.txt.
+
+Controle
+Huit vues a 1280 pixels et a 320 pixels.
+Controle a 100 % des deux visages, des mains et du marqueur de la nouvelle 03; du degrade VOLUME; du masquage de la fleche derriere Casper.
+Controle de regions faciales interieures conservees par comparaison avec V04; voir Visages_preserves_V04_V05.csv. La scene 03 est exclue car sa pose a ete volontairement reconstruite.
+Dimensions, nombre des exports, fichiers de l'archive et hachages SHA-256 verifies.
+54 sources HD originales conservees intactes. Aucune video ni proxy telecharge.
+
+Organisation
+Sources_HD : photos natives 3840 x 2160.
+Masters/V05 : huit masters sans grain final et composants de composition.
+Exports_4K/V05 : huit PNG finaux.
+Apercus/V05 : planches, vues individuelles, details.
+Suivi/V05 : prompt de scene, prompt de retouche locale, scripts, titres et rapports.
+Livraison : ZIP PNG et ZIP de production.
+Reproduction des exports : executer render_v05.ps1 -Final depuis Suivi/V05 avec les fontes Poppins installees; les composants selectionnes sont inclus.
+Grain uniforme monochromatique de 5 %, ajoute une seule fois a la taille finale. Masters sans ce grain final.
+Aucune publication effectuee.

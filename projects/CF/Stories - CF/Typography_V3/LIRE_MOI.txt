@@ -1,0 +1,8 @@
+V3 - Retouche typographique uniquement.
+Titres et sous-titres composes avec les vrais fichiers Poppins-Regular.ttf et Poppins-Bold.ttf.
+Bold reserve aux mots ou expressions cles : CANDLES, HIDDEN, PRICE, BLIND, ORDER FLOW.
+Noms et badges secondaires : Poppins Regular.
+Les zones de portrait verifiees restent identiques pixel pour pixel a la V2.
+Les fonds derriere les anciens titres ont ete nettoyes avec image_gen integre; seuls les panneaux de texte sont repris dans les exports V2.
+Le grain existant de la V2 reste conserve hors retouche; les nouveaux caracteres et bandeaux recoivent le meme grain monochromatique nominal de 3 pour cent (sigma 7,65/255).
+Sources et code de composition conserves dans Typography_V3. Versions anterieures conservees.

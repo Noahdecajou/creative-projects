@@ -1,0 +1,22 @@
+IMRE GAMS / CHARTFANATICS — V14 FINAL — 13 OCTOBRE 2026
+
+Dernière correction demandée : bougies rouge vif et vert vif dans les infographies des images 01 et 02.
+
+PALETTE DES BOUGIES
+- Bougies baissières : rouge #FF0810, sommet #FF2226.
+- Bougies haussières : vert #18EF18, sommet #30FF30.
+- Mèches assorties. Géométrie, léger relief et fin reflet supérieur conservés.
+- Les libellés, zones, cercles, flèches, titres, portraits et arrière-plans conservent exactement leurs pixels de V13 en dehors des bougies.
+- Les images 03 à 08 sont des copies identiques aux fichiers validés V13.
+
+EXPORT
+Huit PNG 3840 x 2160, sans grain ajouté. Texte et formes dessinés à la taille de sortie ; éléments photographiques agrandis depuis les sources existantes, non natifs 4K.
+Archive complète : Livraison/Imre_Gams_8_Thumbnails_V14_3840x2160.zip.
+Galerie et aperçus : Apercus/V14.
+
+PROVENANCE ET CONTRÔLE
+Modification ciblée des couleurs dans la fonction Candle du fichier charts_v14.ps1. Les variables de couleur des autres objets restent inchangées.
+Sources, portraits, références et justification des schémas : V13.
+render_v14.ps1 -Final reproduit 01 et 02 ; verify_v14.ps1 vérifie l'identité des pixels hors des bougies et la conservation intégrale de 03 à 08.
+package_v14.ps1 vérifie huit PNG, leurs dimensions et les empreintes SHA256 des huit entrées du ZIP.
+Versions antérieures conservées.

@@ -1,0 +1,10 @@
+Contrôle final — V02 — 12 octobre 2026
+23 compositions, 23 masters, 23 PNG distincts, 23 références.
+Inspection visuelle des 23 masters lors de la génération : texte principal, identité, yeux, cheveux, cou, barbe et mains lorsqu'ils sont visibles.
+Contrôle des 23 variantes à 320 px sur la planche finale : titres principaux lisibles ; les petits détails des tableaux restent secondaires.
+Inspection supplémentaire de crops des exports 4K : visage 23, visage/barbe 20 et mains 12.
+Révision 20 : seuls les pixels du bord droit ont été assemblés depuis la retouche, protection du reste vérifiée par comparaison pixel à pixel.
+Vérification programmatique : dimensions 3840 × 2160, 23 hashes distincts, 24 sources intactes, ZIP 23 PNG + 4 fichiers de documentation/aperçu, chaque entrée contrôlée par SHA256.
+Limitations déclarées : scènes générées depuis photos de référence, masters aplatis 1672 × 941, export agrandi non natif 4K, courbes illustratives.
+Suggestions de départ pour comparaison : 01 pour l'angle éditorial, 18 pour le parcours avec un objet central, 23 pour la lecture immédiate.
+

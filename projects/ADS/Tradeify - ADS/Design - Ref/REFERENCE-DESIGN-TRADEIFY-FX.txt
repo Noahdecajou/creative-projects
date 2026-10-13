@@ -1,0 +1,64 @@
+RÉFÉRENCE VISUELLE — TRADEIFY FX
+Étude du 6 octobre 2026. Sources : les 10 exports du dossier Design - Ref.
+Préférence exprimée par l'utilisateur : ces designs lui plaisent ; s'en inspirer pour les futures créations Tradeify FX.
+
+1. INTENTION ET IDENTITÉ
+Univers sombre, technologique, contrasté, avec une typographie dominante et une couleur d'accent cyan. La construction sert une lecture rapide sur mobile. Le fond apporte de la profondeur, le blanc porte les informations, le cyan attire l'œil sur l'offre, le bénéfice et les éléments d'action.
+Les déclinaisons CA et PFT sont principalement des variantes de code d'une même composition. Ne pas considérer chaque export comme une direction artistique différente.
+Neuf exports sont en 1080 × 1920 (9:16). Le fichier ChatGPT Image est en 941 × 1672, pratiquement 9:16.
+
+2. STRUCTURE DE L'INFORMATION
+Lecture essentiellement centrée, du haut vers le bas. Les lignes de texte restent horizontales, même lorsque le fond comporte des diagonales ou un objet en perspective.
+Deux modèles principaux :
+— Offre directe : accroche → capsule de marque/lancement → remise géante → durée → bénéfice court → REPLY: FX → CODE: CA/PFT.
+— Explication de produit : logo → accroche/bénéfice → module explicatif → offre → appels à l'action.
+Le titre ne traite qu'une idée. Les retours à la ligne sont une décision graphique : une ligne blanche pose le contexte, une ligne cyan porte le mot ou le bénéfice clé, par exemple EVALUATION, TOMORROW ou HAS ARRIVED.
+Le 50% est le premier point d'attention dans les créations centrées sur la remise ; il est plus grand que le texte OFF ou associé à un OFF lui aussi monumental.
+Les explications alternent une phrase en graisse régulière et une conclusion en gras. La durée de l'offre est placée immédiatement sous la remise.
+Le bas comporte deux actions distinctes : réponse FX, puis code. Le code se détache par le cyan dans une capsule sombre ; dans Three Routes, le CTA de réponse est blanc plein et le CTA de code cyan plein, avec texte sombre.
+
+3. COULEURS ET PROPORTIONS
+Mesures approximatives de surface sur miniatures RGB, regroupées par luminosité et teinte. Les fonds pétrole et les halos sombres sont classés avec le fond sombre ; le cyan sombre n'est donc pas compté comme accent lumineux. Ce ne sont pas des pourcentages de calques ni une charte officielle.
+                          Sombre   Cyan/bleu lumineux   Blanc/gris clair   Intermédiaire
+OPTION 1 CA               81,7 %          9,0 %              7,8 %             1,5 %
+OPTION 2 CA (3D)          74,5 %         19,6 %              4,5 %             1,3 %
+Daily Launch CA           90,7 %          4,6 %              3,3 %             1,5 %
+Daily Launch CA_2         82,3 %          8,4 %              7,8 %             1,5 %
+Three Routes CA           83,7 %          7,9 %              6,5 %             1,9 %
+ChatGPT Image             82,6 %          8,2 %              7,7 %             1,4 %
+Les versions PFT ont des proportions très proches des versions CA correspondantes. Les écarts d'arrondi peuvent empêcher le total d'être exactement 100 %.
+Pour une nouvelle composition typographique, partir autour de 82–85 % de sombre, 8–10 % de cyan lumineux et 6–8 % de blanc, puis ajuster à la hiérarchie. Pour une scène 3D, le cyan peut monter autour de 20 % de la surface. Ne pas appliquer mécaniquement une règle 60/30/10.
+Palette de travail approximative à rapprocher visuellement des références, non couleurs sources certifiées : noir bleuté #03080A ; pétrole #001E23 ; cyan #00D5E8 ; turquoise lumineux #00F0F0 ; reflet clair #85FFFF ; blanc #F8FAFA. Les exports ont des variations de teinte, de grain et de dégradé : ne pas supposer un seul cyan uniforme.
+Les résultats et la méthode reproductible se trouvent dans analyse-couleurs.json et ../analyse_design_refs.py. La palette quantifiée à huit couleurs mélange parfois les blancs et cyans dans un même groupe ; ses centroïdes ne sont pas des couleurs de marque.
+
+4. TYPOGRAPHIE
+Nom exact : non identifié. Les seuls fichiers fournis sont des images aplaties et ne contiennent pas de métadonnée identifiant la police. Ne jamais présenter une hypothèse comme le nom de la police utilisée.
+Caractéristiques observables : sans empattement, lettres droites, silhouettes larges, peu de contraste entre traits, grands titres en capitales et en graisse forte. Le rendu évoque une sans-serif grotesque contemporaine, plutôt large que condensée. Les chiffres et les lettres rondes prennent beaucoup de place. Les textes secondaires utilisent une graisse régulière, avec certains groupes de mots en gras.
+Plusieurs familles de visuels peuvent contenir des formes de lettres différentes ; le logo est un élément de marque à réutiliser depuis une source fiable, et non une preuve de la police des titres.
+Pour une reproduction fidèle, confirmer le nom et les graisses depuis le document éditable ou auprès de l'utilisateur. En attendant, préserver les formes, la largeur des mots, la graisse et les retours à la ligne plutôt que prétendre disposer de la fonte originale.
+Ordres de grandeur visuels sur 1080 px de largeur, à adapter au texte : titres 80–130 px, remise monumentale 250–360 px, textes secondaires 32–56 px, CTA 56–76 px. Ces plages sont des estimations visuelles, pas des mesures de corps de police source.
+Les titres et CTA sont compacts, les phrases explicatives plus aérées. Éviter les capitales très espacées et les polices étroites qui changeraient le caractère des références.
+
+5. FORMES, MATIÈRES ET EFFETS
+Fond noir/pétrole avec grain fin, halos cyan localisés, points en trame ou lignes géométriques très discrètes. La texture ne doit pas nuire à la lecture.
+Capsules allongées pour le badge LAUNCH et les CTA ; contours cyan fins, intérieur sombre, halo léger. Les modules explicatifs utilisent des rectangles aux coins arrondis plutôt que des capsules.
+Cartes à effet verre sombre dans Three Routes : léger dégradé, contour clair/cyan, lumière sur les bords. Pictogrammes simples : une barre, deux barres, éclair.
+OPTION 1/2 utilise un effet de traînée à gauche de l'accroche. OPTION 2 ajoute une scène rocheuse sombre, de la brume et un bloc translucide cyan en perspective. Cet objet occupe le centre ; les zones de texte restent lisibles sur des parties sombres.
+Les reflets, halos et contours gardent la même famille cyan/blanc. Les couleurs accessoires sont marginales.
+
+6. FAMILLES À RÉUTILISER
+A — OPTION 1 (CA/PFT) : annonce Direct, typographie massive, remise 50% puis OFF sur deux lignes, fond tramé, deux capsules. Bon point de départ pour une offre simple et forte.
+B — OPTION 2 (CA/PFT) : même annonce, mais objet 3D immersif au centre, remise sur une ligne au-dessous. Point de départ pour une campagne avec image centrale marquante.
+C — Daily Launch (CA/PFT) : logo haut, accroche en trois lignes, explication courte, module TODAY / TRADE → TOMORROW / REQUEST, encart remise puis deux capsules. Composition plus pédagogique et aérée.
+D — Daily Launch CA_2 et ChatGPT Image : accroche haute, badge marque, remise centrale monumentale, bénéfice court, deux capsules. Composition plus concentrée sur la promotion.
+E — Three Routes (CA/PFT) : logo et contexte, titre, encart remise, trois cartes numérotées de largeur égale, profit split/MT5, deux CTA pleins. Point de départ pour comparer trois chemins ou avantages.
+
+7. CONSIGNES POUR LES PROCHAINES CRÉATIONS
+Instruction utilisateur du 6 octobre 2026 : TOUJOURS inclure deux blocs distincts REPLY: FX et CODE: [code de campagne] dans chaque ad. Ils sont obligatoires, même lorsque le brief ne les répète pas. L'URL n'est pas souhaitée. Pour le test 01 corrigé, reprendre CA depuis la référence utilisée ; pour les prochaines campagnes conserver le code déjà établi dans le brief ou les références, sans en inventer un nouveau.
+Relire cette fiche et ouvrir les images de la famille choisie avant de produire un nouveau design.
+Conserver le contraste sombre/blanc/cyan, la lecture verticale, les mots clés colorés, les proportions typographiques et les formes arrondies. Créer une nouvelle composition en adaptant la famille au message.
+Sur 1080 × 1920, les marges observées varient environ de 50 à 110 px pour les grands blocs et les CTA sont généralement plus étroits que les titres. Les espaces du haut et du bas varient selon la composition ; prévoir les contraintes du placement réel, notamment l'interface d'une story.
+Limiter le texte à une accroche, une offre ou un bénéfice principal, une courte explication et une action. Garder les descriptions plus longues dans un module dédié.
+Maintenir les codes CA/PFT comme variables de campagne ; aucun n'est un code par défaut universel.
+Les 50% et FIRST 24 HOURS sont du contenu historique des références, pas une promotion actuelle confirmée. Les promesses de payout et de funding doivent être adaptées aux règles actuelles et au brief ; la référence graphique ne certifie pas leur actualité.
+Avant livraison : vérifier logo, orthographe, code, dates, promesse exacte, lisibilité mobile et cohérence des alignements. Comparer le nouveau visuel avec la référence réelle, pas seulement avec une description de son style.

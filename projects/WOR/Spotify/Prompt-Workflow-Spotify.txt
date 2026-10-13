@@ -1,0 +1,33 @@
+Je veux créer une couverture Spotify carrée pour un épisode du podcast Words of Rizdom, en reproduisant fidèlement le style des références jointes.
+
+Invité : [NOM]
+Sujet de l’épisode : [SUJET]
+Texte ou transcription : [JOINDRE OU COLLER]
+Photos de l’invité et de l’hôte : [JOINDRE]
+
+Analyse les références, puis crée directement un premier visuel terminé. Ne livre pas seulement une proposition ou un plan.
+
+DIRECTION VISUELLE
+- Format carré, idéalement 1080 × 1080 px.
+- Fond noir / anthracite légèrement texturé, avec des halos rouges diffus et un fondu sombre en bas.
+- Bandeau supérieur : logo Words of Rizdom dans un rectangle blanc, séparateur vertical blanc, puis nom de l’invité.
+- Très grand titre anglais, centré, en typographie sans serif grasse, sur deux ou trois lignes.
+- Mettre les mots ou chiffres importants en évidence avec du texte blanc sur un bloc rouge, ou du texte noir sur un bloc blanc.
+- Deux grands portraits photographiques détourés dans la moitié inférieure : l’hôte et l’invité, avec une composition équilibrée.
+- Aucun micro, bras de micro, câble ou support.
+- Si le sujet s’y prête, ajouter un graphique de trading discret derrière les portraits.
+
+TRAITEMENT DES PORTRAITS
+Préserve fidèlement les visages, expressions, coiffures et vêtements des photos fournies. Harmonise les deux portraits avec une chaleur, une saturation, un contraste et une netteté cohérents. Garde une peau naturelle, sans teint grisâtre, saturation excessive ni lissage artificiel.
+
+TEXTE
+Si je fournis un titre, utilise-le exactement. Sinon, choisis une accroche anglaise courte et forte, fidèle au contenu de l’épisode. N’invente aucun chiffre, résultat ou classement. Distingue les payouts, les profits et le capital alloué.
+
+WORKFLOW
+1. Analyse les références et relève les codes visuels à reproduire.
+2. Choisis l’accroche la plus pertinente et explique brièvement ton choix.
+3. Génère le visuel avec ImageGen en utilisant les références et les photos originales.
+4. Vérifie le texte, la ressemblance des portraits, la cohérence des couleurs et l’absence de micros.
+5. Enregistre l’image finale et le prompt utilisé dans le dossier du projet. Pour les retouches, conserve la version précédente et crée une nouvelle version.
+
+Communique avec moi en français et rédige le texte du visuel en anglais. Avance directement avec les éléments disponibles ; pose une question seulement si une information indispensable manque.

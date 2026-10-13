@@ -1,0 +1,22 @@
+SAMPSA JEPPEZ — WORDS OF RIZDOM
+Date: 2026-10-12
+Source: WOR Jeppez.txt supplied by the user.
+Video: https://next.frame.io/project/ac38fcc3-2b7d-4f09-a8cf-5db020cf5a01/view/9ef7d694-29fa-41fd-8c87-854e7ed61081
+
+01 USED FOR V01: $12K TO $5M
+Source 00:00:00–00:01:12: host introduces a rise from an equity low of $12,000 to over $5 million in approximately two and a half years. Episode claim, not independent account verification. Do not relabel as payouts or imply all returns came from the algorithm.
+Associated full YouTube title proposal: From $12K to $5M: Sampsa Jeppez on System Trading, Sizing and Drawdowns
+
+02 AVAILABLE: $3M IN 3 MONTHS
+Source 00:11:52–00:12:19: guest reports over $3 million in July–September 2025 after running the algo at full size. He immediately describes a subsequent drawdown near $1 million and roughly $2 million remaining profit. Historical peak-period claim, not ongoing monthly income or guaranteed performance.
+
+03 AVAILABLE: TRADE LESS. MAKE MORE.
+Source 00:19:46–00:20:57 and 01:01:30–01:02:29: editorial paraphrase of his selective discretionary trading and minimising screen time. Not a quotation and not a promise. He explicitly says research/backtesting still require hard work.
+
+NOT USED: 190,000% / 200,000% return. The introductory ratio does not directly match $12K to $5M; withdrawals and compounding treatment are not independently reconciled. No percentage claim in the thumbnail.
+NOT USED: future nine figures by 2030. This is an aspiration, not an achieved result.
+Relevant method: data-defined systematic trading 00:01:12–00:01:33; Excel backtesting 00:24:23–00:27:19.
+Relevant downside: repeated 40–50% drawdowns, including 46% in a month, 00:04:12–00:04:37.
+
+Approved final target: one initial thumbnail, PNG 3840x2160, 16:9; 4% fine monochromatic finishing grain; source photos intact; separate masters, exports, previews and ZIP.
+Names use the human user's spelling: Sampsa Jeppez. Automatic transcript errors such as SAMHSa/GPS/Words of Wisdom are not used.

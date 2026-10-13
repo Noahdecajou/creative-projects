@@ -1,0 +1,179 @@
+[
+  {
+    "id": "10",
+    "srcId": "10",
+    "title": "The system behind $5M",
+    "prompt": "Use case: precise-object-edit / identity-preserve. Edit the FIRST image, an already approved YouTube thumbnail, not a new design. Output ONE finished landscape 16:9 image with exactly the same framing, typography sizes and placements. Preserve approved photographic faces and natural skin textures, hair, beard, clothing and all unrequested elements. No microphones, no beauty smoothing, no artificial skin, no excessive sharpness, no extra wrinkles. Do not crop text. No added grain (4% is applied during export). Change ONLY the repetitive wall-library background to a sophisticated private trading office: walnut panel wall with sage-green areas, warm amber light, one or two monitors with faint realistic candlestick charts at the sides. Keep the existing central green chalkboard and its exact RESEARCH / BACKTEST / RISK / EXECUTE diagram as-is. Preserve exactly both people, hands, poses, eyes looking at camera and headline 'The system behind $5M'. Naturally whiten Sampsa's teeth to ivory without altering smile.",
+    "paths": [
+      "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/masters/Sampsa_10.png"
+    ]
+  },
+  {
+    "id": "12",
+    "srcId": "12",
+    "title": "The future of trading",
+    "prompt": "Use case: precise-object-edit / identity-preserve. Edit the FIRST image, an already approved YouTube thumbnail, not a new design. Output ONE finished landscape 16:9 image with exactly the same framing, typography sizes and placements. Preserve approved photographic faces and natural skin textures, hair, beard, clothing and all unrequested elements. No microphones, no beauty smoothing, no artificial skin, no excessive sharpness, no extra wrinkles. Do not crop text. No added grain (4% is applied during export). Change ONLY background from full library wall to a refined cozy trading office with dark sage wall panels, walnut surfaces, warm amber lamp and a wide realistic trading monitor with subtle candlestick chart visible off to one side, softly defocused. Keep the central blackboard and exact DATA → RULES → EXECUTION diagram, title, table, people, all hands and conversational side gazes exactly as original. No added foreground objects.",
+    "paths": [
+      "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/masters/Sampsa_12.png"
+    ]
+  },
+  {
+    "id": "14",
+    "srcId": "14",
+    "title": "Stop Overfitting",
+    "prompt": "Use case: precise-object-edit / identity-preserve. Edit the FIRST image, an already approved YouTube thumbnail, not a new design. Output ONE finished landscape 16:9 image with exactly the same framing, typography sizes and placements. Preserve approved photographic faces and natural skin textures, hair, beard, clothing and all unrequested elements. No microphones, no beauty smoothing, no artificial skin, no excessive sharpness, no extra wrinkles. Do not crop text. No added grain (4% is applied during export). Change background from full wall library to a sophisticated cozy trading office: deep sage-green panels, walnut and amber lamplight, faint defocused candlestick monitor at far side. Revise ONLY the whiteboard content creatively to explain overfitting clearly. On the board draw an upper-left small panel labeled 'TRAINING DATA' with black scattered observations and an overly wiggly red fitted line; upper-right panel labeled 'UNSEEN DATA' with black observations and the red line visibly missing new observations. Link panels with a simple arrow. Along the bottom a calmer green line and a green tick with label 'SIMPLE RULES'. Simple authentic handwritten marker style, a handful of meaningful marks, legible, no equations, no invented performance numbers. Keep main title 'Stop Overfitting' unchanged and preserve exact people, faces, hands, poses and mutual conversational gaze.",
+    "paths": [
+      "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/masters/Sampsa_14.png"
+    ]
+  },
+  {
+    "id": "15",
+    "srcId": "15",
+    "title": "trust the data",
+    "prompt": "Use case: precise-object-edit / identity-preserve. Edit the FIRST image, an already approved YouTube thumbnail, not a new design. Output ONE finished landscape 16:9 image with exactly the same framing, typography sizes and placements. Preserve approved photographic faces and natural skin textures, hair, beard, clothing and all unrequested elements. No microphones, no beauty smoothing, no artificial skin, no excessive sharpness, no extra wrinkles. Do not crop text. No added grain (4% is applied during export). Replace ONLY the little red grid/calculator icon left of 'trust' with the actual YouTube play symbol: a red horizontal rounded rectangle with centered white right-pointing triangle. Change defocused background to cozy trading study, muted dark sage/teal walls, walnut desk with a softly blurred trading monitor and amber task light, a small shelf to side. Preserve all exact typography 'trust the data', underline, face, hair, natural skin, expression, pose and hands. No other changes.",
+    "paths": [
+      "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/masters/Sampsa_15.png"
+    ]
+  },
+  {
+    "id": "18",
+    "srcId": "18",
+    "title": "$5M From $12K",
+    "prompt": "Use case: precise-object-edit / identity-preserve. Edit the FIRST image, an already approved YouTube thumbnail, not a new design. Output ONE finished landscape 16:9 image with exactly the same framing, typography sizes and placements. Preserve approved photographic faces and natural skin textures, hair, beard, clothing and all unrequested elements. No microphones, no beauty smoothing, no artificial skin, no excessive sharpness, no extra wrinkles. Do not crop text. No added grain (4% is applied during export). Change ONLY the laptop display at bottom right from the RESEARCH NOTES checklist to a sophisticated realistic dark trading chart: fine grid, green and restrained red OHLC candlesticks, thin wicks, small matching volume bars underneath, believable desktop chart framing. No balances, no dollar amounts, no text labels needed. Keep laptop geometry, perspective, white background, arrow and exact headline '$5M From $12K' unchanged. Gently whiten ONLY visible teeth to natural ivory without altering smile or lip shape. Preserve exact portrait otherwise.",
+    "paths": [
+      "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/masters/Sampsa_18.png"
+    ]
+  },
+  {
+    "id": "20",
+    "srcId": "20",
+    "title": "System Trading Masterclass",
+    "prompt": "Use case: precise-object-edit / identity-preserve. Edit the FIRST image, an already approved YouTube thumbnail, not a new design. Output ONE finished landscape 16:9 image with exactly the same framing, typography sizes and placements. Preserve approved photographic faces and natural skin textures, hair, beard, clothing and all unrequested elements. No microphones, no beauty smoothing, no artificial skin, no excessive sharpness, no extra wrinkles. Do not crop text. No added grain (4% is applied during export). CRITICAL EYE CONTACT EDIT FOR BOTH PEOPLE. Riz on left and Sampsa on right must each look directly into the viewer's eyes, straight down the camera lens at THEIR EYE LEVEL. In the current thumbnail their gaze feels below lens; elevate their pupil aim subtly to meet viewer exactly, balanced eye whites, neither looking down nor sideways. Both heads face straight forward, relaxed eyelids naturally open. Identity references images 2 Sampsa, 3 Riz: preserve authentic facial features and skin, DO NOT adopt reference off-camera gaze. Keep bodies, head placement, title 'System Trading Masterclass', yellow banner and background exactly unchanged. Also subtly whiten Sampsa's visible teeth to clean ivory, preserve irregular tooth shapes and real shading. No skin smoothing, no pores or wrinkles added.",
+    "paths": [
+      "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/masters/Sampsa_20.png",
+      "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/sources_HD/Sampsa/Sampsa_16-19-00-00.jpg",
+      "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/sources_HD/Riz/Riz_23-46-16-11.jpg"
+    ]
+  },
+  {
+    "id": "21",
+    "srcId": "21",
+    "title": "The edge is in the data",
+    "prompt": "Use case: precise-object-edit / identity-preserve. Edit the FIRST image, an already approved YouTube thumbnail, not a new design. Output ONE finished landscape 16:9 image with exactly the same framing, typography sizes and placements. Preserve approved photographic faces and natural skin textures, hair, beard, clothing and all unrequested elements. No microphones, no beauty smoothing, no artificial skin, no excessive sharpness, no extra wrinkles. Do not crop text. No added grain (4% is applied during export). CRITICAL LOCAL EYE CONTACT EDIT. Sampsa must look the viewer STRAIGHT IN THE EYES, with the camera at pupil height and both irises aiming exactly into its lens. Current gaze feels a little below lens: subtly raise focal direction to the viewer. Keep head and face pose, identity, mouth, eyebrows and natural skin unchanged. Image 2 is original identity reference only, never copy its downward/off-camera gaze. Keep exact title 'The edge is in the data', all chart bars, background, hands, clothes and framing unchanged. Correct only eye direction and minimal eyelid area needed for direct eye contact.",
+    "paths": [
+      "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/masters/Sampsa_21.png",
+      "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/sources_HD/Sampsa/Sampsa_16-05-00-00.jpg"
+    ]
+  },
+  {
+    "id": "22",
+    "srcId": "22",
+    "title": "The risk is Hidden",
+    "prompt": "Use case: precise-object-edit / identity-preserve. Edit the FIRST image, an already approved YouTube thumbnail, not a new design. Output ONE finished landscape 16:9 image with exactly the same framing, typography sizes and placements. Preserve approved photographic faces and natural skin textures, hair, beard, clothing and all unrequested elements. No microphones, no beauty smoothing, no artificial skin, no excessive sharpness, no extra wrinkles. Do not crop text. No added grain (4% is applied during export). Recompose the conversational poses ONLY while preserving exact headline, yellow Hidden box, warm room color, photographic style and identity. RIZ in the LEFT FOREGROUND seen FROM BEHIND, soft out-of-focus back of his black-haired head and brown overshirt shoulder, occupying left ~25%, face not visible; this creates over-the-shoulder depth. SAMPSA remains in sharp focus center-right, turns his head slightly left toward Riz, with a gentle engaged head tilt and natural mid-conversation expression. He looks AT RIZ, not at camera. Sampsa leans forward a little and lifts one hand in a small natural explanatory gesture; other hand rests naturally. Anatomically correct five fingers, no extra limbs. Use original photos image2 Sampsa and image3 Riz as exact identity/skin/clothing anchors. Preserve headline 'The risk is Hidden' precisely; no microphones. Teeth if visible clean ivory naturally.",
+    "paths": [
+      "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/masters/Sampsa_22.png",
+      "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/sources_HD/Sampsa/Sampsa_16-25-00-00.jpg",
+      "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/sources_HD/Riz/Riz_00-37-01-19.jpg"
+    ]
+  },
+  {
+    "id": "23",
+    "srcId": "23",
+    "title": "From $12K To $5M",
+    "prompt": "Use case: precise-object-edit / identity-preserve. Edit the FIRST image, an already approved YouTube thumbnail, not a new design. Output ONE finished landscape 16:9 image with exactly the same framing, typography sizes and placements. Preserve approved photographic faces and natural skin textures, hair, beard, clothing and all unrequested elements. No microphones, no beauty smoothing, no artificial skin, no excessive sharpness, no extra wrinkles. Do not crop text. No added grain (4% is applied during export). Keep the exact portrait, headline 'From $12K To $5M', yellow highlight and composition. Add subtle dark charcoal chart-grid texture only to empty black background. Add ONE large partially cropped three-dimensional green financial candlestick in the very bottom-left foreground, angled slightly in perspective, about 20% frame width, cropping through bottom and left edges. Thick rectangular body and thin wick, satin emerald material, softly defocused as a close foreground object creating depth/parallax. Keep it BELOW all text and left of the subject, no overlap with words or face. This is a trading candle, NO flame or wax. Subtle edge light, no intense glow, no garish toy finish. Gently whiten visible tooth enamel to natural ivory, preserve smile and all skin.",
+    "paths": [
+      "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/masters/Sampsa_23.png"
+    ]
+  },
+  {
+    "id": "01",
+    "srcId": "01",
+    "title": "trade less make more",
+    "prompt": "Use case: precise-object-edit / identity-preserve. Edit the FIRST image, an already approved YouTube thumbnail, not a new design. Output ONE finished landscape 16:9 image with exactly the same framing, typography sizes and placements. Preserve approved photographic faces and natural skin textures, hair, beard, clothing and all unrequested elements. No microphones, no beauty smoothing, no artificial skin, no excessive sharpness, no extra wrinkles. Do not crop text. No added grain (4% is applied during export). Change ONLY the defocused room background: a handsome cozy private trading home office, dark walnut desk and two large monitors showing realistic dark candlestick charts with muted green and amber candles, warm amber desk lamp and dark sage/teal walls. Strong photographic background blur; monitors identifiable as trading but no legible invented balances or profits. Retain the existing portrait, title, lighting and framing exactly. Naturally whiten only visible teeth by removing yellow tint, ivory not bright white.",
+    "paths": [
+      "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/masters/Sampsa_01.png"
+    ]
+  },
+  {
+    "id": "02",
+    "srcId": "02",
+    "title": "FIND YOUR EDGE",
+    "prompt": "Use case: precise-object-edit / identity-preserve. Edit the FIRST image, an already approved YouTube thumbnail, not a new design. Output ONE finished landscape 16:9 image with exactly the same framing, typography sizes and placements. Preserve approved photographic faces and natural skin textures, hair, beard, clothing and all unrequested elements. No microphones, no beauty smoothing, no artificial skin, no excessive sharpness, no extra wrinkles. Do not crop text. No added grain (4% is applied during export). Replace ONLY the plain teal gradient background with a softly defocused cozy orange/amber-lit trading office: walnut desk, realistic dark monitors with candlestick charts, small plant, deep green shadow accents. Darken behind existing white/yellow handwritten diagram enough to keep perfect readability. Preserve EVERY diagram stroke, word, title and the exact guest portrait, pose and gaze. No added words.",
+    "paths": [
+      "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/masters/Sampsa_02.png"
+    ]
+  },
+  {
+    "id": "02_Duo",
+    "srcId": "02_Duo",
+    "title": "FIND YOUR EDGE",
+    "prompt": "Use case: precise-object-edit / identity-preserve. Edit the FIRST image, an already approved YouTube thumbnail, not a new design. Output ONE finished landscape 16:9 image with exactly the same framing, typography sizes and placements. Preserve approved photographic faces and natural skin textures, hair, beard, clothing and all unrequested elements. No microphones, no beauty smoothing, no artificial skin, no excessive sharpness, no extra wrinkles. Do not crop text. No added grain (4% is applied during export). Replace ONLY the plain teal gradient background with a softly defocused cozy orange/amber-lit trading office: walnut desk, realistic dark monitors with candlestick charts, small plant, deep green shadow accents. Darken behind existing white/yellow handwritten diagram enough to keep perfect readability. Preserve EVERY diagram stroke, word, title and BOTH exact portraits, poses and gazes. No added words.",
+    "paths": [
+      "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/masters/Sampsa_02_Duo.png"
+    ]
+  },
+  {
+    "id": "03",
+    "srcId": "03",
+    "title": "$12K TO $5M",
+    "prompt": "Use case: precise-object-edit / identity-preserve. Edit the FIRST image, an already approved YouTube thumbnail, not a new design. Output ONE finished landscape 16:9 image with exactly the same framing, typography sizes and placements. Preserve approved photographic faces and natural skin textures, hair, beard, clothing and all unrequested elements. No microphones, no beauty smoothing, no artificial skin, no excessive sharpness, no extra wrinkles. Do not crop text. No added grain (4% is applied during export). Change ONLY Sampsa's visible tooth enamel from yellowish to naturally clean ivory white, a restrained photographic whitening. Preserve exact tooth shapes, separations, shadows, lips, smile, skin and everything else. No other edit at all.",
+    "paths": [
+      "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/masters/Sampsa_03.png"
+    ]
+  },
+  {
+    "id": "03_Duo",
+    "srcId": "03_Duo",
+    "title": "$12K TO $5M",
+    "prompt": "Use case: precise-object-edit / identity-preserve. Edit the FIRST image, an already approved YouTube thumbnail, not a new design. Output ONE finished landscape 16:9 image with exactly the same framing, typography sizes and placements. Preserve approved photographic faces and natural skin textures, hair, beard, clothing and all unrequested elements. No microphones, no beauty smoothing, no artificial skin, no excessive sharpness, no extra wrinkles. Do not crop text. No added grain (4% is applied during export). Change ONLY Sampsa's visible tooth enamel from yellowish to naturally clean ivory white, a restrained photographic whitening. Preserve exact tooth shapes, separations, shadows, lips, smile, skin and everything else, including Riz. No other edit at all.",
+    "paths": [
+      "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/masters/Sampsa_03_Duo.png"
+    ]
+  },
+  {
+    "id": "05",
+    "srcId": "05",
+    "title": "OVERFITTING KILLS EDGE",
+    "prompt": "Use case: precise-object-edit / identity-preserve. Edit the FIRST image, an already approved YouTube thumbnail, not a new design. Output ONE finished landscape 16:9 image with exactly the same framing, typography sizes and placements. Preserve approved photographic faces and natural skin textures, hair, beard, clothing and all unrequested elements. No microphones, no beauty smoothing, no artificial skin, no excessive sharpness, no extra wrinkles. Do not crop text. No added grain (4% is applied during export). CRITICAL LOCAL EYE CONTACT CORRECTION: Sampsa must make unmistakable direct eye-to-eye contact with the viewer looking at this thumbnail. Correct BOTH iris/pupil aim to the exact camera lens at the viewer's eye level. Neither up, down, left nor right; eyes converge naturally on a camera in front at portrait distance, not cross-eyed. Gently adjust eyelid opening only as needed; keep exact face/head shape, pose, neutral expression, skin texture, eyebrow position and all text and diagram pixels otherwise unchanged. Image 2 is authentic Sampsa identity ONLY, not a gaze reference. Do NOT follow its off-camera gaze. Keep entire whiteboard including all exact typography unchanged.",
+    "paths": [
+      "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/masters/Sampsa_05.png",
+      "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/sources_HD/Sampsa/Sampsa_16-25-00-00.jpg"
+    ]
+  },
+  {
+    "id": "06",
+    "srcId": "06",
+    "title": "keep testing",
+    "prompt": "Use case: precise-object-edit / identity-preserve. Edit the FIRST image, an already approved YouTube thumbnail, not a new design. Output ONE finished landscape 16:9 image with exactly the same framing, typography sizes and placements. Preserve approved photographic faces and natural skin textures, hair, beard, clothing and all unrequested elements. No microphones, no beauty smoothing, no artificial skin, no excessive sharpness, no extra wrinkles. Do not crop text. No added grain (4% is applied during export). Replace red candlestick icon left of 'keep' with the accurate YouTube play icon: horizontal red rounded rectangle and centered white right-pointing triangle. Very subtle soft red bloom around this small rectangle only. Change background to a sophisticated teal/green and amber trading study with walnut desk and computer with recognizable candlestick chart, beside a SMALL bookshelf. Background remains photographic and defocused, not a full wall library. Preserve exact subject, hands, pose, title 'keep testing' and red underline. Naturally whiten visible tooth enamel to ivory.",
+    "paths": [
+      "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/masters/Sampsa_06.png"
+    ]
+  },
+  {
+    "id": "08",
+    "srcId": "08",
+    "title": "don't overtrade.",
+    "prompt": "Use case: precise-object-edit / identity-preserve. Edit the FIRST image, an already approved YouTube thumbnail, not a new design. Output ONE finished landscape 16:9 image with exactly the same framing, typography sizes and placements. Preserve approved photographic faces and natural skin textures, hair, beard, clothing and all unrequested elements. No microphones, no beauty smoothing, no artificial skin, no excessive sharpness, no extra wrinkles. Do not crop text. No added grain (4% is applied during export). Change ONLY laptop screen and room setup: a premium cozy trading office with elegant large walnut desk, subtle leather desk pad, thin metal laptop and rear ultrawide monitor showing realistic candlestick trading charts with green/red candles and restrained volume bars. Softly defocused room, deep sage/teal and warm amber light, premium understated materials. Keep same viewpoint, chair, subject pose/identity/face/hands and all exact headline typography. Replace existing blue bar chart on laptop with candlestick chart. No profit amounts, no brand logos. Naturally whiten any visible teeth.",
+    "paths": [
+      "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/masters/Sampsa_08.png"
+    ]
+  },
+  {
+    "id": "09",
+    "srcId": "09",
+    "title": "Wait for the edge",
+    "prompt": "Use case: precise-object-edit / identity-preserve. Edit the FIRST image, an already approved YouTube thumbnail, not a new design. Output ONE finished landscape 16:9 image with exactly the same framing, typography sizes and placements. Preserve approved photographic faces and natural skin textures, hair, beard, clothing and all unrequested elements. No microphones, no beauty smoothing, no artificial skin, no excessive sharpness, no extra wrinkles. Do not crop text. No added grain (4% is applied during export). Change ONLY background to a sophisticated softly defocused trading workstation: walnut desk, two realistic screens displaying subdued candlestick charts, warm amber desk lighting and dark sage/teal decor. Preserve EXACT guest pointing hand, face, identity, pose, hair, clothes and exact headline and underline. Gently whiten visible teeth to natural ivory. No added text or profits.",
+    "paths": [
+      "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/masters/Sampsa_09.png"
+    ]
+  },
+  {
+    "id": "11_Green",
+    "srcId": "11",
+    "title": "Build your edge",
+    "prompt": "Use case: precise-object-edit / identity-preserve. Edit the FIRST image, an already approved YouTube thumbnail, not a new design. Output ONE finished landscape 16:9 image with exactly the same framing, typography sizes and placements. Preserve approved photographic faces and natural skin textures, hair, beard, clothing and all unrequested elements. No microphones, no beauty smoothing, no artificial skin, no excessive sharpness, no extra wrinkles. Do not crop text. No added grain (4% is applied during export). Replace BOTH large books in the middle with ONE large sculptural three-dimensional GREEN TRADING CANDLESTICK placed solidly on the table between the two men. This is a financial candlestick: a thick tall rectangular body of satin emerald green lacquer, with a thin vertical stem protruding above and below, no flame, no wax, no base text; lower wick supported at table, real contact shadow. Body about same size/visual weight as one of the removed books, overall wick to roughly shoulder height, not obscuring faces. Credible photographed object, restrained premium finish, not a floating game icon. Remove the two books entirely, reconstruct table and clothing behind naturally. Change background to warm walnut and deep sage-green trading office with faint out-of-focus candlestick monitors and amber lamp. Preserve both people's exact faces, head orientations, camera eye contact, hands and title 'Build your edge' with yellow italic edge. Naturally whiten Sampsa's teeth to ivory. All hands stay anatomically intact.",
+    "paths": [
+      "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V03_26_FrontCamera/masters/Sampsa_11.png"
+    ]
+  }
+]

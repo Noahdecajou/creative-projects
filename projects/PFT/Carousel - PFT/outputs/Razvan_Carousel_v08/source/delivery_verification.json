@@ -1,0 +1,18 @@
+{
+  "slide_count": 6,
+  "size_px": [
+    1080,
+    1350
+  ],
+  "format": "RGB PNG",
+  "svg_count": 6,
+  "approved_photo_assets": "byte-identical to V07",
+  "image_placement": "identical to V07 in all six editable SVGs",
+  "portrait_pixel_regions": "identical to V07 on slides 1, 2, 3, 6",
+  "copy": "unchanged from V07, whitespace normalized",
+  "text_bounds": "passed",
+  "ordered_png_zip": "passed",
+  "checksums": "passed",
+  "visual_review": "Six slides individually and overview; mobile preview at 360 px width",
+  "source_claims": "Checked against supplied local episode transcript; payout stated in episode introduction"
+}

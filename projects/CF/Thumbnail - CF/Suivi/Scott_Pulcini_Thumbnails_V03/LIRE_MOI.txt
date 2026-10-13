@@ -1,0 +1,30 @@
+SCOTT PULCINI - 8 THUMBNAILS - V03
+
+Huit adaptations des references, avec les corrections de composition puis de couleur du polo.
+Fichiers finaux : 8 PNG de 3840 x 2160 pixels, format 16:9.
+IMPORTANT : exports agrandis par interpolation bicubique depuis les masters. Ce ne sont pas des creations natives 4K. Dimensions sources detaillees dans Manifest_exports.json. Aucun ajout de nettete pendant l'export.
+
+Corrections :
+01, 02, 04 : ecrans Bookmap issus de trois Download Still du podcast, recadres et assembles directement dans les ecrans du design. Aucun telechargement de video ou de proxy. Captures natives 1920 x 1080, meilleure qualite proposee par le lecteur final (1080p).
+05 : Scott regarde le tableau noir et dessine au marqueur vert.
+07 : Scott parle vers Riz qui l'ecoute.
+08 : visage de Scott volontairement pixellise.
+Tous : eclairage plus clair, typographie geometrique proche de Poppins et graisses plus variees. La police est rendue dans les images generees, ce n'est pas un document typographique editable.
+Polos de Scott : blanc sur 01, 02, 04, 05, 06 ; noir sur 03, 07, 08.
+Finition : 5 % de bruit gaussien monochromatique sur chacun des huit PNG, applique en derniere etape apres le redimensionnement 4K. Les masters sans bruit sont conserves. Parametre technique : ecart-type 12,75 sur 255, meme bruit dans les trois canaux couleur.
+Recoloration du polo : les retouches generees ont ete assemblees dans un masque du polo d'origine ; visages, peau, mains, textes et captures de V02 conserves hors de ce masque, avant la finition de bruit finale.
+
+Production : image_gen integre, compositions de reference et photos HD originales de Riz et Scott. Les portraits proviennent d'une composition generative avec references photographiques ; ils ne constituent pas un collage garanti pixel pour pixel des photos HD. Les insertions finales des plateformes sont des assemblages directs des captures du podcast. Les masters PNG sont aplatis, sans calques.
+Le tableau blanc pedagogique de 06 est illustratif. Les tableaux noirs restent des supports de presentation, pas des captures de plateforme.
+
+Organisation :
+Sources_HD : originaux intacts, y compris les cinq captures Scott_OrderFlow.
+Design - Ref : references intactes.
+Masters/Scott_Pulcini_Thumbnails_V03 : huit masters finaux.
+Exports_4K/Scott_Pulcini_Thumbnails_V03 : huit PNG 3840 x 2160.
+Apercus/Scott_Pulcini_Thumbnails_V03 : planche, controle mobile et apercus individuels.
+Suivi/Scott_Pulcini_Thumbnails_V03 : transcript, accroches, prompts, sources et controles.
+V01 et masters V02 conserves.
+
+Les titres restent des formulations editoriales fondees sur le transcript, pas des citations litterales. Les textes valides de V01 sont conserves ; aucun montant financier des anciennes references n'est attribue a Scott.
+Aucune publication effectuee.

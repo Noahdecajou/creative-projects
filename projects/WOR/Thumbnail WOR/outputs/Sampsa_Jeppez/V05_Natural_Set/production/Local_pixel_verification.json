@@ -1,0 +1,92 @@
+[
+  {
+    "Id": "01",
+    "OutsideLocalPatchChangedPixels": null,
+    "Width": 1672,
+    "Height": 941
+  },
+  {
+    "Id": "02",
+    "OutsideLocalPatchChangedPixels": null,
+    "Width": 1672,
+    "Height": 941
+  },
+  {
+    "Id": "02_Duo",
+    "OutsideLocalPatchChangedPixels": null,
+    "Width": 1672,
+    "Height": 941
+  },
+  {
+    "Id": "05",
+    "OutsideLocalPatchChangedPixels": null,
+    "Width": 1672,
+    "Height": 941
+  },
+  {
+    "Id": "06",
+    "OutsideLocalPatchChangedPixels": 0,
+    "Width": 1672,
+    "Height": 941
+  },
+  {
+    "Id": "09",
+    "OutsideLocalPatchChangedPixels": 0,
+    "Width": 1672,
+    "Height": 941
+  },
+  {
+    "Id": "10",
+    "OutsideLocalPatchChangedPixels": null,
+    "Width": 1672,
+    "Height": 941
+  },
+  {
+    "Id": "11_Green",
+    "OutsideLocalPatchChangedPixels": null,
+    "Width": 1672,
+    "Height": 941
+  },
+  {
+    "Id": "12",
+    "OutsideLocalPatchChangedPixels": null,
+    "Width": 1672,
+    "Height": 941
+  },
+  {
+    "Id": "15",
+    "OutsideLocalPatchChangedPixels": 0,
+    "Width": 1672,
+    "Height": 941
+  },
+  {
+    "Id": "19",
+    "OutsideLocalPatchChangedPixels": 0,
+    "Width": 1672,
+    "Height": 941
+  },
+  {
+    "Id": "21",
+    "OutsideLocalPatchChangedPixels": 0,
+    "Width": 1672,
+    "Height": 941
+  },
+  {
+    "Id": "11_Yellow",
+    "OutsideLocalPatchChangedPixels": 0,
+    "Width": 1672,
+    "Height": 941
+  },
+  {
+    "Id": "13_Blur10",
+    "BlurEndpointOpacity": 10,
+    "Width": 1672,
+    "Height": 941
+  },
+  {
+    "Id": "13_Blur15",
+    "BlurEndpointOpacity": 15,
+    "Width": 1672,
+    "Height": 941
+  }
+]

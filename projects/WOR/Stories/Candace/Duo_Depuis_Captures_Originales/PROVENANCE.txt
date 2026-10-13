@@ -1,0 +1,18 @@
+Rebuilt from original video screenshots, not from the generated portrait derivatives.
+
+Reese source: C:\Users\notti\Documents\Codex\2026-10-06\co\outputs\Frameio_32_images_HD\image_36_01-16-37.jpg
+Candace source: C:\Users\notti\Documents\Codex\2026-10-06\co\outputs\Frameio_32_images_HD\image_33_01-10-05.jpg
+Both original frames: 1920 x 1080.
+
+Adobe deterministic color adjustment, single pass from original:
+exposure +0.12, contrast +4, highlights -12, shadows +5, saturation -5, vibrance 0.
+Adobe subject cutout, output 1920 x 1080 PNG, preserving photographed subject pixels.
+No generative reconstruction of faces, no portrait smoothing, no artificial sharpening.
+Original captured poses are used; generated hand gestures are not recreated.
+
+Layout: original black/red visual system, centered logo, #1 Prop Firm Trader, center trophy, duo, name, FULL PODCAST, Spotify and YouTube.
+Decorative trophy and brand/logo snippets are reused from the previous approved design; only the human portraits have been replaced with true source captures.
+Text: actual Poppins Regular 400; #1 alone Poppins Bold 700.
+Editable layout: Duo_editable.html (self-contained fonts and assets).
+Exports: 1080 x 1920 PNG and 2160 x 3840 PNG.
+The 2160 export is a larger composition export; the original video sources are HD, not native 4K.

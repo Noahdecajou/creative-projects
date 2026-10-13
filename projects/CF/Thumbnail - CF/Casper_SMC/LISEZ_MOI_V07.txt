@@ -1,0 +1,27 @@
+CASPER / CHARTFANATICS — V07 — 13 octobre 2026
+
+Huit PNG individuels de 3840 x 2160 pixels, format 16:9.
+Compositions avec certains composants agrandis : ce ne sont pas des creations entierement natives 4K.
+Versions V01 a V06 conservees.
+
+01 — Nouvel ecran : schema blanc, grille sombre, zone verte transparente, trois etapes et points de decision colores. Traitement inspire des references utilisateur.
+02 — Nouvel ecran : chart vert vif / rouge beaucoup plus present, profil de volume bicolore, niveaux VAH / POC / VAL, reaction entouree et libelle BUYERS. Bougies rapprochees, 2 pixels entre les corps a la resolution finale.
+06 — Casper agrandi de 9.52 % supplementaires par rapport a V06, sans retouche du visage. Les schemas et libelles restent visibles.
+08 — Halos bleus et rouges attenues et plus courts; les aplats bleus restent lumineux.
+Ensemble — Lueurs directionnelles variees : gauche, droite, haut, bas droit ou retour partiel autour du bord. Aucun contour blanc ajoute.
+Titres, noms, poses, regards et contenus valides conserves hors des ecrans remplaces. Aucune publication.
+
+Les deux charts sont des illustrations pedagogiques, et non des captures de trades reels.
+Six references utilisateur copiees intactes dans References/Charts_V07. Leurs personnes et promesses ne sont pas reutilisees.
+54 sources originales HD conservees intactes. Aucune video ni proxy telecharge.
+
+Sources_HD : originaux.
+Masters/V07 : composants et huit masters sans grain final.
+Exports_4K/V07 : huit PNG finaux, grain monochromatique uniforme de 5 % en une seule passe.
+Apercus/V07 : planches 640/320, apercus individuels 1280/320, details 100 %.
+Suivi/V07 : brief artistique, scripts natifs, geometrie des titres et lueurs, manifestes et verification.
+Livraison : ZIP PNG et ZIP de production avec sources, masters, references et provenance.
+
+Reproduction avec les fontes Poppins installees : Suivi/V07/render_v07.ps1 -Final.
+Les portraits et scenes sont repris a l'identique des composants de V06; leur provenance est conservee dans les documentations des versions precedentes. Aucun nouvel appel ImageGen dans cette revision.
+Verification : dimensions et nombre de fichiers, SHA-256 des sources, absence de changements hors des zones demandees, echantillons faciaux, copie et geometrie des textes externes, contenu integral des ZIP.

@@ -1,0 +1,34 @@
+[
+  {
+    "File": "Razvan_22_00-11-08-00.jpg",
+    "Timecode": "00:11:08:00",
+    "SHA256": "9CB2EDC57A9491ABC88A718D34F94266F45D2C2400BD438F8C25018A53872136",
+    "Width": 3840,
+    "Height": 2160,
+    "Origin": "Frame.io native Download Still"
+  },
+  {
+    "File": "Razvan_Board_00-04-48-00.jpg",
+    "Timecode": "00:04:48:00",
+    "SHA256": "A05677F82CC81ECD68EC9644197BD33328A4544DCD34D93E5AE05FD960ECCB6B",
+    "Width": 3840,
+    "Height": 2160,
+    "Origin": "Frame.io native Download Still"
+  },
+  {
+    "File": "Graphique_26_00-22-24-00.jpg",
+    "Timecode": "00:22:24:00",
+    "SHA256": "0DB644A7B4FDB943193AB49F665B88B5B51EE2009FD1883055D1992686C01156",
+    "Width": 3840,
+    "Height": 2160,
+    "Origin": "Frame.io native Download Still"
+  },
+  {
+    "File": "Animateur_02_00-00-48-00.jpg",
+    "Timecode": "00:00:48:00",
+    "SHA256": "A6F93C114364DCD2A89C3E19568EFC267B8DE999A2AD8CCA798827997E69BEDE",
+    "Width": 3840,
+    "Height": 2160,
+    "Origin": "Frame.io native Download Still"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "slide_count": 6,
+  "size_px": [
+    1080,
+    1350
+  ],
+  "format": "RGB PNG",
+  "svg_count": 6,
+  "text_bounds": "passed",
+  "ordered_png_zip": "passed",
+  "checksums": "passed",
+  "visual_review": "Six slides individually and overview; mobile preview at 360 px width",
+  "source_claims": "Checked against supplied local episode transcript; payout stated in episode introduction"
+}

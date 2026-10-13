@@ -1,0 +1,33 @@
+IMRE / V11 / TEST THUMBNAIL 08 SEULEMENT / SANS GRAIN
+
+PERIMETRE
+La derniere demande limite la production a un seul thumbnail pour juger l'eclairage avant de reprendre les sept autres. Ce test est donc la 08 uniquement ; la serie V10 reste conservee.
+
+REFERENCE ET PHOTO
+La reference -kGVL93XfyE-HD.jpg definit la composition, le vrai Riz, les blancs, le rouge, la table bleue et la finition. Le screenshot 2026-10-13 093306.png sert uniquement a l'eclairage et aux lueurs, jamais au design.
+Riz : vrais pixels de la reference fournie, detoures et retournes horizontalement pour le placer a droite. Meme visage, polo, tablette et stylet. Aucune nouvelle generation de son visage dans la composition finale.
+Imre : scene reconstruite par ImageGen depuis frame_63900.jpg et frame_9000.jpg ; T-shirt noir, tete vers Riz, geste conversationnel. La tete reste pixelisee comme demande. Le calque original genere est conserve a gauche ; le second rendu de nettoyage ne sert qu'au fond vide a droite.
+Table bleue et rideau repris dans le rendu de scene inspire de la reference.
+
+FINITION
+Zero grain ajoute. Calques de texte et formes calcules a 3840 x 2160.
+Vraies lueurs par convolution gaussienne de masques alpha, autour de VALUE, du logo rouge, du titre blanc et des boites bleues. Pas de decalage de halo et pas d'ombre coloree dure.
+Logo rouge sans contour blanc. Titre sans contour blanc. Boites bleues avec un fin bord bleu lumineux.
+Fleche principale : silhouette vectorielle unique, depart plat et pointe nette. Centre vertical commun avec PRICE et VALUE. Espaces gauche et droit : 58 px logiques chacun, verifies dans Title_alignment.csv.
+Connexions : pointes nettes, tiges arretees a la base des pointes, traits interrompus derriere les tetes. Pas de capuchon arrondi au bout.
+MACRO RANGE sur deux lignes pour une meilleure lecture a petite taille ; sens du texte conserve.
+
+LIVRAISON
+Exports/V11_Test08/08_Price_To_Value_V11_Test_Sans_Grain_3840x2160.png
+Apercus/V11_Test08/08_1280.jpg, 08_640.jpg et 08_320.jpg.
+Sources photographiques et generatives agrandies : les elements photo ne sont pas natifs 4K.
+Reproduction : render_test08.ps1 avec soft_glow.ps1, les trois assets du dossier Masters/V11_Test08 et la police Poppins.
+Prompts ImageGen conserves dans Prompt_ImageGen.txt et Prompt_Cleanup.txt.
+
+FEEDBACK A APPLIQUER A LA SERIE APRES EXAMEN DE CE TEST
+01 / 02 / 04 : enlever le rouge/vert du fond ; noir avec faible degrade gris comme la 03. Lueurs diffuses sur les boites et graphiques.
+Toutes : revoir contraste, eclairage et saturation a partir des deux nouvelles references. Tester sans grain. Refaire toutes les fleches en supprimant les bouts ronds et chevauchements.
+06 : nettoyer le rendu beige terne et deplacer la fleche jaune pour qu'elle ne chevauche aucune boite.
+07 : ajouter une boite derriere RIZ et IMRE ; enlever le contour blanc du logo ; lueur rouge.
+08 : le present test couvre le bleu, les regards, la pixelisation, le logo sans contour, les lueurs et l'alignement du titre.
+

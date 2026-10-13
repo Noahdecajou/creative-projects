@@ -1,0 +1,8 @@
+Candace Lau - 5 stories - exports 2160 x 3840 px
+
+Images reprises avec les photographies sources comme references pour attenuer les textures artificielles de peau et de tissu.
+Les compositions, titres et le nom Candace Lau sont conserves.
+
+Limite : les generations sont en 941 x 1672 px. Les fichiers fournis ont ete agrandis avec Adobe puis ajustes au format exact 2160 x 3840. Il s'agit d'exports aux dimensions 4K, pas d'images natives 4K. Des traces de generation peuvent subsister au grossissement.
+
+Pour une fidelite photographique maximale, conserver les pixels de la photo originale dans un montage separe du texte et du fond, au lieu de regenerer le portrait a chaque revision.

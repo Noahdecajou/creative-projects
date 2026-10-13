@@ -1,0 +1,29 @@
+IMRE GAMS / CHARTFANATICS / V08
+
+MODIFICATIONS
+01 / 02 / 04 : nouveau fond noir en verre fume, avec facettes, reflets rouges et emeraude asymetriques, profondeur et eclairage localise. Les graphiques reposent sur des panneaux translucides aux bords fins. Les portraits frontaux, leurs proportions, les textes et les schemas V07 sont conserves.
+
+03 : scene reconstruite a partir des photos originales. Imre regarde le tableau noir pose sur la table et dessine au marqueur ; Riz regarde le dessin. La typographie, les cartouches et leur placement sont conserves. Cette scene est une reconstruction generative, pas une capture video intacte.
+
+05 / 06 / 07 / 08 : masters, exports et apercus repris sans modification de V07. Les illustrations explicatives de la 06 et la fleche corrigee de la 08 sont conservees.
+
+Grain final : 3 % de bruit monochromatique. Une seule passe depuis les nouveaux masters sans grain final pour 01-04. Les quatre autres exports conservent leur passe V07 a 3 %.
+
+PROVENANCE
+Scene 03 : Sources_HD/frame_22500.jpg pour la situation de dessin et les regards ; frame_600.jpg pour Riz et frame_63900.jpg pour Imre. L'ancienne scene sert de reference de composition. Details et prompt dans Prompts_ImageGen.txt.
+Fond 01/02/04 : ImageGen, puis refinement ImageGen documente dans Prompt_Background_Refinement.txt. Asset final : Masters/V08/background_glass.png.
+Portraits frontaux : fichiers Imre_direct_camera.png et Riz_original_cutout.png identiques a V07. Aucune nouvelle generation de ces portraits.
+Les titres et sources pedagogiques restent documentes dans Suivi/V05/Titres_et_sources_V05.txt et Suivi/V07/Livraison_V07.txt.
+
+PRODUCTION ET LIVRAISON
+Huit PNG 3840 x 2160 dans Exports/V08.
+ZIP : Livraison/Imre_Gams_8_Thumbnails_V08_3840x2160.zip.
+Masters sans grain final : Masters/V08.
+Apercus : Apercus/V08, dont Corrections_01_04_V08.jpg et Planche_V08_320.jpg.
+Sources photographiques et generatives agrandies : ces elements ne sont pas natifs 4K. Typographie et formes rendues directement en 3840 x 2160.
+Toutes les versions precedentes sont conservees. Aucun fichier publie.
+
+REPRODUCTION ET VERIFICATION
+render_v08.ps1 -Final : rend les quatre premieres images et leurs apercus ; reprend les apercus 05-08 pour les planches. Necessite les assets Masters/V08, la police Poppins, Suivi/add_final_noise.ps1 et Suivi/V07/Typography_geometry.csv. Pour recreer un dossier neuf, copier auparavant les fichiers 05-08 de Masters/V07, Exports/V07 et Apercus/V07 vers leurs dossiers V08 correspondants.
+verify_v08.ps1 : controle les fichiers 05-08, les deux portraits et la geometrie de toute la typographie par rapport a V07.
+package_v08.ps1 : controle huit exports, dimensions, manifestes SHA256 et contenu integral des huit entrees du ZIP.

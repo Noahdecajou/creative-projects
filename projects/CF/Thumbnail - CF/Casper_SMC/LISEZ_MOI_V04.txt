@@ -1,0 +1,39 @@
+CASPER / CHARTFANATICS — V04 — 12 octobre 2026
+
+8 PNG, dimensions reelles verifiees : 3840 x 2160 pixels, 16:9.
+Les compositions contiennent des composants agrandis : ce ne sont pas des creations entierement natives 4K.
+
+Corrections demandees
+01 / 02 / 04 / 06 : regard de Casper oriente vers l'objectif. Retouche ImageGen integree limitee a deux masques locaux autour des yeux du portrait original 00:12:00. Le reste du portrait V03 est conserve.
+06 : schemas remplaces par des dessins au feutre : equilibre, tendance, cassure de structure, volume profile et franchissement. Les courbes sont illustratives. Les mots et reperes VAH / POC / VAL sont ajoutes separement pour leur exactitude et leur lisibilite. Encadre bleu electrique avec bord cyan lumineux et halo.
+08 : les trois encadres CONDITION / ZONES / TRIGGER reprennent exactement le meme traitement bleu electrique.
+03 / 05 / 07 : fichiers identiques a V03, verifies par comparaison binaire et comparaison de pixels.
+Les autres titres, portraits, membres, supports et elements graphiques sont conserves. Toutes les anciennes versions restent disponibles.
+
+Controle
+Apercus de chaque image a 1280 et 320 pixels. Zones des yeux controlees a 100 %, ainsi que dessins et encadres modifies.
+01 / 02 : pixels modifies uniquement dans la zone des yeux (2958,754)-(3538,887).
+04 : pixels modifies uniquement dans la zone des yeux de Casper (593,690)-(1122,810).
+Voir Suivi/V04/Pixel_comparison_V03_V04.csv.
+PNG et ZIP verifies par dimensions, nombre et SHA-256 des fichiers contenus dans l'archive.
+54 stills HD sources conserves intacts. Aucune video ni proxy telecharge.
+
+Fabrication
+Outil ImageGen integre utilise pour le regard (Casper_gaze_generated.png) et les dessins au feutre (handdrawn_charts_generated.png).
+Le portrait corrige a ete obtenu depuis un recadrage de la photographie originale, puis seuls les deux yeux ont ete reintegres localement dans le portrait V03.
+Les nouveaux dessins ont ete detoures et assembles, la typographie et les encadres ont ete composes avec les sources editables.
+Prompts retenus : Suivi/V04/gaze_prompt.txt et Suivi/V04/handdrawn_charts_prompt_selected.txt.
+Le prompt handdrawn_charts_prompt.txt correspond a un essai ecarte : sa sortie n'est utilisee dans aucune thumbnail.
+La provenance des scenes et retouches precedentes reste documentee dans LISEZ_MOI_V03.txt.
+Grain monochromatique uniforme de 5 %, ajoute une seule fois apres composition a la taille finale; masters sans grain final.
+
+Dossiers
+Sources_HD : 54 photographies originales.
+Masters/V04 : composants, retouche du regard, dessins au feutre, 8 masters sans grain final.
+Exports_4K/V04 : 8 PNG finaux.
+Apercus/V04 : apercus individuels, planches et details a 100 %.
+Suivi/V04 : prompts, scripts, titres utilises et rapports de verification.
+Livraison : ZIP des huit PNG et ZIP de production.
+
+Pour reproduire : executer prepare_renderer.ps1, prepare_marker_assets.ps1, gaze_composite.ps1 puis render_v04.ps1 -Final dans Suivi/V04, avec les fontes Poppins installees.
+Aucune publication effectuee.

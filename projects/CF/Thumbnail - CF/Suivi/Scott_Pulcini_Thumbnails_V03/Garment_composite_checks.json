@@ -1,0 +1,58 @@
+[
+  {
+    "id": "01",
+    "recolored_pixels": 126011,
+    "method": "Generated clothing edit isolated with original teal garment mask",
+    "original_non_garment_pixels": "preserved",
+    "garment_color": "white"
+  },
+  {
+    "id": "02",
+    "recolored_pixels": 100701,
+    "method": "Generated clothing edit isolated with original teal garment mask",
+    "original_non_garment_pixels": "preserved",
+    "garment_color": "white"
+  },
+  {
+    "id": "03",
+    "recolored_pixels": 106571,
+    "method": "Generated clothing edit isolated with original teal garment mask",
+    "original_non_garment_pixels": "preserved",
+    "garment_color": "black"
+  },
+  {
+    "id": "04",
+    "recolored_pixels": 132348,
+    "method": "Generated clothing edit isolated with original teal garment mask",
+    "original_non_garment_pixels": "preserved",
+    "garment_color": "white"
+  },
+  {
+    "id": "05",
+    "recolored_pixels": 234972,
+    "method": "Generated clothing edit isolated with original teal garment mask",
+    "original_non_garment_pixels": "preserved",
+    "garment_color": "white"
+  },
+  {
+    "id": "06",
+    "recolored_pixels": 293018,
+    "method": "Generated clothing edit isolated with original teal garment mask",
+    "original_non_garment_pixels": "preserved",
+    "garment_color": "white"
+  },
+  {
+    "id": "07",
+    "recolored_pixels": 146986,
+    "method": "Generated clothing edit isolated with original teal garment mask",
+    "original_non_garment_pixels": "preserved",
+    "garment_color": "black"
+  },
+  {
+    "id": "08",
+    "recolored_pixels": 142023,
+    "method": "Generated clothing edit isolated with original teal garment mask",
+    "original_non_garment_pixels": "preserved",
+    "garment_color": "black"
+  }
+]

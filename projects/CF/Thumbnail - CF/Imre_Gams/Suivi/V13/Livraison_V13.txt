@@ -1,0 +1,37 @@
+IMRE GAMS / CHARTFANATICS — V13 — 13 OCTOBRE 2026
+
+PÉRIMÈTRE
+Refonte des infographies de 01 et 02 selon les six nouvelles références visuelles fournies par l'utilisateur. Portraits, titres, bandeaux, fond noir/gris et composition générale V12 conservés. Les images 03 à 08 sont copiées à l'identique.
+
+DIRECTION APPLIQUÉE
+- Bougies nettes rouge/turquoise, mèches fines, grille discrète et zones de valeur transparentes.
+- Suppression des zigzags lumineux et des larges traits néon des anciens graphiques.
+- Cercles jaunes sur les points importants et flèches blanches, avec pointes fermées.
+- 01 : range d'enchères entre acheteurs et vendeurs, bande centrale FAIR VALUE, rejet en haut et réaction en bas.
+- 02 : faux breakout au-dessus d'un range à gauche ; déplacement progressif de la valeur dans le régime en déséquilibre à droite.
+- Tous les libellés anglais existants conservés. Le titre et le bandeau jaune conservent leur traitement lumineux validé.
+
+RÉFÉRENCES
+Copies locales dans References/ :
+88tyzO9CxGA-HD.jpg : tracé lisible, point entouré, zone transparente.
+Vulini8xbB0-HD.jpg : annotations sélectives, cercle et flèche.
+zOvr1jNo2ek-HD.jpg : bougies, grille sombre, cercles jaunes et flèches blanches.
+nCXwyMkUugk-HD.jpg : grosses bougies rouge/turquoise et zone horizontale discrète.
+AFQ9ZE0LNZY-HD.jpg : niveaux fins et repères BUY/SELL.
+6np7H_X3570-HD.jpg : organisation visuelle du graphique et transparence des zones.
+Les visages, titres, résultats et montants de ces références ne sont pas repris.
+
+CONTENU
+Schémas illustratifs construits pour le contenu de l'épisode. Ils ne représentent pas des données historiques ou des performances. Transcript_Imre.txt, notamment lignes 57-75 (acheteurs, vendeurs, range, fair value, équilibre/déséquilibre), 289-305 (régimes et opportunité).
+
+FABRICATION ET PROVENANCE
+Modification des couches graphiques éditables existantes dans les sources PowerShell/System.Drawing ; aucune génération ou retouche de portrait, aucun grain ajouté.
+charts_v13.ps1 contient les deux graphiques et leur géométrie. Illustrative_candles.csv contient les 44 bougies illustratives.
+render_v13.ps1 -Final reproduit les images 01 et 02 ; les autres exports proviennent de V12.
+Sources du fond et des portraits reprises de V12 ; les scripts de finition photographique et les placements restent les mêmes.
+
+VÉRIFICATION ET LIVRAISON
+verify_v13.ps1 vérifie les différences de pixels hors de la zone des infographies, les portraits, les textes, les exports, les bougies et les aperçus. Pixel_preservation.csv enregistre les limites exactes des modifications.
+package_v13.ps1 crée un ZIP complet contenant huit PNG et vérifie les dimensions et les SHA256 de toutes les entrées.
+Sorties 3840 x 2160. Graphiques et texte dessinés à la résolution de sortie ; éléments photographiques agrandis depuis les sources existantes, non natifs 4K.
+Versions précédentes conservées.

@@ -1,0 +1,86 @@
+[
+  {
+    "Number": 2,
+    "File": "C:\\Users\\notti\\Documents\\ChatGPT\\Thumbnail - PFT\\outputs\\Razvan\\Sanjiv_Grain_v06\\face_edits\\Razvan_02_No_Partials_master_1672x941.png",
+    "EditBounds": [
+      0,
+      0,
+      470,
+      650
+    ],
+    "ChangedPixelsOutsideFaceRegion": 0,
+    "Method": "Built-in imagegen identity correction using two original photographs; feathered local insertion preserving V05 outside face region"
+  },
+  {
+    "Number": 4,
+    "File": "C:\\Users\\notti\\Documents\\ChatGPT\\Thumbnail - PFT\\outputs\\Razvan\\Sanjiv_Grain_v06\\face_edits\\Razvan_04_Breakevens_To_4R_master_1672x941.png",
+    "EditBounds": [
+      245,
+      205,
+      255,
+      335
+    ],
+    "ChangedPixelsOutsideFaceRegion": 0,
+    "Method": "Built-in imagegen identity correction using two original photographs; feathered local insertion preserving V05 outside face region"
+  },
+  {
+    "Number": 6,
+    "File": "C:\\Users\\notti\\Documents\\ChatGPT\\Thumbnail - PFT\\outputs\\Razvan\\Sanjiv_Grain_v06\\face_edits\\Razvan_06_Reversal_Entry_Model_master_1672x941.png",
+    "EditBounds": [
+      125,
+      155,
+      320,
+      410
+    ],
+    "ChangedPixelsOutsideFaceRegion": 0,
+    "Method": "Built-in imagegen identity correction using two original photographs; feathered local insertion preserving V05 outside face region"
+  },
+  {
+    "Number": 7,
+    "File": "C:\\Users\\notti\\Documents\\ChatGPT\\Thumbnail - PFT\\outputs\\Razvan\\Sanjiv_Grain_v06\\face_edits\\Razvan_07_Farak_Prop_Firm_Trading_master_1672x941.png",
+    "EditBounds": [
+      175,
+      140,
+      300,
+      360
+    ],
+    "ChangedPixelsOutsideFaceRegion": 0,
+    "Method": "Built-in imagegen identity correction using two original photographs; feathered local insertion preserving V05 outside face region"
+  },
+  {
+    "Number": 8,
+    "File": "C:\\Users\\notti\\Documents\\ChatGPT\\Thumbnail - PFT\\outputs\\Razvan\\Sanjiv_Grain_v06\\face_edits\\Razvan_08_Farak_Prop_Firm_Reversal_master_1672x941.png",
+    "EditBounds": [
+      175,
+      140,
+      300,
+      360
+    ],
+    "ChangedPixelsOutsideFaceRegion": 0,
+    "Method": "Built-in imagegen identity correction using two original photographs; feathered local insertion preserving V05 outside face region"
+  },
+  {
+    "Number": 9,
+    "File": "C:\\Users\\notti\\Documents\\ChatGPT\\Thumbnail - PFT\\outputs\\Razvan\\Sanjiv_Grain_v06\\face_edits\\Razvan_09_Farak_Nasdaq_Trading_master_1672x941.png",
+    "EditBounds": [
+      180,
+      140,
+      305,
+      365
+    ],
+    "ChangedPixelsOutsideFaceRegion": 0,
+    "Method": "Built-in imagegen identity correction using two original photographs; feathered local insertion preserving V05 outside face region"
+  },
+  {
+    "Number": 13,
+    "File": "C:\\Users\\notti\\Documents\\ChatGPT\\Thumbnail - PFT\\outputs\\Razvan\\Sanjiv_Grain_v06\\face_edits\\Razvan_13_Farak_Full_Strategy_master_1672x941.png",
+    "EditBounds": [
+      235,
+      200,
+      275,
+      340
+    ],
+    "ChangedPixelsOutsideFaceRegion": 0,
+    "Method": "Built-in imagegen identity correction using two original photographs; feathered local insertion preserving V05 outside face region"
+  }
+]

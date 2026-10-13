@@ -1,0 +1,78 @@
+SCOTT PULCINI — ANALYSE ET ACCROCHES POUR THUMBNAILS
+Source : FINAL READY TO UPLOAD CF Scott Pulcini.txt
+Langue des thumbnails : anglais.
+Statut : huit visuels V01 créés ; aucune publication.
+
+ANGLE PRINCIPAL
+Voir ce qui se passe derrière les bougies : Scott explique sa lecture des ordres iceberg, des déclenchements de stops, des flux d'options et des autres forces qui font bouger les marchés. Il montre ensuite comment attendre une confirmation et définir ses entrées et sorties. La promesse centrale est une meilleure compréhension du mouvement des prix.
+
+LES TROIS ACCROCHES PRIORITAIRES
+1. WHAT CANDLES DON'T SHOW
+   Recommandation principale. Cinq mots, une information manquante immédiatement compréhensible, directement liée au cœur du podcast. Référence : 21:50–23:21, puis les exemples à partir de 1:02:22.
+   Mise en lignes : WHAT CANDLES / DON'T SHOW
+
+2. WHAT REALLY MOVES PRICE
+   Promesse large, fidèle aux quatre forces présentées : icebergs/stops, options, algorithmes et achats/ventes institutionnels par programmes. Convient aux compositions avec les deux intervenants.
+   Références : introduction de la méthode vers 04:45–10:01 ; développement vers 43:27–1:00:12.
+   Mise en lignes : WHAT REALLY / MOVES PRICE
+
+3. STOP TRADING BLIND
+   Accroche plus directe. Curiosité liée aux données que le spectateur pourrait manquer. Le visuel doit montrer les explications de Scott pour rendre la promesse concrète.
+   Références : 19:03–23:21 et 1:28:51–1:31:29.
+   Mise en lignes : STOP TRADING / BLIND
+
+HUIT ADAPTATIONS CRÉÉES — UNE PAR RÉFÉRENCE
+01 — Live-Trading.png
+   WHAT CANDLES / DON'T SHOW
+   Bandeau : Order Flow Explained
+   Scott à droite, ordinateur et dessin de cet épisode à gauche.
+
+02 — Crack-Prop-Firms-1.png
+   THE HIDDEN / ORDERS MOVING PRICE
+   Bandeau : Iceberg Orders
+   Même Scott et même structure que 01 ; dessin différent.
+
+03 — $1.8-Million-in-Payouts.png
+   WHAT REALLY / MOVES PRICE
+   Bandeau secondaire : 4 MARKET FORCES
+   Riz à gauche, Scott à droite, plateau dessiné entre eux.
+
+04 — Live-Tradinezg.png
+   STOP TRADING / BLIND
+   Bandeau supérieur : ORDER FLOW
+   Scott à gauche, Riz à droite, support explicatif au centre.
+
+05 — MASTER-PROP-FIRM-TRADING.png
+   MASTER ORDER FLOW / TRADING
+   Encadré : 4 MARKET FORCES
+   Nom : SCOTT PULCINI
+   Durée : 95 MINS (transcript de 1:35:17 environ).
+   Scott seul, composition pédagogique à la table.
+
+06 — WhatsApp Image 2026-08-20 at 5.57.50 PM.jpeg
+   SEE HIDDEN ORDERS
+   Scott centré devant un tableau pédagogique ; structure claire et surlignage jaune.
+   Reprendre uniquement le visuel de la miniature, sans l'interface YouTube.
+
+07 — WhatsApp Image 2026-08-23 at 5.46.28 PM (1).jpeg
+   HIDDEN ORDERS / REVEALED
+   Riz à gauche, Scott à droite ; bandeau rouge supérieur.
+
+08 — WhatsApp Image 2026-08-23 at 5.46.28 PM (2).jpeg
+   PRICE → ORDER FLOW
+   Repères : ICEBERGS / OPTIONS / ALGOS / BIG MONEY
+   Scott à gauche, Riz à droite ; structure de progression de la référence.
+
+ACCROCHES EN RÉSERVE — NON UTILISÉES
+WHY YOU GET STOPPED OUT — gestion des stops et déplacement trop précoce au break-even, 32:50–36:55.
+WHY BREAKOUTS FAIL — exemple de failed balance breakout, dans 1:13:35–1:22:44.
+WAIT FOR THIS — attendre l'événement et la confirmation avant l'entrée, 26:57–32:44 ; nécessite un visuel très explicite.
+
+FIDÉLITÉ AU CONTENU
+- Les formulations sont des accroches éditoriales, pas des citations littérales de Scott.
+- Ne pas présenter les 15 millions de dollars mentionnés au début comme les gains de la méthode actuelle : Scott parle d'une période ancienne et de gains pour lui et son entreprise.
+- Ne pas transformer ses estimations de fréquence en taux de réussite démontré.
+- Les exemples de marché commentés ne suffisent pas à promettre du « Live Trading ».
+- Les chiffres, revenus et résultats présents dans les références appartiennent à ces références et doivent être remplacés.
+- Ne pas affirmer que les bougies ne fonctionnent jamais : Scott reconnaît leur utilité et présente des informations complémentaires.
+

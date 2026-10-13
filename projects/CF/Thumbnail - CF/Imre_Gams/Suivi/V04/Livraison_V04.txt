@@ -1,0 +1,43 @@
+IMRE GAMS / CHARTFANATICS / V04
+Reconstruction des huit thumbnails apres le feedback utilisateur.
+
+REFERENCES DIRECTES DU DOSSIER DESIGN - REF
+01 et 02 : Live-Trading.png et Crack-Prop-Firms-1.png. Laptop photographique, portrait droit en grand, titre serre en haut a gauche, mot fort sur blanc, cartouche jaune bas et fleche courbe.
+03 : $1.8-Million-in-Payouts.png. Duo, titre compact, box jaune centrale, bandeau vert et tableau au premier plan. Les accroches de l'episode Imre remplacent les affirmations de la reference.
+04 : Live-Tradinezg.png. Deux visages, ecran derriere, petit cartouche jaune haut, titre bas sur assombrissement progressif, mot principal sur blanc.
+05 : MASTER-PROP-FIRM-TRADING.png. Grande ligne superieure compacte, deuxieme partie a droite, decor orange/bleu, demonstration au tableau, annotations encadrees et fleches.
+06 : WhatsApp Image 2026-08-20 at 5.57.50 PM.jpeg. Tableau clair, grand portrait central et surlignage jaune du mot fort.
+07 : WhatsApp Image 2026-08-23 at 5.46.28 PM (1).jpeg. Conversation, laptop, cartouche rouge, ligne plus legere, logo YouTube aux bords courbes et noms fleches.
+08 : WhatsApp Image 2026-08-23 at 5.46.28 PM (2).jpeg. Fauteuils, rideau, progression, fleches pointillees masquees derriere les tetes, visage invite pixelise.
+
+CORRECTIONS SPECIFIQUES
+01/02/04/06 : nouveau portrait d'Imre reconstruit depuis frame_63900.jpg et frame_9000.jpg originaux. Le regard de Riz original frame_600.jpg sert de reference de direction uniquement. Le prompt demande tete frontale, nez sur axe central et pupilles orientees vers l'objectif. Aucun portrait Imre genere V01/V02/V03 utilise comme reference d'identite.
+03 : 14 px entre le mot WHAT et le bord gauche de la box REALLY sur grille 1280; 14 px de marge interieure de chaque cote de REALLY. Geometrie exacte dans Typography_geometry.csv.
+04 : proportions naturelles des portraits; ecran derriere les cheveux et joues; fond progressivement assombri dans la partie basse pour le contraste de STOP CHASING PRICE.
+05 : 17 px entre MASTER et AUCTION; box sombre derriere 2 MARKET STATES; STEP BY STEP en grand dans une box sombre de 477 x 77 px sur grille 1280.
+06 : grand portrait frontal, hauteur cheveux-menton cible 505 px sur grille 1280, environ 25% plus grande que la presentation initiale.
+Toutes les images : typographie Poppins mesuree par les contours des glyphes, boxes ajustees au texte, lueurs legeres jaunes/blanches, marges controlees. Les textes et formes sont dessines directement sur le canvas 3840 x 2160.
+
+ASSETS ET PROVENANCE
+51 stills Frame.io natifs 1920 x 1080 precedemment collectes conserves intacts dans Sources_HD. Sources_manifest.csv contient les timecodes et empreintes.
+Frame.io : https://next.frame.io/project/77d3822c-1ffb-48cd-8ff6-602a702372de/view/03067022-6f86-4567-acb5-b0116ad44886
+Portrait Imre V04 : Imre_direct_camera.png; sources 63900 et 9000.
+Portrait Riz 04 : Riz_original_cutout.png issu de l'original frame_600.jpg; detourage conserve avec proportions natives, aucun nouvel etirement.
+Nouvelles plaques photographiques : laptop_plate.png, 03_plate.png, 05_plate.png, 07_plate.png, 08_plate.png.
+Photos exactes inserees dans les ecrans 01/02/04 : frame_17100.jpg et frame_66600.jpg. La video fournie ne comporte pas la sequence plateforme annoncee a la fin; son tableau pedagogique est utilise.
+Les autres scenes sont des reconstructions generatives depuis les originaux d'identite et les references de composition. Elles ne sont pas des photographies preservees pixel pour pixel. Prompts_ImageGen.txt documente les generations.
+
+CONTENU
+Les accroches restent celles de la serie Imre precedente, ancrees dans le transcript. Titres_et_sources_V04.txt contient le suivi.
+08 conserve MACRO-RANGE et CLOSE THE GAP tels que demandes dans le feedback precedent; le transcript traite de micro-range. Ces mots sont des libelles editoriaux demandes, pas des citations.
+Pas de gains, allocations, taux de reussite ou statistiques de performance inventes.
+
+VERIFICATION ET EXPORT
+Huit PNG 3840 x 2160, numerotes 01 a 08; archive ZIP de ces huit fichiers uniquement, controle des tailles et SHA256.
+Masters 3840 x 2160 sans bruit final. Photos et plaques sources agrandies : les visuels photographiques ne sont pas natifs 4K.
+Bruit gaussien monochromatique 5% applique UNE FOIS sur chaque export final; sources et masters conserves sans ce bruit final.
+Chaque composition inspectee a 1280 et sur planche mobile 320. Verification visuelle du regard cible, mains, contours, contraste, orthographe, noms, boxes, fleches, proportions et pixellisation.
+Versions V01, V02 et V03 conservees. Aucune publication externe.
+
+REPRODUCTION
+Suivi/V04/render_v04.ps1 -Final, avec les assets Masters/V04, Sources_HD, la police Poppins et Suivi/add_final_noise.ps1. Le rendu sans -Final produit les masters et apercus, sans bruit ni export final. Ne pas appliquer le bruit aux PNG deja exportes.

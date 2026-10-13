@@ -1,0 +1,18 @@
+PROJECT: Words of Rizdom / Sampsa Jeppez / V01 / 2026-10-12
+MODE: built-in ImageGen, original native Frame.io stills as identity references.
+REFERENCE 1: frame_7950.jpg, Sampsa, timecode 00:04:25:00, native 1920x1080.
+REFERENCE 2: frame_5400.jpg, Riz, timecode 00:03:00:00, native 1920x1080.
+COMPOSITION REFERENCE: existing WOR duo thumbnail, inspected for layout only; not supplied as a skin reference.
+
+Create ONE photographic YouTube podcast thumbnail base, landscape 16:9, ideally 3840x2160. This is a finished professional photographic composite built from the TWO ORIGINAL CAMERA PHOTOS attached. Keep the two real people recognizable with exact original facial anatomy and expressions. Do not draw or beautify faces.
+
+LAYOUT: Riz from image 2 is on the LEFT looking inward to the right, head and shoulders, occupying the left 34% of canvas. Sampsa from image 1 is on the RIGHT looking inward to the left, occupying the right 39%, slightly more prominent. Both hairlines fully inside the canvas with 4% upper safe margin, eyes around 29% of frame height, chins near 61%. Large photographic faces dominate, same inward-facing orientation as originals, do not mirror. Shoulders extend down and fade smoothly into dark near the bottom. No microphones, no stands, cables or hands. No new accessories. Preserve Riz's brown overshirt and Sampsa's blue V-neck sweater.
+
+IDENTITY LOCK SAMPSA: exactly the man in image 1, identical face outline, hazel eyes, eye spacing, nose, closed lips, hairline, short brown side-parted hair, ear shape and original calm attentive expression. Exact skin tone with softly visible real photographic texture, no invented pores, wrinkles or engraving.
+IDENTITY LOCK RIZ: exactly the bearded man in image 2, identical eyes and eyebrows, original attentive raised-brow expression and closed mouth, original nose, lips, jaw, black hair and beard. Retain real medium brown skin. No shock expression or eyes enlarged.
+
+CENTRAL PHOTOGRAPHIC OBJECT: between the two people, in the middle upper half around x=38%-62%, a real matte dark laptop on a dark oak desk, angled slightly for visibility, its screen showing a quiet spreadsheet grid and one or two very simple small distribution plots as a symbolic backtesting workspace. No readable numbers, no real financial statement, no brand logo, no money balance, no huge rising chart. Beside the laptop a small open paper research notebook and a normal graphite pencil, natural materials with coherent soft light and contact shadows. The device is a supporting object, smaller than the faces. It must look placed on a desk, never floating. Background an understated softly defocused charcoal study, subtle warm practical light, no orange skin, no neon, no glowing outlines, no excessive gold, no cash piles, no gaming aesthetic.
+
+Leave the bottom central region from x=20%-80%, y=62%-96% very dark, visually uncluttered and low detail for a large headline added as a separate typography layer later. Keep eyes and faces above that text region. Balanced photographic composite, clean soft cutout edges through hair, no hard sticker borders. Color grade moderate contrast with black background and realistic bright evenly lit faces, light neutral portrait correction only. Preserve detailed fabric, beard and hair with natural camera sharpness. No smoothing, no sharpening/HDR texture.
+
+NO TEXT, NO letters, NO numbers, NO watermarks, NO logos anywhere. Grain will be added later as a measured finishing step, so do not add visible grain here.

@@ -1,0 +1,37 @@
+CASPER / CHARTFANATICS — V03 — 12 octobre 2026
+
+Huit thumbnails PNG 3840 x 2160, 16:9.
+Les exports comportent des composants agrandis : ce ne sont pas des creations entierement natives 4K.
+Sources Frame.io : 54 photographies natives 3840 x 2160 conservees intactes. Aucune video ni proxy telecharge.
+
+Corrections de cette version
+- 01 / 02 / 04 / 06 : reprise du contour de Casper et du raccord du col. Zones internes du portrait provenant des photographies HD, perimetre et vetement reconstruits. 04 : nettoyage supplementaire des franges claires de Riz.
+- 03 : scene a table reconstruite avec bras et mains poses sur la table et support en perspective.
+- 05 : nouvelle scene de dessin, deux avant-bras appuyes sur la table, main au marqueur et main libre posees naturellement, tableau avec epaisseur et ombre de contact.
+- 06 : ajout de schemas d'equilibre/tendance, volume at price, VAH/POC/VAL, cassure de structure et franchissement de niveau. Ces schemas sont illustratifs, pas des captures de transactions ou des promesses de performance.
+- 07 : nouvelles expressions de reference a 00:09:00 pour Casper et 00:58:00 pour Riz, regards orientes l'un vers l'autre, posture de conversation et ordinateur pose sur la table.
+- 08 : nouvelle scene avec fauteuils et tableau physique correctement place sur la table; pixellisation du visage de Casper conservee.
+- Ensemble : contraste et saturation renforces; typographie Poppins; textes principaux conserves.
+
+Fabrication et fidelite photographique
+ImageGen integre a ete utilise pour les nouvelles scenes 03 / 05 / 07 / 08 et le nettoyage du detourage frontal, avec les photos HD originales comme references d'identite. Les anciennes thumbnails servent uniquement a la composition. Les poses de corps, decors et supports des nouvelles scenes sont reconstruits.
+Les contours et la peau de ces scenes ne sont pas tous des pixels photographiques originaux : une generation ne doit pas etre presentee comme une photo preservee a l'identique. Les masters enregistrent les etapes et les compositions photo.
+01 / 02 / 04 / 06 : visage interne et cou de Casper repris de la source originale; 04 : Riz provient du detourage original.
+03 : zones internes du visage de Riz et peau du front de Casper reintegrees depuis les originaux.
+05 / 07 : peau du front de Casper reintegree depuis l'original; reste de la scene genere a partir des references. Riz en 07 est une reconstruction basee sur sa photo HD.
+08 : zones internes du visage de Riz reintegrees depuis sa source HD; Casper volontairement pixellise.
+Aucune conservation pixel pour pixel n'est revendiquee apres composition, mise a l'echelle, colorimetrie et grain.
+
+Les tableaux sur les ecrans de 01 / 02 / 04 sont de vraies photos du support pedagogique de l'episode, pas des captures d'une plateforme de trading. Aucun resultat chiffre non verifie n'a ete ajoute.
+
+Organisation
+Sources_HD : photographies originales.
+References : structures Scott Pulcini fournies.
+Masters/V03 : scenes generees, composants, masters PNG sans bruit final.
+Exports_4K/V03 : les huit PNG a livrer.
+Apercus/V03 : planches, apercus 1280 et 320 pixels, details a 100 %.
+Suivi/V03 : prompts ImageGen, scripts de composition, suivi des titres et controle des dimensions/hachages.
+Livraison : ZIP des huit PNG.
+
+Grain : bruit monochromatique uniforme de 5 %, un seul passage en toute derniere etape apres le redimensionnement; masters sans ce bruit. Le grain uniforme est moins agressif sur la peau que le bruit gaussien de V02.
+Toutes les versions anterieures sont conservees. Aucune publication effectuee.

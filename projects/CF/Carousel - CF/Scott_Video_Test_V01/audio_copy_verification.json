@@ -1,0 +1,18 @@
+[
+  {
+    "slide": "03_Gamma",
+    "editorial_pixels_preserved": true,
+    "audio_levels": [
+      "[Parsed_volumedetect_0 @ 00000268e741efc0] mean_volume: -24.2 dB",
+      "[Parsed_volumedetect_0 @ 00000268e741efc0] max_volume: -6.2 dB"
+    ]
+  },
+  {
+    "slide": "04_Algos",
+    "editorial_pixels_preserved": true,
+    "audio_levels": [
+      "[Parsed_volumedetect_0 @ 000001d391990ac0] mean_volume: -24.0 dB",
+      "[Parsed_volumedetect_0 @ 000001d391990ac0] max_volume: -5.4 dB"
+    ]
+  }
+]

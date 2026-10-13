@@ -1,0 +1,13 @@
+CONTROLE VISUEL V03
+26 masters et 26 exports examinés.
+23 inspirations couvertes ; 02, 03, 04 ajoutent chacune une version duo.
+Regards : contact visuel frontal sur tous les portraits concernés ; 12, 13, 14 conservent le face-à-face ; 17 sans portrait.
+Contrôle des yeux, cheveux, barbe, peau, cou et mains à la taille de génération.
+Titres relus ; lisibilité principale contrôlée sur planche 320px.
+Aucun microphone ou bras de microphone conservé.
+Retouches locales : 04_Duo suppression des graduations chiffrées ; 10 tableau de recherche/backtest/risque/exécution ; 13 retrait plaque ; 18 écran de notes sans données financières.
+Tous les pixels hors des régions retouchées sont identiques aux masters précédant ces retouches (vérification informatique).
+65 JPEG natifs 1920x1080 comparés par SHA256 aux téléchargements : identiques.
+29 portraits HD retenus ; photos précédentes conservées séparément.
+Limites de production : compositions générées à partir d'originaux HD, poses et regards recréés, masters aplatis 1672x941 ; sorties 3840x2160 agrandies.
+

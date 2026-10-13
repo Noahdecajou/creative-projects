@@ -1,0 +1,19 @@
+{
+  "Version": "V03",
+  "Date": "2026-10-12",
+  "PNGCount": 8,
+  "MasterCount": 8,
+  "Width": 3840,
+  "Height": 2160,
+  "Native4K": false,
+  "OriginalSourceCount": 54,
+  "OriginalSourceHashesUnchanged": true,
+  "VideoOrProxyDownloaded": false,
+  "FinalGrain": "5 percent uniform monochromatic, single final pass",
+  "VisualReview": "All eight previews at 320 and 1280 pixels; native face, hair, beard, glasses and hand crops; corrected double eyeglass overlays and hair fringe before final delivery",
+  "Archive": "Casper_8_Thumbnails_V03_3840x2160.zip",
+  "ArchiveEntries": 8,
+  "ArchivePayloadHashesMatch": true,
+  "ArchiveBytes": 142533657,
+  "ArchiveSHA256": "2A91DCBF7CBB41A49BEB2F7C845F55AE5A09D8BC5258E722C7F38BB3B7E2243D"
+}

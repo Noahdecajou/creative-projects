@@ -1,0 +1,10 @@
+Candace Lau — exports corrigés V2
+
+Le cadre de rendu avait conservé une hauteur de 1672 pixels après agrandissement. Cela coupait le bas des versions 1080 et 2160 et produisait une grande zone noire.
+Le cadre couvre maintenant toute l’image. Les cinq compositions, visages et textes sont strictement identiques aux compositions validées avant export.
+
+Contenu :
+- Stories_1080 : 5 images complètes de 1080 × 1920 pixels.
+- Exports_2160 : 5 images complètes de 2160 × 3840 pixels, agrandies à partir des mêmes compositions.
+
+Vérification : contrôle visuel des 5 grands exports et comparaison des 10 exports avec les compositions de référence. Les 5 compositions à la taille initiale sont identiques aux précédentes (empreintes de fichier inchangées).

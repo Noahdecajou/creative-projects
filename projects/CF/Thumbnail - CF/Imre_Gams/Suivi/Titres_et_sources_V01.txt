@@ -1,0 +1,71 @@
+IMRE GAMS - CHARTFANATICS - V01
+
+Trois accroches initiales : WHY BREAKOUTS FAIL (recommandee), PRICE IS NOT VALUE, STOP CHASING PRICE. Toutes utilisees dans les huit compositions. Aucun titre impose par l'utilisateur.
+
+01 | PRICE IS NOT VALUE
+Secondaire : Auction Market Theory
+Transcript fourni : 00:05:47-00:14:05
+Justification : Difference entre prix et valeur; acceptation et migration de valeur.
+Structure : 01 What Candles Don't Show
+Sources identite/support : frame_39600 (1).jpg; frame_17100.jpg
+Statut : utilise V01
+
+02 | WHY BREAKOUTS FAIL
+Secondaire : Read the Market Regime
+Transcript fourni : 00:20:31-00:24:38;00:54:33-00:57:36
+Justification : Les breakouts dependent du regime; attendre la micro-range et l'acceptation.
+Structure : 02 Hidden Orders Moving Price
+Sources identite/support : frame_39600 (1).jpg; frame_66600.jpg
+Statut : utilise V01
+
+03 | WHAT REALLY DRIVES PRICE
+Secondaire : 2 MARKET STATES
+Transcript fourni : 00:05:47-00:14:05
+Justification : Balance et imbalance: deux regimes presentes.
+Structure : 03 What Really Moves Price
+Sources identite/support : frame_22500.jpg; frame_80100.jpg; frame_115200 (4).jpg
+Statut : utilise V01
+
+04 | STOP CHASING PRICE
+Secondaire : PRICE vs VALUE
+Transcript fourni : 00:54:33-00:57:36
+Justification : Ne pas acheter le premier breakout; distinguer prix et valeur.
+Structure : 04 Stop Trading Blind
+Sources identite/support : frame_39600 (1).jpg; frame_115200 (4).jpg; frame_66600.jpg
+Statut : utilise V01
+
+05 | MASTER AUCTION MARKET THEORY
+Secondaire : 2 MARKET STATES; IMRE GAMS; STEP BY STEP
+Transcript fourni : 00:05:47-00:14:05;01:15:44-01:17:48
+Justification : Demonstration au tableau de l'AMT et des deux regimes.
+Structure : 05 Master Order Flow Trading
+Sources identite/support : frame_22500.jpg; frame_39600 (1).jpg
+Statut : utilise V01
+
+06 | READ THE MARKET
+Secondaire : BALANCE; IMBALANCE; FAIR VALUE; MICRO-RANGE
+Transcript fourni : 00:05:47-00:14:05;00:55:22-00:57:36
+Justification : Schemas redessines simplement d'apres explication: range, progression, valeur et micro-range.
+Structure : 06 See Hidden Orders
+Sources identite/support : frame_39600 (1).jpg
+Statut : utilise V01
+
+07 | SMART MONEY MYTHS EXPLAINED
+Secondaire : RIZ; IMRE
+Transcript fourni : 00:01:02-00:03:31;01:02:52-01:04:54
+Justification : L'episode deconstruit les mythes et explique que les institutions ne sont pas toutes alignees.
+Structure : 07 Hidden Orders Revealed
+Sources identite/support : frame_61200.jpg; frame_4500.jpg; frame_115200 (4).jpg
+Statut : utilise V01
+
+08 | PRICE TO VALUE
+Secondaire : BALANCE; REGIME; MICRO-RANGE; FAIR VALUE
+Transcript fourni : 00:05:47-00:14:05;00:55:22-00:57:36
+Justification : Progression de la lecture du prix vers la valeur; fleche editoriale, visage Imre pixelise volontairement.
+Structure : 08 Price To Order Flow
+Sources identite/support : frame_126000 (1).jpg; frame_39600 (1).jpg; frame_115200 (4).jpg
+Statut : utilise V01
+
+Ces accroches sont des formulations editoriales, pas des citations litterales. Aucun chiffre de gains, allocation, pourcentage de reussite ni statistique generale non verifiee utilise. 2 MARKET STATES correspond au cadre explique par Imre. La duree de Scott et ses 4 MARKET FORCES ne sont pas reprises.
+Titres restants : aucun des trois hooks initiaux. Autres themes possibles non utilises : failed auction, one time framing, fondamentaux.
+

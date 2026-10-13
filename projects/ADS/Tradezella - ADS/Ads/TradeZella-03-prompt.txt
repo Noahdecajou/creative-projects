@@ -1,0 +1,23 @@
+Use case: ads-marketing.
+Create ONE entirely NEW finished vertical 9:16 social advertisement for TradeZella, a trading journal and analytics platform. This must be an original art-directed composition, not a revision of earlier ads. All visible text exclusively English.
+
+Art direction: premium monochrome editorial meets precision financial analytics. The background and visual surfaces must be approximately 90% matte near-black / charcoal; reserve at most 10% for small vivid violet accents. White and cool grey typography. Absolutely NO purple background, purple wash, large neon glows, light trails, laptop, phone, robot, glowing orb, rocky pedestal or giant purple headline. Strong contrast and beautifully controlled negative space. Fine black-on-black paper grain, precise thin rules, restrained shadows. Visually distinct, sophisticated and sales-focused.
+
+Composition, from top to bottom:
+1. Small TradeZella wordmark at upper left in white, with a small faceted violet/blue bull mark. At upper right a compact, very legible offer label: "25% OFF", with tiny "YOUR SUBSCRIPTION" beneath, violet accent limited to one thin edge or corner. Comfortable margins.
+2. Upper third: enormous confident white slightly condensed bold sans-serif headline across three tight lines, exactly:
+"STOP REPEATING"
+"EXPENSIVE"
+"MISTAKES."
+Use one small violet underline beneath MISTAKES, otherwise all white. Supporting sentence in smaller cool grey, exactly: "Turn your trading history into your next edge."
+3. Central hero: a beautifully designed dimensional black trading review dossier / three overlapping large charcoal report sheets, seen nearly front-on with a subtle offset and realistic paper thickness, one modest diagonal violet tab. No device screen. The sheets form a single coherent visual object occupying the middle and lower middle. On the main front sheet, integrate THREE spacious horizontal numbered analysis rows with minimal vector-style charts on the right. Each row has one small violet number, clear white feature title, short grey benefit text, very thin grey divider.
+Exact row copy:
+"01" / "AUTOMATED JOURNAL" / "Less logging. More time to review."
+"02" / "PATTERN ANALYSIS" / "Spot the mistakes you keep repeating."
+"03" / "BACKTESTING" / "Test your strategy before risking capital."
+Chart details are elegant and minimal: row 1 small import lines feeding a tidy trade log; row 2 small repeated loss marks isolated with a thin violet outline; row 3 dotted historical path with entry/exit markers. No dollar profits, fabricated testimonials, win-rate percentages or confusing microtext. The visual should embody structured learning and evidence. Each USP and its benefit must remain highly legible on mobile. Shape the central composition to feel like an editorial evidence review, not generic feature cards.
+4. Bottom: two large equally prominent side-by-side CTA blocks inside the safe area, crisp thin grey outlines on black, restrained rounded corners. LEFT exact text: 'REPLY “ZELLA”'. RIGHT exact text: 'USE CODE: WOR'. Set ZELLA and WOR bold with small violet underlines. These must be the final strong action at the bottom, easy to read. Small centered "tradezella.com" underneath.
+
+Ensure all spelling and punctuation are correct. Do not add French, a ranking claim, Trustpilot graphics, additional slogans or invented statistics. Output one complete polished advertising image with cinematic material depth and graphic-design precision. The overall impression must be BLACK, confident, clean, fresh, with a few violet details. Keep the offer, three concrete USP benefits and both CTAs unmistakable.
+
+Generation mode: built-in image_gen. Model variant not exposed; flare versus sunburst cannot be verified.

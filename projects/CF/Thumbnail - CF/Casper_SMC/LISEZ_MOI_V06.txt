@@ -1,0 +1,23 @@
+CASPER / CHARTFANATICS — V06 — 13 octobre 2026
+
+Huit PNG individuels, 3840 x 2160 pixels, 16:9. Les versions precedentes sont conservees.
+Compositions avec certains composants agrandis : ce ne sont pas des creations entierement natives 4K.
+
+Corrections localisees depuis V05
+02 — Graphique illustratif du MacBook densifie : 28 bougies au lieu de 12. Corps de 30 pixels, pas de 32 pixels, soit 2 pixels entre les corps a la resolution finale; les meches et volumes suivent le meme rythme. Le graphique reste illustratif, sans performance attribuee a Casper.
+04 — Riz regarde directement le spectateur. Correction ImageGen depuis sa photographie HD originale, puis assemblage limite aux deux zones des yeux. Cheveux, barbe, peau hors des yeux, silhouette, pose, vetements et alpha conserves. Le regard de Casper est conserve.
+05 — Nom CASPER place dans le coin inferieur gauche avec une marge, sur une box sombre lisible. Ancienne box a droite retiree.
+06 — Casper agrandi de 17 % (hauteur de reference 359 vers 420) et remonte de 21 pixels dans le canevas 1280. Les schemas, libelles et titre restent visibles.
+01 / 03 / 07 / 08 — Identiques a V05; verification par SHA-256.
+
+Organisation
+Sources_HD : 54 photos originales natives conservees intactes.
+Masters/V06 : composants, portraits, huit masters sans grain final.
+Exports_4K/V06 : huit PNG finaux avec grain monochromatique uniforme de 5 %, une seule passe.
+Apercus/V06 : vues 1280 et 320, planches, details a 100 %.
+Suivi/V06 : prompt de regard, scripts reproductibles, suivi des titres, controles et manifestes.
+Livraison : ZIP des huit PNG et ZIP complet de production.
+
+Reproduction : Poppins installe; executer Suivi/V06/render_v06.ps1 -Final. Les composants selectionnes sont inclus. Le portrait Riz_front_photo.png contient deja la correction locale; gaze_composite.ps1 documente sa fabrication depuis Riz_front_photo_original.png et Riz_gaze_generated.png.
+Les scenes et composants herites suivent la provenance de V05. Voir LISEZ_MOI_V05.txt, V04 et V03.
+Aucune nouvelle extraction video necessaire. Aucune video ou proxy telecharge. Aucune publication effectuee.

@@ -1,0 +1,5 @@
+V02 - Riz frontal utilise dans la composition 04.
+Source originale : Sources_HD/frame_600.jpg, 00:00:20:00.
+Sortie : Masters/V02/Riz_front_cutout.png.
+Prompt ImageGen exact :
+Edit this ORIGINAL photograph of Riz. Output a clean transparent photographic cutout of his full head, hair, shoulders and beige polo chest. ONLY remove the background and the microphone/stand; reconstruct the covered beige fabric. Keep his original frontal gaze and expression, preserve his exact eye shape, face, beard, hair, original skin color and texture, no beautification, no smoothing, no sharpening, no invented pores. Preserve beige polo weave and folds. No text or outlines. Do not replace his face with a synthesized portrait. The result will be used over an educational board in a thumbnail.

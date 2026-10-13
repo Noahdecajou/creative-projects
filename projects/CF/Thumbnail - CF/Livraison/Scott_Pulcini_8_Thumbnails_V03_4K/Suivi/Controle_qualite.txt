@@ -1,0 +1,18 @@
+CONTROLE DE LIVRAISON - SCOTT PULCINI - V03
+2026-10-08
+
+Controle visuel realise sur les huit masters, puis sur la planche issue des exports et sur les huit apercus a 320 x 180.
+- Textes et numerotation 01 a 08 conserves.
+- Blanc : 01, 02, 04, 05, 06. Noir : 03, 07, 08.
+- Captures Bookmap du podcast assemblees sur 01, 02 et 04.
+- 04 : defaut signale par l'utilisateur sur les contours corrige par restauration des cheveux et du visage au premier plan, depuis le rendu anterieur a l'insertion de l'ecran. Contours verifies apres correction.
+- 05 : regard vers le tableau, marqueur vert et mains visibles.
+- 07 : Scott parle et Riz regarde Scott.
+- 08 : visage de Scott pixellise, Riz visible ; tablette, mains et quatre etiquettes conserves.
+- Derniere etape des huit exports : 5 % de bruit gaussien monochromatique.
+- Dimensions reelles lues : 3840 x 2160 pour les huit PNG.
+- Masters : 1672 x 941 ; exports agrandis, non natifs 4K.
+- Anciens fichiers V01 et masters V02 conserves. Aucun fichier source HD modifie.
+- Aucun contenu publie.
+
+Les masters sont des images aplaties. Les portraits ont ete construits avec image_gen a partir des photos HD ; les retouches de couleur suivantes sont assemblees localement pour limiter les changements hors du polo.

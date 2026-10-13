@@ -1,0 +1,105 @@
+WORKFLOW — STORIES PODCAST POUR UN NOUVEL INVITE
+Version du 7 octobre 2026
+
+OBJECTIF
+Creer cinq stories individuelles avec des titres, poses et compositions varies, tout en conservant l'identite graphique du projet. Ce sont cinq alternatives promotionnelles, pas cinq slides consecutifs d'un carrousel.
+Ce workflow provient du travail sur Candace Lau. Il exclut le message sur Artan et les trois options de copy correspondantes.
+Collaborer en francais; conserver les titres en anglais lorsque le brief le demande.
+
+1. RASSEMBLER LES ELEMENTS
+- Designs de reference du projet cible: utiliser ses propres references, sans reprendre automatiquement les couleurs ou logos de Words of Rizdom.
+- Nom complet et orthographe de l'invite, confirmes par l'utilisateur.
+- Liste exacte des titres fournis par l'utilisateur.
+- Photos de l'invite et de l'hote, si une version duo est souhaitee.
+- Eventuelles images deja creees dans un autre carrousel ou une autre conversation.
+- Informations de diffusion: date, heure, fuseaux horaires, plateformes, sponsors et CTA.
+Si une information manque, avancer sur les elements independants et poser une question ciblee. Ne pas reutiliser les horaires ou les sponsors d'un ancien episode sans confirmation.
+
+2. IDENTIFIER LES BONNES SOURCES
+Quand l'utilisateur designe une image d'une autre conversation, retrouver cette conversation et le fichier exact. Lire son contexte et inspecter visuellement le fichier avant de generer.
+Ne pas remplacer une source precise par une image qui lui ressemble. Exemple de cette session: Candace tenant UNE bougie rouge de trading du slide 1, et non Candace pincant plusieurs chandeliers sur une ancienne thumbnail.
+Conserver une copie locale de la source selectionnee avec un nom explicite. Noter le chemin et la version d'origine dans le fichier de prompts.
+Si la source est inaccessible et indispensable, demander qu'elle soit jointe a nouveau.
+
+3. ANALYSER ET CONSERVER LE STYLE
+Relever: format, palette, fond, grain, logo, typographie apparente, hierarchie, bandeaux, taille et position du portrait, detourage, contraste, cartouche du nom, CTA, plateformes, sponsors.
+Distinguer les elements constants des variantes facultatives: duo, graphiques, fleches, objets, ombres.
+Creer une fiche de reference et conserver les originaux dans le dossier du projet.
+Les JPG montrent le rendu, mais ne permettent pas de connaitre avec certitude la police, le logiciel, les calques ou les reglages sources. Demander une source editable si une reproduction exacte est requise.
+Ne mettre a jour la memoire persistante que sur demande explicite de l'utilisateur.
+
+4. CONSTRUIRE UNE PREMIERE STORY
+Choisir un titre fourni et une photo precise. Creer une premiere version complete qui etablit le style avant de multiplier les variantes.
+Pour une story 9:16, viser 1080 x 1920 et verifier les dimensions reelles du fichier produit. Une consigne dans le prompt ne garantit pas les dimensions de sortie.
+Conserver un petit logo, un titre lisible, un portrait photographique, le nom complet et le CTA. Ajouter les informations de diffusion confirmees.
+Laisser les elements essentiels a distance des bords pour tenir compte de l'interface de l'application; verifier l'apercu mobile lorsque disponible.
+Ne pas modifier ou verifier les affirmations des titres comme si elles etaient de nouvelles informations etablies: elles viennent du brief. Ne jamais inventer de montant, classement ou performance supplementaire.
+
+5. DECLINER CINQ ANGLES
+Choisir cinq titres distincts de la liste. S'il y en a moins, proposer des variantes de composition avec les titres disponibles.
+Varier la pose ou la vue autant que le texte, en utilisant les sources disponibles:
+01 — Portrait de face, composition simple et resultat principal.
+02 — Vue trois-quarts ou image avec objet deja valide, par exemple bougie de trading.
+03 — Expression differente, par exemple sourire, et element contextuel discret si pertinent.
+04 — Profil ou angle d'interview, avec graphique facultatif lie au sujet.
+05 — Duo invite + hote, regard et taille des deux personnes equilibres.
+Ces directions sont des choix de composition, pas une obligation d'inventer des objets ou des gestes. Ne pas forcer un graphique, un trophee ou un journal sur un sujet auquel il ne correspond pas.
+Conserver la meme hierarchie, le meme traitement et les memes plateformes sur toute la serie.
+
+6. REGLES PHOTO — RENDU NATUREL
+Preserver les traits, le teint, l'expression et les proportions de chaque personne.
+Garder une texture de peau sobre; eviter peau plastique, lissage, pores exageres, nouvelles rides, contours trop nets et contraste HDR.
+Limiter la saturation rouge/orange sur la peau et les cheveux. Garder les halos du fond et les bandeaux de marque plus forts que les reflets sur les personnes.
+Les vetements doivent conserver des couleurs naturelles. Un objet lumineux peut eclairer legerement la main, sans teinter tout le visage.
+Pour un duo, appliquer le meme niveau de traitement aux deux personnes sans uniformiser leurs teints.
+
+7. EQUILIBRE PORTRAIT / TITRE
+Le portrait doit rester lisible sur telephone, sans devenir envahissant face aux gros titres.
+Si une reduction est utile, utiliser 10 a 15 % comme point de depart pour un portrait serre, et 5 a 10 % pour un duo deja equilibre. Ce sont des consignes initiales, pas une mesure garantie par ImageGen.
+Apres reduction, verifier IMMEDIATEMENT le vide sous le titre. Une personne plus petite n'a pas besoin d'etre beaucoup plus basse.
+Si un grand vide apparait, remonter le portrait a taille constante. Viser un intervalle modeste et coherent avec le reste de la serie; juger le rendu sur l'image, pas seulement le pourcentage du prompt.
+Un repere utilise ici: environ 40 a 60 px entre le bas du titre et le haut de la tete sur un export 941 x 1672, a adapter proportionnellement au format. Le repere ne doit pas provoquer de contact entre texte, cheveux ou objet.
+Pour une image avec objet tenu: redimensionner et deplacer personne, bras, main et objet ensemble.
+Garder le nom et le CTA bien associes au portrait, avec un degrade bas lisible. Eviter les espaces excessifs entre les blocs.
+
+8. EXECUTION ET RETOUCHES
+Utiliser ImageGen integre pour la creation et les retouches raster, avec les images de reference exactes.
+Attribuer a chaque image un role dans le prompt: style, identite, pose, objet, ou cible a modifier.
+Une generation par story, pas une planche de cinq stories fusionnees.
+Apres chaque sortie, inspecter: titre exact, nom complet, identite, expression, main/objet, saturation, taille, espacement, logo, plateformes, marges et dimensions.
+Faire une correction ciblee quand necessaire. Verifier que cette correction n'a pas degrade d'autres elements deja valides.
+Limiter les regenerations successives du visage: repartir d'une source fidele si les traits ou la texture derivent.
+Conserver les versions precedentes et nommer clairement la nouvelle serie.
+
+9. LIVRER ET VERIFIER
+Structure conseillee:
+References/ — originaux et fiche de style.
+Sources/ — photos et visuels precis utilises.
+Stories_v1/ — les cinq images.
+Stories_v2/ — revisions si demandees.
+Prompts.txt — prompts, roles des sources, mode utilise et chemins.
+Stories_Finales.zip — serie finale de cinq images.
+Verifier cinq fichiers sauvegardes, leur ouverture, puis cinq images dans le ZIP.
+Livrer le lien du ZIP et, si utile, les liens individuels. Indiquer clairement quelle version est la plus recente.
+Si l'utilisateur demande le temps d'execution, distinguer temps de generation mesure et temps total de travail; ne pas les confondre.
+
+EXEMPLE DE STYLE WORDS OF RIZDOM — UNIQUEMENT SI CE PROJET LE DEMANDE
+Fond noir/charbon, halos rouges diffus haut gauche et bas gauche, grain fin, petit logo noir sur blanc centre en haut, titre anglais massif blanc avec mots cles sur bandeaux rouges ou blancs. Invite seul ou duo, nom complet noir sur cartouche blanc, FULL PODCAST en blanc gras, Spotify/YouTube. Graphiques et sponsors facultatifs selon brief. Portrait naturel, reflets rouges moderes, intervalle court entre titre et tete.
+
+PROMPT A COPIER DANS UN NOUVEAU PROJET
+
+Je veux creer cinq stories promotionnelles distinctes pour [NOM COMPLET DE L'INVITE], avec le meme workflow que les stories de Candace Lau.
+
+Voici mes designs de reference: [FICHIERS]. Analyse et conserve leur style dans une fiche du projet. Utilise l'identite graphique de ces references.
+Voici les titres exacts a utiliser: [LISTE]. Garde leur langue et leurs formulations. N'invente pas de chiffres ou de promesses.
+Voici les photos de l'invite: [FICHIERS]. Voici l'hote pour une version duo: [FICHIERS].
+Si je designe un visuel d'une autre conversation, retrouve et inspecte le fichier exact avant de l'utiliser: [CONVERSATION / SLIDE / VERSION].
+Informations de diffusion confirmees: [DATE / HEURE / FUSEAUX / PLATEFORMES / SPONSORS / CTA]. Ne reutilise pas automatiquement celles d'un autre episode.
+
+Commence par une premiere story complete pour etablir le style, puis cree cinq alternatives avec des titres et des vues varies: face, trois-quarts, expression differente, profil et duo si les sources le permettent. Ce sont des stories independantes, pas un carrousel.
+
+Garde une peau naturelle, une saturation moderee et une nettete douce. Evite les contours rouges/oranges excessifs et le rendu HDR. Les bandeaux et le fond peuvent rester forts sans saturer les visages.
+Equilibre les portraits avec les titres: assez grands pour etre lisibles, mais pas envahissants. Si tu reduis une personne, rapproche ensuite son portrait du titre pour ne pas creer un grand vide. Garde les mains et les objets coherents avec la pose.
+Affiche le nom complet exact sur les cinq visuels.
+
+Vise le format story 9:16, 1080 x 1920, et verifie les dimensions reelles des exports. Inspecte chaque image avant livraison. Sauvegarde les images, les sources et les prompts dans le projet. Livre les cinq fichiers dans un ZIP dont tu as verifie le contenu.

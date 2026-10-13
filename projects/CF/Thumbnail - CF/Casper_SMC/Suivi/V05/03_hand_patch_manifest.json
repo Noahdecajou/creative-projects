@@ -1,0 +1,6 @@
+{
+  "MaskPixelCount": 12538,
+  "Bounds": "1188,727,1406,797",
+  "SourceDimensions": "1672x940",
+  "Description": "Selected ImageGen detail crop composited only into dorsal hand and bare wrist masks. All pixels outside those masks are preserved, including finger silhouettes and remaining scene."
+}
