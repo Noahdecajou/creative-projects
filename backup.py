@@ -18,6 +18,7 @@ REMOTE = "https://github.com/Noahdecajou/creative-projects.git"
 REPO = "Noahdecajou/creative-projects"
 GIT = r"C:\Users\notti\AppData\Local\hermes\git\cmd\git.exe"
 GH = r"C:\Program Files\GitHub CLI\gh.exe"
+os.environ["GH_CONFIG_DIR"] = r"C:\Users\notti\AppData\Roaming\GitHub CLI"
 CODE = {".txt", ".md", ".json", ".html", ".htm", ".css", ".js", ".mjs", ".cjs",
         ".ts", ".tsx", ".jsx", ".py", ".ps1", ".cmd", ".bat", ".toml", ".yml",
         ".yaml", ".ini", ".xml", ".csv", ".tsv", ".tex", ".sh", ".sql"}
@@ -185,6 +186,10 @@ def run():
 
 def main():
     LOCAL.mkdir(exist_ok=True)
+    (LOCAL / "runtime.json").write_text(json.dumps({
+        "user": os.environ.get("USERNAME"), "profile": os.environ.get("USERPROFILE"),
+        "appdata": os.environ.get("APPDATA"), "gh_config": os.environ.get("GH_CONFIG_DIR"),
+        "python": sys.executable}, indent=2), encoding="utf-8")
     with (LOCAL / "backup.lock").open("a+b") as lock:
         lock.seek(0)
         if not lock.read(1):
