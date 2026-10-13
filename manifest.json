@@ -82,8 +82,8 @@
       "project": "Stories - CF",
       "destination": "projects/CF/Stories - CF",
       "counts": {
-        "included": 22,
-        "media_or_binary": 118
+        "included": 24,
+        "media_or_binary": 127
       }
     },
     {
@@ -150,7 +150,8 @@
       "project": "WOR Studio",
       "destination": "projects/WOR/WOR Studio",
       "counts": {
-        "included": 29,
+        "included": 28,
+        "large_or_embedded_asset": 1,
         "outside_studio_allowlist": 63
       }
     }
@@ -512,6 +513,11 @@
       "sha256": "9b2f0d0a9227ee61660c23c88bf6e7dd327174c40e6e1ea6506b94d61bbde04b"
     },
     {
+      "path": "projects/CF/Stories - CF/Imre_Gams/Apercus/V01/Galerie_V01.html",
+      "bytes": 1474,
+      "sha256": "7be94e55f28c659a9fd5783b78fdbbc025721909be276693c9fc563d16d07aa9"
+    },
+    {
       "path": "projects/CF/Stories - CF/Imre_Gams/References/Fiche_style_V01.txt",
       "bytes": 964,
       "sha256": "a6a25ef968011bd7475c33094376ecb0ad9df7316ef78e02bb7af50d02e06aeb"
@@ -525,6 +531,11 @@
       "path": "projects/CF/Stories - CF/Imre_Gams/Suivi/V01/Prompts_et_sources.json",
       "bytes": 2921,
       "sha256": "12cab0964f521e47a239bc2047ccd9aeecb78a4fe0629d48430b4a6239a1130e"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Imre_Gams/Suivi/V01/Verification.json",
+      "bytes": 3194,
+      "sha256": "4b30ffa137337599841036540cdc2aae3924a94af42418ecbbf8017c8e657529"
     },
     {
       "path": "projects/CF/Stories - CF/Imre_Gams/Suivi/V01/export_verify.py",
@@ -3965,11 +3976,6 @@
       "path": "projects/WOR/WOR Studio/dist/titles.js",
       "bytes": 12349,
       "sha256": "890cfbc68112eac4fc8ebcc57628ab6a5c29cfc14977e67ee2b9aa35f6849b8e"
-    },
-    {
-      "path": "projects/WOR/WOR Studio/lab.mjs",
-      "bytes": 17236,
-      "sha256": "68a7771fea9bf0cdfafb0f3a71459039a5c8abba2b7d3aaffccaa2b95e78abb8"
     },
     {
       "path": "projects/WOR/WOR Studio/package.json",

@@ -1,0 +1,112 @@
+{
+  "images": [
+    {
+      "file": "01_Price_Is_Not_Value.png",
+      "native_dimensions": [
+        941,
+        1672
+      ],
+      "export_dimensions": [
+        1080,
+        1920
+      ],
+      "sha256": "6b10f4b3e4fdbdbdb63a4e966c1266c73d38a4501fad9179b64d913ad50b1d30",
+      "source_sha256": "466b8c938c7f6b625acf7bd366df8e5fc62c7932a0064981444d5a5c9918d5c2"
+    },
+    {
+      "file": "02_Why_Breakouts_Fail.png",
+      "native_dimensions": [
+        941,
+        1672
+      ],
+      "export_dimensions": [
+        1080,
+        1920
+      ],
+      "sha256": "f3ac0a1bab6a116b590a9a4af9c665397c1334cb82ea01f5adf57267b2e8569a",
+      "source_sha256": "62cb8b2450ed92bd9be61d8de105e14cbadbf5972dff80580043c3bc9b6be1de"
+    },
+    {
+      "file": "03_What_Really_Drives_Price.png",
+      "native_dimensions": [
+        941,
+        1672
+      ],
+      "export_dimensions": [
+        1080,
+        1920
+      ],
+      "sha256": "5e3829f8ddab2ef804d5790f4b94202c9cf725d11f5e9c859cdf6fd4155ae0da",
+      "source_sha256": "607f841f5a0b190e9ed1ffb665ec3ca4fbad72f4850966bf80f245139e30f538"
+    },
+    {
+      "file": "04_Stop_Chasing_Price.png",
+      "native_dimensions": [
+        941,
+        1672
+      ],
+      "export_dimensions": [
+        1080,
+        1920
+      ],
+      "sha256": "439d9781674bb1c6af7c793087f351e03c3efb9310c8f099bb3e97a76c18f232",
+      "source_sha256": "a5bd52e6f3064d8cf689826b86a6671adfbfa2efb957798745d213bb667c6efd"
+    },
+    {
+      "file": "05_Master_Auction_Market_Theory.png",
+      "native_dimensions": [
+        941,
+        1672
+      ],
+      "export_dimensions": [
+        1080,
+        1920
+      ],
+      "sha256": "1ef95d0470f370504aaae337f27dfbee3808f282979d59eeb738cb3f98e31ac3",
+      "source_sha256": "5d601e651f7df0ba7a3a472b70150c3a2735c8c47af31d2a204166589c1b3638"
+    },
+    {
+      "file": "06_Read_The_Market.png",
+      "native_dimensions": [
+        941,
+        1672
+      ],
+      "export_dimensions": [
+        1080,
+        1920
+      ],
+      "sha256": "a1df3c4e987d0a518ab2e5caa15f53f7a8faff737e8881b81c735410dfb3f668",
+      "source_sha256": "b5518cf7b304214c5860718adfed09e521c8a7e122717312d34c4fe89a50ce51"
+    },
+    {
+      "file": "07_Smart_Money_Myths.png",
+      "native_dimensions": [
+        941,
+        1672
+      ],
+      "export_dimensions": [
+        1080,
+        1920
+      ],
+      "sha256": "2bb0400b3d8a8ddc0a8a90d72a4b91f9d943bcb52d2225937c41152d2293b7f2",
+      "source_sha256": "10312b43212ae3042f80bf15be1e2ea20f13bfe0f18337910ba4f4f6ce46148c"
+    },
+    {
+      "file": "08_Price_To_Value.png",
+      "native_dimensions": [
+        941,
+        1672
+      ],
+      "export_dimensions": [
+        1080,
+        1920
+      ],
+      "sha256": "5123432d69e8cc68823ea75b84222a7fe476fafec1b1ac642c649e8415e1cb39",
+      "source_sha256": "8c64c062e3f3c1b9bfe733d8f377e691f8b4afb00bcb8d9964a5af9ae3bf5ea9"
+    }
+  ],
+  "zip": "Imre_Gams_8_Stories_V01_1080x1920.zip",
+  "zip_count": 8,
+  "zip_integrity": "verified",
+  "zip_sha256": "0d69075ba5306fd881c967d62ae240bcc116e2679ec7f03dd2b088957a5da634"
+}
