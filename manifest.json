@@ -82,8 +82,8 @@
       "project": "Stories - CF",
       "destination": "projects/CF/Stories - CF",
       "counts": {
-        "included": 21,
-        "media_or_binary": 105
+        "included": 22,
+        "media_or_binary": 118
       }
     },
     {
@@ -515,6 +515,11 @@
       "path": "projects/CF/Stories - CF/Imre_Gams/References/Fiche_style_V01.txt",
       "bytes": 964,
       "sha256": "a6a25ef968011bd7475c33094376ecb0ad9df7316ef78e02bb7af50d02e06aeb"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Imre_Gams/Suivi/V01/Prompts_complets_et_provenance.json",
+      "bytes": 15175,
+      "sha256": "f035ce26ad8f8c0bfe19dd0ec0f0689283f27fb40b4241517c492db43aaa34f1"
     },
     {
       "path": "projects/CF/Stories - CF/Imre_Gams/Suivi/V01/Prompts_et_sources.json",

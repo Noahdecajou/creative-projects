@@ -30,10 +30,12 @@ EMBEDDED = re.compile(r"data:(?:image|audio|video)/[^;\\s]+;base64,", re.I)
 CONTROLS = {"sources.json", ".gitignore", ".gitattributes", "README.md", "AGENTS.md",
             "Backup.ps1", "Watch-Launch.ps1", "Install-Automation.ps1", "backup.py", "manifest.json"}
 MAX_TEXT = 2 * 1024 * 1024
+HIDDEN = subprocess.CREATE_NO_WINDOW if os.name == "nt" else 0
 
 def command(args, timeout=180):
     result = subprocess.run(args, cwd=ROOT, capture_output=True, text=True,
-                            encoding="utf-8", errors="replace", timeout=timeout)
+                            encoding="utf-8", errors="replace", timeout=timeout,
+                            creationflags=HIDDEN)
     if result.returncode:
         raise RuntimeError("Command failed: " + " ".join(args[:3]) + "\n" + result.stderr[-1800:])
     return result.stdout.strip()
@@ -143,7 +145,8 @@ def run():
     if heads:
         git("fetch", "origin", "main")
         if not subprocess.run([GIT, "rev-parse", "--verify", "HEAD"], cwd=ROOT,
-                              stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL).returncode:
+                              stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL,
+                              creationflags=HIDDEN).returncode:
             git("merge", "--ff-only", "origin/main")
         else:
             git("reset", "--mixed", "origin/main")
@@ -158,8 +161,13 @@ def run():
             target = checked_target(name)
             if target.exists():
                 target.unlink()
-    (ROOT / "manifest.json").write_text(
-        json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    manifest_path = ROOT / "manifest.json"
+    if manifest_path.exists():
+        previous = json.loads(manifest_path.read_text(encoding="utf-8"))
+        if previous.get("files") == manifest["files"]:
+            manifest = previous
+    manifest_path.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n",
+                             encoding="utf-8")
     paths = sorted(CONTROLS)
     git("add", "--", *paths, "projects")
     staged = git("diff", "--cached", "--name-only").splitlines()
