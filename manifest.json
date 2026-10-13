@@ -14,8 +14,8 @@
       "project": "Stories",
       "destination": "projects/WOR/Stories",
       "counts": {
-        "included": 28,
-        "large_or_embedded_asset": 27,
+        "included": 32,
+        "large_or_embedded_asset": 23,
         "media_or_binary": 147
       }
     },
@@ -64,8 +64,7 @@
       "project": "Carousel - PFT",
       "destination": "projects/PFT/Carousel - PFT",
       "counts": {
-        "included": 91,
-        "large_or_embedded_asset": 8,
+        "included": 99,
         "media_or_binary": 363
       }
     },
@@ -82,7 +81,7 @@
       "project": "Stories - CF",
       "destination": "projects/CF/Stories - CF",
       "counts": {
-        "included": 24,
+        "included": 23,
         "media_or_binary": 127
       }
     },
@@ -150,8 +149,7 @@
       "project": "WOR Studio",
       "destination": "projects/WOR/WOR Studio",
       "counts": {
-        "included": 28,
-        "large_or_embedded_asset": 1,
+        "included": 29,
         "outside_studio_allowlist": 63
       }
     }
@@ -526,11 +524,6 @@
       "path": "projects/CF/Stories - CF/Imre_Gams/Suivi/V01/Prompts_complets_et_provenance.json",
       "bytes": 15175,
       "sha256": "f035ce26ad8f8c0bfe19dd0ec0f0689283f27fb40b4241517c492db43aaa34f1"
-    },
-    {
-      "path": "projects/CF/Stories - CF/Imre_Gams/Suivi/V01/Prompts_et_sources.json",
-      "bytes": 2921,
-      "sha256": "12cab0964f521e47a239bc2047ccd9aeecb78a4fe0629d48430b4a6239a1130e"
     },
     {
       "path": "projects/CF/Stories - CF/Imre_Gams/Suivi/V01/Verification.json",
@@ -2313,6 +2306,11 @@
       "sha256": "482152bf2a92e1fae13f0b0b58c6eb620de0cfeb1238292adc90d270a62e9cf4"
     },
     {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v01/source/render.py",
+      "bytes": 16351,
+      "sha256": "24beca43299c97d69362fa3305399f93d45254fa0176979b11876675a52b5ec2"
+    },
+    {
       "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v01/source/transcript_source.txt",
       "bytes": 38660,
       "sha256": "27d628d7f70dc492a9ffc854b19f6605729dc7aeb518c5ac56017b4ac5b70177"
@@ -2351,6 +2349,11 @@
       "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v02/source/preview.html",
       "bytes": 839,
       "sha256": "482152bf2a92e1fae13f0b0b58c6eb620de0cfeb1238292adc90d270a62e9cf4"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v02/source/render.py",
+      "bytes": 17727,
+      "sha256": "af9f661ef05b4e1e78d3bb7ec378ac35a5cc61f6c17bdcf5be2519f6542fa561"
     },
     {
       "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v02/source/transcript_source.txt",
@@ -2401,6 +2404,11 @@
       "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v03/source/preview.html",
       "bytes": 839,
       "sha256": "482152bf2a92e1fae13f0b0b58c6eb620de0cfeb1238292adc90d270a62e9cf4"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v03/source/render.py",
+      "bytes": 18490,
+      "sha256": "b6d899bc448231db80ed82260f5d592d3f168a58349cccc28bac431eed697b1f"
     },
     {
       "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v03/source/transcript_source.txt",
@@ -2456,6 +2464,11 @@
       "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v04/source/preview.html",
       "bytes": 839,
       "sha256": "482152bf2a92e1fae13f0b0b58c6eb620de0cfeb1238292adc90d270a62e9cf4"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v04/source/render.py",
+      "bytes": 19068,
+      "sha256": "dfea7f1f90c0500c99ea8a01933fa983435222f04f8ad51073dff3579223efce"
     },
     {
       "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v04/source/transcript_source.txt",
@@ -2518,6 +2531,11 @@
       "sha256": "482152bf2a92e1fae13f0b0b58c6eb620de0cfeb1238292adc90d270a62e9cf4"
     },
     {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v05/source/render.py",
+      "bytes": 19765,
+      "sha256": "32acbceb9d944f6f04214b83a2ae0941f86e9b42bb0093825b018a9fe7f1da56"
+    },
+    {
       "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v05/source/transcript_source.txt",
       "bytes": 38660,
       "sha256": "27d628d7f70dc492a9ffc854b19f6605729dc7aeb518c5ac56017b4ac5b70177"
@@ -2566,6 +2584,11 @@
       "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v06/source/preview.html",
       "bytes": 839,
       "sha256": "482152bf2a92e1fae13f0b0b58c6eb620de0cfeb1238292adc90d270a62e9cf4"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v06/source/render.py",
+      "bytes": 24686,
+      "sha256": "de73679ab014d05774fb9aaf8cd650d2cebd9a1a49a012da77c5a72f30ac4ebe"
     },
     {
       "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v06/source/transcript_source.txt",
@@ -2643,6 +2666,11 @@
       "sha256": "482152bf2a92e1fae13f0b0b58c6eb620de0cfeb1238292adc90d270a62e9cf4"
     },
     {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v07/source/render.py",
+      "bytes": 19973,
+      "sha256": "d4c2a21e17700a510c6523f32b88c855c0c054051aaf27a494e71d8cddcabe0a"
+    },
+    {
       "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v07/source/transcript_source.txt",
       "bytes": 38660,
       "sha256": "27d628d7f70dc492a9ffc854b19f6605729dc7aeb518c5ac56017b4ac5b70177"
@@ -2711,6 +2739,11 @@
       "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v08/source/preview.html",
       "bytes": 839,
       "sha256": "482152bf2a92e1fae13f0b0b58c6eb620de0cfeb1238292adc90d270a62e9cf4"
+    },
+    {
+      "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v08/source/render.py",
+      "bytes": 22215,
+      "sha256": "dc18190f13a4a1a6a17d037d1caced4601fa66de612ea842711ccdd19437eddf"
     },
     {
       "path": "projects/PFT/Carousel - PFT/outputs/Razvan_Carousel_v08/source/transcript_source.txt",
@@ -3233,6 +3266,11 @@
       "sha256": "735d620beb17f3f06dab8e66556947cb479f3de6fe25f648c555d8304217b6c3"
     },
     {
+      "path": "projects/WOR/Stories/Candace/Poppins_Photos_Originales/preview.cjs",
+      "bytes": 1029,
+      "sha256": "837a2afea21fc4e7982966aba1ece0f80ad85afdeb1bc4e93108d7d5a4ae268b"
+    },
+    {
       "path": "projects/WOR/Stories/Candace/Poppins_Photos_Originales/render-stories.cjs",
       "bytes": 7747,
       "sha256": "b67d45230e20dd736e484dec33b3e76cdd9c13ae7abf93b8f41e4a1f6cabdc57"
@@ -3298,6 +3336,16 @@
       "sha256": "a024ff48aeb03aca89001e9a84e013d3f806d47e88fd624cb674653a34f12a5e"
     },
     {
+      "path": "projects/WOR/Stories/Candace/Retouche_Nettete_Photo_Astra/qa.cjs",
+      "bytes": 2890,
+      "sha256": "79699a4abedfcef817d36369971a82dd5b9cce30d5508f4ba95696310b2a2f5b"
+    },
+    {
+      "path": "projects/WOR/Stories/Candace/Retouche_Nettete_Photo_Astra/render.cjs",
+      "bytes": 4006,
+      "sha256": "e7d24d7fb1e465389ea8c9c5edd14828fe86b666ab821a8bd8fa481494ead544"
+    },
+    {
       "path": "projects/WOR/Stories/Candace/Retouche_Nettete_Photo_Astra/retouch-prompts.json",
       "bytes": 6002,
       "sha256": "b57b711cbae62bd875ddd37c653ad7643a30454feec816ce9185f805602d8cd4"
@@ -3346,6 +3394,11 @@
       "path": "projects/WOR/Stories/Workflow_Stories_Invites.txt",
       "bytes": 9987,
       "sha256": "daafabd10d3615969b4e59406502525ab12255508b8dc482516f30c6d3ceb8e2"
+    },
+    {
+      "path": "projects/WOR/Stories/source-contact.cjs",
+      "bytes": 1212,
+      "sha256": "8cf5b814bac678c112b4456207787d088c7e60eaf6175bf9267f2a7263ac948e"
     },
     {
       "path": "projects/WOR/Thumbnail WOR/PROJECT.md",
@@ -3978,6 +4031,11 @@
       "sha256": "890cfbc68112eac4fc8ebcc57628ab6a5c29cfc14977e67ee2b9aa35f6849b8e"
     },
     {
+      "path": "projects/WOR/WOR Studio/lab.mjs",
+      "bytes": 30331,
+      "sha256": "ca3edaffc3c707f7bce38dc79ee80a00e4b14f974a5c8b687498db5840332697"
+    },
+    {
       "path": "projects/WOR/WOR Studio/package.json",
       "bytes": 351,
       "sha256": "8e227207ca89492f6e4a59d9fb4bcfaa25dcd4d6aabcaf6c12eb8564c27bfb53"
@@ -3989,8 +4047,8 @@
     },
     {
       "path": "projects/WOR/WOR Studio/server.mjs",
-      "bytes": 5657,
-      "sha256": "1e8f0cb5bffc798e29568916bf90b0421db18ef7c78524769a7de95c66d00baa"
+      "bytes": 7974,
+      "sha256": "0e7d940af4f9ef0ddea06bc984c2c06c9da592a79551c501af0bab63e7f655d0"
     },
     {
       "path": "projects/WOR/WOR Studio/sync-allowlist.json",

@@ -26,7 +26,7 @@ BLOCK_DIRS = {".git", ".codex", ".agents", ".local", "node_modules", "__pycache_
               "work", "tmp", "temp", "cache", ".cache", "logs", "sessions", "memories"}
 BLOCK_NAME = re.compile(r"(?:^|[-_. ])(?:conversation|conversations|chat-export|chat-history|rollout|session|sessions|credentials|secrets|cookies|auth)(?:$|[-_. ])", re.I)
 SECRET = re.compile(r"sk-[A-Za-z0-9_-]{24,}|ghp_[A-Za-z0-9]{20,}|github_pat_[A-Za-z0-9_]{20,}|-----BEGIN (?:RSA |OPENSSH |EC )?PRIVATE KEY-----")
-EMBEDDED = re.compile(r"data:(?:image|audio|video)/[^;\\s]+;base64,", re.I)
+EMBEDDED = re.compile(r"data:(?:image|audio|video)/[^;\\s]+;base64,[A-Za-z0-9+/]{128}", re.I)
 CONTROLS = {"sources.json", ".gitignore", ".gitattributes", "README.md", "AGENTS.md",
             "Backup.ps1", "Watch-Launch.ps1", "Install-Automation.ps1", "backup.py", "manifest.json"}
 MAX_TEXT = 2 * 1024 * 1024
