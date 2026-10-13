@@ -1,0 +1,9 @@
+Imre Gams / ChartFanatics — Stories V01
+Sources : huit exports V14 finaux du 13 octobre 2026.
+References : SIMPLE-Strategy.jpg, BEST-Prop-Firm.jpg, Trade-The-BIGGEST.jpg.
+Structure : logo ChartFanatics haut centre ; titre anglais massif ; mots cles en bandeaux blancs, jaunes ou rouges ; portrait ou scene de chaque thumbnail ; nom With Imre Gams ; CTA Only available on et YouTube @chart-fanatics.
+Fond charbon et halos discrets ; variante 06 conserve les cartes pedagogiques blanches. Pas de chiffres, horaires ou sponsors ajoutes.
+Story 08 : visage pixelise conserve intentionnellement comme sur V14.
+ImageGen integre, une generation distincte par Story, sources exactes et reference de structure.
+Exports 1080 x 1920 redimensionnes depuis masters generes ; pas de nettete ni grain ajoute a l'export.
+Les portraits et les scenes ont ete adaptes par ImageGen : la fidelite a ete inspectee visuellement, sans garantie d'identite des pixels avec les thumbnails.

@@ -82,8 +82,8 @@
       "project": "Stories - CF",
       "destination": "projects/CF/Stories - CF",
       "counts": {
-        "included": 17,
-        "media_or_binary": 86
+        "included": 19,
+        "media_or_binary": 91
       }
     },
     {
@@ -482,6 +482,11 @@
       "sha256": "d48010716fc070d91db442bc6d9ce3fecb3b660d98a45356f86d178c2441d50c"
     },
     {
+      "path": "projects/CF/Stories - CF/Casper/Suivi/LIRE_MOI.txt",
+      "bytes": 814,
+      "sha256": "74ff4368b838d7444a59530f7f4e22ac3f7d15f360e736198d76004c190f328d"
+    },
+    {
       "path": "projects/CF/Stories - CF/Casper/Suivi/Prompts_V01.json",
       "bytes": 2201,
       "sha256": "c543609dd0b3accb6ea30ad81123c85d7517dfa95145459a986da7ca46b93afc"
@@ -495,6 +500,11 @@
       "path": "projects/CF/Stories - CF/Fiche_style.txt",
       "bytes": 758,
       "sha256": "9b2f0d0a9227ee61660c23c88bf6e7dd327174c40e6e1ea6506b94d61bbde04b"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Imre_Gams/References/Fiche_style_V01.txt",
+      "bytes": 964,
+      "sha256": "a6a25ef968011bd7475c33094376ecb0ad9df7316ef78e02bb7af50d02e06aeb"
     },
     {
       "path": "projects/CF/Stories - CF/Imre_Gams/Suivi/V01/Prompts_et_sources.json",

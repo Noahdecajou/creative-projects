@@ -1,0 +1,10 @@
+CASPER / CHARTFANATICS - STORIES V01
+Une Story indépendante par thumbnail Casper V07, huit au total.
+Référence de structure : Stories - CF/References/SIMPLE-Strategy.jpg.
+Titres repris des huit thumbnails V07. Nom public utilisé : Casper.
+CTA : Only available on / YouTube / @chart-fanatics.
+La pixellisation du visage de Casper sur 08 est volontaire et reprend la thumbnail approuvée.
+Création et adaptation : ImageGen intégré. Les scènes sont recomposées et ne sont pas des photographies documentaires intactes.
+Masters : sorties natives conservées. Exports : 1080 x 1920 avec redimensionnement Lanczos, sans ajout de netteté ni nouvelle passe de grain.
+Sources/V07 conserve les huit exports de départ. Suivi conserve les prompts et la vérification des fichiers/ZIP.
+Aucune publication effectuée.
