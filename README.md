@@ -25,6 +25,8 @@ Il sauvegarde quand l'application est deja ouverte au demarrage du surveillant, 
 Sans changements, aucun commit n'est cree. En cas d'echec, il retente toutes les cinq minutes tant que ChatGPT est ouvert.
 Les journaux et le statut du dernier envoi sont dans .local/ et ne sont pas publies.
 Les fichiers du depot sont une copie de sauvegarde : les modifications se font dans les projets originaux.
+Pour installer ou reparer le declenchement, executer Install-Automation.ps1 sur cet ordinateur.
+Pour le suspendre, desactiver la tache CreativeProjects-Backup-OnChatGPTLaunch dans le Planificateur de taches Windows et arreter son execution.
 
 ## Restaurer
 

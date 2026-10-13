@@ -27,7 +27,7 @@ BLOCK_NAME = re.compile(r"(?:^|[-_. ])(?:conversation|conversations|chat-export|
 SECRET = re.compile(r"sk-[A-Za-z0-9_-]{24,}|ghp_[A-Za-z0-9]{20,}|github_pat_[A-Za-z0-9_]{20,}|-----BEGIN (?:RSA |OPENSSH |EC )?PRIVATE KEY-----")
 EMBEDDED = re.compile(r"data:(?:image|audio|video)/[^;\\s]+;base64,", re.I)
 CONTROLS = {"sources.json", ".gitignore", ".gitattributes", "README.md", "AGENTS.md",
-            "Backup.ps1", "Watch-Launch.ps1", "backup.py", "manifest.json"}
+            "Backup.ps1", "Watch-Launch.ps1", "Install-Automation.ps1", "backup.py", "manifest.json"}
 MAX_TEXT = 2 * 1024 * 1024
 
 def command(args, timeout=180):
