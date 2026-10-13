@@ -1,0 +1,44 @@
+{
+  "mode": "ImageGen integre; une generation par story",
+  "source_version": "V14 final 13 octobre 2026",
+  "style_references": [
+    "SIMPLE-Strategy.jpg",
+    "BEST-Prop-Firm.jpg",
+    "Trade-The-BIGGEST.jpg"
+  ],
+  "stories": [
+    {
+      "story": "01_Price_Is_Not_Value",
+      "source": "Sources/Thumbnails_V14/01_Price_Is_Not_Value_3840x2160.png",
+      "prompt": "Use case: identity-preserve / compositing. Convert input 1, the exact approved Imre Gams V14 thumbnail, into one finished premium 9:16 ChartFanatics podcast Story, target 1080x1920. Input 2 is STYLE AND STRUCTURE ONLY: never copy JJ Simon, claims, amounts, titles or faces from it. Keep actual faces, expressions, clothing, identity and all main visual concepts of input 1 photographically faithful. Do not invent poses, objects, financial claims. Design charcoal black background with very subtle red/green ambient halos, restrained skin colors, natural photographic texture, no sharpening/HDR or smoothing. Match reference hierarchy: ChartFanatics white bull logo and wordmark centered at y 180-260; massive clean Poppins-style exact source title with same white/yellow/red highlighted words, intelligently line-broken around y 350-650; source portrait and chart or scene arranged around y 700-1370, modest gap to headline; fade at bottom; centered \"With Imre Gams\" around y 1430; outlined footer around y 1500-1610 with exact \"Only available on\", red YouTube play icon and white chip \"@chart-fanatics\". All critical content inside x 65-1015, y 170-1640. Bottom 250 px quiet. No date, sponsor, added copy or watermark. One individual Story, never a collage. Exact main title: \"PRICE IS NOT VALUE\". Keep \"VALUE\" in black on white rounded badge. Preserve diagram concept and labels \"SELLERS\", \"FAIR VALUE\", \"BUYERS\", bright red and green candles, yellow circles. Keep yellow \"Auction Market Theory\" badge. Recompose diagram clearly above/alongside faithful Imre portrait, all text readable."
+    },
+    {
+      "story": "02_Why_Breakouts_Fail",
+      "source": "Sources/Thumbnails_V14/02_Why_Breakouts_Fail_3840x2160.png"
+    },
+    {
+      "story": "03_What_Really_Drives_Price",
+      "source": "Sources/Thumbnails_V14/03_What_Really_Drives_Price_3840x2160.png"
+    },
+    {
+      "story": "04_Stop_Chasing_Price",
+      "source": "Sources/Thumbnails_V14/04_Stop_Chasing_Price_3840x2160.png"
+    },
+    {
+      "story": "05_Master_Auction_Market_Theory",
+      "source": "Sources/Thumbnails_V14/05_Master_Auction_Market_Theory_3840x2160.png"
+    },
+    {
+      "story": "06_Read_The_Market",
+      "source": "Sources/Thumbnails_V14/06_Read_The_Market_3840x2160.png"
+    },
+    {
+      "story": "07_Smart_Money_Myths",
+      "source": "Sources/Thumbnails_V14/07_Smart_Money_Myths_3840x2160.png"
+    },
+    {
+      "story": "08_Price_To_Value",
+      "source": "Sources/Thumbnails_V14/08_Price_To_Value_3840x2160.png"
+    }
+  ]
+}

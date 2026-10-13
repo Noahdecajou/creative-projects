@@ -82,8 +82,8 @@
       "project": "Stories - CF",
       "destination": "projects/CF/Stories - CF",
       "counts": {
-        "included": 13,
-        "media_or_binary": 83
+        "included": 17,
+        "media_or_binary": 86
       }
     },
     {
@@ -482,9 +482,29 @@
       "sha256": "d48010716fc070d91db442bc6d9ce3fecb3b660d98a45356f86d178c2441d50c"
     },
     {
+      "path": "projects/CF/Stories - CF/Casper/Suivi/Prompts_V01.json",
+      "bytes": 2201,
+      "sha256": "c543609dd0b3accb6ea30ad81123c85d7517dfa95145459a986da7ca46b93afc"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Casper/Suivi/export_verify.py",
+      "bytes": 1907,
+      "sha256": "cdec03c30c5db68d1fa601fe091b0e298f03fa60a7390672b63f4f92bb8bcec8"
+    },
+    {
       "path": "projects/CF/Stories - CF/Fiche_style.txt",
       "bytes": 758,
       "sha256": "9b2f0d0a9227ee61660c23c88bf6e7dd327174c40e6e1ea6506b94d61bbde04b"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Imre_Gams/Suivi/V01/Prompts_et_sources.json",
+      "bytes": 2921,
+      "sha256": "12cab0964f521e47a239bc2047ccd9aeecb78a4fe0629d48430b4a6239a1130e"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Imre_Gams/Suivi/V01/export_verify.py",
+      "bytes": 2954,
+      "sha256": "f007251b9d24c1544dcdc396a3491afd513a01cf39d21278375d25ae2a878181"
     },
     {
       "path": "projects/CF/Stories - CF/PROJECT.md",
@@ -3923,13 +3943,13 @@
     },
     {
       "path": "projects/WOR/WOR Studio/lab.mjs",
-      "bytes": 14725,
-      "sha256": "97cdb84156a81a5270ec953797817a00cdadb3d92b242274089db3c7947fe16b"
+      "bytes": 17236,
+      "sha256": "68a7771fea9bf0cdfafb0f3a71459039a5c8abba2b7d3aaffccaa2b95e78abb8"
     },
     {
       "path": "projects/WOR/WOR Studio/package.json",
-      "bytes": 302,
-      "sha256": "ba01ab410054350d735ed1115957326547919ca501ae779bb6e11819fb7b90b4"
+      "bytes": 351,
+      "sha256": "8e227207ca89492f6e4a59d9fb4bcfaa25dcd4d6aabcaf6c12eb8564c27bfb53"
     },
     {
       "path": "projects/WOR/WOR Studio/prepare-local.mjs",

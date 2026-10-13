@@ -24,6 +24,7 @@ Il observe uniquement le lancement du processus ChatGPT.exe, sans lire les conve
 Il sauvegarde quand l'application est deja ouverte au demarrage du surveillant, puis a chaque fermeture/reouverture observee.
 Sans changements, aucun commit n'est cree. En cas d'echec, il retente toutes les cinq minutes tant que ChatGPT est ouvert.
 Les journaux et le statut du dernier envoi sont dans .local/ et ne sont pas publies.
+L'acces GitHub existant utilise par la tache Windows est conserve chiffre avec DPAPI pour ce compte Windows dans .local/. Il n'est jamais copie dans Git ni affiche dans les journaux.
 Les fichiers du depot sont une copie de sauvegarde : les modifications se font dans les projets originaux.
 Pour installer ou reparer le declenchement, executer Install-Automation.ps1 sur cet ordinateur.
 Pour le suspendre, desactiver la tache CreativeProjects-Backup-OnChatGPTLaunch dans le Planificateur de taches Windows et arreter son execution.

@@ -11,9 +11,12 @@ try {
     while ($true) {
         $isOpen = @(Get-Process -Name ChatGPT -ErrorAction SilentlyContinue).Count -gt 0
         if ($isOpen -and ((-not $wasOpen) -or [DateTime]::UtcNow -ge $retryAt)) {
-            & $backupPython (Join-Path $backupRoot 'backup.py')
-            if ($LASTEXITCODE -eq 0) { $retryAt = [DateTime]::MaxValue }
-            else { $retryAt = [DateTime]::UtcNow.AddMinutes(5) }
+            try {
+                & (Join-Path $backupRoot 'Backup.ps1')
+                $retryAt = [DateTime]::MaxValue
+            } catch {
+                $retryAt = [DateTime]::UtcNow.AddMinutes(5)
+            }
         }
         if (-not $isOpen) { $retryAt = [DateTime]::MinValue }
         $wasOpen = $isOpen
