@@ -1,0 +1,789 @@
+WOR Jeppez.txt
+English (US)
+
+00:00:00.000 — 00:01:12.070 · Speaker 1
+Welcome everyone back to the Words of Wisdom Podcast, number one trading podcast in the world and the fastest growing. Still, thanks to all of you and our incredible guests. Talking of which, we have the one and only SAMHSa, aka GPS. Thanks for being here, man. Of course, it's, uh, I know it's a pit stop on the way to another travel that we made happen, which I am very thankful for, but I want to kick things off straight away and sort of set the stage and really find out how you did this incredible thing, because you've taken $12,000 at your equity low to over $5 million at this point, which is we were just talking over 190,000% return, if I'm not mistaken.
+
+But, you know, we need normally when we say that and normally when we have guests who have taken smaller sums to such seven figures and multi seven figures, it's come from sort of the Covid area, which makes sense. But in this case that's not the case. So what really stands out to you from going from inconsistent to having such a turnaround in.
+
+I forgot to mention the space of, I think two and a half years. Yeah. What stands out to you that allowed you to make that shift?
+
+
+00:01:12.190 — 00:01:33.510 · Speaker 2
+Well, for me it was pretty much finding system trading. Uh, which is really based on data where you find your edge back. Tested define setups in a numerical way. And that's what gave me the confidence to push size on the setups I had and some new setups that I then continue to develop.
+
+
+00:01:33.550 — 00:01:36.710 · Speaker 1
+So what were you doing prior to that? Was it more discretionary?
+
+
+00:01:36.870 — 00:02:24.970 · Speaker 2
+Yeah, exactly. Yeah. So I started, uh, two years before finding profitability. Uh, first year went losing my whole account. Uh, of, of 10-K, uh, trading small gaps, um, trying to catch some breakouts on those. But then I shifted more towards swing trading, quite similar to Christian McKay. And that I basically lost the same that Nasdaq went down that year in 22, which is like 30% or something.
+
+But then after that I found this. I wanted to find something where I can make money regardless of the market environment and in a consistent way, so that I can really push towards financial independence. And I found that from kind of system trading.
+
+
+00:02:24.970 — 00:02:28.810 · Speaker 1
+And the other interesting thing actually, is that you don't long trade, right. You're only short.
+
+
+00:02:28.850 — 00:02:55.370 · Speaker 2
+On the system trading and algorithmic side. Uh, it's mainly shorts. Even though I am currently developing some long strategies more focused on, let's say, high liquidity opportunities on the ETFs or large caps, that will be kind of my low risk portfolio moving forward when when my equity grows. But they're mainly my profits have been coming from the short side.
+
+
+00:02:55.410 — 00:03:10.080 · Speaker 1
+What stands out to you in order to make such a substantial returns, because it's one thing becoming profitable and seeing consistency, but then seeing such substantial leaps in a short space of time is quite rare. So what stands out to you that's allowed that to take place?
+
+
+00:03:10.120 — 00:04:04.380 · Speaker 2
+It's something I've discussed also with some other traders, and I think there are many people who actually have a decent edge, decent strategies to make money. But then it is a question of do you actually push size and do you compound your equity, or do you just stay safe? If you're afraid of drawdowns, bigger drawdowns, then you're not also able to grow in a similar way.
+
+So maybe one element has been that I've I've had also the kind of safety net that if I ever would in the earlier parts, lose money or blow up, I would always go back to my, my job and make a living out of there. So I was able to risk a bit more than than someone who is fully relying on that and don't have any safety net Behind.
+
+So I think it's really about how do you then size. Aggressive enough, but not in a way that you gamble and blow up of course.
+
+
+00:04:04.420 — 00:04:12.820 · Speaker 1
+But the reality of pushing that size, does that come with the the caveat of having some larger drawdowns along the way.
+
+
+00:04:12.860 — 00:04:37.500 · Speaker 2
+At least in my trading style it does. So I've had multiple drawdowns of, let's say, 40 or 50% just closing. Last year in November, I had 46% drawdown in a month. Still recovering from that. But it's um, I expect to recover from that in a few months if I'm able to continue with the kind of growth I've had so far.
+
+
+00:04:37.500 — 00:04:45.700 · Speaker 1
+So even though you reach new highs and you know, that's a 46% drawdown from a profitable high, so still in profit,
+
+
+00:04:46.820 — 00:04:57.450 · Speaker 1
+do does that sort of depth of drawdown have any sort of psychological impact at all? Is there any sort of negative feeling or experience that takes place when experiencing that level of drawdown.
+
+
+00:04:57.890 — 00:05:49.170 · Speaker 2
+At this point. Less and less all the time. But I think that one, it was still large enough that it it had like it doesn't feel good. But I would say if I go into a 20% or even 30% drawdown, it usually doesn't feel like anything. It's it's part of how I plan to grow. At least now with this size, it's a different thing when you start to be in, let's say, within a count of, of mold, eight figures or similar, then.
+
+But that's also how I'm approaching it. So I'm now shifting more towards having two different portfolios. So lower risk and higher risk. And I still plan to keep on the same kind of growth and compounding on the high risk portfolio, but also then wear out some of those profits for the lower risk portfolio.
+
+
+00:05:49.170 — 00:05:55.950 · Speaker 1
+So what's the mentality of splitting the low risk and high risk was the reasoning behind making that change now.
+
+
+00:05:55.990 — 00:06:39.030 · Speaker 2
+I think it is in a way that it enables me to push even more on the high risk side. If I know that I have enough on the side on the low risk portfolio, and one could also do so that the low risk would be basically money sitting on a bank account. But I know I can make more of that. So that's why I'm now building automated strategies for kind of lower risk trading.
+
+Just buy and hold of of S&P 500 or something. But I think like if I have there enough for, for years to come, let's say decades to come. Um, I got more freely push the size on the higher risk portfolio and hopefully get even better, higher growth numbers than that and so forth.
+
+
+00:06:39.070 — 00:06:47.230 · Speaker 1
+So there's an element of being able to push the size, the fact that you don't necessarily need the money from trading by positioning things in this way.
+
+
+00:06:47.470 — 00:07:28.220 · Speaker 2
+Yeah. For sure. Um, and I think that's probably one of the main reasons people shy away from pushing for high growth numbers is that they have all their eggs in one basket. It's all the money they have, or at least almost all of the money they have. And if you then let's say go to your -50% drawdown, that can really be harmful for your mental side.
+
+And then you might start to do either some reckless things or the other end is that you basically then shy away from risk for the years to come because you are scarred from the from the big losses.
+
+
+00:07:28.260 — 00:07:55.720 · Speaker 1
+So you mentioned having a job really helps you. Initially in the beginning was that, uh, what were you doing before? Was it, uh, quite a substantial income so that when you were pushing size early on so it wasn't, say, into the seven figures yet, maybe not even into the six figures yet. What did it look like early on pushing that size?
+
+Was that uncomfortable at that point, or did you kind of have the mindset that I have this job? So, you know, whatever I do in my trading account, I'm not too bothered about.
+
+
+00:07:56.040 — 00:08:35.400 · Speaker 2
+Uh, I was making, uh, decent money in that, that job. So I was in the, the salary levels in, in Finland where I'm from, uh, lower. But I was there in basically, let's say, in the top 5% or maybe even top 3% of, uh, income earners in the whole country. So, like, I was making good money. So it helped in a way that I was able to push size.
+
+So it doesn't it didn't really feel anything at the same time until I found profitability. I was trying to keep the like, I don't I didn't want to be stupid with the money. I didn't want to recklessly, uh, lose too much. So, um, only once I started to actually see profitability, I started to push more size.
+
+
+00:08:35.400 — 00:08:52.270 · Speaker 1
+I was going to go into sort of how we developed that edge and found that edge. But you already mentioned before we go there, uh, algorithmic trading. That's another interesting element of, of your trading is that you're doing discretionary trading, but then also have algorithms. Now is that was 2025 the first year you did that?
+
+
+00:08:52.310 — 00:09:29.230 · Speaker 2
+Yeah. So in 2025, halfway through the year, um, I shifted like before that I was doing systematic trading, which is basically the only thing that differs is from algorithmic trading, is that I was manually executing the trades, but I was already getting the alerts and I had like predefined ways of managing risk or profits and sizing and all that stuff.
+
+So it was only about creating the optimization, the algorithm for that. Um, and all that is then aimed for me to free up time either for discretionary trading or the things outside of trading.
+
+
+00:09:29.350 — 00:09:37.070 · Speaker 1
+What was that like, kind of letting go and creating that automated process? Was it a bit of a struggle in order to make that happen?
+
+
+00:09:38.030 — 00:10:26.490 · Speaker 2
+Not for me. From like if we're talking about the mental side, it's I can understand that for many people it might feel scary as they want to have like control of what's happening and stuff like that. But it's I've maybe also coming from, uh, from my work life, I was in a leadership position, and I was not one of those leaders who actually then micromanage.
+
+Now, I gave them the freedom to do things and then let me review and move forward. So I was kind of approaching the similar way, the algorithmic trading. So I had a basically a quant or still have, uh, who coded the algorithm and is basically, uh, monitoring the algorithm if there is anything going wrong.
+
+So, um, with that in place, I can, I can just let it do, uh, do its thing.
+
+
+00:10:26.810 — 00:10:56.800 · Speaker 1
+What was that process like in terms of identifying a quant? Because I know there's a lot of people, especially nowadays, are very interested in algorithmic trading, especially with the rise of AI. And I think a lot of people maybe make the mistake of thinking that AI is already at a point where it can create algorithms quite easily.
+
+I don't think that's necessarily the case. I might be wrong on that, but what's the reality of identifying a quantum, you know? What does that relationship look like? As the trader to translate, you know, the strategies and the systematic process into an algorithm.
+
+
+00:10:56.800 — 00:11:40.080 · Speaker 2
+I would say it's probably quite difficult to find a like a good match for a quant, because you also need to be able to trust the person. You're basically, uh, you can have NDAs in place and stuff like that, but still you're basically you need to give your strategies, um, at least, uh, if it's structured like I have structured it.
+
+But luckily I already knew this, this person. And, uh, over time, we, we built kind of a trust between us. Um, and then then we've basically tried towards this, this goal together. And, um, I'm making sure I pay him enough, uh, that he's, uh, he's happy, of course.
+
+
+00:11:40.120 — 00:11:52.790 · Speaker 1
+No. Of course. And, uh, the interesting thing is, this year into what, 2025 should I say the algorithm? Early on in, this performance did really well, if I'm not mistaken. Was it over $2 million in profits, if I'm not mistaken?
+
+
+00:11:52.830 — 00:12:18.950 · Speaker 2
+Uh, three. So basically. Yeah. So the first three months I was going with full size, which were in 2025, July, August and September, um, that was over 3 million. But then, then on the fourth quarter, some losses. So I think the algo is now maybe in, uh, close to a 1 million drawdown from those highs, but basically still, uh, still up 2 million since, since I started running it.
+
+
+00:12:18.990 — 00:12:35.990 · Speaker 1
+So when you look at that performance very early on, very aggressive, 3 million straight up, when you have that drawdown of a million, do you look at that and think, I need to tweak or change anything or is that just okay? This is the performance. It's doing what it needs to do. We need to let this play out longer term.
+
+
+00:12:36.030 — 00:13:10.730 · Speaker 2
+It depends on like where is the drawdown coming and why is it uh, so it requires of course some some studying and looking into it. But at the same time, I try not to change the strategies or anything like that. Might make adjustments on the position sizing, um, to make sure that it's not going into too big of a drawdown, but the setups themselves, um, I try not to change those too much because it's easy to then overall overfit and basically ruin the setups by trying to make them too perfect.
+
+
+00:13:11.490 — 00:13:28.250 · Speaker 1
+I believe the reality of algorithmic trading how hands off is it actually? Because the the perfect picture of algorithmic trading is that this is this is amazing. I'm making money from the markets. I don't have to do anything. But what does the reality actually look like of algorithmic trading?
+
+
+00:13:28.330 — 00:14:20.760 · Speaker 2
+Basically, you need to develop the strategies. And that's that's what I've done. And I have now. I don't even even remember the exact number. Maybe like 16 different strategies running on the algo. Um, so once in a while I update the backtest data. On that review, the performance of the strategies and such.
+
+But other than that, it's. I try to be as hands off as possible on the on the algorithmic side, I don't necessarily like I weeks might go where I don't do anything there. Like I just let it run and then maybe a small change in the position sizing or something like that. I try not to do anything on that. So like that's the that's the main purpose for it.
+
+So it's kind of if I would be micromanaging it or monitoring it all the time, that would basically read the purpose of it, which, which is basically the free, free time for other stuff.
+
+
+00:14:20.960 — 00:14:33.880 · Speaker 1
+That is interesting. So the reality is actually there when you've developed, I'm sure the the difference being that when you've developed the strategies correctly and developed the algorithm in the correct manner, then it's just that kind of maintenance work is what you're saying.
+
+
+00:14:33.920 — 00:14:34.800 · Speaker 2
+Yeah, exactly.
+
+
+00:14:34.840 — 00:14:52.100 · Speaker 1
+Perfect. And so what's the mindset then. Algorithmic but then still taking discretionary trades because there was a portion of your, your profits obviously this past year. Yeah. If it was it the majority actually in 2025 will be 3 million, if I'm not mistaken. That came from your discretionary trades.
+
+
+00:14:52.180 — 00:15:58.370 · Speaker 2
+Yeah. And and maybe, maybe even a bit less. Maybe it was more half half and half because. Because on the first half of the year, even though I didn't have the algorithm, I was still like system trading. So basically manually executing those those strategies, I think I've got done enough of screen time, uh, over the years, um, that I do, uh, identify plus eve spot.
+
+So where, where there is a positive expected value on taking a trade. I still do that. And it varies like I might have a holiday, then I just let the algorithm do its thing. Um, now let's say in November, uh, I went into a bigger drawdown. So after that I've been trading a bit more on the discretionary side just to, uh, work my way out of the the drawdown.
+
+Um, so it differs like from the time usage perspective. There are a lot of great opportunities there in the market. So. So, uh, in a way, why wouldn't I push that? I'm still looking to grow, uh, a much bigger.
+
+
+00:15:58.410 — 00:16:05.410 · Speaker 1
+On both the algorithmic side and then the discretionary trades you're taking. Are they in the same account or do you have separate accounts? Uh, for that.
+
+
+00:16:05.410 — 00:16:34.330 · Speaker 2
+I have separate accounts. Uh, though at the same time, there might be opportunities where I want to use a bigger portion of my equity, let's say closing in 2025. In the in the last week or so, I made on shorting some metals like silver and platinum, I made, uh, in a few days, 500,000. Um, I was using the equity on the algorithmic accounts as well on that.
+
+Um, but normally I have those separated.
+
+
+00:16:34.490 — 00:16:42.470 · Speaker 1
+Interesting. When doing that, does it have any sort of impact on the the algorithmic side, or do you have to shut off the algorithm to be able to use the equity?
+
+
+00:16:42.510 — 00:17:03.790 · Speaker 2
+No, I can have it running at the same time on the same account. So it's basically I'm just, uh, using some of the equity. Um, of course, if if the markets would be such that the there are a lot of trade for the algorithm, then maybe, maybe they wouldn't be access buying power. But as long as there is access buying power, why not utilize that for for growth?
+
+
+00:17:04.030 — 00:17:12.230 · Speaker 1
+And if I'm not mistaken, there's a I don't know if it's your record trade last year, uh, discretionary wise, was it 1.2 million somewhere there?
+
+
+00:17:12.270 — 00:17:16.430 · Speaker 2
+Yeah. On on. Unh. Um, and that was a long trade.
+
+
+00:17:16.670 — 00:17:17.310 · Speaker 1
+Was there long trade?
+
+
+00:17:17.350 — 00:18:00.380 · Speaker 2
+Not not not on the short side. So, uh, basically there was a opportunity there where we were quite extended on the downside, um, on a company that's still doing quite okay. Um, well, I identify that we probably have reached the, the bottom layer and, uh, daily child was forming nicely, so I put some size in it and it was.
+
+I don't even remember. Remember exactly. It was maybe a one week old or something like that, and I was using no options as well. But yeah, that was a decent size trade because yeah, I made, um, something like $1.2 million and my trading equity was maybe 3 or 4 million back then.
+
+
+00:18:00.500 — 00:18:32.740 · Speaker 1
+Wow. And what is the mindset of what you try to identify within the markets. So what are you trying to identify to find those outlier trades. And especially on the discretionary side. Because no doubt when you choose to trade discretionary and manually, you're going to be trying to choose probably the best setups, because otherwise I'm sure your algorithm is going to pick up the trades in between.
+
+So what is it that you try to identify in order to capture those trades?
+
+
+00:18:33.180 — 00:19:38.110 · Speaker 2
+Normally I would say someone like me would probably say that they are doing scanning and stuff like that to identify those. Um, as I'm more looking to minimize my time at the screens. Um, many of those opportunities I identify from different traders that I know or follow on on different platforms, and they have started if they start to post about something like in December 25th.
+
+Um, many, many traders I follow started to post on X about, uh, silver and gold and platinum and things like that. So that caught my interest and then I started to look into it. And then then I have the charts. Then I follow those on a daily level and try to identify when we actually are overextended that that we might take a pullback and so forth.
+
+More like, well, I'm trying to minimize my time usage to watch trading, to be able to do other stuff as well. So? So, um, those often come by random chance.
+
+
+00:19:38.670 — 00:19:46.710 · Speaker 1
+Do you find that there's a saying that people say which is less is more in trading? What are your thoughts around that statement?
+
+
+00:19:46.750 — 00:20:02.670 · Speaker 2
+In many for many areas of of trading, I fully agree. Um, I think one of the best tweets I made last year was on, um, it, it went something like the less I cared a bit better, I do.
+
+
+00:20:02.750 — 00:20:03.230 · Speaker 1
+Mhm.
+
+
+00:20:03.310 — 00:20:49.730 · Speaker 2
+And that's pretty much how I feel about my, my discretionary trades. And why not on the algorithmic side as well. Like I don't take any pressure on the trades. I just study the chart. Um try to identify certain things in the price action. And then I load up size and manage my risk and the position. But it's like, I don't really care if I miss an opportunity.
+
+And I think that's maybe one of the key elements. Um, like, if it doesn't look like a great opportunity, if it's only a good opportunity, then I probably won't touch it like I don't. I'm kind of thinking it's not worth my time to try to squeeze something out of a good opportunity. I want to create opportunity, and then I want to push size, and then I want to put my focus there.
+
+
+00:20:49.970 — 00:20:54.770 · Speaker 1
+So you really, really hold out for the what the class is kind of as the A plus. So.
+
+
+00:20:55.090 — 00:20:56.810 · Speaker 2
+Yeah I do.
+
+
+00:20:57.370 — 00:21:07.490 · Speaker 1
+When it came to your systematic trading, what did the criteria look like in terms of were you looking for quite extensive criteria in order to execute, even on the systematic side?
+
+
+00:21:08.250 — 00:21:54.320 · Speaker 2
+Yeah, exactly. Um, it's easy to overfit and over optimize strategies. So I was in that area. I was and I am quite much in the thinking that, yeah, less is more. So the less criterias you have, the more robust the strategy is. So I might have much more trades. Maybe my expectation per trade is less because I haven't added like five other criterias to squeeze out the highest expectation.
+
+But at the same time, I trust my strategies more as the selection criteria is wider, I I get much more trades.
+
+
+00:21:54.880 — 00:22:02.800 · Speaker 1
+Okay. So by having that less of a criteria means that then you have a wider selection of trades that you can choose from.
+
+
+00:22:02.840 — 00:22:13.240 · Speaker 2
+Yeah. So basically um, let's say on the with my current strategies on the algorithm, I expect I'll get maybe 3000 to 5000 trades a year.
+
+
+00:22:13.280 — 00:22:35.180 · Speaker 1
+Oh wow. And 3000 to 5000 is fully automated. Yeah. Is there any for anyone who's looking to dive into algorithmic trading, is there anything that really stands out to you that they should be aware of, that they should probably keep in mind, And maybe it'll be like you had to to learn the hard way. Maybe that they could maybe get some, uh, pre warning or advice beforehand.
+
+
+00:22:36.460 — 00:24:04.010 · Speaker 2
+Well, I think it's a few things. First of all, I think most of traders don't actually have strategies that you could directly straightaway automate because they maybe they are discretionary traders. Um, and they have this certain chart pattern that they want to trade. And there are hundreds of nuances that they subconsciously then take into account.
+
+And when you quantify that and create a strategy out of it, it's it might be really difficult. Or then you are not actually capturing the only the traits that you want want to catch. And then the second area is of course the actual automation. Um, it depends which kinds of strategies, especially if you're going on the short side, um, like I am.
+
+It's not easy to automate that still at this point. Um, I don't think AI is good enough to create code for that. So you really need to know what you're doing, uh, for the optimization itself. So it's it's maybe a question for those who are looking to automate that. Are they actually in a, in a place already where they should automate or, or maybe they should do like I did and for a couple of years manually execute those traits that should be, uh, that, that they would like to automate and see from there that is it actually profitable.
+
+
+00:24:04.210 — 00:24:23.290 · Speaker 1
+And if we go back to to that point for you, in terms of going from discretionary to systematic and seeing that shift in in your edge, in your performance thereafter, what was it about systematic trading that really made sense to you and allowed you to make that switch and make that change essentially to your PNL.
+
+
+00:24:23.370 — 00:24:38.479 · Speaker 2
+Already from outside of trading? I was quite used to optimizing things with statistical analysis and let's say Excel as my basic tool. Um, I'm still backtesting with Excel
+
+
+00:24:39.760 — 00:25:34.860 · Speaker 2
+and people are laughing for that. Like, um, with all the AI stuff and what have you. I still have my Excel's. Nobody. It's from before trading. I was so used to making decisions based on facts and numbers. Um, that's being able to do that for trading. Was it fit my personality really well? And also, when I found system trading, I already had traded almost two years, uh, and losing all the time.
+
+So basically, uh, now with data behind me, I could actually quantify my age and prove that I actually having it with a certain strategy, uh, rather than, like, try to trade for a couple of months and then see if I win or lose. Like and try to understand if you have it like that. It's not so much easier for me to to see that from the actual numbers and do my own analysis on that.
+
+
+00:25:34.900 — 00:25:46.940 · Speaker 1
+So would you say that having that data allows you to understand what the reality of your trading should look like on average, and by doing so, executing? Did that become easier through having that knowledge?
+
+
+00:25:46.940 — 00:27:19.690 · Speaker 2
+It does. And of course, when you do backtesting you need to, uh, factor enough for whatever missed trades, slippage costs what have you me when I do that, I basically get the confidence that, hey, this this strategy or this portfolio of strategies has worked for the last 5 or 6 years. So why would it actually stop right now?
+
+And I think also whenever I've had bigger drawdowns, that's where I've gone back. I've gone back to the data. I've taken a look like, what are the historical drawdowns? So I'm not only looking at what's kind of the average performance, but actually what are the the worst periods in in history. So I understand is this kind of drawdown, uh, is it part of the shortages?
+
+Is this something that has happened before? And if it has, then how the how has it usually looked after that? And that gives me the conviction to continue on the path and just trust the system and trust the algo. Um, and I know it's coming from there. Um, of course it can end someday. And I think with, with, um, with AI and, uh, also otherwise people looking more into algorithmic trading or otherwise understanding whether the market's probably the edge will erode somewhat or at least shift.
+
+Um, but I just need to be ready for that and, uh, shift accordingly and change my, my approaches.
+
+
+00:27:19.730 — 00:27:51.430 · Speaker 1
+Hmm. And would you say when systematic trading and having this statistics and this knowledge of, you know, historical performance, uh, and in making the comparison to, you know, performance today and being able to recognize is this part of this strategy, part of this data set. Is this okay? What's the element of psychology that comes into your trading then.
+
+Does psychology still play a part? Is it still something that can cause issues or because the data is there, it doesn't really play as much of a part for you?
+
+
+00:27:52.150 — 00:28:33.380 · Speaker 2
+Yeah, for me it doesn't play a huge part. Like, still, if I go into a like really big drawdown, um, yeah, I might feel that. Um, but at the same time, I'm quite used to just trusting it. And I was just talking with the trader the other night, and, and, uh, I asked him if I ever, if he ever called me a whining or something about the markets.
+
+He he told me that the most whining he he has ever heard from me is like, if I if I mention in the chat that I lost 100 K on to the next one. Mhm. Yeah. And that's like I don't, I don't really care. It's, it's the losses are part of that.
+
+
+00:28:33.700 — 00:28:45.220 · Speaker 1
+Why do you, if you were to look at sort of the landscape, you know you've been in the community, you probably spoken to a lot of traders no doubt over the years. Why do you think a lot of people struggle with trading psychology?
+
+
+00:28:45.540 — 00:30:11.760 · Speaker 2
+That's a wide and complex question because it differs so much between people. People have all in all, money is something where people often have strong emotional reactions. I, I myself have always viewed money as just, um, a means for, uh, for an end. Like it doesn't define me or anyone how much they make.
+
+It's nice to have a lot of money. It helps, but it's not like you can have a really good life with with, uh, quite a little of of money as well. The money aspect is one because people have maybe they've raised in a certain way, and maybe they don't want to lose money or they get emotional about that. The other one is also that in trading the markets are always right, but some people don't internalize that and they still want to be right themselves.
+
+So they might then fight the markets when they think that they should be going the other way. Whether it's a mean reversion short and it's like it shouldn't go higher. It shouldn't go higher. It can it can always go higher. It can always go lower. I think those two elements probably so one is kind of the emotional attachment to money, and the other one is trying to maybe it's it's feeding one's ego or something trying to be right.
+
+
+00:30:11.840 — 00:30:59.070 · Speaker 1
+I think there's a fair assessment. And when it comes to taking a Higher sized A+ setup. Kind of leaning on what you just said. What happens if on is or what is your processor? I say in terms of executing those type of trades. Uh, because when you increase that size, you're expecting it to be an A+ setup. But there's that chance, as you said, it may go down further, it may go up further, and it may be a case where it's going up further.
+
+It takes you out once and then the real play happens. Like how do you, when doing the dynamic sizing and sort of pushing the size with these sort of setups. How do you factor that in or how do you try to handle that and still be able to take the trade when necessary, if that setup is still valid?
+
+
+00:30:59.110 — 00:31:18.210 · Speaker 2
+I'm managing it differently based on what's the tool I'm using as I'm I'm either taking direct equity or I might also take options. Options help me in my my trading in a way that I can have a set risk.
+
+
+00:31:19.450 — 00:31:30.770 · Speaker 2
+Um, the problem usually comes from the fact that if a stock is going crazy, for example, on the upside, the option premiums go quite high. Um, so that's why
+
+
+00:31:31.890 — 00:32:05.930 · Speaker 2
+often options are not an option. But on some other cases it might be. So that helps me. Um, otherwise it's when I see that, uh, place where now I think this is a good place to hit. I try to hit most of my size from the get go and keep it decently tight. Risk. Mhm. Um, but then also if it then goes to my direction, I might then load up more size and then basically kind of pyramid into the position.
+
+Um, so that's, that's pretty much it.
+
+
+00:32:05.970 — 00:32:32.800 · Speaker 1
+And in terms of uh metrics wise reward to risk ratio, is there like a particular amount that you need to see in an Asymmetrical trade or an A+ setup to make it valid for you. Like if a, you know it's a reward to risk of 2 to 1, is that something that you would still classed as an A-plus setup, or is it really you need to see that risk to reward really exponential for you to really go, okay, this is where I can push some size.
+
+
+00:32:32.840 — 00:33:08.600 · Speaker 2
+I don't really calculate it in that way. It's um, when I do a discretionary trade. Of course, on the algorithmic side, I know every for every strategy. What's my average win? An average loser. So I know what's kind of the risk reward ratio on the discretionary trades. It's much more based on intuition. So when I see a of course I'm looking into like how much reward I expect to get out of it and kind of what's what's the downside I expect from it.
+
+But there is no, no certain numbers that are in my mind. It's, it's uh, I handle it quite dynamically.
+
+
+00:33:08.760 — 00:33:35.980 · Speaker 1
+I understood so more so on the specific position and the opportunity, how that's presented and how that can play out. It's just purely based off that. Is there any metric within trading that stands out to you to be important, whether it's rewards or risk or any any other metric that you think is actually important to focus on more on the discretionary side, but maybe even on the algo side, if there's something that stands out to you.
+
+
+00:33:36.100 — 00:33:48.900 · Speaker 2
+On discretionary side, it's difficult to say because I don't actually follow any metrics or I don't I don't even know what's my win percentage. What's my I don't know I know I'm profitable in there.
+
+
+00:33:48.980 — 00:33:49.220 · Speaker 1
+Yeah.
+
+
+00:33:49.220 — 00:33:57.620 · Speaker 2
+So it's and it's I have really different types of trades there. So it's I'm not even trying to look at the average whatever they're.
+
+
+00:33:57.660 — 00:34:30.810 · Speaker 1
+So going back to what you said just very briefly, is it literally, as you say, like you'll identify ourselves in this case nowadays through the traders within who you know or may see you take a look and see if you can see something. Yeah. And then start to structure a trade around that. It could be whatever.
+
+Trade could be long. It could be a short. Wherever that opportunity looks like, you'll start to structure it based off the attention or that, you know, pressure or crowding that's taking place, and then base whatever that trade needs to look like and how it needs to play out accordingly.
+
+
+00:34:31.090 — 00:34:37.050 · Speaker 2
+Yeah, it's basically an and it's you don't get a lot of trade ideas.
+
+
+00:34:37.090 — 00:34:37.450 · Speaker 1
+Yeah.
+
+
+00:34:37.490 — 00:35:21.360 · Speaker 2
+Yeah. From ex or then I'm also in, in uh, in some uh, trader discord uh channels and rooms. Um, the thing is that you need to do a lot of filtering there. So like, there are a lot of ideas, a lot of things that people are talking about. Um, so yeah, I'll take a look at them. And when I see something myself, then I start to look more into it and, uh, and potentially take a trade.
+
+But there has to be quite a strong filter there because it's easy to just follow someone and then like, it's not your trade. It's yeah, you need to have your own vision for that trade, of course.
+
+
+00:35:21.760 — 00:35:29.360 · Speaker 1
+And in terms of the the metrics side of things, algorithmic wise, is there any sort of metric that stands out that that is a focus point?
+
+
+00:35:29.400 — 00:36:01.120 · Speaker 2
+Yeah. Well, I'm mostly looking if if I'm when I start to backtest strategy, of course, in the end, I want to see the kind of how the historical equity curve has looked like, uh, but before going there, I want to see kind of the statistics of it from what's the win percentage of the strategy, uh, what's the average winner, average loser.
+
+And basically all of that you can calculate what's your expected value per trade. So how many percent gain you are expected to make on every single trade you take?
+
+
+00:36:01.160 — 00:36:39.260 · Speaker 1
+And going back to what you just said in regards to, you know, making a trade your own like it has to be your own trade, even if you've gotten the idea from elsewhere. It still has to come from you in the end, and you have to be able to see it. How important is that? Because even going into strategy side of things, not even just a trade idea, but in terms of the strategy you're implementing, whether it's systematic, whether it's discretionary.
+
+How important is it to still do that process? As we look at people who may buy a course, buy some sort of education, try and learn from others and copy and paste. How important is it to make it your own, regardless of where you've taken this knowledge or this strategy from?
+
+
+00:36:39.420 — 00:37:43.730 · Speaker 2
+It really depends on if you're talking about the system as a strategy which is fully defined by data, or if it's a discretionary strategy. If it is a discretionary strategy, you need a lot of work behind it. You need to study charts. You need to, uh, create kind of pattern recognition in your mind. You need to be able to distinguish what's good, what's bad.
+
+You need probably hundreds of hours, if not thousands, at least hundreds of hours to understand the setup and create the conviction and and being able to detect that. But at the same time, if you actually get a fully defined algorithmic strategy, you can backtest it. You can see the is it actually profitable?
+
+And if you give me one, I can backtest it and maybe tomorrow I'll implement it. If it looks good, like I'm happy to do. Add a new strategy if there's one. Um, but on the discretionary side, I would then take my time to study and learn it before I start to put size on it.
+
+
+00:37:44.290 — 00:37:57.850 · Speaker 1
+What does that look like? Uh, you know, at this point in your career for where you're at now, is it still discretionary things that catch your eye and you sort of start to learn and develop and maybe implement for sure.
+
+
+00:37:57.890 — 00:38:29.990 · Speaker 2
+And and in a way, the discretionary trading and the algo trading, they are somewhat intertwined because the ideas for algorithmic strategies often come from the discretionary trading, um, or just following and seeing charts. Um, thinking that how good I've long that or showed that kind of a chart. Um, especially if it's something I recognize that it's happening often.
+
+Um, then it's about how do I create that in to define that as an algorithmic strategy.
+
+
+00:38:30.030 — 00:38:41.750 · Speaker 1
+For you or I guess for both, because it may be that you're trading the same assets, the same, uh, tickers, etc., but do you have a criteria of what you will trade and what you won't trade?
+
+
+00:38:41.870 — 00:39:12.340 · Speaker 2
+For sure, something, but it's basically at least for the algorithm. It's it's really based on the whatever I've defined when I've defined the actual parameters for the setup. So yeah, for sure there are some filters that I don't take certain certain trades on the discretionary side. A lot of it is based on intuition.
+
+So it's it is um, I don't have a certain like, hard rules that I don't touch that. Okay, um, if it's a good looking opportunity, I'll probably try this.
+
+
+00:39:12.380 — 00:39:29.060 · Speaker 1
+It's okay. It's kind of what we said earlier. Like, you will look at the opportunity and then structure accordingly. So it won't be a case where you look at something and say there might be opportunity. I don't know this particular criteria are met. I'm not going to touch that. Um, you know, in terms of like market cap, for example, or, or float or whatever it may be.
+
+
+00:39:29.100 — 00:39:31.900 · Speaker 2
+Yeah. I have nothing like that on the discretionary side.
+
+
+00:39:31.940 — 00:39:49.300 · Speaker 1
+No. Understood. Yeah. In terms of reviewing trade. So on the algorithmic side, how often are you reviewing the performance or is that something that the, uh, the quant will do versus you personally? But how important is that? Is that something that's important to optimizing the performance of an algorithm?
+
+
+00:39:49.460 — 00:40:34.400 · Speaker 2
+Um, on the on the highest level of, let's say, am I making money on the algo or not? I check that on a monthly basis. Mhm. So after every month I check did I actually make money or not. I know people who then want to do that every day, but like I don't I that's not useful for information for me. Like I, I check if I made money on that, I'll go on a monthly level and then let's say every 2 or 3 months, I'll then actually look at the statistics of the strategies.
+
+If those have changed, um, maybe some strategies are in a longer drawdown, then it's consideration. Should I put it on pause or what do I want to do there. But it's that's pretty much the, the process.
+
+
+00:40:34.480 — 00:40:39.080 · Speaker 1
+What the uh, discretionary side. Is that something that you review, uh, the performance of as well.
+
+
+00:40:39.120 — 00:40:41.800 · Speaker 2
+On the monthly level, I check if I made money or.
+
+
+00:40:41.800 — 00:40:42.040 · Speaker 1
+Not.
+
+
+00:40:43.840 — 00:40:49.840 · Speaker 1
+I guess in the end, that is the the metric for success, right? At the end of the day, when it comes to trading and trading performance.
+
+
+00:40:49.880 — 00:42:00.810 · Speaker 2
+Of course, you can take trades that you can kind of say that there were good trades, but you lost. And I kind of recognize that like a good loss doesn't feel like anything to me, a stupid Los, where I kind of did things that I know I should not have. Those are the ones that I remember. And then maybe those are a place where you then need to recognize that you are not performing.
+
+And I do have some certain things that I make sure that, like I'm following up my, uh, how well I'm sleeping. So if I sleep really poorly, I know that the next, next day I should not push. Sighs so, uh, it's something I recognized at one point. I was following my, uh, recovery scores on whoop! Uh, and uh, basically my biggest losses came from the days where my recovery was on the red.
+
+So it's it's something I've, I've really identified and and also sleep depth, um, in the same way and especially having a couple of small kids around the house. Yeah. It's like Yeah I can.
+
+
+00:42:01.850 — 00:42:22.450 · Speaker 2
+Yeah. At. At times I, I had like maybe nights where I only had like 4 or 5 hours sleep and I know I'm not as sharp on the following day, so it's like you need for me, it was about recognizing that and then making sure that in those days I don't push size. Or maybe I take it fully off or something like that.
+
+
+00:42:22.570 — 00:43:00.680 · Speaker 1
+I'm glad you mentioned, uh, uh, managing trading with children as well, because, uh, again, I mentioned to you before we started, I think it's a very interesting topic because there are a lot of traders out there who struggle with that same thing, dads and moms alike. You know, moms, I think it may be even harder, if anything.
+
+Um, but like, what was that like for you? Or what is it like for you, should I say, trying to maintain your trading performance and keeping that optimization, um, and that pushing for growth and constant growth while maintaining, uh, your responsibility and, uh, you know, maintaining that family life at the same time.
+
+
+00:43:01.400 — 00:43:21.080 · Speaker 2
+Yeah, it's basically one of the key reasons why I'm actually then moving my trading. Towards minimizing my screen time. So the algorithmic side and also before that the system trading itself, I started trading I think two weeks after my first kid was born.
+
+
+00:43:22.480 — 00:43:23.680 · Speaker 2
+The worst time you can.
+
+
+00:43:23.680 — 00:43:24.280 · Speaker 1
+Have.
+
+
+00:43:24.440 — 00:45:10.890 · Speaker 2
+Like I was thinking that, hey, I'll have some, like, paternity leave so I can I can now go at it. And I had like studied a few months before that for that time. But yeah, it's, it's the worst time you can actually do it. It's you don't sleep much. And that of course impacts everything. And even today, um, I'm trading from home.
+
+I don't have a, like, separate office or anything. So while I'm taking a big trade, trying to make a decent, decent living out of it. I might have to keep running in my my around me and trying to play with me. Um, so it's it's a different kind of like I know some, some people are, in a way, going at trading, like, super seriously, uh, as, like elite performance or something.
+
+For me, it's it's a bit going back into the, the mindset of the less I care, the more I make or better I do. I don't mind the kids around me in that way. I know I'll miss some opportunities and I could be doing more money performing better if if I had, let's say, a separate office where I just go and trade for the whole day or something like that.
+
+But that's not aligned with my other goals of spending time with my family and such. But of course it has required some, um, arrangements, like when the kids were really young and they didn't sleep almost at all during night, I was sleeping in a different room, uh, because basically I was making the living for our family with the trading.
+
+So it was really important that I get decent sleep. So it's, uh, my wife has been taking a big, uh, big part in that, uh, supporting the, the, the journey.
+
+
+00:45:10.930 — 00:46:32.200 · Speaker 1
+Having that, uh, understanding, I think sometimes maybe we're guilty of rather than explaining what is necessary to perform and to achieve the result for the family as a together as a unit. It can feel sometimes like, oh, this, you know, this pressure. They don't understand. But I think, you know, trying to explain helps, you know, and hopefully, you know, you have that supportive partner like you did and have, um, that allows you to then facilitate and do certain things like that, you know, certain things that allow to make a big difference at the end of the day.
+
+Sleep. Sleep, I think, is something that is, uh, not as appreciated for the majority. I know Lance, uh, talks about a lot of good a few other traders have shared as well, the same sort of, uh, understanding when it comes to sleep and then the lack of sleep affecting performance. But even just something like that, being able to then, you know, maintain your trading still, um, I think is, is, you know, very important.
+
+And I think a large part of it, like I said, is a lot of people don't understand the trading, you know, in terms of what's necessary and what it's actually like. So then trying to help those around you understand a bit more probably will then allow them to help you a lot more. Is that something in terms of, uh, your wife was, uh, does she understand the trading, um, routine and kind of what's necessary?
+
+Was that something you you had to share and sort of explain?
+
+
+00:46:32.920 — 00:47:17.500 · Speaker 2
+Uh, she does, um, and it helps a lot that reaching kind of financial independence, uh, has been a long term goal for us. Trading was one avenue, but we were also doing other stuff, uh, to watch that, uh, but also, let's say during the journey, uh, when I, when I went more into swing trading, uh, in 22, um, my wife was actually also studying Christian video, so that so like, she cannot identify a bull flag, uh, for a potential breakout and see, is it making higher lows?
+
+Is it becoming tighter? Is it a good setup? So she actually I would say she knows more about trading than most. Trader wise.
+
+
+00:47:17.540 — 00:47:37.020 · Speaker 1
+Definitely. Yeah, definitely. Yeah. That's great. Um, you know, my wife has always, uh, said to me, hey, you know, if two of us traded, that wouldn't it wouldn't go down well. So I was like, yeah, it's probably right. Um, no, but that's good. I mean, that's that's where it comes down to, you know, having that understanding whether you trade or not, but at least having that understanding of what what it takes makes a big difference.
+
+
+00:47:37.260 — 00:48:38.090 · Speaker 2
+And I think one, one thing with, with having kids is as you won't be able to sleep so much and as they require so much attention, uh, especially if you want to spend time with them. Um, I think you need to have a mindset that you don't stress too much from whatever missed trades, or not being able to put as much as many hours to backtesting or studying as you want.
+
+In a way, it's people can burn themselves up if they have too many high priorities like you need to. At least for me, it was I. I had to accept that I won't be making as much. I won't be performing as high as I could without the kids. So with the kids, I just accept the fact that I won't be making as much money or growing as much.
+
+But I'm not stressing about it. It's, uh. It is something where I want to spend my time.
+
+
+00:48:38.650 — 00:48:53.270 · Speaker 1
+Would you say not only in that scenario as as described, but generally speaking, you try to just be in the flow and just be more neutral and calm when it comes to the things that you do, especially around your trading.
+
+
+00:48:53.390 — 00:48:55.110 · Speaker 2
+Yeah, I would say so.
+
+
+00:48:55.150 — 00:49:19.870 · Speaker 1
+Because to your point, if you start to allow the priority of trading, need to perform alongside the priority of trying to to, you know, be a father and and watch and maintain that relationship, etc., it can create this almost a resentful one on either side. Um, which then of course, very similar to the lack of sleep you bring that to your trading probably leads to a knock on effect.
+
+
+00:49:19.910 — 00:49:22.310 · Speaker 2
+Yeah, you you need to find a balance.
+
+
+00:49:22.710 — 00:49:35.470 · Speaker 1
+And what would you say in terms of one interesting question that stood out to me, you know, making that transition, especially over the last year, you know, would you say it's easier to trade seven figures than it is to trade six?
+
+
+00:49:35.670 — 00:50:02.980 · Speaker 2
+For me, I would say it has felt like that. Um, I can imagine for some people it might be the other way around. Uh, but maybe they are afraid of trading bigger money, or at least scaling up to that bigger money. But it's for me, it basically it just means it's easier to make a living. Like it's easier to make 500,000 with a 2 million account than a 100 K account.
+
+
+00:50:05.460 — 00:50:09.540 · Speaker 1
+Is there anything challenges that came with trading a larger account?
+
+
+00:50:09.820 — 00:51:10.080 · Speaker 2
+Not so far. Let's see. Um, I've never I've always looked at my growth in kind of percentage terms. Of course, the actual monetary numbers are also interesting, but it's I'm more always looking in percentage terms. And now let's say from my account bottom. Um, yeah, I've made a big growth from there. But basically I'm then looking at, okay, my average month has been maybe it's around like 33 or 34%.
+
+So it's not even though I'm up almost 200 zero zero 0%. Um, if you consider the wire outs as well, it's not that much per month, even though I know for many that sounds like a huge number also, but like making a basically a third of your account, um, per month is not as much as it's like someone would consider.
+
+It's a thing that it's much higher number.
+
+
+00:51:10.120 — 00:51:18.320 · Speaker 1
+Um, in terms of wire outs, what's that done for your trading? Has it been a positive thing for your trading, doing the wire ups?
+
+
+00:51:19.040 — 00:52:10.470 · Speaker 2
+It's both like positive and negative on the positive side. Wiring out in a way that it creates a safety buffer for you outside of trading. So in a way, if you would blow up, then you would have like let's say money to live in the next five years or something. That's of course a positive thing. But at the same time the my competitive side is then like thinking, how big could I go if I didn't have to wire out?
+
+Um, because of course, those wire outs are then basically creating drawdowns for the equity. And especially when I had a smaller account, uh, I had to wire out quite a lot because I let's say the living expenses are not changing that much. Um, except some, some bigger, um, things. We've got like a, like a new house and stuff like that, but it's wiring out something that's, let's say
+
+
+00:52:11.710 — 00:52:40.750 · Speaker 2
+30% of the account. It basically means you need to make quite a lot just to get back to where you were. Um, so the compounding it really kills the compounding. So, um, kind of hate that side, but it's at the same time. Um, the main reason for trading to trade for me is to provide for my family and, and then enable that kind of lifestyle, uh, where we, we can do, uh, what we want.
+
+Um, and travel the world.
+
+
+00:52:41.190 — 00:53:30.530 · Speaker 1
+Talking about earlier on wiring out. It's an interesting one because do you think it's actually an element of proof of concept almost, and sort of reinforcing that you're doing the right things early on by wiring out, because a lot of people might, uh, let's say, for example, they start with a $10,000 account.
+
+They get it to 50, $60,000, but they're like, oh, let me get to 100. And they, they blow the account or come all the way back down. And they keep doing that. They find themselves in that cycle where if they had wired out 10 or 20 or whatever amount, but wired something out to go, oh, actually, okay, I have something now physically in my bank account, not at risk anymore.
+
+And they start to positively reinforce their mindset and the actions and performance that they have been doing. Do you think there's an element of positive nature there?
+
+
+00:53:31.050 — 00:54:35.200 · Speaker 2
+Yeah, I think so. Um, personally, it's been usually more on the negative side that I, I hate to wire out because I know that it will slow my compounding. Yeah. Um, but then I also know traders that go through this boom and bust cycles that they, they grow big and then they don't wire out anything, and then they blow up and then they try again.
+
+And it's I think it comes a lot down to your personality and also what kind of edge you have, uh, what kind of strategies you have. Um, with certain strategies you should not like it would with certain strategies, you could have quite a big part of your net worth in your account without risking any major drawdowns.
+
+But then with certain other types of strategies or, uh, different types of traders, they might easily blow up no matter how much they have. So in, uh, especially for that kind of people, it's it's, uh, I'm sure it helps a lot.
+
+
+00:54:35.400 — 00:54:45.100 · Speaker 1
+What's your plan moving forward? I remember reading, uh, you sort of recap for 2025, plan for 2026. Are you planning to sort of slow down the wire routes where possible?
+
+
+00:54:45.220 — 00:55:28.140 · Speaker 2
+I think now moving into 26. Um, as I've divided my portfolio more between like high risk and low risk portfolios, many of my wire outs might be from the high risk portfolio to watch the low risk. So it's not completely away from trading. So I think that's a I would say a big change for me. And I would say it's in a positive way because, um, wiring out now from the high risk account doesn't feel that bad.
+
+It's not fully killing the compounding. It's actually shifting it to a to a portfolio where I expect much smaller drawdowns. So it's it's in a way it's safe there, but it's still growing.
+
+
+00:55:28.140 — 00:55:34.420 · Speaker 1
+When you think of the term trader, what does that mean to you? What do you think being a trader actually represents?
+
+
+00:55:34.780 — 00:55:55.650 · Speaker 2
+For me, it's it's pretty much identifying opportunities where you could say the markets have priced something incorrectly and taking advantage of those trying to identify those spots. Um, and then having the, the idea of what are the best tools and approaches to benefit from those opportunities.
+
+
+00:55:55.690 — 00:56:09.210 · Speaker 1
+So kind of back to your example. You mentioned earlier in terms of the company has sold off aggressively, but the company, you know was still fine. It oversold if anything. And therefore Miss Price looked to take advantage of that opportunity.
+
+
+00:56:09.250 — 00:56:37.130 · Speaker 2
+Yeah. And especially in, in that case, uh, there was a um, you could see from the daily chart that it started to kind of capitulate to the downside. So the volume was increasing and it was clear, quite clear to see that people were panicking and exiting, uh, irrationally. Um, so those are the kind of points where you might get easier trade opportunities.
+
+
+00:56:37.170 — 00:56:42.230 · Speaker 1
+Um, do you off the back of that. Do you believe anyone can be a trader?
+
+
+00:56:43.030 — 00:57:19.910 · Speaker 2
+In theory, yes. In practice probably no. But I think examples from, uh, from history, like the was it the turtle traders especially systematic strategies can be taught quite easily. Of course. Then it's a question that are people actually going to follow them or then intervene with the system and then lose anyhow, even even though they have a profitable system?
+
+Um, but then if you would have to start from zero and then try to find an edge somewhere, like, I don't recommend that to pretty much anyone. It's, uh, the success rate is really low.
+
+
+00:57:19.950 — 00:58:17.580 · Speaker 1
+It's interesting how many people come into trading, I think who off the back of this conversation, you can really reflect on the importance of having some form of income outside of trading, not having to rely on the income from trading, um, to then be able to perform as a trader, whether systematic or discretionary.
+
+That importance is so high because, as you mentioned earlier, we put so much emotional attachment to money when in that scenario, when we don't have those things in place, even with those things in place, I'm sure there's still an attachment, there's still that emotion. It's just that I think a natural human, um, element, which is obviously where the algorithmic side comes in.
+
+No doubt when you look at, uh, trading resources. So for systematic or algorithmic automated systems, is there any particular like educational resources or things that come to mind that maybe the audience can go look at and try and learn and and sort of develop as a trader?
+
+
+00:58:17.620 — 00:58:57.890 · Speaker 2
+There's not much available in my, my mind. Um, and difficult to say I, I would probably these days I would probably ask from AI, uh, if uh, like even now I'm as I'm starting to develop strategies for uh, large caps and ETFs and stuff like that. It was quite interesting to just ask AI like what can the strategies could be there and and I could, I could even get a few decent strategies straight out of like the code and everything out of the AI.
+
+Um, so that's probably a place where I would personally start now, but I don't have anything specific to to recommend.
+
+
+00:58:58.010 — 00:59:11.930 · Speaker 1
+Yeah, I do think there's, uh, probably a gap when it comes to algorithmic or systematic, uh, trading on a larger scale, you know, in terms of a go to resource, which is interesting. Uh, hopefully that will that will not hopefully. I'm sure it probably will change, but.
+
+
+00:59:12.490 — 00:59:37.830 · Speaker 2
+I think it comes back a bit like teaching the concepts probably would be quite okay. But like if you actually have profitable strategies, if you teach systems, strategies, algo strategies, basically people can just copy those and then those become easily crowded and the edge will erode or shift or something like that.
+
+It's completely Difference when it is about discretionary trading.
+
+
+00:59:38.910 — 00:59:58.270 · Speaker 2
+The risk for edge erosion is much less. And you can basically teach people and they end up trading different tickers and different entries, exits and all that stuff. If you go and give a algorithmic strategy, like I could take it tomorrow and put it online exactly the same.
+
+
+00:59:58.310 — 01:00:15.710 · Speaker 1
+Yeah. So that's why there's a gap then essentially is because people, if they've really got edge through algorithmic and systematic trading, they're going to want to protect it, because otherwise, you know, giving it out may feel like a, you know, a great thing helping others, but then you're kind of be doing a disservice to yourself because now it's going to erode.
+
+
+01:00:15.790 — 01:00:16.870 · Speaker 2
+Yeah, exactly.
+
+
+01:00:16.870 — 01:00:36.380 · Speaker 1
+When you think about the next step for you, like what is the goal with trading? Where is it that you're because as you mentioned, like, you know, the wiring out really is a negative for you because you want to be able to see where you can get to and you want to be able to compound. So do you have a position where you see yourself or where you're trying to strive towards within your trading career.
+
+
+01:00:36.420 — 01:01:15.540 · Speaker 2
+Challenge with that question is that I also have other goals outside of trading. So in a way it is to find balance between those things and at the same time still grow pretty much in the same way I've grown so far. Um, I was just chatting with a few trader buddies of mine, and I mentioned to them that I'm, for example, I'm.
+
+I will be a bit disappointed if I'm not at nine figures by end of this decade. So if I need to put the number, um, nine figures by 2030. But at the same time, I don't want that to come by sitting at the screens eight hours a day. Less is more, hopefully.
+
+
+01:01:15.580 — 01:01:30.660 · Speaker 1
+Yeah, but that is interesting. And I think the less is more is interesting because when we said that, you did say, you know, for some, for most things it applies or for some things, but are there anything that stands out where less is more doesn't apply and that that more might be, you know, ways necessary?
+
+
+01:01:30.700 — 01:02:29.200 · Speaker 2
+Well, for example, I'm as I mentioned, I'm now developing new algorithmic strategies for higher liquidity opportunities. I need to put in the hours I need to work on that. If I just do it with my left hand two hours a day, I'll never get there. So like you need to put in the work, you need to study, you need to do all that stuff.
+
+You need to do the hard work, the boring work or not. Everything is boring. It's also nice to backtest and see the results, but it's I need to do that. But then at the same time, when that portfolio is in a good shape, um, then it might be that it doesn't need that much maintenance or anything. It just runs there and that's it.
+
+So it's, um, I think it's more coming. The less is more is is more valid for actually selecting the A-plus opportunities that you trade. So you need to be selective there. But then when you actually go into the background work that you need to do in order to be a good trader or you have great setups, strategies you need to put in the hours.
+
+
+01:02:29.200 — 01:02:41.670 · Speaker 1
+So even to get to get to that point of having that intuition and being able to, you know, even if it is discretionary trading to get to that position. No one can skip the work necessary to develop that.
+
+
+01:02:41.870 — 01:03:02.830 · Speaker 2
+You can't skip it. Um, there are ways to make that more efficient if you find a good mentor or what, what have you. But it's you need to create, for example, pattern recognition to be able to see and understand the create opportunities and spots. And you just need hours and hours of work to be able to do that.
+
+
+01:03:02.870 — 01:03:09.270 · Speaker 1
+Is that the methodology to building that pattern? Recognition for trading is to put in the hours and repetitions.
+
+
+01:03:09.270 — 01:04:11.730 · Speaker 2
+I'm sure there are different ways of going about it, but I think one that works for most is just study charts. Like study, study, study. It might be like for Christian Gula, it was he was studying the breakouts, uh, that had happened. Like I don't was it starting from 1990. Every single breakout that happened, like in in the US stock markets, he studied those.
+
+He made a few, uh, huge, uh, notebooks of that. Um, I've done similar on, on on certain things. Then you start to understand what good looks like. You're able to identify those opportunities. After that, it's easy. Or at least it looks easy because the background work has been done. Then you have the intuition to actually easily execute.
+
+And I feel like in many aspects and many strategies, I am in that spot right now. So it like some some people asking why I took a trade and like, how could you identify that spot? And I was just I it looked good.
+
+
+01:04:13.010 — 01:05:19.560 · Speaker 1
+But that's from the years and, and all that time equity invested into building that recognition pass charts, real time trading. I think everyone's always searching for a hack or the Holy Grail or the easy step. But like with anything, anything worth having doesn't come easy, right? You have to work for.
+
+You have to grind for it. Because when people ask about signals, you know, like that's normally the when the non traders who are friends or family will say, oh, you know, have you heard of this person's signals? Or you know, I'm thinking of taking these signals. And I always just say if there was a profitable signal, uh, you know, service, everyone would know about it and everyone would use it, right?
+
+Because if it worked, we would all, you know, the word would spread and we would all just go there because it would be the easiest thing in the world. But that's why that's not the case, because they don't. It doesn't happen. But it's interesting. It's very interesting. But one thing you mentioned in terms of, uh, another element of developing as a trader is, uh, finding a right mentor.
+
+Is there specific things that stand out to you or what you would look for in when selecting or choosing a mentor in trading?
+
+
+01:05:19.600 — 01:05:40.420 · Speaker 2
+Well, probably the most difficult part there is to actually get one to accept you. Yeah. As I meant, I've only measured, mentored two persons myself, both of whom are doing really great now. No, I'm not taking any new Mindy. So? So no need to send a private message after this.
+
+
+01:05:40.460 — 01:05:44.220 · Speaker 1
+Well, I apologize in advance. They probably, probably will, but. Yeah.
+
+
+01:05:44.380 — 01:06:18.540 · Speaker 2
+No, but I think probably it comes a lot down to kind of what kind of trading you want to do. Um, because you have experts in all kinds of trading styles. But I would say then the most difficult part is to actually get them to somehow help you. And for me, usually it has been by somehow providing added value to them.
+
+Whatever the method for that is, it won't be easy to get, especially if it's some, uh, like really successful trader. Um, they probably have enough of those requests.
+
+
+01:06:19.180 — 01:06:20.820 · Speaker 1
+Yeah, you'd have to stand out somehow.
+
+
+01:06:20.860 — 01:06:26.770 · Speaker 2
+Yeah. And it's not easy. And I don't have a, uh, like, any, any secret solution for that.
+
+
+01:06:27.130 — 01:06:57.650 · Speaker 1
+And as we wrap up the podcast here, you know, a couple questions that we try at the end. Uh, one that we've asked, uh, to, to many guests more recently is, you know, we kind of touched on it slightly already, but, you know, in trading, it's always focused around sort of monetary gains and money. But what I like to ask traders now, and it's just more of a on a personal basis for like your mindset and what you believe.
+
+Like what is success defined as to you success.
+
+
+01:06:57.890 — 01:07:09.530 · Speaker 2
+Um, to me is about being able to spend my time on the things that I love with the people I love. Well, that's that's it.
+
+
+01:07:09.770 — 01:07:23.330 · Speaker 1
+Yeah. I love that, and I think it's, uh, it's always an interesting one because, again, I think we, we focus so much on like, PNL and then the percentage returns. And in this industry, you know, it's no one's fault because it's the nature of the industry, but it's so easy to forget.
+
+
+01:07:23.470 — 01:07:49.030 · Speaker 2
+Like also, in a way, I enjoy the fact that you have something as concrete as as money, as a like a lagging indicator of how good you are in this. Yeah. So it's like it's, uh, unbiased, uh, scorecard. Yeah. Um, in many, many other professions, you don't have anything so clear to say if you're doing good on the long run or not.
+
+
+01:07:49.190 — 01:08:22.790 · Speaker 1
+Well, hopefully the next time you see, you will be at the nine figure mark. Uh, I have no doubt. You know, it's been an absolute pleasure. Thank you for coming in today. And everyone at home, drop a comment with your biggest takeaway from this episode. I know we went through various different topics, so let us know what your favorite topic was.
+
+Uh, but links for SAMHSa will be in the description below. Don't drop him a DM for mentorship. We already discussed that. But apologies to you if that ends up happening. Um, but everyone links to our on screen uh, or other episodes are on screen. Hit like hit subscribe. And until next time, everyone take care.

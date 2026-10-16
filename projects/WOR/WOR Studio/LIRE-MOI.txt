@@ -1,3 +1,12 @@
+NOUVEAU V08 - RAPPORT PDF EN ANGLAIS
+Dans le pretest des miniatures ou Dans YouTube, cliquer sur « Rapport PDF - EN ».
+Choisir une a cinq miniatures, puis « Creer le PDF en anglais ».
+La selection existante est proposee ; sans selection, le top 3 ou top 5 est preselectionne.
+Le PDF comprend la synthese, le classement complet, les notes, les raisons, les pistes de correction et une grille YouTube par variante.
+Les textes sont traduits par Codex. Les scores et images restent ceux de l'analyse d'origine.
+Un resultat obsolete ou une image modifiee doit etre reanalyse avant export.
+Les PDF restent locaux. Aucun PDF, resultat, session ou visuel prive n'est synchronise sur GitHub.
+
 
 NOUVEAU V07 — DANS YOUTUBE
 Ouvrir http://127.0.0.1:8765/#youtube ou cliquer « Dans YouTube » dans le prétest.
@@ -43,3 +52,15 @@ Les prétests utilisent uniquement le compte Codex connecté. Ils transmettent �
 Les notes /100 sont une grille de lecture, pas une mesure de CTR, de watch time ou de votes. Les 1 000 scénarios sont des variations locales des pondérations, sans spectateurs simulés. Les anciens gagnants ne sont pas fournis pour forcer le classement.
 Les changements de titre, image, brief ou audience rendent le rapport précédent obsolète. Les résultats et sources sont préservés localement, indépendamment de la sélection finale.
 Fond blanc, Helvetica/Arial, titres plus gras, hiérarchie typographique renforcée. Le style pourra être ajusté avec les captures d’inspiration à venir.
+
+
+V09 — WOR, CF ET PFT
+Le sélecteur de projet en haut à gauche ouvre Words of Rizdom, ChartFanatics ou Prop Firm Trader.
+Les anciens épisodes et leurs rapports restent dans WOR. CF et PFT commencent avec un espace vide : créer le premier épisode. Aucun dossier de production externe n’est importé automatiquement.
+Chaque projet dispose du même atelier, des prétests de miniatures et de titres, de la grille YouTube et du rapport PDF en anglais. Les épisodes, sélections et profils d’audience sont propres à chaque projet. Les noms de chaîne, briefs et exports suivent le projet actif.
+
+Dans Nouvel épisode ou Brief : renseigner jusqu’à trois liens HTTPS Frame.io (hôte/Riz, invité, écran). Les anciens liens sont conservés dans le premier champ. Les liens servent au travail de collecte avec Codex ; aucun téléchargement de vidéo n’est déclenché.
+Le bouton Inspirations de l’atelier rouvre ce formulaire. Importer plusieurs PNG, JPEG, WebP ou PDF, puis ajouter une note par fichier sur ce qu’il faut reprendre. Limites : 12 fichiers, 20 Mo par fichier, 30 Mo cumulés par épisode ; session complète limitée à 100 Mo. Enregistrer pour joindre les références à l’épisode. Annuler conserve la version enregistrée.
+Le bouton Brief IA + fichiers exporte un ZIP avec le transcript, les trois points de vue, les retours et les vrais fichiers d’inspiration accompagnés de leurs notes. La création et la retouche d’images se reprennent dans Codex ; l’import d’une inspiration ne lance aucune analyse payante ni génération automatique.
+Les fichiers sont aussi matérialisés sur cet ordinateur sous data/inspirations/ avec des noms SHA256. Le manifeste associe les originaux à leurs épisodes, projets et notes. Les anciennes copies restent locales ; seul le manifeste courant indique les pièces jointes actives. Aucun de ces fichiers n’est servi publiquement ni synchronisé sur GitHub. Les originaux ne sont pas modifiés ni grainés.
+Les formats Story/Spotify utilisent le nom du projet et un habillage typographique local à examiner ; les inspirations servent à la reprise créative dans Codex. Grain final de 3 % conservé.

@@ -1,0 +1,47 @@
+[
+  {
+    "original": "C:\\Users\\notti\\Documents\\ChatGPT\\Carousel - WOR\\outputs\\Sampsa-Jeppez-Carousel-V02\\PNG\\Slide-01.png",
+    "copy": "Sources\\V02_Slide-01.png",
+    "sha256": "cec0c6323b8c65d367055d23eadd6fc7f94953e30f1a981b818794ad97df6fa4"
+  },
+  {
+    "original": "C:\\Users\\notti\\Documents\\ChatGPT\\Carousel - WOR\\outputs\\Sampsa-Jeppez-Carousel-V02\\PNG\\Slide-02.png",
+    "copy": "Sources\\V02_Slide-02.png",
+    "sha256": "a11aad8ff52dbddc24278f8c2f0aa41fecbe89d773b173ea99997ae66a01cb7c"
+  },
+  {
+    "original": "C:\\Users\\notti\\Documents\\ChatGPT\\Thumbnail WOR\\outputs\\Sampsa_Jeppez\\V05_Natural_Set\\sources_HD\\Sampsa\\Sampsa_15-31-00-00.jpg",
+    "copy": "Sources\\Original_Sampsa_15-31-00-00.jpg",
+    "sha256": "c623a97211c8add716f0993797eb52039c564b446320ea785c0c2ba4360e9165"
+  },
+  {
+    "original": "C:\\Users\\notti\\Documents\\ChatGPT\\Carousel - WOR\\outputs\\Sampsa-Jeppez-Carousel-V02\\PNG\\Slide-02.png",
+    "copy": "Sources\\V02_Slide-02.png",
+    "sha256": "a11aad8ff52dbddc24278f8c2f0aa41fecbe89d773b173ea99997ae66a01cb7c"
+  },
+  {
+    "original": "C:\\Users\\notti\\Documents\\ChatGPT\\Carousel - WOR\\outputs\\Sampsa-Jeppez-Carousel-V02\\PNG\\Slide-01.png",
+    "copy": "Sources\\V02_Slide-01.png",
+    "sha256": "cec0c6323b8c65d367055d23eadd6fc7f94953e30f1a981b818794ad97df6fa4"
+  },
+  {
+    "original": "C:\\Users\\notti\\Documents\\ChatGPT\\Thumbnail WOR\\outputs\\Sampsa_Jeppez\\V05_Natural_Set\\sources_HD\\Sampsa\\Sampsa_16-34-00-00.jpg",
+    "copy": "Sources\\Original_Sampsa_16-34-00-00.jpg",
+    "sha256": "07e46a652a516bd0183099849bd84960ca6e8b7cda41c5532755d5a158c52d96"
+  },
+  {
+    "original": "C:\\Users\\notti\\Documents\\ChatGPT\\Carousel - WOR\\outputs\\Sampsa-Jeppez-Carousel-V02\\PNG\\Slide-07.png",
+    "copy": "Sources\\V02_Slide-07.png",
+    "sha256": "01ad28f8c3334479e5a3fbe0372f605700bd16a8b40accb08737d4f8c2c5ecae"
+  },
+  {
+    "font": "Poppins-Bold.ttf",
+    "copy": "Sources\\Fonts\\Poppins-Bold.ttf",
+    "sha256": "210933fb1bb4e846d37ef00c92cae636ac35633132cf2157c7ac879f27f82068"
+  },
+  {
+    "font": "Poppins-SemiBold.ttf",
+    "copy": "Sources\\Fonts\\Poppins-SemiBold.ttf",
+    "sha256": "1d665d5b75a9500040b2cc201c2b07af5faca7228372dc6f4572d2d5b2291097"
+  }
+]

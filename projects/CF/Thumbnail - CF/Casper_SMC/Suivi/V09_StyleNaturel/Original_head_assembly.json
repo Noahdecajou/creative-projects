@@ -1,0 +1,15 @@
+{
+  "Source": "Sources_HD/Casper/Casper_00-12-00.jpg",
+  "AlphaSource": "Masters/V01/Casper_00-12-00_cutout.png",
+  "SourceWidth": 3840,
+  "SourceHeight": 2160,
+  "ScaleAt4K": 1.02,
+  "TranslateX": 420,
+  "TranslateY": 15,
+  "Rotation": 0,
+  "FaceWarp": false,
+  "OriginalFaceAndNeckRGB": true,
+  "EdgeOnlyDecontamination": true,
+  "ClothingFadeStartY": 1430,
+  "ClothingFadeEndY": 1530
+}

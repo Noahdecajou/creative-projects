@@ -1,0 +1,194 @@
+{
+  "slides": [
+    {
+      "slide": 1,
+      "png": "PNG/Slide-01.png",
+      "png_sha256": "d3a3c735a91e825b93680c82a289a3d29bf6618b087a6469ce9af54279a2539f",
+      "approved_source": "C:\\Users\\notti\\Documents\\ChatGPT\\Carousel - WOR\\outputs\\Sampsa-Jeppez-Carousel-V02\\PNG\\Slide-01.png",
+      "approved_sha256": "cec0c6323b8c65d367055d23eadd6fc7f94953e30f1a981b818794ad97df6fa4",
+      "before_grain_sha256": "bf5c7c8212e44d2ed2fc2d2c0d95f0c48939e310f950d32c928ec012889098d8",
+      "dimensions": [
+        1080,
+        1440
+      ],
+      "grain_percent": 3,
+      "grain_passes": 1,
+      "seed": 20261014,
+      "unexpected_grain_changes": 0.0,
+      "maximum_channel_change": 8.0,
+      "changes_outside_permitted_regions": null,
+      "original_version_preserved": true,
+      "name_label": "SAMPSA JEPPEZ",
+      "name_font": "Poppins SemiBold",
+      "name_top_left": [
+        52,
+        31
+      ]
+    },
+    {
+      "slide": 2,
+      "png": "PNG/Slide-02.png",
+      "png_sha256": "01d5aa7078e0b1248a98897b88f595da1e24971c85f8ad338e2d4c5a89024a59",
+      "approved_source": "C:\\Users\\notti\\Documents\\ChatGPT\\Carousel - WOR\\outputs\\Sampsa-Jeppez-Carousel-V02\\PNG\\Slide-02.png",
+      "approved_sha256": "a11aad8ff52dbddc24278f8c2f0aa41fecbe89d773b173ea99997ae66a01cb7c",
+      "before_grain_sha256": "0306612943e2fcaac7bef7b0150bcdc7fab113105b2d1ebff88012abb51a94e7",
+      "dimensions": [
+        1080,
+        1440
+      ],
+      "grain_percent": 3,
+      "grain_passes": 1,
+      "seed": 20261015,
+      "unexpected_grain_changes": 0.0,
+      "maximum_channel_change": 8.0,
+      "changes_outside_permitted_regions": null,
+      "original_version_preserved": true,
+      "name_label": "SAMPSA JEPPEZ",
+      "name_font": "Poppins SemiBold",
+      "name_top_left": [
+        52,
+        31
+      ]
+    },
+    {
+      "slide": 3,
+      "png": "PNG/Slide-03.png",
+      "png_sha256": "16b028f0efd8d244f55306b0fe3192463b8214bc2889797a10d337572f254f68",
+      "approved_source": "C:\\Users\\notti\\Documents\\ChatGPT\\Carousel - WOR\\outputs\\Sampsa-Jeppez-Carousel-V02\\PNG\\Slide-03.png",
+      "approved_sha256": "28feaaeb0efa76b57761f5857e61084e837b0af7c31cc7b2acb25e02e0df9fe7",
+      "before_grain_sha256": "bb6725f08592158fe4f9a2bf29e96357ac9f56790ae1dc3dff7e255dfd6d367a",
+      "dimensions": [
+        1080,
+        1440
+      ],
+      "grain_percent": 3,
+      "grain_passes": 1,
+      "seed": 20261016,
+      "unexpected_grain_changes": 0.0,
+      "maximum_channel_change": 8.0,
+      "changes_outside_permitted_regions": 0,
+      "original_version_preserved": true,
+      "name_label": "SAMPSA JEPPEZ",
+      "name_font": "Poppins SemiBold",
+      "name_top_left": [
+        52,
+        31
+      ]
+    },
+    {
+      "slide": 4,
+      "png": "PNG/Slide-04.png",
+      "png_sha256": "ca9f48d6a84ae078e73587f6dc593ef6889f161b730275521f148e5c611045ac",
+      "approved_source": "C:\\Users\\notti\\Documents\\ChatGPT\\Carousel - WOR\\outputs\\Sampsa-Jeppez-Carousel-V02\\PNG\\Slide-04.png",
+      "approved_sha256": "6dace02873bac271ab1afa66420cab9fc952dd493279085bdc55828f6d00d4ac",
+      "before_grain_sha256": "1aa208544c621fce29aa694312cef2d4b5e11f822343a38cf2315af7ef737a0a",
+      "dimensions": [
+        1080,
+        1440
+      ],
+      "grain_percent": 3,
+      "grain_passes": 1,
+      "seed": 20261017,
+      "unexpected_grain_changes": 0.0,
+      "maximum_channel_change": 8.0,
+      "changes_outside_permitted_regions": 0,
+      "original_version_preserved": true,
+      "name_label": "SAMPSA JEPPEZ",
+      "name_font": "Poppins SemiBold",
+      "name_top_left": [
+        52,
+        31
+      ]
+    },
+    {
+      "slide": 5,
+      "png": "PNG/Slide-05.png",
+      "png_sha256": "fa3dc206029210234d754173a5c2b90c6a8bc5c5d31e75c33f0f4af7f665ce23",
+      "approved_source": "C:\\Users\\notti\\Documents\\ChatGPT\\Carousel - WOR\\outputs\\Sampsa-Jeppez-Carousel-V02\\PNG\\Slide-05.png",
+      "approved_sha256": "b797438048e049df7fd80bae6fa9c3e96a06f5a96c40b7776ba2b0ee4037c86a",
+      "before_grain_sha256": "614e2bbe47cbfd33be6e197aa81a72ddd92585186f8adbdf2f349b73f543cfe9",
+      "dimensions": [
+        1080,
+        1440
+      ],
+      "grain_percent": 3,
+      "grain_passes": 1,
+      "seed": 20261018,
+      "unexpected_grain_changes": 0.0,
+      "maximum_channel_change": 8.0,
+      "changes_outside_permitted_regions": 0,
+      "original_version_preserved": true,
+      "name_label": "SAMPSA JEPPEZ",
+      "name_font": "Poppins SemiBold",
+      "name_top_left": [
+        52,
+        31
+      ]
+    },
+    {
+      "slide": 6,
+      "png": "PNG/Slide-06.png",
+      "png_sha256": "6a4b2a59947e0ad487de9620e053a3c58d98cea2f422a5a3c63d106325c55ace",
+      "approved_source": "C:\\Users\\notti\\Documents\\ChatGPT\\Carousel - WOR\\outputs\\Sampsa-Jeppez-Carousel-V02\\PNG\\Slide-06.png",
+      "approved_sha256": "6e499ddea63aec82ad416e9b61e1271fafbf6d29013b0ff0fa227c0fdb88fd1a",
+      "before_grain_sha256": "63bbe51d68aca933dc80489fb3f1c902495cf02579d9a499d96ada59297904d8",
+      "dimensions": [
+        1080,
+        1440
+      ],
+      "grain_percent": 3,
+      "grain_passes": 1,
+      "seed": 20261019,
+      "unexpected_grain_changes": 0.0,
+      "maximum_channel_change": 8.0,
+      "changes_outside_permitted_regions": 0,
+      "original_version_preserved": true,
+      "name_label": "SAMPSA JEPPEZ",
+      "name_font": "Poppins SemiBold",
+      "name_top_left": [
+        52,
+        31
+      ]
+    },
+    {
+      "slide": 7,
+      "png": "PNG/Slide-07.png",
+      "png_sha256": "549fa016d91776cfd1f3db6569f821eb57ff80529a326f5d569096a70074cbe9",
+      "approved_source": "C:\\Users\\notti\\Documents\\ChatGPT\\Carousel - WOR\\outputs\\Sampsa-Jeppez-Carousel-V02\\PNG\\Slide-07.png",
+      "approved_sha256": "01ad28f8c3334479e5a3fbe0372f605700bd16a8b40accb08737d4f8c2c5ecae",
+      "before_grain_sha256": "b48110ac6f9850e9cfeeb7ee77eac931c376bd480e2ff81b8b557bb25294d3ae",
+      "dimensions": [
+        1080,
+        1440
+      ],
+      "grain_percent": 3,
+      "grain_passes": 1,
+      "seed": 20261020,
+      "unexpected_grain_changes": 0.0,
+      "maximum_channel_change": 8.0,
+      "changes_outside_permitted_regions": 0,
+      "original_version_preserved": true,
+      "name_label": "SAMPSA JEPPEZ",
+      "name_font": "Poppins SemiBold",
+      "name_top_left": [
+        52,
+        31
+      ]
+    }
+  ],
+  "png_count": 7,
+  "jpeg_count": 7,
+  "dimensions": [
+    1080,
+    1440
+  ],
+  "grain_percent": 3,
+  "grain_passes": 1,
+  "zip_entries": 7,
+  "zip_integrity": true,
+  "zip_hashes_match": true,
+  "zip_sha256": "4480238df0943b73a6bb47ab451554f902c15836da39a2f9462d53b533d6b8bf",
+  "all_gallery_links_exist": true,
+  "protected_pixels_verified": true,
+  "cta": "SAMPSA"
+}

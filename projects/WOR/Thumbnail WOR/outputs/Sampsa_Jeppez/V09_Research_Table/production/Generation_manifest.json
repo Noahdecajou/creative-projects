@@ -1,0 +1,40 @@
+[
+  {
+    "Id": "11_Green",
+    "Tool": "image_gen.imagegen",
+    "Inputs": [
+      {
+        "OriginalPathAtGeneration": "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V08_Podcast_Blueprint/masters/Sampsa_11_Green.png",
+        "ArchivedInput": "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V08_Podcast_Blueprint/masters/Sampsa_11_Green.png",
+        "SHA256": "BF2D41279CBB3391D24B054B095CA2446281F0A0EB09D67ECE7D86BDBB02D71C"
+      },
+      {
+        "OriginalPathAtGeneration": "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V08_Podcast_Blueprint/sources_HD/Sampsa_16-46-00-00.jpg",
+        "ArchivedInput": "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V08_Podcast_Blueprint/sources_HD/Sampsa_16-46-00-00.jpg",
+        "SHA256": "5008A7B39D02D16AC72BD48EB942F7EC0265318C2796C96A4B3E6F08A450E7DB"
+      },
+      {
+        "OriginalPathAtGeneration": "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V08_Podcast_Blueprint/sources_HD/Riz_01-06-55-03.jpg",
+        "ArchivedInput": "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V08_Podcast_Blueprint/sources_HD/Riz_01-06-55-03.jpg",
+        "SHA256": "F5F01BEB87D007265366DA71B834D4F6D83ADC13CA0E4F4AF753EFF0CE44B781"
+      }
+    ],
+    "Prompt": "Use case: precise-object-edit, identity-preserve.\nEdit Image 1, the approved landscape YouTube thumbnail. Images 2 and 3 are original photographic identity references only: Sampsa in blue at right, Riz in brown at left. Retain Image 1's exact faces, head positions, facial expressions, natural pores, hairstyle, natural white teeth, camera angle, aubergine/warm amber studio background, clothing colors, overall composition and sharpness. Do not retouch or beautify faces. Preserve the headline EXACTLY as it already appears: \"$1+ Million in One Trade\", with \"$1+ Million\" black in the yellow box and \"in One Trade\" white. Preserve its position and typography. Work only on the trading props, arms/hands, and tabletop below the faces.\n\nRequested change: Replace the single tall center candlestick held in Sampsa's hands with TWO self-standing GREEN 3D TRADING CANDLESTICKS resting physically on the wooden table, one on the far LEFT side and one on the far RIGHT side. These are financial chart candlestick sculptures with rectangular translucent emerald bodies and slim top/bottom wicks, not wax candles. Give them compact stable bases, believable contact shadows and subtle emerald light reflecting on wood. Use moderate height, about 1/4 image height, below the men's chins, so neither blocks a face or text. REMOVE the original center candle entirely; no central held candle remains and no third candle exists.\n\nCover much more of the tabletop with approximately TWENTY individual off-white research sheets, visibly overlapping in several messy-but-believable shallow stacks and fanned layers. Clearly visible offset paper edges and curled corners should communicate a lot of work and research, not three perfectly flat sheets or an impossibly thick book stack. Printed candlestick charts, price-action diagrams, small red and green annotations, arrows and pencil/pen notes on the visible pages. Keep tiny labels restrained and credible, such as ENTRY, STOP, TARGET, RISK. No extra financial claims or giant labels. No floating holograms or glowing paper.\n\nRiz, the bearded man on the LEFT, is lifting ONE chart sheet from the central pile with his hand nearest the center, naturally pinching its upper edge. The sheet is raised at lower-chest height, below his chin, tilted toward himself and Sampsa, so both men's existing downward glances plausibly read as looking through the research. His other hand steadies or sorts a small pile on the table. Show a natural searching/leafing-through-documents gesture with anatomically correct hands. Sampsa's hands are freed from the candle; one rests on a stack and the other lightly indicates a chart on the table. Keep both existing faces and smiles unchanged. The elevated page is visibly paper with a slight curl and chart marks; it must not cover faces or title.\nMaintain convincing photograph-like lighting, physical perspective, five fingers per hand where visible, natural sleeves and hand-to-wrist joints. Preserve the 16:9 framing and the current branding. No additional people, no microphones, no new screens, no logos, no watermark. Do not add final noise/grain; that is added once at export.",
+    "SavedGeneration": "production/generated/11_Green.png",
+    "OutputSHA256": "ED3496B6A5AD042E4C3E06B0CF02993523FBDADD625958A3738BCBD384752166"
+  },
+  {
+    "Id": "11_Green_final",
+    "Tool": "image_gen.imagegen",
+    "Inputs": [
+      {
+        "OriginalPathAtGeneration": "C:/Users/notti/Documents/ChatGPT/Thumbnail WOR/outputs/Sampsa_Jeppez/V09_Research_Table/masters/Sampsa_11_Green.png",
+        "ArchivedInput": "C:\\Users\\notti\\Documents\\ChatGPT\\Thumbnail WOR\\outputs\\Sampsa_Jeppez\\V09_Research_Table\\production\\11_Green_before_correction.png",
+        "SHA256": "F0ECDBCA15403AEEA462695FCA3ABD79CC47AE6078DDB6F25C9B16C65BE5CBF8"
+      }
+    ],
+    "Prompt": "Use case: precise-object-edit.\nEdit the supplied approved YouTube thumbnail with ONLY these three localized corrections:\n1. Completely remove the green 3D trading candlestick sculpture at the FAR LEFT of the table, including its dark base, wick and green glow/reflection. Reconstruct the wood tabletop, paper edges and softly blurred background naturally where it stood.\n2. Completely remove the matching green candlestick sculpture at the FAR RIGHT, including its dark base, wick and green glow/reflection. Reconstruct the wood and background naturally. No candlestick sculptures or glowing green objects anywhere.\n3. The man on the LEFT (Riz) is holding a raised sheet of paper and reading it. The side of that raised sheet facing US/the camera is the BACK. Make this visible back completely BLANK off-white paper: remove every chart mark, grid, label, arrow, number and drawing from the raised sheet ONLY. Keep realistic matte paper texture, its existing slight curve, perspective and lighting; do not make it a screen or transparent. The printed front is facing Riz and is not visible to camera. Keep his fingers, grip, hand, wrist, sleeve and paper position unchanged.\n\nPreserve everything else EXACTLY: both men's faces, expressions, natural skin, hair and eye direction; their posture, hands and clothes; ALL the overlapping chart/research sheets lying flat on the table and the pointing finger; warm aubergine studio background; exact crop and lighting; existing headline \"$1+ Million in One Trade\" with \"$1+ Million\" in black on yellow and the rest in white. Do not change typography or spelling. No face retouching. Do not remove the printed charts from the papers on the tabletop, only from the raised sheet's visible back. No new props, no new text, no added grain. Maintain 16:9.",
+    "SavedGeneration": "production/generated/11_Green_final.png",
+    "OutputSHA256": "D8DF22D67D8F5FE37F6913B6AE9CCE7AD08A6445D43AF542493050243EA46E74"
+  }
+]

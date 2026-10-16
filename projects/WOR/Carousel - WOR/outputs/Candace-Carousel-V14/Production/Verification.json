@@ -1,0 +1,101 @@
+{
+  "slides": [
+    {
+      "slide": 1,
+      "native_dimensions": [
+        1086,
+        1448
+      ],
+      "export_dimensions": [
+        1080,
+        1440
+      ],
+      "png": "PNG\\Slide-01.png",
+      "sha256": "1e05e9cf4a1904ab7fd13bae509f0d3998f19e0e1ff44f1cf6fe505d960e70bc",
+      "master_identical_to_generated": true,
+      "file_verified": true
+    },
+    {
+      "slide": 2,
+      "native_dimensions": [
+        1086,
+        1448
+      ],
+      "export_dimensions": [
+        1080,
+        1440
+      ],
+      "png": "PNG\\Slide-02.png",
+      "sha256": "71b78476b77bb0077438f5a544a3896cbef898b4a5ea7609728828ecfe34e319",
+      "master_identical_to_generated": true,
+      "file_verified": true
+    },
+    {
+      "slide": 3,
+      "native_dimensions": [
+        1086,
+        1448
+      ],
+      "export_dimensions": [
+        1080,
+        1440
+      ],
+      "png": "PNG\\Slide-03.png",
+      "sha256": "9c04a654283ad3a171dc1ac1c10397ccee7f69a8cfb0745d07ff37426931994d",
+      "master_identical_to_generated": true,
+      "file_verified": true
+    },
+    {
+      "slide": 4,
+      "native_dimensions": [
+        1086,
+        1448
+      ],
+      "export_dimensions": [
+        1080,
+        1440
+      ],
+      "png": "PNG\\Slide-04.png",
+      "sha256": "a3c4f0285f65366795cf6bc2945ae13de5dd8e4e7c20cc6e51398ba668e762c8",
+      "master_identical_to_generated": true,
+      "file_verified": true
+    },
+    {
+      "slide": 5,
+      "native_dimensions": [
+        1086,
+        1448
+      ],
+      "export_dimensions": [
+        1080,
+        1440
+      ],
+      "png": "PNG\\Slide-05.png",
+      "sha256": "d208efdbb3eb405c2a5d00b77a415c7f241b2bb7049b84895cf1ded1f3f08e54",
+      "master_identical_to_generated": true,
+      "file_verified": true
+    },
+    {
+      "slide": 6,
+      "native_dimensions": [
+        1086,
+        1448
+      ],
+      "export_dimensions": [
+        1080,
+        1440
+      ],
+      "png": "PNG\\Slide-06.png",
+      "sha256": "fa97b3ab90127e2b84229cd1d75a88a4697cb59221506249f144038f1785b780",
+      "master_identical_to_generated": true,
+      "file_verified": true
+    }
+  ],
+  "png_count": 6,
+  "jpeg_count": 6,
+  "zip_entries": 6,
+  "zip_integrity": true,
+  "zip_matches_exports": true,
+  "zip_sha256": "4bc3dc6e1c6f20f1120a8812e5f404a88ef2d649b7f0ce3c1a2d0985e702bdcd",
+  "all_sources_copied_identically": true
+}

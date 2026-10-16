@@ -1,0 +1,232 @@
+[
+  {
+    "Id": "01",
+    "Mode": "Inherited",
+    "ByteIdenticalToV07": true,
+    "RestoredFaces": [],
+    "OutsideChangedPixels": 0
+  },
+  {
+    "Id": "07",
+    "Mode": "Inherited",
+    "ByteIdenticalToV07": true,
+    "RestoredFaces": [],
+    "OutsideChangedPixels": 0
+  },
+  {
+    "Id": "10",
+    "Mode": "Recomposition autorisee; portraits guides par les photos HD originales",
+    "RestoredFaces": [],
+    "OutsideChangedPixels": null
+  },
+  {
+    "Id": "11_Green",
+    "Mode": "Localized",
+    "OutsideChangedPixels": 0,
+    "HeadlineOrPropRegions": [
+      [
+        839,
+        462,
+        128,
+        410
+      ],
+      [
+        0,
+        680,
+        1672,
+        261
+      ]
+    ],
+    "RestoredFaces": [
+      {
+        "Region": [
+          453,
+          290,
+          225,
+          230
+        ],
+        "CheckedPixels": 28062,
+        "ChangedPixels": 0
+      },
+      {
+        "Region": [
+          970,
+          258,
+          227,
+          280
+        ],
+        "CheckedPixels": 34592,
+        "ChangedPixels": 0
+      }
+    ],
+    "ProtectedHandSkinPixels": 0
+  },
+  {
+    "Id": "12",
+    "Mode": "Localized",
+    "OutsideChangedPixels": 0,
+    "HeadlineOrPropRegions": [
+      [
+        285,
+        0,
+        1100,
+        295
+      ],
+      [
+        475,
+        280,
+        690,
+        123
+      ]
+    ],
+    "RestoredFaces": [
+      {
+        "Region": [
+          309,
+          344,
+          175,
+          217
+        ],
+        "CheckedPixels": 18268,
+        "ChangedPixels": 0
+      },
+      {
+        "Region": [
+          1161,
+          330,
+          215,
+          267
+        ],
+        "CheckedPixels": 30548,
+        "ChangedPixels": 0
+      }
+    ],
+    "ProtectedHandSkinPixels": 0
+  },
+  {
+    "Id": "13_Blur10",
+    "Mode": "Localized",
+    "OutsideChangedPixels": 0,
+    "HeadlineOrPropRegions": [
+      [
+        280,
+        0,
+        1115,
+        296
+      ],
+      [
+        570,
+        275,
+        565,
+        145
+      ]
+    ],
+    "RestoredFaces": [
+      {
+        "Region": [
+          420,
+          321,
+          178,
+          185
+        ],
+        "CheckedPixels": 15994,
+        "ChangedPixels": 0
+      },
+      {
+        "Region": [
+          1172,
+          304,
+          183,
+          220
+        ],
+        "CheckedPixels": 19842,
+        "ChangedPixels": 0
+      }
+    ],
+    "ProtectedHandSkinPixels": 0
+  },
+  {
+    "Id": "13_Blur15",
+    "Mode": "Localized",
+    "OutsideChangedPixels": 0,
+    "HeadlineOrPropRegions": [
+      [
+        280,
+        0,
+        1115,
+        296
+      ],
+      [
+        570,
+        275,
+        565,
+        145
+      ]
+    ],
+    "RestoredFaces": [
+      {
+        "Region": [
+          420,
+          321,
+          178,
+          185
+        ],
+        "CheckedPixels": 15994,
+        "ChangedPixels": 0
+      },
+      {
+        "Region": [
+          1172,
+          304,
+          183,
+          220
+        ],
+        "CheckedPixels": 19842,
+        "ChangedPixels": 0
+      }
+    ],
+    "ProtectedHandSkinPixels": 0
+  },
+  {
+    "Id": "14",
+    "Mode": "Inherited",
+    "ByteIdenticalToV07": true,
+    "RestoredFaces": [],
+    "OutsideChangedPixels": 0
+  },
+  {
+    "Id": "15",
+    "Mode": "Inherited",
+    "ByteIdenticalToV07": true,
+    "RestoredFaces": [],
+    "OutsideChangedPixels": 0
+  },
+  {
+    "Id": "16",
+    "Mode": "Inherited",
+    "ByteIdenticalToV07": true,
+    "RestoredFaces": [],
+    "OutsideChangedPixels": 0
+  },
+  {
+    "Id": "18",
+    "Mode": "Inherited",
+    "ByteIdenticalToV07": true,
+    "RestoredFaces": [],
+    "OutsideChangedPixels": 0
+  },
+  {
+    "Id": "20",
+    "Mode": "Inherited",
+    "ByteIdenticalToV07": true,
+    "RestoredFaces": [],
+    "OutsideChangedPixels": 0
+  },
+  {
+    "Id": "22",
+    "Mode": "Inherited",
+    "ByteIdenticalToV07": true,
+    "RestoredFaces": [],
+    "OutsideChangedPixels": 0
+  }
+]

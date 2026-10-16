@@ -1,0 +1,28 @@
+{
+  "Version": "V10_Expression",
+  "Date": "2026-10-15",
+  "PNGCount": 1,
+  "Width": 3840,
+  "Height": 2160,
+  "Native4K": false,
+  "BaseDimensions": "1672x941",
+  "AddedGrain": false,
+  "OriginalSourcesUnchanged": 54,
+  "PreviousV09Preserved": true,
+  "LocalEdit": {
+    "Base": "References/Expression_V10/Base_choisie_utilisateur.png",
+    "Crop": "900,25,430,475",
+    "Region": "Elliptical facial region; center 224,250 radii 125,146 inside crop",
+    "ChangedPixels": 53601,
+    "ChangedPixelsOutsideFacialRegion": 0,
+    "HairBodyHandsRizBackgroundUnchanged": true,
+    "HeadRotation": 0,
+    "AddedGrain": false
+  },
+  "Text": "Trading in 3 decisions.",
+  "NativeTypography": true,
+  "VisualReview": "1280 and 320 previews, eye contact, speaking mouth, glasses, jaw continuity, hands and caption",
+  "ArchiveEntries": 1,
+  "ArchivePayloadHashesMatch": true,
+  "ArchiveSHA256": "D49CAD83BA51DB46A3448E76A697EE1394B62D2FA8A3717A86E9BA479C772491"
+}

@@ -1,0 +1,72 @@
+{
+  "Id": "11_Green",
+  "Mode": "Localized",
+  "OutsideChangedPixels": 0,
+  "RestoredFaces": [
+    {
+      "Region": [
+        453,
+        290,
+        225,
+        230
+      ],
+      "CheckedPixels": 28062,
+      "ChangedPixels": 0
+    },
+    {
+      "Region": [
+        970,
+        258,
+        227,
+        280
+      ],
+      "CheckedPixels": 34592,
+      "ChangedPixels": 0
+    }
+  ],
+  "EditRegions": [
+    [
+      815,
+      365,
+      175,
+      265
+    ],
+    [
+      0,
+      520,
+      1672,
+      421
+    ],
+    [
+      65,
+      490,
+      135,
+      160
+    ],
+    [
+      1480,
+      490,
+      130,
+      160
+    ],
+    [
+      0,
+      490,
+      240,
+      410
+    ],
+    [
+      1460,
+      490,
+      212,
+      410
+    ],
+    [
+      465,
+      540,
+      395,
+      260
+    ]
+  ],
+  "Title": "Unchanged from V08"
+}

@@ -1,0 +1,84 @@
+{
+  "count": 8,
+  "grain_added": false,
+  "changed": [
+    "02",
+    "06"
+  ],
+  "other_six_byte_identical": true,
+  "zip_integrity": "verified",
+  "files": [
+    {
+      "file": "01_Trade_With_A_System.png",
+      "sha256": "0a1761e67f0883e5d0fa7e4aef903560df5cd33954ea8912d1b30e692c04ed48",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "inherited_identically": true
+    },
+    {
+      "file": "02_Who_Is_In_Control.png",
+      "sha256": "c3c415be72e85d6bf1c1f3f7ebea990df715da74900d3351fa71ee0ac30570d1",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "inherited_identically": false
+    },
+    {
+      "file": "03_Trading_In_3_Decisions.png",
+      "sha256": "7114eea319233f926363cecb3622cee9439a1c91c3f4ca8a16187bba70c61310",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "inherited_identically": true
+    },
+    {
+      "file": "04_Stop_Overthinking.png",
+      "sha256": "1464d3a67fef59beb1ed1aa0427b5982b140f49b7e05ac15fa67ff65f2c4df17",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "inherited_identically": true
+    },
+    {
+      "file": "05_Master_Volume_Profile.png",
+      "sha256": "0c88b5c8ecb429ca1df1c6b042ef6ee698e1d46d6657bd9745c306878393ee45",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "inherited_identically": true
+    },
+    {
+      "file": "06_Read_The_Market.png",
+      "sha256": "8e56c6fba9256b7ff8772a6f59146daecdc5d84e13452767c6b80554f83f0b7e",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "inherited_identically": false
+    },
+    {
+      "file": "07_Let_Your_Winners_Run.png",
+      "sha256": "79b063d14eb7352cb60d9cafacfbf1769fbc3a7f943d78a5cff48d1d78f4315c",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "inherited_identically": true
+    },
+    {
+      "file": "08_Price_To_Order_Flow.png",
+      "sha256": "5cbaaf9bff31d9ce9ad525655075afcf0d59ec2aa02a3930308ed001eb75333f",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "inherited_identically": true
+    }
+  ]
+}

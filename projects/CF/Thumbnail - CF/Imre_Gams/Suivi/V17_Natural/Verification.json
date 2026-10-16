@@ -1,0 +1,78 @@
+{
+  "Version": "V17 Natural",
+  "Date": "2026-10-15",
+  "OriginalCopyByteIdentical": true,
+  "Faces": [
+    {
+      "Person": "Riz",
+      "Pixels": 19550,
+      "ChangedPixels": 0
+    },
+    {
+      "Person": "Imre",
+      "Pixels": 16200,
+      "ChangedPixels": 0
+    }
+  ],
+  "Exports": [
+    {
+      "File": "Imre_Riz_Natural_V17_1280x720.jpg",
+      "Width": 1280,
+      "Height": 720,
+      "Bytes": 280104,
+      "SHA256": "F9D145C18BADE994B662D9A17B978A1A684384369B55E97E0AE889AD4852E91E"
+    },
+    {
+      "File": "Imre_Riz_Natural_V17_3840x2160.png",
+      "Width": 3840,
+      "Height": 2160,
+      "Bytes": 13807239,
+      "SHA256": "1877630D75EBF3708D9F97975D0FEBB7D0F79C9F5AE6ABB2E09C215D4AA526E1"
+    }
+  ],
+  "PreviewLinks": [
+    {
+      "Reference": "Imre_Riz_Natural_V17_1280.jpg",
+      "Exists": true
+    },
+    {
+      "Reference": "../../Exports/V17_Natural/Imre_Riz_Natural_V17_1280x720.jpg",
+      "Exists": true
+    },
+    {
+      "Reference": "../../Exports/V17_Natural/Imre_Riz_Natural_V17_3840x2160.png",
+      "Exists": true
+    },
+    {
+      "Reference": "../../Livraison/Imre_Gams_Natural_V17.zip",
+      "Exists": true
+    },
+    {
+      "Reference": "../V16_Test01/01_1280.jpg",
+      "Exists": true
+    },
+    {
+      "Reference": "Imre_Riz_Natural_V17_320.jpg",
+      "Exists": true
+    },
+    {
+      "Reference": "../../Suivi/V17_Natural/Reference_01.jpg",
+      "Exists": true
+    },
+    {
+      "Reference": "../../Suivi/V17_Natural/Reference_02.jpg",
+      "Exists": true
+    },
+    {
+      "Reference": "../../Suivi/V17_Natural/Reference_03.jpg",
+      "Exists": true
+    },
+    {
+      "Reference": "../../Suivi/V17_Natural/Prompts_V17.txt",
+      "Exists": true
+    }
+  ],
+  "VisualReview": "Final inspected at 1280x720 and 320x180. Original faces retained, no microphone ghosts or gradient seam. One-line white/yellow copy.",
+  "Native4K": false,
+  "Archive": "4 entries verified byte-for-byte: 2 image exports, 1 README, 1 prompt set."
+}

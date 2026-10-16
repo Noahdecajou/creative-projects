@@ -1,0 +1,114 @@
+[
+  {
+    "Id": "01",
+    "Group": "C",
+    "ExactCopyVisuallyChecked": true,
+    "NoOldTitleFragments": true,
+    "Mobile320Checked": true,
+    "FaceCheck": "V06 pixels preserved"
+  },
+  {
+    "Id": "07",
+    "Group": "B",
+    "ExactCopyVisuallyChecked": true,
+    "NoOldTitleFragments": true,
+    "Mobile320Checked": true,
+    "FaceCheck": "V06 pixels preserved"
+  },
+  {
+    "Id": "10",
+    "Group": "A",
+    "ExactCopyVisuallyChecked": true,
+    "NoOldTitleFragments": true,
+    "Mobile320Checked": true,
+    "FaceCheck": "V06 pixels preserved"
+  },
+  {
+    "Id": "11_Green",
+    "Group": "C",
+    "ExactCopyVisuallyChecked": true,
+    "NoOldTitleFragments": true,
+    "Mobile320Checked": true,
+    "FaceCheck": "V06 pixels preserved"
+  },
+  {
+    "Id": "11_Yellow",
+    "Group": "C",
+    "ExactCopyVisuallyChecked": true,
+    "NoOldTitleFragments": true,
+    "Mobile320Checked": true,
+    "FaceCheck": "V06 pixels preserved"
+  },
+  {
+    "Id": "12",
+    "Group": "D",
+    "ExactCopyVisuallyChecked": true,
+    "NoOldTitleFragments": true,
+    "Mobile320Checked": true,
+    "FaceCheck": "V06 pixels preserved"
+  },
+  {
+    "Id": "13_Blur10",
+    "Group": "D",
+    "ExactCopyVisuallyChecked": true,
+    "NoOldTitleFragments": true,
+    "Mobile320Checked": true,
+    "FaceCheck": "V06 pixels preserved"
+  },
+  {
+    "Id": "13_Blur15",
+    "Group": "D",
+    "ExactCopyVisuallyChecked": true,
+    "NoOldTitleFragments": true,
+    "Mobile320Checked": true,
+    "FaceCheck": "V06 pixels preserved"
+  },
+  {
+    "Id": "14",
+    "Group": "B",
+    "ExactCopyVisuallyChecked": true,
+    "NoOldTitleFragments": true,
+    "Mobile320Checked": true,
+    "FaceCheck": "V06 pixels preserved"
+  },
+  {
+    "Id": "15",
+    "Group": "B",
+    "ExactCopyVisuallyChecked": true,
+    "NoOldTitleFragments": true,
+    "Mobile320Checked": true,
+    "FaceCheck": "V06 pixels preserved"
+  },
+  {
+    "Id": "16",
+    "Group": "A",
+    "ExactCopyVisuallyChecked": true,
+    "NoOldTitleFragments": true,
+    "Mobile320Checked": true,
+    "FaceCheck": "V06 pixels preserved"
+  },
+  {
+    "Id": "18",
+    "Group": "A",
+    "ExactCopyVisuallyChecked": true,
+    "NoOldTitleFragments": true,
+    "Mobile320Checked": true,
+    "FaceCheck": "V06 pixels preserved"
+  },
+  {
+    "Id": "20",
+    "Group": "B",
+    "ExactCopyVisuallyChecked": true,
+    "NoOldTitleFragments": true,
+    "Mobile320Checked": true,
+    "FaceCheck": "V06 pixels preserved"
+  },
+  {
+    "Id": "22",
+    "Group": "C",
+    "ExactCopyVisuallyChecked": true,
+    "NoOldTitleFragments": true,
+    "Mobile320Checked": true,
+    "FaceCheck": "V06 pixels preserved"
+  }
+]

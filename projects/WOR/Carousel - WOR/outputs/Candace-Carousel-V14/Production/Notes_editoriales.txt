@@ -1,0 +1,14 @@
+V14 — 13 octobre 2026
+
+Direction artistique : six références Candace Design REF/Slide-1.jpg à Slide-6.jpg ; guide local Design_Ref_Analyse_V01.
+Création : outil imagegen intégré, six appels indépendants avec référence de composition et captures originales comme références d’identité. Les rendus sont génératifs : conservation de l’identité demandée et contrôlée visuellement, sans affirmation de conservation pixel à pixel des portraits.
+Sources photographiques : captures originales 1920×1080 conservées dans Sources et référencées dans le manifeste.
+Format : exports PNG et JPEG 1080×1440 (3:4). Masters natifs conservés. Ajustement mécanique mineur à la dimension finale, sans nouvelle retouche créative. Ce package ne contient pas de fichiers PSD ni de calques texte éditables.
+
+Décisions de texte :
+— Slide 2 : reformulation de « does assume ... shas » en une phrase cohérente qui conserve doute et confiance dans les données.
+— Slide 3 : fautes corrigées ; « larger size » précisé en « larger sample size » ; le backtest est décrit comme une aide pour comprendre les séries de pertes, sans garantir une limite future.
+— Slide 4 : l’utilisateur a confirmé « C’est une limite de perte en dollars ». Titre cohérent « NO DAILY TRADE LIMIT » et corps « daily dollar loss limit ».
+— Slide 5 : « 7th » reprend la référence visuelle fournie Slide-5.jpg, dans laquelle ce numéro est lisible ; le brouillon de l’utilisateur comportait « th » sans chiffre. Pas de vérification indépendante de la performance.
+— Slide 6 : conservation du CTA demandé « full interview ».
+Chiffres et récit proviennent du texte et des références fournis par l’utilisateur. Aucun changement de payouts vers profits.

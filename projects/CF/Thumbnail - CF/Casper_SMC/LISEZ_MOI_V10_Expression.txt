@@ -1,0 +1,20 @@
+CASPER / RIZ — V10 EXPRESSION
+Une seule thumbnail finale, numero 09 : Trading in 3 decisions.
+
+Base : l'image SANS TEXTE choisie et renvoyee par l'utilisateur (Base_choisie_utilisateur.png). Ce choix remplace la base finale V09 pour cette nouvelle version.
+Retouche : regard direct vers la camera, bouche ouverte au milieu d'une explication, expression engagee. Reference de parole et d'identite : photo HD Casper_01-00-00.jpg.
+La retouche est realisee localement avec image_gen sur un recadrage du visage, puis assemblee par masque doux. Ce n'est pas une nouvelle photographie authentique de l'invite en train de parler : il s'agit d'une modification de l'expression demandee par l'utilisateur.
+0 pixel modifie en dehors du masque facial sur la plaque 1672 x 941 avant texte et mise a l'echelle. Riz, cheveux, corps, bras, mains, stylo, tableau et decor conservent les pixels de la base choisie.
+
+Texte valide conserve : Trading in 3 decisions.
+Poppins Bold, blanc et jaune legerement degrade #FFF85B -> #FFE400, ombre douce. Aucun contour, aucune box. Aucun grain ajoute ni filtre de nettete.
+
+Livraison PNG : 3840 x 2160 pixels, 16:9, dimensions reelles verifiees. L'image de base 1672 x 941 est agrandie ; ce n'est PAS une creation native 4K. Le texte est rendu directement a la taille finale.
+Exports_4K/V10_Expression : PNG final.
+Masters/V10_Expression : plaque sans texte, recadrage original, correction generee, masque et master final.
+Apercus/V10_Expression : 1280, 640 et 320 pixels, detail du visage.
+Suivi/V10_Expression : prompt exact, scripts, suivi de titre et verification.
+References/Expression_V10 : deux images envoyees par l'utilisateur, preservees.
+Versions precedentes et sources HD conservees. Rien n'est publie.
+
+Outils : image_gen integre pour l'expression locale ; System.Drawing pour le masque, la typographie et les exports. Reconstruction : compose_expression.ps1 puis render_v10_expression.ps1.

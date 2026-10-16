@@ -1,0 +1,27 @@
+CASPER / CHARTFANATICS — V08 STYLE NATUREL — 15 octobre 2026
+
+UNE SEULE nouvelle thumbnail : 09_Trading_In_3_Decisions_Natural_3840x2160.png.
+Les huit thumbnails V07 restent intactes. Cette direction supplementaire ne les remplace pas.
+Livraison : PNG 3840 x 2160 pixels, 16:9; ZIP contenant ce PNG; ZIP de production.
+La scene ImageGen native mesure 1672 x 941 pixels, agrandie dans la composition finale. Il ne s'agit pas d'une photographie creee nativement en 4K. Les visages photo et le texte sont assembles a la resolution finale.
+
+Direction artistique
+Riz a gauche, Casper a droite, cote a cote a une table en bois dans une piece eclairee par le jour. Tableau blanc physique au premier plan et marqueur dans la main de Casper. Pas de microphone. Texte unique : Trading in 3 decisions. Trading in est blanc; 3 decisions. est jaune. Poppins Bold, sans box ni lueur, ombre douce pour la lisibilite.
+Les trois references utilisateur servent uniquement a la composition, au traitement photo et a la hierarchie du texte. Aucun de leurs personnages, logos, chiffres, resultats ou titres n'est repris.
+Accroche reprise de la direction TRADING IN 3 DECISIONS deja validee pour cet episode, pas une citation attribuee.
+
+Provenance
+Sources originales HD : Casper_00-12-00.jpg et Riz_01-16-00.jpg, exportees par Download Still lors du travail precedent.
+Scene de piece, corps, gestes, mains et tableau reconstruite avec ImageGen integre d'apres les photos HD et la reference de composition.
+Zones faciales recomposees depuis les crops photographiques approuves : Casper V04 et Riz V06, eux-memes issus des photos HD avec correction locale du regard. RGB des couches photo conserves, seul l'alpha du masque est modifie; placement par rotation et echelle.
+Petit raccord local ImageGen sur la branche exterieure droite des lunettes et le contour exterieur gauche de barbe de Casper. Seules trois zones masquees sont utilisees. Le centre du visage, les yeux, le nez, la bouche et le front de la composition photo sont conserves. Ce photomontage ne represente pas une nouvelle prise de vue reelle.
+Masters/09_scene_generated.png : scene generee de base.
+Masters/09_scene_photo_composite.png : assemblage des zones faciales photo.
+Masters/09_scene_photo_final.png : scene selectionnee apres correction locale des raccords.
+Masters/09_Trading_In_3_Decisions_Natural_master.png : master final avec texte, sans grain.
+Exports_4K : PNG final, grain monochromatique uniforme de 5 % en une seule passe, selon le brief du projet.
+
+Organisation sous V08_StyleNaturel dans Masters, Exports_4K, Apercus et Suivi. References dans References/StyleNaturel_V08. Sources originales conservees intactes dans Sources_HD.
+Reproduction : compose_photographic_faces.ps1, puis apply_local_seams.ps1, puis render_v08_natural.ps1. Poppins doit etre installe. Les prompts ImageGen et composants intermediaires sont conserves.
+Controles : une image finale, dimensions reelles, visages/lunettes/mains en grand, apercus 1280/640/320, marges, texte exact, hashes des sources et des huit V07, contenu et hashes des archives.
+Aucune publication effectuee.

@@ -1,0 +1,25 @@
+{
+  "palette": {
+    "aubergine": "#511F58",
+    "yellow": "#FFEC04"
+  },
+  "common": "Use case: style-transfer / identity-preserve.\nEdit the FIRST image: approved YouTube podcast thumbnail. SECOND image is a branding palette reference ONLY (use option B, bottom row): aubergine #511F58, vivid yellow #FFEC04, luminous natural faces. Do NOT copy its words, claims, dotted flat background, or portrait.\nCreate ONE finished landscape 16:9 thumbnail. Preserve exact camera, crop, body poses, eye direction, hand anatomy, clothes, all recognizable facial details and facial texture from the edit target. Keep subject coordinates and scale EXACTLY unchanged, this must align with original for pixel compositing. Do not redraw faces, smooth, sharpen or add pores. No magenta/purple tint on skin or clothing; faces neutrally lit, naturally separated from darker backdrop.\nBrand treatment: richly photographic deep aubergine interior walls/shadows with elegant restrained warm practical lighting, retain real room depth, furniture, shelving, desk, defocus and materials. Aubergine must be visibly dominant in background, not near-black or bright magenta, but preserve the real room. Never replace interior with a flat gradient. No cyan circles, rings, artificial rim halos or new microphones.\nTypography: exact original headline words; no invented claims. Put the specified KEY PHRASE in solid vivid #FFEC04 rectangular box with BLACK bold letters and subtle soft yellow glow. Other headline words stay WHITE. Preserve original headline placement and size as closely as possible, may fit typography to box, generous margins, do not cover eyes or faces. One key yellow box, crisp edges and clean mobile-readable type. No decorative underline competing with the new box. Keep existing YouTube logo if present.\nReturn a clean master with NO additional noise/grain (grain added once at final export), NO extra text or watermarks.",
+  "jobs": [
+    {
+      "id": "01",
+      "detail": "Headline EXACTLY \"trade less make more\". Yellow box ONLY behind \"trade less\", with black italic serif letters; \"make more\" stays white bold sans. Preserve the single chart monitor on the right, amber desk lamp left and studio desk. Recolor the walls and shelving shadows to aubergine. Keep original head and shirt pixel positions."
+    },
+    {
+      "id": "11_Green",
+      "detail": "Headline EXACTLY \"Build your edge\". Yellow box ONLY around \"edge\", black bold italic serif inside; \"Build your\" stays white. Keep both men looking at the green trading candle which Sampsa physically holds with both hands. Preserve green candle, subtle green light on fingers and table reflection. Keep entire room architecture, softly blurred shelves/lamps, aubergine walls and shadows. No screens. No change in fingers/faces or object scale."
+    },
+    {
+      "id": "05",
+      "detail": "Headline EXACTLY \"OVERFITTING KILLS EDGE\". Highlight \"KILLS EDGE\" in yellow box with black bold condensed type, keep \"OVERFITTING\" white on aubergine header. Keep authentic hand-drawn marker chart and all legible labels: TOO MANY RULES; FITS THE PAST; FAILS LIVE; A BETTER APPROACH; SIMPLE RULES; REAL DATA; TEST THE COSTS. Convert the full backdrop into an aubergine glass/chalk teaching board with natural frame and authentic chalk/paint-pen drawings in off-white and restrained yellow. Preserve diagram locations and meaning, real imperfect handwritten strokes, no polished vector UI. Retain center portrait exact size and location. Do not introduce new room objects on top of diagram."
+    },
+    {
+      "id": "18",
+      "detail": "Headline EXACTLY \"$5M\" with \"From $12K\" below it. Put \"$5M\" in yellow box with big BLACK bold type, \"From $12K\" white below. Keep guest on LEFT and laptop/chart on lower RIGHT at exactly original size/location. Replace white empty background with a softly blurred real podcast studio: deep aubergine wall, very discreet blurred shelving, warm practical lamp distant, dark wooden desk under laptop. Keep photorealistic laptop and directional arrow, change arrow white for contrast. No extra screens or people."
+    }
+  ]
+}

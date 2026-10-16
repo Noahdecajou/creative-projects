@@ -1,0 +1,605 @@
+[
+  {
+    "Id": "01",
+    "Width": 1672,
+    "Height": 941,
+    "RestoredFaces": [
+      {
+        "Region": [
+          714,
+          216,
+          226,
+          408
+        ],
+        "ComparedPixels": 56699,
+        "ChangedPixels": 0
+      }
+    ],
+    "FabricPixels": 0
+  },
+  {
+    "Id": "02",
+    "Width": 1672,
+    "Height": 941,
+    "RestoredFaces": [
+      {
+        "Region": [
+          1074,
+          170,
+          322,
+          560
+        ],
+        "ComparedPixels": 119659,
+        "ChangedPixels": 0
+      }
+    ],
+    "FabricPixels": 0
+  },
+  {
+    "Id": "02_Duo",
+    "Width": 1672,
+    "Height": 941,
+    "RestoredFaces": [
+      {
+        "Region": [
+          758,
+          242,
+          270,
+          450
+        ],
+        "ComparedPixels": 77911,
+        "ChangedPixels": 0
+      },
+      {
+        "Region": [
+          1207,
+          176,
+          295,
+          532
+        ],
+        "ComparedPixels": 102462,
+        "ChangedPixels": 0
+      }
+    ],
+    "FabricPixels": 0
+  },
+  {
+    "Id": "03",
+    "Width": 1672,
+    "Height": 941,
+    "RestoredFaces": [
+      {
+        "Region": [
+          1045,
+          272,
+          288,
+          468
+        ],
+        "ComparedPixels": 87579,
+        "ChangedPixels": 0
+      }
+    ],
+    "FabricPixels": 0
+  },
+  {
+    "Id": "03_Duo",
+    "Width": 1672,
+    "Height": 941,
+    "RestoredFaces": [
+      {
+        "Region": [
+          830,
+          320,
+          236,
+          399
+        ],
+        "ComparedPixels": 58532,
+        "ChangedPixels": 0
+      },
+      {
+        "Region": [
+          1252,
+          273,
+          255,
+          423
+        ],
+        "ComparedPixels": 68308,
+        "ChangedPixels": 0
+      }
+    ],
+    "FabricPixels": 0
+  },
+  {
+    "Id": "04",
+    "Width": 1672,
+    "Height": 941,
+    "RestoredFaces": [
+      {
+        "Region": [
+          721,
+          317,
+          242,
+          386
+        ],
+        "ComparedPixels": 58435,
+        "ChangedPixels": 0
+      }
+    ],
+    "FabricPixels": 0
+  },
+  {
+    "Id": "04_Duo",
+    "Width": 1672,
+    "Height": 941,
+    "RestoredFaces": [
+      {
+        "Region": [
+          740,
+          294,
+          218,
+          377
+        ],
+        "ComparedPixels": 50056,
+        "ChangedPixels": 0
+      },
+      {
+        "Region": [
+          1194,
+          278,
+          232,
+          401
+        ],
+        "ComparedPixels": 57604,
+        "ChangedPixels": 0
+      }
+    ],
+    "FabricPixels": 0
+  },
+  {
+    "Id": "05",
+    "Width": 1672,
+    "Height": 941,
+    "RestoredFaces": [
+      {
+        "Region": [
+          691,
+          250,
+          285,
+          440
+        ],
+        "ComparedPixels": 81322,
+        "ChangedPixels": 0
+      }
+    ],
+    "FabricPixels": 0
+  },
+  {
+    "Id": "06",
+    "Width": 1672,
+    "Height": 941,
+    "RestoredFaces": [
+      {
+        "Region": [
+          730,
+          122,
+          200,
+          314
+        ],
+        "ComparedPixels": 37307,
+        "ChangedPixels": 0
+      }
+    ],
+    "FabricPixels": 0
+  },
+  {
+    "Id": "07",
+    "Width": 1672,
+    "Height": 941,
+    "RestoredFaces": [
+      {
+        "Region": [
+          786,
+          251,
+          179,
+          301
+        ],
+        "ComparedPixels": 30908,
+        "ChangedPixels": 0
+      }
+    ],
+    "FabricPixels": 0
+  },
+  {
+    "Id": "08",
+    "Width": 1672,
+    "Height": 941,
+    "RestoredFaces": [
+      {
+        "Region": [
+          587,
+          281,
+          210,
+          300
+        ],
+        "ComparedPixels": 37983,
+        "ChangedPixels": 0
+      }
+    ],
+    "FabricPixels": 0
+  },
+  {
+    "Id": "09",
+    "Width": 1672,
+    "Height": 941,
+    "RestoredFaces": [
+      {
+        "Region": [
+          1093,
+          144,
+          280,
+          430
+        ],
+        "ComparedPixels": 77805,
+        "ChangedPixels": 0
+      }
+    ],
+    "FabricPixels": 0
+  },
+  {
+    "Id": "10",
+    "Width": 1672,
+    "Height": 941,
+    "RestoredFaces": [
+      {
+        "Region": [
+          394,
+          254,
+          171,
+          279
+        ],
+        "ComparedPixels": 26924,
+        "ChangedPixels": 0
+      },
+      {
+        "Region": [
+          1168,
+          214,
+          182,
+          316
+        ],
+        "ComparedPixels": 33183,
+        "ChangedPixels": 0
+      }
+    ],
+    "FabricPixels": 0
+  },
+  {
+    "Id": "11_Green",
+    "Width": 1672,
+    "Height": 941,
+    "RestoredFaces": [
+      {
+        "Region": [
+          453,
+          290,
+          225,
+          230
+        ],
+        "ComparedPixels": 31778,
+        "ChangedPixels": 0
+      },
+      {
+        "Region": [
+          970,
+          258,
+          227,
+          280
+        ],
+        "ComparedPixels": 39114,
+        "ChangedPixels": 0
+      }
+    ],
+    "FabricPixels": 0
+  },
+  {
+    "Id": "11_Yellow",
+    "Width": 1672,
+    "Height": 941,
+    "RestoredFaces": [
+      {
+        "Region": [
+          453,
+          290,
+          225,
+          230
+        ],
+        "ComparedPixels": 31778,
+        "ChangedPixels": 0
+      },
+      {
+        "Region": [
+          970,
+          258,
+          227,
+          280
+        ],
+        "ComparedPixels": 39114,
+        "ChangedPixels": 0
+      }
+    ],
+    "FabricPixels": 0
+  },
+  {
+    "Id": "12",
+    "Width": 1672,
+    "Height": 941,
+    "RestoredFaces": [
+      {
+        "Region": [
+          309,
+          344,
+          175,
+          217
+        ],
+        "ComparedPixels": 21600,
+        "ChangedPixels": 0
+      },
+      {
+        "Region": [
+          1161,
+          330,
+          215,
+          267
+        ],
+        "ComparedPixels": 34816,
+        "ChangedPixels": 0
+      }
+    ],
+    "FabricPixels": 0
+  },
+  {
+    "Id": "13_Blur10",
+    "Width": 1672,
+    "Height": 941,
+    "RestoredFaces": [
+      {
+        "Region": [
+          420,
+          321,
+          178,
+          185
+        ],
+        "ComparedPixels": 18854,
+        "ChangedPixels": 0
+      },
+      {
+        "Region": [
+          1172,
+          304,
+          183,
+          220
+        ],
+        "ComparedPixels": 23274,
+        "ChangedPixels": 0
+      }
+    ],
+    "FabricPixels": 0
+  },
+  {
+    "Id": "13_Blur15",
+    "Width": 1672,
+    "Height": 941,
+    "RestoredFaces": [
+      {
+        "Region": [
+          420,
+          321,
+          178,
+          185
+        ],
+        "ComparedPixels": 18854,
+        "ChangedPixels": 0
+      },
+      {
+        "Region": [
+          1172,
+          304,
+          183,
+          220
+        ],
+        "ComparedPixels": 23274,
+        "ChangedPixels": 0
+      }
+    ],
+    "FabricPixels": 0
+  },
+  {
+    "Id": "14",
+    "Width": 1672,
+    "Height": 941,
+    "RestoredFaces": [
+      {
+        "Region": [
+          377,
+          314,
+          180,
+          220
+        ],
+        "ComparedPixels": 22767,
+        "ChangedPixels": 0
+      },
+      {
+        "Region": [
+          1188,
+          306,
+          199,
+          233
+        ],
+        "ComparedPixels": 27496,
+        "ChangedPixels": 0
+      }
+    ],
+    "FabricPixels": 0
+  },
+  {
+    "Id": "15",
+    "Width": 1672,
+    "Height": 941,
+    "RestoredFaces": [
+      {
+        "Region": [
+          748,
+          137,
+          198,
+          339
+        ],
+        "ComparedPixels": 39750,
+        "ChangedPixels": 0
+      }
+    ],
+    "FabricPixels": 0
+  },
+  {
+    "Id": "16",
+    "Width": 1672,
+    "Height": 941,
+    "RestoredFaces": [
+      {
+        "Region": [
+          1072,
+          161,
+          356,
+          562
+        ],
+        "ComparedPixels": 135025,
+        "ChangedPixels": 0
+      }
+    ],
+    "FabricPixels": 0
+  },
+  {
+    "Id": "17",
+    "Width": 1672,
+    "Height": 941,
+    "RestoredFaces": [],
+    "FabricPixels": 0
+  },
+  {
+    "Id": "18",
+    "Width": 1672,
+    "Height": 941,
+    "RestoredFaces": [
+      {
+        "Region": [
+          247,
+          143,
+          348,
+          524
+        ],
+        "ComparedPixels": 122589,
+        "ChangedPixels": 0
+      }
+    ],
+    "FabricPixels": 0
+  },
+  {
+    "Id": "19",
+    "Width": 1672,
+    "Height": 941,
+    "RestoredFaces": [
+      {
+        "Region": [
+          733,
+          260,
+          216,
+          357
+        ],
+        "ComparedPixels": 46826,
+        "ChangedPixels": 0
+      }
+    ],
+    "FabricPixels": 0
+  },
+  {
+    "Id": "20",
+    "Width": 1672,
+    "Height": 941,
+    "RestoredFaces": [
+      {
+        "Region": [
+          358,
+          297,
+          259,
+          419
+        ],
+        "ComparedPixels": 68972,
+        "ChangedPixels": 0
+      },
+      {
+        "Region": [
+          900,
+          249,
+          280,
+          449
+        ],
+        "ComparedPixels": 81248,
+        "ChangedPixels": 0
+      }
+    ],
+    "FabricPixels": 0
+  },
+  {
+    "Id": "21",
+    "Width": 1672,
+    "Height": 941,
+    "RestoredFaces": [
+      {
+        "Region": [
+          756,
+          213,
+          185,
+          304
+        ],
+        "ComparedPixels": 32616,
+        "ChangedPixels": 0
+      }
+    ],
+    "FabricPixels": 0
+  },
+  {
+    "Id": "22",
+    "Width": 1672,
+    "Height": 941,
+    "RestoredFaces": [
+      {
+        "Region": [
+          802,
+          257,
+          275,
+          357
+        ],
+        "ComparedPixels": 63188,
+        "ChangedPixels": 0
+      }
+    ],
+    "FabricPixels": 0
+  },
+  {
+    "Id": "23",
+    "Width": 1672,
+    "Height": 941,
+    "RestoredFaces": [
+      {
+        "Region": [
+          1022,
+          154,
+          340,
+          524
+        ],
+        "ComparedPixels": 119319,
+        "ChangedPixels": 0
+      }
+    ],
+    "FabricPixels": 0
+  }
+]

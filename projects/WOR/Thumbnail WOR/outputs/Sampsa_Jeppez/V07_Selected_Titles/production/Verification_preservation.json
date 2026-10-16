@@ -1,0 +1,714 @@
+[
+  {
+    "Id": "01",
+    "GeneratedSource": "01",
+    "HeadlineRegions": [
+      [
+        25,
+        0,
+        1620,
+        205
+      ]
+    ],
+    "OutsideChangedPixels": 0,
+    "RestoredFaces": [
+      {
+        "Region": [
+          714,
+          216,
+          226,
+          408
+        ],
+        "CheckedPixels": 71133,
+        "ChangedPixels": 0
+      }
+    ],
+    "ProtectedHands": [],
+    "AllNonHeadlinePixelsIdentical": true
+  },
+  {
+    "Id": "07",
+    "GeneratedSource": "07",
+    "HeadlineRegions": [
+      [
+        90,
+        0,
+        1480,
+        244
+      ]
+    ],
+    "OutsideChangedPixels": 0,
+    "RestoredFaces": [
+      {
+        "Region": [
+          786,
+          251,
+          179,
+          301
+        ],
+        "CheckedPixels": 41364,
+        "ChangedPixels": 0
+      }
+    ],
+    "ProtectedHands": [
+      {
+        "Region": [
+          350,
+          546,
+          140,
+          215
+        ],
+        "CheckedPixels": 22952,
+        "ChangedPixels": 0
+      },
+      {
+        "Region": [
+          1000,
+          782,
+          67,
+          64
+        ],
+        "CheckedPixels": 3148,
+        "ChangedPixels": 0
+      }
+    ],
+    "AllNonHeadlinePixelsIdentical": true
+  },
+  {
+    "Id": "10",
+    "GeneratedSource": "10",
+    "HeadlineRegions": [
+      [
+        5,
+        0,
+        1665,
+        187
+      ],
+      [
+        615,
+        158,
+        500,
+        125
+      ]
+    ],
+    "OutsideChangedPixels": 0,
+    "RestoredFaces": [
+      {
+        "Region": [
+          394,
+          254,
+          171,
+          279
+        ],
+        "CheckedPixels": 36588,
+        "ChangedPixels": 0
+      },
+      {
+        "Region": [
+          1168,
+          214,
+          182,
+          316
+        ],
+        "CheckedPixels": 44183,
+        "ChangedPixels": 0
+      }
+    ],
+    "ProtectedHands": [
+      {
+        "Region": [
+          413,
+          790,
+          230,
+          115
+        ],
+        "CheckedPixels": 20030,
+        "ChangedPixels": 0
+      },
+      {
+        "Region": [
+          1032,
+          786,
+          358,
+          134
+        ],
+        "CheckedPixels": 36565,
+        "ChangedPixels": 0
+      }
+    ],
+    "AllNonHeadlinePixelsIdentical": true
+  },
+  {
+    "Id": "11_Green",
+    "GeneratedSource": "11_Green",
+    "HeadlineRegions": [
+      [
+        65,
+        0,
+        1540,
+        244
+      ]
+    ],
+    "OutsideChangedPixels": 0,
+    "RestoredFaces": [
+      {
+        "Region": [
+          453,
+          290,
+          225,
+          230
+        ],
+        "CheckedPixels": 39898,
+        "ChangedPixels": 0
+      },
+      {
+        "Region": [
+          970,
+          258,
+          227,
+          280
+        ],
+        "CheckedPixels": 49024,
+        "ChangedPixels": 0
+      }
+    ],
+    "ProtectedHands": [
+      {
+        "Region": [
+          390,
+          791,
+          202,
+          106
+        ],
+        "CheckedPixels": 16161,
+        "ChangedPixels": 0
+      },
+      {
+        "Region": [
+          797,
+          696,
+          261,
+          162
+        ],
+        "CheckedPixels": 31893,
+        "ChangedPixels": 0
+      }
+    ],
+    "AllNonHeadlinePixelsIdentical": true
+  },
+  {
+    "Id": "11_Yellow",
+    "GeneratedSource": "11_Green",
+    "HeadlineRegions": [
+      [
+        65,
+        0,
+        1540,
+        244
+      ]
+    ],
+    "OutsideChangedPixels": 0,
+    "RestoredFaces": [
+      {
+        "Region": [
+          453,
+          290,
+          225,
+          230
+        ],
+        "CheckedPixels": 39898,
+        "ChangedPixels": 0
+      },
+      {
+        "Region": [
+          970,
+          258,
+          227,
+          280
+        ],
+        "CheckedPixels": 49024,
+        "ChangedPixels": 0
+      }
+    ],
+    "ProtectedHands": [
+      {
+        "Region": [
+          390,
+          791,
+          202,
+          106
+        ],
+        "CheckedPixels": 16161,
+        "ChangedPixels": 0
+      },
+      {
+        "Region": [
+          797,
+          696,
+          261,
+          162
+        ],
+        "CheckedPixels": 32369,
+        "ChangedPixels": 0
+      }
+    ],
+    "AllNonHeadlinePixelsIdentical": true
+  },
+  {
+    "Id": "12",
+    "GeneratedSource": "12",
+    "HeadlineRegions": [
+      [
+        75,
+        0,
+        1525,
+        285
+      ],
+      [
+        500,
+        220,
+        665,
+        88
+      ]
+    ],
+    "OutsideChangedPixels": 0,
+    "RestoredFaces": [
+      {
+        "Region": [
+          309,
+          344,
+          175,
+          217
+        ],
+        "CheckedPixels": 29116,
+        "ChangedPixels": 0
+      },
+      {
+        "Region": [
+          1161,
+          330,
+          215,
+          267
+        ],
+        "CheckedPixels": 44236,
+        "ChangedPixels": 0
+      }
+    ],
+    "ProtectedHands": [
+      {
+        "Region": [
+          430,
+          651,
+          207,
+          154
+        ],
+        "CheckedPixels": 24372,
+        "ChangedPixels": 0
+      },
+      {
+        "Region": [
+          645,
+          603,
+          128,
+          181
+        ],
+        "CheckedPixels": 17610,
+        "ChangedPixels": 0
+      },
+      {
+        "Region": [
+          990,
+          730,
+          145,
+          91
+        ],
+        "CheckedPixels": 9904,
+        "ChangedPixels": 0
+      }
+    ],
+    "AllNonHeadlinePixelsIdentical": true
+  },
+  {
+    "Id": "13_Blur10",
+    "GeneratedSource": "13_Compact",
+    "HeadlineRegions": [
+      [
+        100,
+        0,
+        1475,
+        250
+      ]
+    ],
+    "OutsideChangedPixels": 0,
+    "RestoredFaces": [
+      {
+        "Region": [
+          420,
+          321,
+          178,
+          185
+        ],
+        "CheckedPixels": 25258,
+        "ChangedPixels": 0
+      },
+      {
+        "Region": [
+          1172,
+          304,
+          183,
+          220
+        ],
+        "CheckedPixels": 30910,
+        "ChangedPixels": 0
+      }
+    ],
+    "ProtectedHands": [
+      {
+        "Region": [
+          556,
+          443,
+          102,
+          110
+        ],
+        "CheckedPixels": 8463,
+        "ChangedPixels": 0
+      },
+      {
+        "Region": [
+          1006,
+          584,
+          218,
+          136
+        ],
+        "CheckedPixels": 22579,
+        "ChangedPixels": 0
+      }
+    ],
+    "AllNonHeadlinePixelsIdentical": true
+  },
+  {
+    "Id": "13_Blur15",
+    "GeneratedSource": "13_Compact",
+    "HeadlineRegions": [
+      [
+        100,
+        0,
+        1475,
+        250
+      ]
+    ],
+    "OutsideChangedPixels": 0,
+    "RestoredFaces": [
+      {
+        "Region": [
+          420,
+          321,
+          178,
+          185
+        ],
+        "CheckedPixels": 25258,
+        "ChangedPixels": 0
+      },
+      {
+        "Region": [
+          1172,
+          304,
+          183,
+          220
+        ],
+        "CheckedPixels": 30910,
+        "ChangedPixels": 0
+      }
+    ],
+    "ProtectedHands": [
+      {
+        "Region": [
+          556,
+          443,
+          102,
+          110
+        ],
+        "CheckedPixels": 8463,
+        "ChangedPixels": 0
+      },
+      {
+        "Region": [
+          1006,
+          584,
+          218,
+          136
+        ],
+        "CheckedPixels": 22579,
+        "ChangedPixels": 0
+      }
+    ],
+    "AllNonHeadlinePixelsIdentical": true
+  },
+  {
+    "Id": "14",
+    "GeneratedSource": "14",
+    "HeadlineRegions": [
+      [
+        120,
+        20,
+        1440,
+        207
+      ]
+    ],
+    "OutsideChangedPixels": 0,
+    "RestoredFaces": [
+      {
+        "Region": [
+          377,
+          314,
+          180,
+          220
+        ],
+        "CheckedPixels": 30405,
+        "ChangedPixels": 0
+      },
+      {
+        "Region": [
+          1188,
+          306,
+          199,
+          233
+        ],
+        "CheckedPixels": 35668,
+        "ChangedPixels": 0
+      }
+    ],
+    "ProtectedHands": [
+      {
+        "Region": [
+          534,
+          451,
+          88,
+          142
+        ],
+        "CheckedPixels": 9371,
+        "ChangedPixels": 0
+      },
+      {
+        "Region": [
+          1113,
+          470,
+          132,
+          123
+        ],
+        "CheckedPixels": 12332,
+        "ChangedPixels": 0
+      },
+      {
+        "Region": [
+          1084,
+          715,
+          107,
+          68
+        ],
+        "CheckedPixels": 5376,
+        "ChangedPixels": 0
+      },
+      {
+        "Region": [
+          522,
+          716,
+          128,
+          76
+        ],
+        "CheckedPixels": 7233,
+        "ChangedPixels": 0
+      }
+    ],
+    "AllNonHeadlinePixelsIdentical": true
+  },
+  {
+    "Id": "15",
+    "GeneratedSource": "15",
+    "HeadlineRegions": [
+      [
+        192,
+        180,
+        505,
+        192
+      ],
+      [
+        990,
+        175,
+        665,
+        213
+      ]
+    ],
+    "OutsideChangedPixels": 0,
+    "RestoredFaces": [
+      {
+        "Region": [
+          748,
+          137,
+          198,
+          339
+        ],
+        "CheckedPixels": 51636,
+        "ChangedPixels": 0
+      }
+    ],
+    "ProtectedHands": [
+      {
+        "Region": [
+          668,
+          832,
+          331,
+          109
+        ],
+        "CheckedPixels": 27276,
+        "ChangedPixels": 0
+      }
+    ],
+    "AllNonHeadlinePixelsIdentical": true
+  },
+  {
+    "Id": "16",
+    "GeneratedSource": "16",
+    "HeadlineRegions": [
+      [
+        65,
+        10,
+        895,
+        525
+      ],
+      [
+        180,
+        510,
+        600,
+        42
+      ]
+    ],
+    "OutsideChangedPixels": 0,
+    "RestoredFaces": [
+      {
+        "Region": [
+          1072,
+          161,
+          356,
+          562
+        ],
+        "CheckedPixels": 155329,
+        "ChangedPixels": 0
+      }
+    ],
+    "ProtectedHands": [],
+    "AllNonHeadlinePixelsIdentical": true
+  },
+  {
+    "Id": "18",
+    "GeneratedSource": "18",
+    "HeadlineRegions": [
+      [
+        725,
+        15,
+        905,
+        465
+      ]
+    ],
+    "OutsideChangedPixels": 0,
+    "RestoredFaces": [
+      {
+        "Region": [
+          247,
+          143,
+          348,
+          524
+        ],
+        "CheckedPixels": 141563,
+        "ChangedPixels": 0
+      }
+    ],
+    "ProtectedHands": [],
+    "AllNonHeadlinePixelsIdentical": true
+  },
+  {
+    "Id": "20",
+    "GeneratedSource": "20",
+    "HeadlineRegions": [
+      [
+        120,
+        28,
+        1435,
+        143
+      ]
+    ],
+    "OutsideChangedPixels": 0,
+    "RestoredFaces": [
+      {
+        "Region": [
+          358,
+          297,
+          259,
+          419
+        ],
+        "CheckedPixels": 83904,
+        "ChangedPixels": 0
+      },
+      {
+        "Region": [
+          900,
+          249,
+          280,
+          449
+        ],
+        "CheckedPixels": 97318,
+        "ChangedPixels": 0
+      }
+    ],
+    "ProtectedHands": [],
+    "AllNonHeadlinePixelsIdentical": true
+  },
+  {
+    "Id": "22",
+    "GeneratedSource": "22",
+    "HeadlineRegions": [
+      [
+        35,
+        0,
+        1600,
+        230
+      ]
+    ],
+    "OutsideChangedPixels": 0,
+    "RestoredFaces": [
+      {
+        "Region": [
+          802,
+          257,
+          275,
+          357
+        ],
+        "CheckedPixels": 75964,
+        "ChangedPixels": 0
+      }
+    ],
+    "ProtectedHands": [
+      {
+        "Region": [
+          686,
+          682,
+          249,
+          259
+        ],
+        "CheckedPixels": 49808,
+        "ChangedPixels": 0
+      },
+      {
+        "Region": [
+          907,
+          876,
+          205,
+          65
+        ],
+        "CheckedPixels": 9804,
+        "ChangedPixels": 0
+      }
+    ],
+    "AllNonHeadlinePixelsIdentical": true
+  }
+]

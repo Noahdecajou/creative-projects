@@ -1,0 +1,130 @@
+{
+  "slides": [
+    {
+      "slide": 1,
+      "changed": true,
+      "export_dimensions": [
+        1080,
+        1440
+      ],
+      "native_dimensions": [
+        1086,
+        1448
+      ],
+      "png_sha256": "cec0c6323b8c65d367055d23eadd6fc7f94953e30f1a981b818794ad97df6fa4",
+      "unchanged_assets_identical_to_V01": null,
+      "files_verified": true
+    },
+    {
+      "slide": 2,
+      "changed": false,
+      "export_dimensions": [
+        1080,
+        1440
+      ],
+      "native_dimensions": [
+        1086,
+        1448
+      ],
+      "png_sha256": "a11aad8ff52dbddc24278f8c2f0aa41fecbe89d773b173ea99997ae66a01cb7c",
+      "unchanged_assets_identical_to_V01": true,
+      "files_verified": true
+    },
+    {
+      "slide": 3,
+      "changed": true,
+      "export_dimensions": [
+        1080,
+        1440
+      ],
+      "native_dimensions": [
+        1086,
+        1448
+      ],
+      "png_sha256": "28feaaeb0efa76b57761f5857e61084e837b0af7c31cc7b2acb25e02e0df9fe7",
+      "unchanged_assets_identical_to_V01": null,
+      "files_verified": true
+    },
+    {
+      "slide": 4,
+      "changed": false,
+      "export_dimensions": [
+        1080,
+        1440
+      ],
+      "native_dimensions": [
+        1086,
+        1448
+      ],
+      "png_sha256": "6dace02873bac271ab1afa66420cab9fc952dd493279085bdc55828f6d00d4ac",
+      "unchanged_assets_identical_to_V01": true,
+      "files_verified": true
+    },
+    {
+      "slide": 5,
+      "changed": true,
+      "export_dimensions": [
+        1080,
+        1440
+      ],
+      "native_dimensions": [
+        1086,
+        1448
+      ],
+      "png_sha256": "b797438048e049df7fd80bae6fa9c3e96a06f5a96c40b7776ba2b0ee4037c86a",
+      "unchanged_assets_identical_to_V01": null,
+      "files_verified": true
+    },
+    {
+      "slide": 6,
+      "changed": true,
+      "export_dimensions": [
+        1080,
+        1440
+      ],
+      "native_dimensions": [
+        1086,
+        1448
+      ],
+      "png_sha256": "6e499ddea63aec82ad416e9b61e1271fafbf6d29013b0ff0fa227c0fdb88fd1a",
+      "unchanged_assets_identical_to_V01": null,
+      "files_verified": true
+    },
+    {
+      "slide": 7,
+      "changed": false,
+      "export_dimensions": [
+        1080,
+        1440
+      ],
+      "native_dimensions": [
+        1086,
+        1448
+      ],
+      "png_sha256": "01ad28f8c3334479e5a3fbe0372f605700bd16a8b40accb08737d4f8c2c5ecae",
+      "unchanged_assets_identical_to_V01": true,
+      "files_verified": true
+    }
+  ],
+  "changed_slides": [
+    1,
+    3,
+    5,
+    6
+  ],
+  "unchanged_slides": [
+    2,
+    4,
+    7
+  ],
+  "unchanged_assets_byte_identical": true,
+  "png_count": 7,
+  "jpeg_count": 7,
+  "master_count": 7,
+  "zip_entries": 7,
+  "zip_integrity": true,
+  "zip_matches_exports": true,
+  "zip_sha256": "1a10e51bfe6eae8839573660e9ed8bb703b56912866a268b9d611c35c8296978",
+  "all_reference_copies_identical": true,
+  "all_gallery_links_exist": true
+}

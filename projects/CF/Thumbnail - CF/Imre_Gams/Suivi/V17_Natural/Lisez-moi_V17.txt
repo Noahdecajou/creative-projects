@@ -1,0 +1,32 @@
+CHARTFANATICS — IMRE GAMS / RIZ
+Variante V17 : style photographique naturel
+15 octobre 2026
+
+ACCROCHE
+price is not value.
+Texte blanc, « value. » jaune. Sans guillemets : accroche éditoriale, pas citation attribuée.
+
+EXPORTS
+Imre_Riz_Natural_V17_1280x720.jpg : format YouTube.
+Imre_Riz_Natural_V17_3840x2160.png : agrandissement de présentation, non natif 4K.
+Montage de travail : 1440 × 810.
+Aucun grain ajouté.
+
+SOURCES ET TRAITEMENT
+Portraits : Sources_HD/frame_61200.jpg, capture native 1920 × 1080 à 00:34:00.
+Le cadrage retire du décor vide entre les deux hommes sans redimensionner séparément les têtes et les corps.
+Visages, cheveux, bras et main sont réintégrés depuis la capture originale.
+Le décor lumineux et les vêtements sont reconstruits avec l'outil ImageGen intégré pour retirer les microphones. Les contours des silhouettes restent ceux de la photo originale.
+La typographie est posée séparément en Arial Bold.
+Le tableau est une illustration de prix, sans données de marché ni promesse de résultats.
+Les trois références de style fournies par l'utilisateur ne servent pas de sources d'identité ou de texte.
+
+VERSIONS
+Cette piste est enregistrée séparément des V14 / V15 / V16.
+Une seule variante nouvelle est livrée.
+
+FICHIERS DE TRAVAIL
+Masters/V17_Natural : capture, plaques, masques, montage natif.
+Suivi/V17_Natural/build_v17.ps1 : assemblage reproductible.
+Suivi/V17_Natural/Prompts_V17.txt : prompts ImageGen utilisés.
+Apercus/V17_Natural/Variante_V17.html : aperçu, mobile et comparaison V16.

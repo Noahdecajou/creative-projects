@@ -1,0 +1,27 @@
+SAMPSA JEPPEZ — V01 — 13 octobre 2026
+
+DIRECTION ARTISTIQUE
+Série créée à partir des références Design REF et du guide outputs/Design_Ref_Analyse_V01 : fond charbon, touches du studio chaud, typographie géométrique blanche, emphases rouges, montants positifs verts, cartes translucides, portraits dominants, footer Words of Rizdom et capsule Swipe sur les slides 1 à 6. Composition duo Riz/Sampsa sur la slide finale.
+
+PRODUCTION ET FORMAT
+Outil : image_gen.imagegen intégré. Sept générations indépendantes, chacune alimentée par une référence de composition et une capture originale de Sampsa ; capture originale de Riz ajoutée pour la finale.
+Les rendus sont génératifs. L’identité a été demandée et contrôlée visuellement ; la conservation pixel à pixel des visages et une police typographique exacte ne sont pas garanties par cette méthode.
+Sept masters natifs 1086 × 1448 conservés sans modification. Exports PNG/JPEG 1080 × 1440 (3:4), obtenus par une réduction mécanique mineure. Aucun agrandissement 4K. Aucun PSD ou calque texte éditable.
+Images source : captures originales 1920 × 1080 du dossier Thumbnail WOR/outputs/Sampsa_Jeppez/V05_Natural_Set/sources_HD. Photos et références copiées, hashes vérifiés. Les autres invités ne sont pas des références d’identité.
+
+TEXTE ET PROVENANCE
+Base : texte de sept slides fourni par l’utilisateur. Public copy en anglais.
+Slide 4 : « he gained confidence so he would increase » devient « he gained the confidence to increase » pour la fluidité.
+Slide 5 : correction de « enerated » en « generated » et formulation au passé « he hired a quant and automated his strategies ».
+CTA : conservation du mot-clé « X » demandé ; non remplacé par « JEPPEZ ».
+Les chiffres sont issus du récit de l’invité dans la transcription locale WOR Jeppez.txt ; ils ne sont pas présentés ici comme un audit indépendant.
+
+REPÈRES DANS LA TRANSCRIPTION
+00:00–01:12 : le présentateur décrit le passage d’un plus bas de capital de 12 000 dollars à plus de 5 millions.
+00:01:12–01:33 : systèmes quantifiés et données donnant la confiance nécessaire pour augmenter la taille.
+00:01:36–02:24 : pertes des deux premières années, premiers 10 000 dollars perdus sur les breakouts small caps, puis nouvelles pertes en swing trading.
+00:04:12–04:37 : drawdown de 46 % pendant un mois de novembre, récupération encore en cours au moment de l’entretien.
+00:09:38–10:26 : quant ayant codé et surveillant les algorithmes.
+00:11:52–12:18 : plus de 3 millions de profits lors des trois premiers mois à pleine taille (juillet, août, septembre 2025), puis drawdown d’environ 1 million ; environ 2 millions nets évoqués au moment de l’entretien. La slide reprend les profits de ces trois mois, pas un résultat net ultérieur ni un payout.
+00:12:36–13:10 : étude des causes du drawdown, réflexion sur les tailles, prudence face au surajustement des stratégies. « Ne pas abandonner immédiatement » ne signifie pas absence d’analyse ou d’ajustements.
+00:24:39–25:34 : recherche d’un edge quantitatif après deux années de pertes.

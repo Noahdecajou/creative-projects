@@ -1,0 +1,16 @@
+SAMPSA JEPPEZ — V02 — 13 octobre 2026
+
+RÉVISIONS DEMANDÉES
+Slide 1 : regard horizontal vers un interlocuteur, tête redressée, expression de conversation.
+Slide 3 : nouveau point de vue depuis le côté gauche de Sampsa, visage tourné vers la droite de l’image. Typographie et structure conservées.
+Slide 5 : plan par-dessus l’épaule de Riz, vu de dos au premier plan ; Sampsa visible de face/trois-quarts en train de parler. L’exemple Sampsa_22_1280 (1).jpg fourni par l’utilisateur sert de référence d’angle. Les captures originales servent de références d’identité. Le titre jaune de l’inspiration n’est pas repris.
+Slide 6 : remplacement du portrait par un graphique technique de drawdown de 0 % à −46 %, légendé « ILLUSTRATIVE DRAWDOWN ». La trajectoire intermédiaire est schématique : elle n’est pas la courbe historique du compte. Aucun relevé journalier n’a été fourni. Aucun portrait sur cette slide.
+Slides 2, 4 et 7 : PNG, JPEG et master copiés à l’identique depuis V01 ; correspondance SHA-256 vérifiée.
+
+PRODUCTION
+Quatre éditions avec l’outil intégré image_gen.imagegen. Les visages et les nouveaux angles sont des rendus génératifs fondés sur les captures originales ; aucune conservation pixel à pixel de l’identité n’est revendiquée. Aucun filtre de lissage ou de netteté n’a été ajouté après la génération.
+Les quatre masters générés sont conservés à leur taille native 1086 × 1448. Les sept exports PNG/JPEG sont en 1080 × 1440. Seule une réduction mécanique mineure a été appliquée aux quatre nouvelles images. V01 reste intacte.
+Les textes du carrousel et le CTA « X » restent ceux de V01. Seule la légende descriptive du graphique a été ajoutée en slide 6.
+Le contexte éditorial, les repères de transcription et les limites de provenance des performances sont conservés dans Notes_editoriales_V01.txt.
+Voir Prompts_imagegen.json pour les quatre demandes d’édition ; Prompts_imagegen_V01.json pour les sept générations initiales. Les sources, captures et références sont conservées dans Sources.
+Le ZIP principal contient exactement sept PNG. Les JPEG, masters, sources et documents de production restent accessibles dans le dossier complet. Les textes sont intégrés aux pixels, sans fichier PSD ni calques texte.

@@ -1,0 +1,33 @@
+{
+  "Version": "V09_StyleNaturel",
+  "Date": "2026-10-15",
+  "PNGCount": 1,
+  "Width": 3840,
+  "Height": 2160,
+  "Native4K": false,
+  "GeneratedPlateDimensions": "1672x941",
+  "AddedGrain": false,
+  "OriginalSourcesUnchanged": 54,
+  "PreviousExportsUnchanged": 9,
+  "FacePhotoVerification": {
+    "OriginalCasperFaceRGBChangedPixels": 0,
+    "FaceVerificationROI": "1980,380,320,440",
+    "OriginalCasperNeckRGBChangedPixels": 0,
+    "FaceWarp": false,
+    "HeadRotation": 0,
+    "WholeHeadAndNeckPhotoLayer": true,
+    "AddedGrain": false,
+    "NativeSource": "3840x2160",
+    "GeneratedPlate": "1672x941",
+    "PortraitScale": 1.02,
+    "Final": "3840x2160"
+  },
+  "Text": "Trading in 3 decisions.",
+  "NativeTypography": true,
+  "MasterEqualsFinalExport": true,
+  "VisualReview": "1280 and 320 previews, original photographic head and neck, hair boundary, glasses, collar and hands",
+  "Archive": "Casper_09_Style_Naturel_V09_3840x2160.zip",
+  "ArchiveEntries": 1,
+  "ArchivePayloadHashesMatch": true,
+  "ArchiveSHA256": "271EE257D07E5D69FE84C18FF03B4CE1368FDB5EB243A885F05C04093C67B4A6"
+}

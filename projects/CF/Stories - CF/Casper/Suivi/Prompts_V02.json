@@ -1,0 +1,53 @@
+{
+  "version": "V02",
+  "requested_change": "Supprimer les halos verts et rouges du fond",
+  "mode": "ImageGen intégré",
+  "prompts": [
+    "Localized edit of this exact finished vertical Story. REMOVE ALL decorative GREEN and RED glowing light/halos from the dark background ONLY, including top left green, right red, bottom left green, bottom right red and any colored atmosphere around edges. Replace those background colors with neutral matte black/charcoal matching existing uncolored dark background and fine grain. No colored ambient glow anywhere. Preserve exactly the entire existing layout, size, typography, all text, logo, natural photographic faces/skin/hair/glasses/clothes/hands, scene, tabletop, charts, labels, yellow bands, CTA and red YouTube icon. Actual green/red chart candles, logo accents and colored headline bands are content: keep those. Do not desaturate people or charts. Do not regenerate faces. Change only decorative background illumination; neutral background, same portrait 9:16 output.",
+    "Localized edit ONLY decorative background lighting on this exact vertical Story. Remove completely ALL green and red ambient glowing halos from the charcoal background including all corners and edges, replace with neutral matte black charcoal fine grain. Preserve exact layout, every word and font and band position, faces/hair/glasses/skin/clothes/hands/scene/board/chart/CTA unchanged. Keep real chart colors, colored headline/content bands, small logo green/red accents and red YouTube icon. Do not regenerate faces, do not alter subject saturation. Neutral dark background, no colored ambient glow. Same portrait 9:16.",
+    "Localized edit ONLY decorative background lighting on this exact vertical Story. Remove completely ALL green and red ambient glowing halos from charcoal background including all corners/edges; replace with neutral matte black charcoal fine grain. Preserve exact layout, every word/font/band position, faces/hair/glasses/skin/clothes/hands/scene/board/chart/CTA unchanged. Keep real studio lamp warmth and blue studio light, actual chart colors, colored content bands, small logo green/red accents and red YouTube icon. Do not regenerate faces or alter subject saturation. Neutral dark poster background, no decorative green/red ambient glow. Same portrait 9:16.",
+    "Localized edit ONLY decorative background lighting on this exact vertical Story. Remove completely ALL GREEN and RED ambient glowing halos from dark background including all corners and edges. Replace with neutral matte black charcoal fine grain. Preserve exact layout, every word/font/band position, faces/hair/glasses/skin/clothes/hands/scene/table/board/chart/CTA unchanged. Keep studio and plants natural, colored headline bands (red) and blue labels, small logo green/red accents, red YouTube icon. Keep intentional PIXELATED Casper face if present. No face regeneration. Neutral dark background no green/red atmosphere. Same portrait 9:16."
+  ],
+  "outputs": [
+    {
+      "name": "01_Trade_With_A_System",
+      "source": "Masters/V01/01_Trade_With_A_System.png",
+      "output": "Generated images are saved to C:\\Users\\notti\\.codex\\generated_images\\01a134a9-2bf3-7731-98a6-fa8b34752743 as C:\\Users\\notti\\.codex\\generated_images\\01a134a9-2bf3-7731-98a6-fa8b34752743\\exec-5f4bd975-b882-46a4-9978-89581a480cf7.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+    },
+    {
+      "name": "02_Who_Is_In_Control",
+      "source": "Masters/V01/02_Who_Is_In_Control.png",
+      "output": "Generated images are saved to C:\\Users\\notti\\.codex\\generated_images\\01a134a9-2bf3-7731-98a6-fa8b34752743 as C:\\Users\\notti\\.codex\\generated_images\\01a134a9-2bf3-7731-98a6-fa8b34752743\\exec-c30dcf1f-9978-494c-9242-7a4642a15107.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+    },
+    {
+      "name": "03_Trading_In_3_Decisions",
+      "source": "Masters/V01/03_Trading_In_3_Decisions.png",
+      "output": "Generated images are saved to C:\\Users\\notti\\.codex\\generated_images\\01a134a9-2bf3-7731-98a6-fa8b34752743 as C:\\Users\\notti\\.codex\\generated_images\\01a134a9-2bf3-7731-98a6-fa8b34752743\\exec-d91f7bba-65fa-4d73-b3ad-162a0b8364df.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+    },
+    {
+      "name": "04_Stop_Overthinking",
+      "source": "Masters/V01/04_Stop_Overthinking.png",
+      "output": "Generated images are saved to C:\\Users\\notti\\.codex\\generated_images\\01a134a9-2bf3-7731-98a6-fa8b34752743 as C:\\Users\\notti\\.codex\\generated_images\\01a134a9-2bf3-7731-98a6-fa8b34752743\\exec-1ab90b0b-d2f1-4bf4-b5f7-709f47da5d1a.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+    },
+    {
+      "name": "05_Master_Volume_Profile",
+      "source": "Masters/V01/05_Master_Volume_Profile.png",
+      "output": "Generated images are saved to C:\\Users\\notti\\.codex\\generated_images\\01a134a9-2bf3-7731-98a6-fa8b34752743 as C:\\Users\\notti\\.codex\\generated_images\\01a134a9-2bf3-7731-98a6-fa8b34752743\\exec-2e5c7348-e79f-4769-b41f-779b052e9df5.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+    },
+    {
+      "name": "06_Read_The_Market",
+      "source": "Masters/V01/06_Read_The_Market.png",
+      "output": "Generated images are saved to C:\\Users\\notti\\.codex\\generated_images\\01a134a9-2bf3-7731-98a6-fa8b34752743 as C:\\Users\\notti\\.codex\\generated_images\\01a134a9-2bf3-7731-98a6-fa8b34752743\\exec-0f28188a-bad4-41a3-bf53-3d93df211a0e.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+    },
+    {
+      "name": "07_Let_Your_Winners_Run",
+      "source": "Masters/V01/07_Let_Your_Winners_Run.png",
+      "output": "Generated images are saved to C:\\Users\\notti\\.codex\\generated_images\\01a134a9-2bf3-7731-98a6-fa8b34752743 as C:\\Users\\notti\\.codex\\generated_images\\01a134a9-2bf3-7731-98a6-fa8b34752743\\exec-585242a3-8d63-4d9c-84f2-fbd378174e40.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+    },
+    {
+      "name": "08_Price_To_Order_Flow",
+      "source": "Masters/V01/08_Price_To_Order_Flow.png",
+      "output": "Generated images are saved to C:\\Users\\notti\\.codex\\generated_images\\01a134a9-2bf3-7731-98a6-fa8b34752743 as C:\\Users\\notti\\.codex\\generated_images\\01a134a9-2bf3-7731-98a6-fa8b34752743\\exec-86b87e80-0321-405a-82f2-5580306de563.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+    }
+  ]
+}

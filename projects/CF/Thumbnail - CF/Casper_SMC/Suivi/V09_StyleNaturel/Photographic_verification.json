@@ -1,0 +1,13 @@
+{
+  "OriginalCasperFaceRGBChangedPixels": 0,
+  "FaceVerificationROI": "1980,380,320,440",
+  "OriginalCasperNeckRGBChangedPixels": 0,
+  "FaceWarp": false,
+  "HeadRotation": 0,
+  "WholeHeadAndNeckPhotoLayer": true,
+  "AddedGrain": false,
+  "NativeSource": "3840x2160",
+  "GeneratedPlate": "1672x941",
+  "PortraitScale": 1.02,
+  "Final": "3840x2160"
+}

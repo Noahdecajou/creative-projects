@@ -6,8 +6,8 @@
       "project": "Thumbnail WOR",
       "destination": "projects/WOR/Thumbnail WOR",
       "counts": {
-        "included": 100,
-        "media_or_binary": 980
+        "included": 202,
+        "media_or_binary": 1499
       }
     },
     {
@@ -31,9 +31,9 @@
       "project": "Carousel - WOR",
       "destination": "projects/WOR/Carousel - WOR",
       "counts": {
-        "included": 4,
-        "large_or_embedded_asset": 5,
-        "media_or_binary": 44
+        "included": 79,
+        "large_or_embedded_asset": 67,
+        "media_or_binary": 366
       }
     },
     {
@@ -72,8 +72,8 @@
       "project": "Thumbnail - CF",
       "destination": "projects/CF/Thumbnail - CF",
       "counts": {
-        "included": 332,
-        "media_or_binary": 1663,
+        "included": 426,
+        "media_or_binary": 1770,
         "private_or_runtime": 10
       }
     },
@@ -81,8 +81,8 @@
       "project": "Stories - CF",
       "destination": "projects/CF/Stories - CF",
       "counts": {
-        "included": 23,
-        "media_or_binary": 127
+        "included": 51,
+        "media_or_binary": 251
       }
     },
     {
@@ -102,8 +102,8 @@
       "project": "Apex - ADS",
       "destination": "projects/ADS/Apex - ADS",
       "counts": {
-        "included": 3,
-        "media_or_binary": 8
+        "included": 7,
+        "media_or_binary": 15
       }
     },
     {
@@ -150,15 +150,35 @@
       "destination": "projects/WOR/WOR Studio",
       "counts": {
         "included": 29,
-        "outside_studio_allowlist": 63
+        "outside_studio_allowlist": 72
       }
     }
   ],
   "files": [
     {
       "path": "projects/ADS/Apex - ADS/Design-Rules.txt",
-      "bytes": 622,
-      "sha256": "e570348b8777d38918e3015c2606299115d79dadd1b09c328c05a432f3afcd8f"
+      "bytes": 677,
+      "sha256": "3223c4f9f7ccb41b90c0eb9ebeb38b0507b5b8f235344ae7497709bf4ae95074"
+    },
+    {
+      "path": "projects/ADS/Apex - ADS/Output/Apex-5-Pack-Deals-CF-v1-prompt.txt",
+      "bytes": 3598,
+      "sha256": "2bf6de32cf69b7d6b209be44f77a833d52f0771086cde0b5b4bbaa99e51e3691"
+    },
+    {
+      "path": "projects/ADS/Apex - ADS/Output/Apex-5-Pack-Deals-CF-v2-Gradient-prompt.txt",
+      "bytes": 1847,
+      "sha256": "479b4fa5554a61e32dbe17bb0c28b39747b3abde1f92f688f3d383cf7a9bae10"
+    },
+    {
+      "path": "projects/ADS/Apex - ADS/Output/Apex-5-Pack-v3-prompts.txt",
+      "bytes": 3201,
+      "sha256": "a0d9ac4b3f8c3374eed47142f2884b300ae0a8d9893e81c40cad7390fa33df4e"
+    },
+    {
+      "path": "projects/ADS/Apex - ADS/Output/Apex-5-Pack-v4-prompts.txt",
+      "bytes": 4633,
+      "sha256": "77dbd9e1bfccecd134e3725ca547243196e8a1e940193a3c0ae5733e75178ce5"
     },
     {
       "path": "projects/ADS/Apex - ADS/Output/Apex-5-Year-92-Flash-Sale-CF-prompt.txt",
@@ -496,14 +516,74 @@
       "sha256": "33bf83bfb194851c551c14e8fd6d30866d995627d2568dedebce0ff3464027b8"
     },
     {
+      "path": "projects/CF/Stories - CF/Casper/Suivi/Prompts_V02.json",
+      "bytes": 8349,
+      "sha256": "06152c378399a21bc60914200ec321d8611a07d5d8391ef119ee95abfa148801"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Casper/Suivi/V03/Composition.json",
+      "bytes": 2234,
+      "sha256": "63aa73851660a97b395a21f5bfd85fc4c14ca6d54da0c0a54679021855de49ef"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Casper/Suivi/V03/LIRE_MOI.txt",
+      "bytes": 1392,
+      "sha256": "c9c5f1a2c8a9bb73c24fae66c647efe88e338f29b947ce96d6c52079e576e556"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Casper/Suivi/V03/Verification.json",
+      "bytes": 2126,
+      "sha256": "aca824bcd2db5cab0bb53f6083171c2a277f50486fd257be5fa43c39c67e281c"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Casper/Suivi/V03/compose_v03.py",
+      "bytes": 6821,
+      "sha256": "3f91b049bb9edd19c258d420cb2d83bfd5b71113039b8b5871b9f532e7075151"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Casper/Suivi/V03/package_v03.py",
+      "bytes": 3187,
+      "sha256": "0e0bbc0fde7dbb2f32dd3f42fcba052d00d78158f23ef5743e7ed4f8803b2d85"
+    },
+    {
       "path": "projects/CF/Stories - CF/Casper/Suivi/Verification_V01.json",
       "bytes": 2361,
       "sha256": "89b0df011b6f4678d055972116be0995eb6026773ae45b494bb6d2e012c3f354"
     },
     {
+      "path": "projects/CF/Stories - CF/Casper/Suivi/Verification_V02.json",
+      "bytes": 2361,
+      "sha256": "59a4e26fcb862401d03a5d7fd8032088dccc2360f0a557f8d3049d965be1c8b5"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Casper/Suivi/Verification_grain_V03.json",
+      "bytes": 1931,
+      "sha256": "107e5c169ab5d589549e0829498380d02a40695b02f40ed79984f336b6b96c3c"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Casper/Suivi/Verification_grain_V03_integrite.json",
+      "bytes": 2635,
+      "sha256": "3d6dc9ec0ffe25c8a27086cbf3f726c6bb9368af6e822fb7ad658cc6d2bee709"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Casper/Suivi/add_grain_4pct_v03.ps1",
+      "bytes": 2404,
+      "sha256": "6e6dd8af65c77a2b557de0dbdc74909eb7af0eff38b3184507204398618f6764"
+    },
+    {
       "path": "projects/CF/Stories - CF/Casper/Suivi/export_verify.py",
       "bytes": 1907,
       "sha256": "cdec03c30c5db68d1fa601fe091b0e298f03fa60a7390672b63f4f92bb8bcec8"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Casper/Suivi/export_verify_v02.py",
+      "bytes": 1909,
+      "sha256": "41d0c0b2cafbc1e1f740fe0886a48755ebfb5bd44f2e9bc945bc9953032e3059"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Casper/Suivi/verify_grain_v03.py",
+      "bytes": 2069,
+      "sha256": "570edcd41b861fdbeeabdd142114154f5dd49edca85258ef52ba6f9c373b4f4b"
     },
     {
       "path": "projects/CF/Stories - CF/Fiche_style.txt",
@@ -514,6 +594,16 @@
       "path": "projects/CF/Stories - CF/Imre_Gams/Apercus/V01/Galerie_V01.html",
       "bytes": 1474,
       "sha256": "7be94e55f28c659a9fd5783b78fdbbc025721909be276693c9fc563d16d07aa9"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Imre_Gams/Apercus/V02/Galerie_V02.html",
+      "bytes": 1474,
+      "sha256": "019a8c125679bad4aeb05065ed18c73bf432da952f7e514b3cd1e30eb529c09c"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Imre_Gams/Apercus/V03/Galerie_V03.html",
+      "bytes": 1474,
+      "sha256": "3f417d4999dd252cb06d3bcb42ceb00e439e018bd23f0b1b82a4398991ed43e2"
     },
     {
       "path": "projects/CF/Stories - CF/Imre_Gams/References/Fiche_style_V01.txt",
@@ -534,6 +624,76 @@
       "path": "projects/CF/Stories - CF/Imre_Gams/Suivi/V01/export_verify.py",
       "bytes": 2954,
       "sha256": "f007251b9d24c1544dcdc396a3491afd513a01cf39d21278375d25ae2a878181"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Imre_Gams/Suivi/V02/Modification.txt",
+      "bytes": 779,
+      "sha256": "0e7671c9c7f5c7e7ab54b5d5411270c96afd50bac0038609a3d32665e9ca2025"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Imre_Gams/Suivi/V02/Prompts_et_sources.json",
+      "bytes": 10058,
+      "sha256": "c042bfcaf1938190e6c4b297f5469e61fa31f3f7f50bdc82dbb6747e5e19e2d4"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Imre_Gams/Suivi/V02/Verification.json",
+      "bytes": 3202,
+      "sha256": "0cb2bb49138068c72e895ea75697e9d3c76336cc76b06c9c830f5a0a2b494a51"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Imre_Gams/Suivi/V02/export_verify.py",
+      "bytes": 2956,
+      "sha256": "c7458788eab8434982eca2eca9801aaf9c6a43d2b6826d423d9ffba15f79c383"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Imre_Gams/Suivi/V02/restore_faces.ps1",
+      "bytes": 2499,
+      "sha256": "a8774cb224b8497746b8049cc91c6e41cf2e796bb3720b98e2f794f9e8b2b417"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Imre_Gams/Suivi/V03/Identity_pixel_checks.csv",
+      "bytes": 856,
+      "sha256": "bcd8e3065cedbb6e7f467440c1359e52faab2c3787000b5ce5ec1408b2dcd4ce"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Imre_Gams/Suivi/V03/LIRE_MOI.txt",
+      "bytes": 2602,
+      "sha256": "8c906ae75f22911107d8aac29d9ef80542edc4c5788311592d5dae11b35d8c8e"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Imre_Gams/Suivi/V03/Modification.txt",
+      "bytes": 660,
+      "sha256": "b28c77bfee7e2219b9b49541d9ea5c969b71ef682757c25e7a4f74b447b65a78"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Imre_Gams/Suivi/V03/Verification.json",
+      "bytes": 3213,
+      "sha256": "ff535fe32ee897094ce8c7b2e018ec721e624ce0277b3259b1cac5c19f1b07e5"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Imre_Gams/Suivi/V03/Verification_grain.json",
+      "bytes": 1925,
+      "sha256": "f3d8513282b4eb7ea0468e4a1590a93295afb761ff633c73676ab1594cfbb2fd"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Imre_Gams/Suivi/V03/add_grain_3pct.ps1",
+      "bytes": 2375,
+      "sha256": "57a6e6bfdec146dd8c22b6bea327db644462362b02e06a6940a8cf5fa830f021"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Imre_Gams/Suivi/V03/export_verify.py",
+      "bytes": 2969,
+      "sha256": "9b54a24a7c619283e9c6c1bb63ae2387d047814a645dfca64fdc5f80492175e6"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Imre_Gams/Suivi/V03/noise.ps1",
+      "bytes": 1737,
+      "sha256": "3581f9cdb989eabece68f28ac5c41ad3ffc2be99840b298bdc5a1930a24c5f6f"
+    },
+    {
+      "path": "projects/CF/Stories - CF/Imre_Gams/Suivi/V03/render.ps1",
+      "bytes": 326,
+      "sha256": "b14ab4387dea1733f7f5b28c669dd9c8190aae225623807a0c97cf71b7974d82"
     },
     {
       "path": "projects/CF/Stories - CF/PROJECT.md",
@@ -631,6 +791,21 @@
       "sha256": "b396be33f691d88e01060ea02fc595b1ab2dbd4f9f3404d905c796807ebfc7cc"
     },
     {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/LISEZ_MOI_V08_StyleNaturel.txt",
+      "bytes": 3118,
+      "sha256": "19cee74fc1d942f18bc4a831fe7d67d61e44166a78fb27b9e24406c592d427ff"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/LISEZ_MOI_V09_StyleNaturel.txt",
+      "bytes": 2052,
+      "sha256": "578fb39a52047a20d7c16508d1836f0dd10648e592a4f229d70b7d38ed84c902"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/LISEZ_MOI_V10_Expression.txt",
+      "bytes": 1928,
+      "sha256": "b6e6b8677ce894070a8e639e7e09273ba8c3029248120eb47be28dc6de0da05e"
+    },
+    {
       "path": "projects/CF/Thumbnail - CF/Casper_SMC/Livraison/Verification_Production_V03.json",
       "bytes": 200,
       "sha256": "8913a2446d1138c03aa9856e2db9e5071f109aa9fdcd09e354389d60cb1be754"
@@ -654,6 +829,21 @@
       "path": "projects/CF/Thumbnail - CF/Casper_SMC/Livraison/Verification_Production_V07.json",
       "bytes": 200,
       "sha256": "732227b726a2ed7f928bedfef7ef55b6f8e544ddc0a8290cc48302b9ab3a8c8a"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Livraison/Verification_Production_V08_StyleNaturel.json",
+      "bytes": 217,
+      "sha256": "87f869b793aae8b1682d3876727d8a372e09684f7fe30aee0c3746c4312972b1"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Livraison/Verification_Production_V09_StyleNaturel.json",
+      "bytes": 217,
+      "sha256": "5f9ed4646bbb8ed5f8ce8d15ec2c204fbd94a155578a86b8028d8aab149a5a22"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Livraison/Verification_Production_V10_Expression.json",
+      "bytes": 214,
+      "sha256": "6dc218edff3ae798227b5d1fb742ad83cf26be9440979f2e158e38e5e1fee6d1"
     },
     {
       "path": "projects/CF/Thumbnail - CF/Casper_SMC/Livraison/Verification_Projet_Complet_V02.json",
@@ -1216,6 +1406,251 @@
       "sha256": "55047bf2a2678e44dc47d491f0f8f09dbf6ac02c5bec2ab6a962924abf36fbc5"
     },
     {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V08_StyleNaturel/Final_manifest.csv",
+      "bytes": 378,
+      "sha256": "18fe8f06060b8e2978983df720b727b1039157d6d0335e36f6114281eef4988c"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V08_StyleNaturel/Local_seams_verification.json",
+      "bytes": 250,
+      "sha256": "09e3ab837377072fa68bec908766bdc75076178b579c9a937bb10502db72e324"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V08_StyleNaturel/Original_sources_verified.csv",
+      "bytes": 2544,
+      "sha256": "37b071f5809b4a573beeae91d0f9251cb7068f27f803e5165135812285c6feab"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V08_StyleNaturel/Photo_RGB_preserved.csv",
+      "bytes": 97,
+      "sha256": "d3a6875ad782a113e3edad66d2e196fb182511789c6c034a79ef8f066ab93b93"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V08_StyleNaturel/Photo_face_composite.json",
+      "bytes": 616,
+      "sha256": "e769f495add85b633a742dc4d4677b04c5030c07c0829170b61b4691eb3585fb"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V08_StyleNaturel/Prompt_local_seams.txt",
+      "bytes": 1024,
+      "sha256": "e6990bd40840068a440e69672de866bb1f19bf1c3595695d0b33e1cc808699f8"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V08_StyleNaturel/Prompt_scene.txt",
+      "bytes": 2968,
+      "sha256": "7b46b4f6b0d4a465da887bc33504c6219435c571b614c8200dd36db58d04d51f"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V08_StyleNaturel/References_manifest.csv",
+      "bytes": 705,
+      "sha256": "a2c934de1cf18fd55084d3a7d6708854d5f88c90ac8b57bd2247f1270f3d0452"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V08_StyleNaturel/Suivi_titre.csv",
+      "bytes": 156,
+      "sha256": "298f40134328ea868805345e2bb722e579e9384fd08a8105231aa12df58e3cb4"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V08_StyleNaturel/Typography_manifest.json",
+      "bytes": 350,
+      "sha256": "317e8d150ca9611db7fe9fce61fcebddae1f60edd0dcb00e1f306be5a932f3fb"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V08_StyleNaturel/V07_preserved.csv",
+      "bytes": 518,
+      "sha256": "d0c38bb83233ced81759c7b768ada037f62ec556f92c7708b9f13a3663bce02c"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V08_StyleNaturel/Verification_V08.json",
+      "bytes": 740,
+      "sha256": "a5751351e4e42dc3c8fb30553ceae2ea76f31755738e7c4909637698f592984d"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V08_StyleNaturel/apply_local_seams.ps1",
+      "bytes": 3232,
+      "sha256": "67e317f3f651e7807b8eaf9ba4fb2fa6c6ae7795bb92d0b2d2c85a7fe5603a2d"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V08_StyleNaturel/compose_photographic_faces.ps1",
+      "bytes": 3361,
+      "sha256": "e9ae89adb4a03784b23e2f1d82493bfc1ac132e9c11438669962ae2ce39951c4"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V08_StyleNaturel/drawing_functions.ps1",
+      "bytes": 8954,
+      "sha256": "c82de2e1c0c752e1e90ea35018293253b88c18e82aa0eff1ac3e3d6161f59886"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V08_StyleNaturel/render_v08_natural.ps1",
+      "bytes": 4574,
+      "sha256": "66a395d632204475d9359bbe8a78cb89d8639cc6ccdc803a45dc411acea18089"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V08_StyleNaturel/verify_package.ps1",
+      "bytes": 6978,
+      "sha256": "aa934dd1e7ffaa2d66692861e1d2155f5f3978d4ef984d356a4f5552b6e435fe"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V09_StyleNaturel/Final_manifest.csv",
+      "bytes": 378,
+      "sha256": "aff7c61161a961b73a815d5b1e44a14b47bfd40d3e3553dd395a8a803b361155"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V09_StyleNaturel/Original_head_assembly.json",
+      "bytes": 404,
+      "sha256": "1a6b0f5eca8c6b018b315b33807919927908a5bdcb08736be495ea573a61c44c"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V09_StyleNaturel/Original_sources_verified.csv",
+      "bytes": 2544,
+      "sha256": "37b071f5809b4a573beeae91d0f9251cb7068f27f803e5165135812285c6feab"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V09_StyleNaturel/Photographic_verification.json",
+      "bytes": 362,
+      "sha256": "dba08aed2caeb127a1005a88e1c3555e51535f782328425ad7d99431978b9b92"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V09_StyleNaturel/Previous_exports_preserved.csv",
+      "bytes": 604,
+      "sha256": "940b3ffaef4da401cab81df70b6dcc9af8646ab918a9c3828e0e9ac1788f8c17"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V09_StyleNaturel/Prompt_body_integration.txt",
+      "bytes": 2261,
+      "sha256": "6028a9996df0e8879365e7fbe03ec50ffe870e8430d669b32cfdf4285471e780"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V09_StyleNaturel/Prompt_clean_background.txt",
+      "bytes": 710,
+      "sha256": "41a2d838eba633577925f9010708e2dba13ed3d0d9c8cd821520cc98d914beca"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V09_StyleNaturel/Prompt_scene.txt",
+      "bytes": 2933,
+      "sha256": "804e9ff0aeab42f0231409f767d60848194ffe94c542e05baf728a2bee24a9aa"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V09_StyleNaturel/Provenance.txt",
+      "bytes": 2341,
+      "sha256": "d2ec165823e32bfe14829fac02ccb0746a59cd5b0f4eb82eb658626a355a0207"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V09_StyleNaturel/Suivi_titres.csv",
+      "bytes": 209,
+      "sha256": "a806cdb120350653220e00d178db934bc5935aa89d631952422ccfff9ba2bb10"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V09_StyleNaturel/Typography_manifest.json",
+      "bytes": 558,
+      "sha256": "e7f5e1e9eb9423becbdf8a6eecfbbcb18c4ae229161e39f706310a96e485a192"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V09_StyleNaturel/V08_baseline.csv",
+      "bytes": 163,
+      "sha256": "ac66e26f65a3058d29b1daa42e234c441060cfd0be5d5096bbaa778e0aab1c67"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V09_StyleNaturel/Verification_V09.json",
+      "bytes": 1126,
+      "sha256": "b36d71c7f63fe8d72f3010430a2067ad2c09120f4cef14627d22f470931cb669"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V09_StyleNaturel/assemble_original_head.ps1",
+      "bytes": 4665,
+      "sha256": "de96366a288ef7dd27c1d5f901b1c5892231b9cc92607d763c95e252c3e0835a"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V09_StyleNaturel/drawing_functions.ps1",
+      "bytes": 8954,
+      "sha256": "c82de2e1c0c752e1e90ea35018293253b88c18e82aa0eff1ac3e3d6161f59886"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V09_StyleNaturel/finish_photo_v09.ps1",
+      "bytes": 6666,
+      "sha256": "cbff733b913b3528045ceae10e4b1b785fd098dce0d1a04d5476fe0ea188ab4a"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V09_StyleNaturel/render_v09_natural.ps1",
+      "bytes": 3612,
+      "sha256": "7c993ebd4b98c204d9cdce9d939bc1b8109b57f3edc8bdea7b142fedfa324158"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V09_StyleNaturel/verify_package.ps1",
+      "bytes": 5753,
+      "sha256": "e13f6c64b7b71f774f5af5555de1350fb548c8566cbc52de3d348d28d8e5094f"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V10_Expression/Final_manifest.csv",
+      "bytes": 380,
+      "sha256": "62116bdc1b73dfaf41b8bda95290d2bbd6b4eb093311850e1138fc5703c1317f"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V10_Expression/Local_edit_verification.json",
+      "bytes": 349,
+      "sha256": "e57eadf311d992410f2bfa071ad43f02f8bc3b2c5efb061cd3e7d20ff1425117"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V10_Expression/Original_sources_verified.csv",
+      "bytes": 2544,
+      "sha256": "37b071f5809b4a573beeae91d0f9251cb7068f27f803e5165135812285c6feab"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V10_Expression/Prompt_expression.txt",
+      "bytes": 1967,
+      "sha256": "3f97096184b912f267fd9d7f00d75a1c0f4e19e0a94ae26fb59017eab5e6437f"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V10_Expression/Provenance.txt",
+      "bytes": 964,
+      "sha256": "f2f39adf46c7b4e018d3640338514a562b627ea763b14cbcfcc8e086e070652a"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V10_Expression/References_manifest.csv",
+      "bytes": 356,
+      "sha256": "500601a2fb91d02dc6cdb6d8857eee78a0ee7fa99db4135a2586b281f5b2d1eb"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V10_Expression/Suivi_titres.csv",
+      "bytes": 218,
+      "sha256": "eb1efd1c4dfa6638b4be2f326c85f959b67cc7403a564134a433ef221f0a3234"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V10_Expression/Typography_manifest.json",
+      "bytes": 556,
+      "sha256": "836dae3abc7c454af780ee4cd7053f5f0fc1ba2468d8f11bfac71c41c2eea2a5"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V10_Expression/V09_baseline.csv",
+      "bytes": 378,
+      "sha256": "aff7c61161a961b73a815d5b1e44a14b47bfd40d3e3553dd395a8a803b361155"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V10_Expression/Verification_V10.json",
+      "bytes": 981,
+      "sha256": "11ea0eb50d4b9c17518115368ce82f985ab624fbc1543fd3ec2916700bffe6d4"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V10_Expression/compose_expression.ps1",
+      "bytes": 3672,
+      "sha256": "fb119decdc98e61919e1d24bed21dc5646aaf27101d0314a2839430b27c3e8e0"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V10_Expression/drawing_functions.ps1",
+      "bytes": 8954,
+      "sha256": "c82de2e1c0c752e1e90ea35018293253b88c18e82aa0eff1ac3e3d6161f59886"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V10_Expression/render_v10_expression.ps1",
+      "bytes": 3618,
+      "sha256": "bb9a72710b1719c2183b9049a9de57ed0db74cd25ca3551f17ce261a87326c82"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/V10_Expression/verify_package.ps1",
+      "bytes": 5129,
+      "sha256": "3c966974bce50e4ac048de182fc90db83bd2979946748b6ab316682162689e7b"
+    },
+    {
       "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/Verification_V02.json",
       "bytes": 655,
       "sha256": "32f95244280c1f888d95c6ec478f00a9734bc06f736cd1ac6d63d596130719c3"
@@ -1266,6 +1701,11 @@
       "sha256": "19947851b08d7729019982b99548b03288b1bdf87e761195fee987b82938a9d4"
     },
     {
+      "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/prepare_v08_natural.ps1",
+      "bytes": 1563,
+      "sha256": "3424d0636e770a7569ba9517b939759e866f95371420d15e10df23d10b48ddcd"
+    },
+    {
       "path": "projects/CF/Thumbnail - CF/Casper_SMC/Suivi/render_v01.ps1",
       "bytes": 11248,
       "sha256": "ebe27d3dc4c2cc9a7360e8ee112068baba5be54efcc11b9385f05a60b3a5a969"
@@ -1291,9 +1731,34 @@
       "sha256": "9a0d24fdedfad71f5039c0ba1670a1e8a625f0406b9b8dea5428fec63a5fae46"
     },
     {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Apercus/V15_Test01/Comparatif_V15.html",
+      "bytes": 5794,
+      "sha256": "03172e6c709675f27355d7c9e1a1e1cbe2fa4e7b5e378b6cfaa086d68a54b5d8"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Apercus/V16_Test01/Comparatif_V16.html",
+      "bytes": 5942,
+      "sha256": "b2c18c1f78d4982a08480517984a5a38cf7910c43165cdc0105f119f563c6d14"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Apercus/V17_Natural/Variante_V17.html",
+      "bytes": 2919,
+      "sha256": "2a27b8161b7920ae3911976907cc35a82b437389f92d4158fe2f947158ab2b66"
+    },
+    {
       "path": "projects/CF/Thumbnail - CF/Imre_Gams/Sources_HD/Transcript_Imre.txt",
       "bytes": 81095,
       "sha256": "65fe424b93e9c8f60ad10755ec325b7f26e365e5c0b849fb1f5fd1a99c438c0c"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/Audit_2026-10-14/Audit_visuel.html",
+      "bytes": 13128,
+      "sha256": "f7934da8194d5f9eca15c2cee12b0107720b876486dc4ca4542dbb54c5a9c6e0"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/Audit_2026-10-14/Sources_manifest.csv",
+      "bytes": 849,
+      "sha256": "f6b5733c9b25d8b81ea0e91a17adcce58c2f62cf1efeafe5decc56499c24eb39"
     },
     {
       "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/Brief_utilisateur.txt",
@@ -1969,6 +2434,171 @@
       "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V14/verify_v14.ps1",
       "bytes": 3556,
       "sha256": "19b51da5714866c2337a31ccfb0173f395d68324a72b78a6d6d0cb079dd990f8"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V15_Test01/Arrow_geometry.csv",
+      "bytes": 359,
+      "sha256": "20e2feabe92c49c043247cae3529a6596cdda754873b48bef407a466e7633bc1"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V15_Test01/Illustrative_candles.csv",
+      "bytes": 1127,
+      "sha256": "1cae6ea7f23c6a45518d1e80a2db3df797b0eab8eb7fe398721aac4cce6e9678"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V15_Test01/Prompt_ImageGen.txt",
+      "bytes": 2045,
+      "sha256": "fa62996c695537551a3cc7d2c773ca101d1ed2921bbc84d8819ccba6f145dd83"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V15_Test01/Typography_geometry.csv",
+      "bytes": 432,
+      "sha256": "5ab6ca438229e26915ad1a6740901d228c44e6d35b69d1d33eae9632007465c9"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V15_Test01/V14_preservation.csv",
+      "bytes": 399,
+      "sha256": "52fc42354a55bde7985433eb410ccc7301d0d736fbe3d185ddafecb9a3e0f076"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V15_Test01/Verification.csv",
+      "bytes": 481,
+      "sha256": "71a09884573438982a521912b3dbbd90c59936888a6b8d64a76771acd92d8b67"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V15_Test01/charts_v14.ps1",
+      "bytes": 4986,
+      "sha256": "422e310568a5e551fb1a010e28f6a4e66bfb298512fc4c393ec50dd5f08c7f3b"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V15_Test01/drawing_functions.ps1",
+      "bytes": 16173,
+      "sha256": "17817df82adb38d97df7712e262b9f6cd8d16e8a211cd3c9fdfb8afdcd482782"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V15_Test01/finish_v14.ps1",
+      "bytes": 9067,
+      "sha256": "265e1e5327c9ee031d41d681828082b3b4f8821c4f2775c47cd3a1b115df1e96"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V15_Test01/package_test.ps1",
+      "bytes": 2457,
+      "sha256": "5b42df68593b155ae8d087e72eef2df24fabaee108e1fff704ec01cd26ef00da"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V15_Test01/render_test01.ps1",
+      "bytes": 5941,
+      "sha256": "d0ce0426356d805514655ea093b63dae4f6f11480fcb0cd6b5193790e243a377"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V15_Test01/render_v14.ps1",
+      "bytes": 21787,
+      "sha256": "167b20c0b858d025e2f4b2a1efd2bd314e7092de64153ad07010e43cd34168c0"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V15_Test01/soft_glow.ps1",
+      "bytes": 2050,
+      "sha256": "33cc0a36a7782562345ef581e5b690d155fa2c9a306c74ba61ec869af52e2b8c"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V16_Test01/Arrow_geometry.csv",
+      "bytes": 359,
+      "sha256": "20e2feabe92c49c043247cae3529a6596cdda754873b48bef407a466e7633bc1"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V16_Test01/Illustrative_candles.csv",
+      "bytes": 1127,
+      "sha256": "1cae6ea7f23c6a45518d1e80a2db3df797b0eab8eb7fe398721aac4cce6e9678"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V16_Test01/Pixel_preservation.csv",
+      "bytes": 227,
+      "sha256": "cd42114be750127c39b7ce187403c8b432460c2994074bd1a06e0482513ff9c7"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V16_Test01/Typography_geometry.csv",
+      "bytes": 432,
+      "sha256": "5ab6ca438229e26915ad1a6740901d228c44e6d35b69d1d33eae9632007465c9"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V16_Test01/Verification.csv",
+      "bytes": 515,
+      "sha256": "f4bafe9450b7222f568b9bb867b56203ae07da85b58d86e122b27c8f7188f7de"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V16_Test01/build_comparison.ps1",
+      "bytes": 4035,
+      "sha256": "a5ec9113e935d9cfe34b244cb290f914498d21158dac03a4c2eefee4229c5f03"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V16_Test01/charts_v14.ps1",
+      "bytes": 4986,
+      "sha256": "422e310568a5e551fb1a010e28f6a4e66bfb298512fc4c393ec50dd5f08c7f3b"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V16_Test01/drawing_functions.ps1",
+      "bytes": 16173,
+      "sha256": "17817df82adb38d97df7712e262b9f6cd8d16e8a211cd3c9fdfb8afdcd482782"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V16_Test01/finish_v14.ps1",
+      "bytes": 9067,
+      "sha256": "265e1e5327c9ee031d41d681828082b3b4f8821c4f2775c47cd3a1b115df1e96"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V16_Test01/package_test.ps1",
+      "bytes": 2468,
+      "sha256": "e488b5679c8e6ea8c45b697deb6559dfd04d3b0ddc1dde887bc78466106cedac"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V16_Test01/render_test01.ps1",
+      "bytes": 6577,
+      "sha256": "573c17ee7cda119cf892949d0dfbbd865d112f4ceef7adf7e9092fd154cb48d7"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V16_Test01/render_v14.ps1",
+      "bytes": 21787,
+      "sha256": "167b20c0b858d025e2f4b2a1efd2bd314e7092de64153ad07010e43cd34168c0"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V16_Test01/soft_glow.ps1",
+      "bytes": 2050,
+      "sha256": "33cc0a36a7782562345ef581e5b690d155fa2c9a306c74ba61ec869af52e2b8c"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V16_Test01/verify.ps1",
+      "bytes": 4345,
+      "sha256": "d7cde4ba985e6d7a7004ca62f08c98c4faef64007a5e94cbb484702f38ea95ae"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V17_Natural/Lisez-moi_V17.txt",
+      "bytes": 1556,
+      "sha256": "5a42952d776487b29a8aa35b6f03a3f6f00dfa7d2e1383b0dbc0f7cd00c61f9c"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V17_Natural/Prompt_Empty_Room.txt",
+      "bytes": 879,
+      "sha256": "842c0ec5455dab7710c25f223ae23356ffbf409a776a4b77b7fd93f8d48709b1"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V17_Natural/Prompt_ImageGen.txt",
+      "bytes": 3102,
+      "sha256": "d5fc4e5ec8af19162daad74ffcae38ae4ba8558c1e5f68b725470801c095d266"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V17_Natural/Prompts_V17.txt",
+      "bytes": 4336,
+      "sha256": "dd75f0b6638511a914e3a4c679133aacddbd3af1edc8e3b3cc669f65f0977858"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V17_Natural/Verification.json",
+      "bytes": 2064,
+      "sha256": "2e9c8e8f9fe18fda3dc9af24c6b127723aacf96832c57b49b5df17e486fe6272"
+    },
+    {
+      "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/V17_Natural/build_v17.ps1",
+      "bytes": 10032,
+      "sha256": "89f093a0fa71d662365d07d6206df299e16ea632a7cf1b222716313722d24160"
     },
     {
       "path": "projects/CF/Thumbnail - CF/Imre_Gams/Suivi/Verification_V02.csv",
@@ -3191,6 +3821,106 @@
       "sha256": "b7706f261fdfa29b055b449e0fc4aef93c083c1522f5f578227b2e5a189910ab"
     },
     {
+      "path": "projects/WOR/Carousel - WOR/REFERENCE_DESIGN_WOR.txt",
+      "bytes": 849,
+      "sha256": "45db4179397767f33d2ee6f85bdfc27f6f446a13d8934e23cfe1a935e39c740e"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/handoff/wor-sampsa-jeppez-carousel/.gitattributes",
+      "bytes": 132,
+      "sha256": "009c962ee59b72064fe66fd08ac3c39a67af52581fed5eeaa75133a136dd63a4"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/handoff/wor-sampsa-jeppez-carousel/.gitignore",
+      "bytes": 96,
+      "sha256": "ae8088cd0032320cedd15198ba3371ec092d2eb1135822fed1c6fe4488af39bb"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/handoff/wor-sampsa-jeppez-carousel/AGENTS.md",
+      "bytes": 2126,
+      "sha256": "6c19be6468e20a47dfe0ebcfb5cbeb48435324328d78544e4445c18db7b94b06"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/handoff/wor-sampsa-jeppez-carousel/Galerie.html",
+      "bytes": 2689,
+      "sha256": "33491c71e5f0e9c94f2cea3853400d7e73fb8d2e18032715c988f8994962730e"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/handoff/wor-sampsa-jeppez-carousel/PROMPT_REPRISE.txt",
+      "bytes": 574,
+      "sha256": "d8eb738d5119880ac368e55b7716cab86284778bc670a8d9d93c16752f6d9b6c"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/handoff/wor-sampsa-jeppez-carousel/README.md",
+      "bytes": 3669,
+      "sha256": "b50da0c44219ce0c233d74bd1a680e6a28acf51dfc4e9021954ed9b768161f73"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/handoff/wor-sampsa-jeppez-carousel/build/V04-reexport/export.json",
+      "bytes": 258,
+      "sha256": "585e7ca8ae32b6a1d90a5a2620822c74a2dae61a3d8e1b47c8c4bd6e129fe2ea"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/handoff/wor-sampsa-jeppez-carousel/copy/Texte_final.txt",
+      "bytes": 1235,
+      "sha256": "b284975be390d57683603d6cb082d2c75e4e0c98ec2e9d0fa0fe1c24019e30cd"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/handoff/wor-sampsa-jeppez-carousel/docs/Connaissance_Design_WOR.txt",
+      "bytes": 28137,
+      "sha256": "47999e1454907cf17055ee5fafe7b288f1f1308e526aff53bcfcd79f0bee98f3"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/handoff/wor-sampsa-jeppez-carousel/docs/Production.md",
+      "bytes": 3628,
+      "sha256": "acd45a697e55712a350032138e2df31ad28777a5656fd7303bb730a7f842f1b2"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/handoff/wor-sampsa-jeppez-carousel/fonts/OFL.txt",
+      "bytes": 4477,
+      "sha256": "b741a4319a716fa488d77425010697a0990798f7647e07c606f46cf0b55957c7"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/handoff/wor-sampsa-jeppez-carousel/manifest.json",
+      "bytes": 3412,
+      "sha256": "ed35dacdecd836483db7d705d87e41d75fb3bd6c08d0acfdd0b1a31dade65157"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/handoff/wor-sampsa-jeppez-carousel/prompts/v02_edits.json",
+      "bytes": 9075,
+      "sha256": "f2f2f31a2ac7619e56e1d394545f8e816f0a7c9d6dcbdb05d757eb59fc606b71"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/handoff/wor-sampsa-jeppez-carousel/prompts/v04_edits.json",
+      "bytes": 5725,
+      "sha256": "523e6ef235cd1ea1e118cadf4b56f4a6cf0771598118a05a0479aff3bbc859d7"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/handoff/wor-sampsa-jeppez-carousel/requirements.txt",
+      "bytes": 32,
+      "sha256": "5a16b1ce1e1b30822283457ccdc06216715b9e5a42ed801270a906f8cfcf1107"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/handoff/wor-sampsa-jeppez-carousel/sources/WOR Jeppez.txt",
+      "bytes": 70201,
+      "sha256": "ac482c647ed901b64601228018fa0db5109b8dad9192a5d8f2c83764483cf7a9"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/handoff/wor-sampsa-jeppez-carousel/tools/export.py",
+      "bytes": 3523,
+      "sha256": "0e8defc9b43f5954d87e351b095ef9dd8a3d05d4c411a45727ac6dd21cf638ee"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/handoff/wor-sampsa-jeppez-carousel/tools/verify.py",
+      "bytes": 2186,
+      "sha256": "b5406a105f674fcf636dcef294b15470256cae0e41c0180167e5028f97c1e7ae"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/handoff/wor-sampsa-jeppez-carousel/tools/windows/rebuild.ps1",
+      "bytes": 2236,
+      "sha256": "54c968b12b037a6487bfc3185624e3ddd8479c1f9b9212cfaf4f6ea3f0a3a401"
+    },
+    {
       "path": "projects/WOR/Carousel - WOR/outputs/Candace-Carousel-V10-ImageGen-Prompt.txt",
       "bytes": 592,
       "sha256": "06321a31f45021f0579dbeacf3a672acaf1cabd41b4b59b46bc09b41c791728d"
@@ -3201,14 +3931,289 @@
       "sha256": "2151b60e80fd74382cc49c9ca1db6a153f7d05b4471ab90c272e6c293c41276a"
     },
     {
+      "path": "projects/WOR/Carousel - WOR/outputs/Candace-Carousel-V14/Galerie.html",
+      "bytes": 3868,
+      "sha256": "ac1865160d82e7c5136f4b0a691c9755da05904a29d2aadf17a45bcc380f183d"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Candace-Carousel-V14/Production/Generation_manifest.json",
+      "bytes": 14415,
+      "sha256": "66a55879671ae5018e03c33d8bab28808b8e65e1ac00d2a1dbde23d63a65124b"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Candace-Carousel-V14/Production/Notes_editoriales.txt",
+      "bytes": 1796,
+      "sha256": "58ab8937639fa418a5b9bb4609d2173e4dc78181bce578945d45ca5471929c25"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Candace-Carousel-V14/Production/Prompts_imagegen.json",
+      "bytes": 11702,
+      "sha256": "5cd1c0ba06a40fded4de87ec6cd9ca0358e4b7985fc29546fd34c2944065370b"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Candace-Carousel-V14/Production/Sources_manifest.json",
+      "bytes": 3161,
+      "sha256": "1f8c8170ed7e01ba1b04ac6ca2c050af95a9b1357f45a11409093a1c1d4a6262"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Candace-Carousel-V14/Production/Texte_final.txt",
+      "bytes": 1416,
+      "sha256": "10fbdacdaa4fb93471d0018fecd734c860356c594f3317bd76b0da5fd41539b3"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Candace-Carousel-V14/Production/Verification.json",
+      "bytes": 2471,
+      "sha256": "ed873e31ea98f2c1fe13dd5942045c6b51add97cbc59484286a87a719290c031"
+    },
+    {
       "path": "projects/WOR/Carousel - WOR/outputs/Candace-Carousel-V9-ImageGen-Prompt.txt",
       "bytes": 500,
       "sha256": "5942ec866ef6211481bb8a0041baf81e68e115eb024664a8a1556ab793493cdf"
     },
     {
+      "path": "projects/WOR/Carousel - WOR/outputs/Design_Ref_Analyse_V01/Atlas_Design_WOR.html",
+      "bytes": 271849,
+      "sha256": "b995ea8819d89159dcde86193ce19bfd180bcd8431c4fa4aa38c0958faa8e387"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Design_Ref_Analyse_V01/Connaissance_Design_WOR.txt",
+      "bytes": 28137,
+      "sha256": "47999e1454907cf17055ee5fafe7b288f1f1308e526aff53bcfcd79f0bee98f3"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Design_Ref_Analyse_V01/Mesures_et_observations_62_references.txt",
+      "bytes": 42524,
+      "sha256": "88cfa77298f1f82c9fbefd642086c90c43354d6c3b6d05baf25da9f14de81f56"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Design_Ref_Analyse_V01/analyse.py",
+      "bytes": 1167,
+      "sha256": "b0bf684d212f3d2933f3a3c8c293a597e3a49dd0b03b68171ca3995f984f6fa5"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Design_Ref_Analyse_V01/atlas.py",
+      "bytes": 21823,
+      "sha256": "4349dc74c9fb5f11f8ef78da8660467056746d8bed90a3906eaf175cd556ee21"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Design_Ref_Analyse_V01/atlas_verification.js",
+      "bytes": 103737,
+      "sha256": "bc428d78e54101051efe417df576b84c698caf321d3e5d406fb794ead5cdad4a"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Design_Ref_Analyse_V01/fiches_references.json",
+      "bytes": 192734,
+      "sha256": "a5a19dad04fab5fbe16029069eed0c702fe2405147d581f4ce7d66b21c5e93ec"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Design_Ref_Analyse_V01/finaliser.py",
+      "bytes": 3918,
+      "sha256": "f69bea1c58cda482d31b0a3867c8309804bba54ab27cb43ba8348ee5bd28978a"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Design_Ref_Analyse_V01/inventaire.json",
+      "bytes": 12381,
+      "sha256": "d5067be95126c501e2d89aca5ecb788a0ab7e65e018095170dba597cbd273dd2"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Design_Ref_Analyse_V01/mesurer.py",
+      "bytes": 2871,
+      "sha256": "286802f8f6a42c6f4a937c017c91904dd6c0e18eaa6992c2bb7dcfd2ecafe7c9"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Design_Ref_Analyse_V01/mesures_pixels.json",
+      "bytes": 177504,
+      "sha256": "b23626a21af9fc8b3babdd30ec9dd0dd771c45878e12ef19c767e86a56c3098a"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Design_Ref_Analyse_V01/verification.json",
+      "bytes": 299,
+      "sha256": "b6699614ab7eb164c41bbe01c52dd3570c463825ccf4ed1e60c9a712f1769b6e"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Design_Ref_Analyse_V01/verifier.py",
+      "bytes": 1596,
+      "sha256": "b83af00d78c164016474d4e58ab36eb46def9af8442c9df9d1a827a054f38bc1"
+    },
+    {
       "path": "projects/WOR/Carousel - WOR/outputs/Prompt-Workflow-Carrousel-PFT.txt",
       "bytes": 5696,
       "sha256": "f8c999bb003dc5e05f4b56a77d98d5d0cd6c3bdca41486168169277ffba5515d"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Sampsa-Jeppez-Carousel-V01/Galerie.html",
+      "bytes": 4089,
+      "sha256": "0f30fba3d106affa44ba07bb41fd2bb7e110736a444ddf4865cd0a9ce47e9799"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Sampsa-Jeppez-Carousel-V01/Production/Generation_manifest.json",
+      "bytes": 19348,
+      "sha256": "a5829c9af0e80ea1ba66cea99b5ba0109e263db9ae8deab77d93bb0589896a4f"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Sampsa-Jeppez-Carousel-V01/Production/Notes_editoriales.txt",
+      "bytes": 3199,
+      "sha256": "39d761791c73ca8be78ae48e8f2260c17b909e56a43ac82740e262ab05a015a0"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Sampsa-Jeppez-Carousel-V01/Production/Prompts_imagegen.json",
+      "bytes": 15703,
+      "sha256": "195e1486f726843b6d6495a40580541d432d806fd1bf02b8b4919aa84a74e221"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Sampsa-Jeppez-Carousel-V01/Production/Sources_manifest.json",
+      "bytes": 4455,
+      "sha256": "da12395e5cd77a3a2d464c08c69e078bafa8feb9438602cd5f504d170ff65e50"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Sampsa-Jeppez-Carousel-V01/Production/Texte_final.txt",
+      "bytes": 1216,
+      "sha256": "80cfdf065e0203dfd608081f102f3c551aae43410afe20ecc6fe83859264031e"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Sampsa-Jeppez-Carousel-V01/Production/Verification.json",
+      "bytes": 2896,
+      "sha256": "871bff0b8c1ee22a11b64a6ff68ddef41202b499bb7a9d93559740ca45f709c7"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Sampsa-Jeppez-Carousel-V01/Production/WOR Jeppez.txt",
+      "bytes": 69413,
+      "sha256": "4aca95121b877e9b73029f0cd9dc310fe02983de520e66092f805d8a054760db"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Sampsa-Jeppez-Carousel-V02/Galerie.html",
+      "bytes": 5565,
+      "sha256": "107fa7efda4a1bff72e5cef93a67b43c367f6914f833fe59e6a4b08ee7b25085"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Sampsa-Jeppez-Carousel-V02/Production/Generation_manifest.json",
+      "bytes": 20110,
+      "sha256": "92b80ac8b66897fe42bd9aecaef491dbd9314033576004a66cea44ffbe87c3a2"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Sampsa-Jeppez-Carousel-V02/Production/Notes_editoriales.txt",
+      "bytes": 2359,
+      "sha256": "6f2a18e5f1a751942fe76c62d8ab474ffcf53588e512f875c1de959403c265c0"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Sampsa-Jeppez-Carousel-V02/Production/Notes_editoriales_V01.txt",
+      "bytes": 3199,
+      "sha256": "39d761791c73ca8be78ae48e8f2260c17b909e56a43ac82740e262ab05a015a0"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Sampsa-Jeppez-Carousel-V02/Production/Prompts_imagegen.json",
+      "bytes": 9868,
+      "sha256": "e8935be5b654399c39580130ad392895018782e2f6ccb06d0598abfb6cca322f"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Sampsa-Jeppez-Carousel-V02/Production/Prompts_imagegen_V01.json",
+      "bytes": 15703,
+      "sha256": "195e1486f726843b6d6495a40580541d432d806fd1bf02b8b4919aa84a74e221"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Sampsa-Jeppez-Carousel-V02/Production/Sources_manifest.json",
+      "bytes": 6652,
+      "sha256": "d5abaa9c03b2920102a71872e3da101c16e4c1e206642cf15f078fbef7cdc9f2"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Sampsa-Jeppez-Carousel-V02/Production/Texte_final.txt",
+      "bytes": 1216,
+      "sha256": "e7d822fba85ce9dea910148f240a3d428e5873e8d8b5531d9fbb3e03f9771283"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Sampsa-Jeppez-Carousel-V02/Production/Verification.json",
+      "bytes": 3043,
+      "sha256": "4cb01c3a102886f9d0fca40f733cad8aadfc4d1873ba8da682a9aa62d471453d"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Sampsa-Jeppez-Carousel-V02/Production/WOR Jeppez.txt",
+      "bytes": 69413,
+      "sha256": "4aca95121b877e9b73029f0cd9dc310fe02983de520e66092f805d8a054760db"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Sampsa-Jeppez-Carousel-V03-Grain3/Galerie.html",
+      "bytes": 2665,
+      "sha256": "f68833d7def6488adb9324175cacd2d51977e041d0bb61c15b4caff02789eb91"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Sampsa-Jeppez-Carousel-V03-Grain3/Production/Notes_grain.txt",
+      "bytes": 1308,
+      "sha256": "bfc60343b9b95f4a909dfecbc6337c5a4d30f1ff4f67ddb57d0f08828a0a2ffc"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Sampsa-Jeppez-Carousel-V03-Grain3/Production/Texte_final.txt",
+      "bytes": 1228,
+      "sha256": "6c333c9e81e87028a87f18b46f01ae0c453f969ee6ce16de9b74446d118c98b8"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Sampsa-Jeppez-Carousel-V03-Grain3/Production/Verification.json",
+      "bytes": 6313,
+      "sha256": "ad1b6f5cd8398f118aa3d8f181ed55b3ea82f6d7e447a4efac604b1d8598be8a"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Sampsa-Jeppez-Carousel-V03-Grain3/Production/apply_grain.ps1",
+      "bytes": 13774,
+      "sha256": "0d7d7f2e1dc1c6c7ed19735a9250b131410366002fca65e87a8ebb28dd7b3d86"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Sampsa-Jeppez-Carousel-V04-Grain3/Galerie.html",
+      "bytes": 4026,
+      "sha256": "6bd07b9184c3df26b0d0e125aab2beaa95b35ea18db0fe5bc3e518907e2373c7"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Sampsa-Jeppez-Carousel-V04-Grain3/Production/Generation_manifest.json",
+      "bytes": 6556,
+      "sha256": "d7204c9d37e2a5e3a35fce30b44c1aa55b2cf8c0aed0e5b3166d2d8378b9e847"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Sampsa-Jeppez-Carousel-V04-Grain3/Production/Grain_routine_source_V03.ps1",
+      "bytes": 13774,
+      "sha256": "0d7d7f2e1dc1c6c7ed19735a9250b131410366002fca65e87a8ebb28dd7b3d86"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Sampsa-Jeppez-Carousel-V04-Grain3/Production/Notes_editoriales.txt",
+      "bytes": 2751,
+      "sha256": "3c16be546ec83fc23ac2f1d4b3b9c555bb84dbd6ce5c31719e28f27b2b961529"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Sampsa-Jeppez-Carousel-V04-Grain3/Production/Notes_editoriales_V01.txt",
+      "bytes": 3199,
+      "sha256": "39d761791c73ca8be78ae48e8f2260c17b909e56a43ac82740e262ab05a015a0"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Sampsa-Jeppez-Carousel-V04-Grain3/Production/Notes_editoriales_V02.txt",
+      "bytes": 2359,
+      "sha256": "6f2a18e5f1a751942fe76c62d8ab474ffcf53588e512f875c1de959403c265c0"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Sampsa-Jeppez-Carousel-V04-Grain3/Production/Pixel_verification.json",
+      "bytes": 6190,
+      "sha256": "92782ce1a6490b5ea82f41889725d46681b0d711abc771a959a2cee2a4e834db"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Sampsa-Jeppez-Carousel-V04-Grain3/Production/Prompts_imagegen.json",
+      "bytes": 6587,
+      "sha256": "478859badbba3a01df2ec556586b47293ba3fdde54fa7bc8a0f5a8aa4239ae9c"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Sampsa-Jeppez-Carousel-V04-Grain3/Production/Sources_manifest.json",
+      "bytes": 2295,
+      "sha256": "1d3d3e98bc99d2c5efc818b4634296813449c07b5988c1daa5360ddf1b5caa38"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Sampsa-Jeppez-Carousel-V04-Grain3/Production/Texte_final.txt",
+      "bytes": 1235,
+      "sha256": "b284975be390d57683603d6cb082d2c75e4e0c98ec2e9d0fa0fe1c24019e30cd"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Sampsa-Jeppez-Carousel-V04-Grain3/Production/Verification.json",
+      "bytes": 6945,
+      "sha256": "13526f393e4d0b65598eb3368c7f2dcd1a17dafa543f7ff6cd18c3bd0cdcd76e"
+    },
+    {
+      "path": "projects/WOR/Carousel - WOR/outputs/Sampsa-Jeppez-Carousel-V04-Grain3/Production/render.ps1",
+      "bytes": 4240,
+      "sha256": "d9dd5b43f3a626751eb5e774b64ceb9c8773729e31982b4d86399659c0edbd2e"
     },
     {
       "path": "projects/WOR/Spotify/PROJECT.md",
@@ -3901,6 +4906,516 @@
       "sha256": "b2e10282e3a95aa582b2932ed165aba718509641deb529633dca99fe313f512f"
     },
     {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V06_Aubergine_Branding/Galerie.html",
+      "bytes": 15739,
+      "sha256": "abec7ef7384f1def57014143dd6c3d75332354595ddb1937db46835387f81223"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V06_Aubergine_Branding/README.txt",
+      "bytes": 2710,
+      "sha256": "9aa2522b1bbbe239c86e221a2829d7039eba5c388fa0bd21a9648215c20d8133"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V06_Aubergine_Branding/production/Branding_brief.json",
+      "bytes": 4142,
+      "sha256": "6317899371d447794ff7f818cc0fe1fc9fac58df48165782621a86715fa920af"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V06_Aubergine_Branding/production/Generation_manifest.json",
+      "bytes": 93672,
+      "sha256": "eb8b020e0ce4b1b8aece940bf97614039b3abfb7613c0a1c13859a9152e6941f"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V06_Aubergine_Branding/production/Localized_cleanup.json",
+      "bytes": 1141,
+      "sha256": "3f0d34a7557917a7ef7ad66d56de60c45ec6e6c9cac3747c32c7634025110735"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V06_Aubergine_Branding/production/Preservation_regions.json",
+      "bytes": 8914,
+      "sha256": "3495689b449781ab2868df9fb6824d29cbada0111bf58ad7137fdb8262f16868"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V06_Aubergine_Branding/production/Prompts_batch02.json",
+      "bytes": 2887,
+      "sha256": "6116aae0702cef256204f1d08ac4291eb01aa9617fe9f80d00920cb7c18ac021"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V06_Aubergine_Branding/production/Prompts_batch03.json",
+      "bytes": 2687,
+      "sha256": "19f126f47d0e081e6973c8b6ed6b2306f06f19d8e1232f4cf3a04ebc550d4895"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V06_Aubergine_Branding/production/Prompts_batch04.json",
+      "bytes": 2817,
+      "sha256": "e991a711c87a81b7b6df7c55cd35e89abe39f966186a3c9bd32adc4c322190e9"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V06_Aubergine_Branding/production/Prompts_batch05.json",
+      "bytes": 3256,
+      "sha256": "a1683b7421a267b7b25986c32b80c648589a417dc2e92ed5cbb7cef04181e44e"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V06_Aubergine_Branding/production/Sources_manifest.json",
+      "bytes": 5530,
+      "sha256": "73ca1ed212b67f5caf2d359fda9b86aaa1b49f80b3bc63b91599b7607fb13a23"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V06_Aubergine_Branding/production/Suivi_titres.tsv",
+      "bytes": 3352,
+      "sha256": "fd511e33e99ba163065c3de672a65f07425cc56760f438a2b51c7e13ffda3921"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V06_Aubergine_Branding/production/Variants_V05_source.json",
+      "bytes": 8096,
+      "sha256": "b2e10282e3a95aa582b2932ed165aba718509641deb529633dca99fe313f512f"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V06_Aubergine_Branding/production/Verification_exports.json",
+      "bytes": 14148,
+      "sha256": "88a1cc8e1b0ad5ba635114920b58d0aa15c50a038f6521c122498cb09d9f23ef"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V06_Aubergine_Branding/production/Verification_grain_and_links.json",
+      "bytes": 9754,
+      "sha256": "df9d3021bb6f18a792251df036adb396bfe7bb0235fc86075291ce973dcd6192"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V06_Aubergine_Branding/production/Verification_package.json",
+      "bytes": 339,
+      "sha256": "f609a9059d282bafbed15f8a0977af5d93780d1351e5507b226d9605677ce163"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V06_Aubergine_Branding/production/Verification_preservation.json",
+      "bytes": 10199,
+      "sha256": "9a8a4df9bbf26e67517bc0e82980d34d603bb905145fbef9f21500ad18df0290"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V06_Aubergine_Branding/production/Verification_summary.json",
+      "bytes": 539,
+      "sha256": "db1627c97bc3918109911b111cb22813647bfad3abcd621cb8eddcf6a4f7ba94"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V06_Aubergine_Branding/production/Verification_zip_entries.json",
+      "bytes": 44717,
+      "sha256": "52a0c8b448a62214b20301cf5efd8115ce78c9d86a09d16a7770b8a487eb7b47"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V06_Aubergine_Branding/production/WOR Jeppez.txt",
+      "bytes": 69413,
+      "sha256": "4aca95121b877e9b73029f0cd9dc310fe02983de520e66092f805d8a054760db"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V06_Aubergine_Branding/production/assemble.ps1",
+      "bytes": 2791,
+      "sha256": "2935d6b38b9d7bcbdb31e23f027552ad2b987083a6da31829e6dd8f1e3e618e2"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V06_Aubergine_Branding/production/export.ps1",
+      "bytes": 6224,
+      "sha256": "49558e231f9a3a95efb02a172ffe42a5cb1ff66a590632e01ca89385aefd3721"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V06_Aubergine_Branding/production/finish-delivery.ps1",
+      "bytes": 3072,
+      "sha256": "d48ba7e0c2465f292fc69d62e31ecbd9eafd402db11f70565c32c53604f6cc56"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V06_Aubergine_Branding/production/gallery-syntax-check.js",
+      "bytes": 9005,
+      "sha256": "5671ccaa163ea100e55dbaff1aa122bb5e84aeb07430617db02b9a77d33d9185"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V06_Aubergine_Branding/production/gallery-template.html",
+      "bytes": 9841,
+      "sha256": "f2bb7d83fc69b605f690f18fdab1b198189cee4ee1ae8a8953287250d7bdd3ea"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V06_Aubergine_Branding/production/package.ps1",
+      "bytes": 2068,
+      "sha256": "db1cc64ab039293f1c13a908297bf33a70e0c6324c4d81b1870db180ed279f40"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V06_Aubergine_Branding/production/verify-delivery.ps1",
+      "bytes": 3985,
+      "sha256": "6433954d9cec3c40616d8b675e86f2e186db558dd8a18c6cb362b3d776e9bee2"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V07_Selected_Titles/Galerie.html",
+      "bytes": 13656,
+      "sha256": "2a047b60c987201e8d5a56e05951a9e26b10c4a4629a26e78bbd7251f402939f"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V07_Selected_Titles/README.txt",
+      "bytes": 2821,
+      "sha256": "0fcc349294f6868bca401a68d7c291166d21bcdc62bce1cf8d3f07abaf91281f"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V07_Selected_Titles/production/Edit_regions.json",
+      "bytes": 5067,
+      "sha256": "e56683c383c62c87cdc6569a5eed435dd74f16bdb17cfd1795c810c864f5a144"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V07_Selected_Titles/production/Generation_manifest.json",
+      "bytes": 27996,
+      "sha256": "438a4af5ea48178c0a2144e46dac9d09d55f7518fae65994dc3e4136e6bbc55d"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V07_Selected_Titles/production/Preservation_regions.json",
+      "bytes": 8914,
+      "sha256": "3495689b449781ab2868df9fb6824d29cbada0111bf58ad7137fdb8262f16868"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V07_Selected_Titles/production/Sources_manifest.json",
+      "bytes": 2947,
+      "sha256": "5db92893b3168272aaa4ee02154960e8f485d46af647f108f8e9bb3d5867aeb1"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V07_Selected_Titles/production/Suivi_titres.tsv",
+      "bytes": 2230,
+      "sha256": "5bf2ef7d9e8207345991ebf33a71b9226545cede081b331c7515c9d5d40f8a92"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V07_Selected_Titles/production/Title_edit_jobs.json",
+      "bytes": 29297,
+      "sha256": "374a4a2757e7cf94b1249b1628a998c0ba1e54891884d1200f8d809e4379d7f4"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V07_Selected_Titles/production/Variants.json",
+      "bytes": 4835,
+      "sha256": "51ae2bb3887349f90cebc9cefdffe60e75118077954140a7c58cd03965487e4f"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V07_Selected_Titles/production/Verification_exports.json",
+      "bytes": 7288,
+      "sha256": "b3b393b30c29186861a9e488b86229496994b75b80f3f2183cb9b61023e8b923"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V07_Selected_Titles/production/Verification_grain_and_links.json",
+      "bytes": 4885,
+      "sha256": "b77c2942cfdaa381aefc144a44d2baf92c6f70ee7f2a89192525eafe1419bd77"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V07_Selected_Titles/production/Verification_package.json",
+      "bytes": 339,
+      "sha256": "6ea9ea063f31901a8f6ba3eaede9aefcb705624f3a956939c922c1bd013d1543"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V07_Selected_Titles/production/Verification_preservation.json",
+      "bytes": 12299,
+      "sha256": "1aeec80884e95e841b27dbca395c70245b3dc2bad2e0afef5f5a601a5cd04ae1"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V07_Selected_Titles/production/Verification_summary.json",
+      "bytes": 539,
+      "sha256": "15bc6835e362e840ef0c0431eb1ca56d5528cd6799a9c78ca45009eafb1af67e"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V07_Selected_Titles/production/Verification_visual.json",
+      "bytes": 2720,
+      "sha256": "f90ad787a0c68caf28c0a38d05722c347ed958f80e7bc805e76a47704d5d8f4d"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V07_Selected_Titles/production/Verification_zip_entries.json",
+      "bytes": 24877,
+      "sha256": "112b340c08637d4b4193e47821e529975ae988dc7512e8e621692555191182a8"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V07_Selected_Titles/production/WOR Jeppez.txt",
+      "bytes": 69413,
+      "sha256": "4aca95121b877e9b73029f0cd9dc310fe02983de520e66092f805d8a054760db"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V07_Selected_Titles/production/build-masters.ps1",
+      "bytes": 2639,
+      "sha256": "e33de8e4a5ea4d1886e1205829b7cc65ddb0337c2d57abdc91e54774e8ac0104"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V07_Selected_Titles/production/export.ps1",
+      "bytes": 5186,
+      "sha256": "485bf1cba1478df90fb9475e5d9dc4d61bd05cea1fb93de0dfb0a9f6d37c1dae"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V07_Selected_Titles/production/finish-delivery.ps1",
+      "bytes": 3072,
+      "sha256": "1821e318de99c44bbbd4f619b96836a9c9c2c84d0a48e8cac5ae9867fbb6f535"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V07_Selected_Titles/production/gallery-syntax-check.js",
+      "bytes": 6701,
+      "sha256": "e5f0b52f204570965c65e4f08cf6fbae8077497d210785da5c02ab30c60116d2"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V07_Selected_Titles/production/gallery-template.html",
+      "bytes": 10025,
+      "sha256": "f751b408634394bbffa5e0e6cac035f5189f5268942a6ec7486753ad564ccd16"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V07_Selected_Titles/production/package.ps1",
+      "bytes": 2062,
+      "sha256": "1835f9583af3dd9f31b893e73200144f1a705088b9926bf0fcd29be744e62682"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V07_Selected_Titles/production/verify-delivery.ps1",
+      "bytes": 3974,
+      "sha256": "1ef5ecde34df46c4dab084e9e6103c225feae27d8cd5a9e5aff180595f5bc3b0"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V08_Podcast_Blueprint/Galerie.html",
+      "bytes": 14318,
+      "sha256": "8f890b917d3f2557e5d688004902fb8d985126859b992ee6a40851a3ea9a8e9c"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V08_Podcast_Blueprint/README.txt",
+      "bytes": 4032,
+      "sha256": "bf6cfe4bfa6f70c1972c0d6ba97fe39a5a224e7c8109b6d59917386f416a88f5"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V08_Podcast_Blueprint/production/Edit_regions.json",
+      "bytes": 2704,
+      "sha256": "3fbc92a5d2a68237a98b5f701c533b8f0bd1b070d43433a4045423c0c020feaf"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V08_Podcast_Blueprint/production/Generation_jobs.json",
+      "bytes": 7011,
+      "sha256": "0eecff090deeb778b0dca0b570f57450028a6aa5f725e63cf1c76cd6e15d746f"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V08_Podcast_Blueprint/production/Generation_manifest.json",
+      "bytes": 8808,
+      "sha256": "d6c5226aec4a072dbc183e69296ff1857b85d55ec6498921314a79d4e5ee2ff1"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V08_Podcast_Blueprint/production/Preservation_regions.json",
+      "bytes": 8914,
+      "sha256": "3897877bcb18b4ad7676f691e3676c30365753b0d8500f4cc693769d9e9ad6bd"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V08_Podcast_Blueprint/production/Sources_manifest.json",
+      "bytes": 2947,
+      "sha256": "5db92893b3168272aaa4ee02154960e8f485d46af647f108f8e9bb3d5867aeb1"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V08_Podcast_Blueprint/production/Suivi_titres.tsv",
+      "bytes": 2134,
+      "sha256": "d1e12dd46e3bafd54f80dfe74b72cbb99dc865e12d744f2c67788bdba8f5fdbe"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V08_Podcast_Blueprint/production/Variants.json",
+      "bytes": 5267,
+      "sha256": "ecf130fca5afa06ee1b50b7a44be6a147b8165b3e7fe65a066155e52bc8e1255"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V08_Podcast_Blueprint/production/Verification_exports.json",
+      "bytes": 6765,
+      "sha256": "8d8f41d1a7af1105f3598191d26a170964c8742fad521fa8fdbce5c035b70e2a"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V08_Podcast_Blueprint/production/Verification_grain_and_links.json",
+      "bytes": 4531,
+      "sha256": "843470a726bf721844a417b25f68143742378bcbc02d0422e8befdd5da467800"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V08_Podcast_Blueprint/production/Verification_inherited.json",
+      "bytes": 1149,
+      "sha256": "c5aafbac4280700c94a9d24a9aa8d92e1df428c1473c445814826e85d131a1e9"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V08_Podcast_Blueprint/production/Verification_package.json",
+      "bytes": 339,
+      "sha256": "225c8fe86ea74693892fe9c6efa5b9ff00893959262977ab3df9c844a7c4a97c"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V08_Podcast_Blueprint/production/Verification_preservation.json",
+      "bytes": 4111,
+      "sha256": "78f7dcc5eed948fd622e5f8d17c37216010425ba3c585c74aa6b9535113102af"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V08_Podcast_Blueprint/production/Verification_summary.json",
+      "bytes": 538,
+      "sha256": "4882ae03b1b0876c2eacc5c60400fa295d489dc430b842d3d70161befb490706"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V08_Podcast_Blueprint/production/Verification_visual.json",
+      "bytes": 777,
+      "sha256": "61de1089720844cf61bdbdce20cbd6a66f78fa90d577be3ddded7ec3ec7781ab"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V08_Podcast_Blueprint/production/Verification_zip_entries.json",
+      "bytes": 22770,
+      "sha256": "71ae42f27071e017ec7e0329a8876479d1894dd14cfb085a1d572ae1bbc43bc0"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V08_Podcast_Blueprint/production/build-masters.ps1",
+      "bytes": 3116,
+      "sha256": "ff79ae8b7c01ff091142d0e6d8b038ec7657bcc17d0cc33c9943b58e241592fa"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V08_Podcast_Blueprint/production/export.ps1",
+      "bytes": 5188,
+      "sha256": "9df8fba09e565b9d13274b7988c37221359cbaa88afe82b8b3760653c34da6fa"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V08_Podcast_Blueprint/production/final-audit.ps1",
+      "bytes": 4043,
+      "sha256": "b4864c1de7190d0478d0dedd75c5c1bff3054c9eafabf2096b0a3d5ab2bd3ca3"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V08_Podcast_Blueprint/production/finish-delivery.ps1",
+      "bytes": 3075,
+      "sha256": "5c8a92739f2df5633b76a7dc0e8e5f9508b5ae2920417b04f21cff852b3fbcc2"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V08_Podcast_Blueprint/production/gallery-syntax-check.js",
+      "bytes": 7201,
+      "sha256": "6ea475d181a8ce76b9ffb3c5fbf72a5998237579960be4f7e0db115ff77b0677"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V08_Podcast_Blueprint/production/gallery-template.html",
+      "bytes": 10261,
+      "sha256": "70b1f05fa74ae62c44eb971fc52e978ac3db2a937d1d5e5450ef9853515c1f0c"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V08_Podcast_Blueprint/production/package.ps1",
+      "bytes": 2064,
+      "sha256": "c32bd55e4f7dd38bc61b5164066176bd6bcb5fd6e685fd6fe599762ddb832159"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V08_Podcast_Blueprint/production/prepare-delivery.ps1",
+      "bytes": 5272,
+      "sha256": "c7012f14f157f216a8c8a454265b5c232da5843aa711be8c73cbe882ff98a2eb"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V08_Podcast_Blueprint/production/verify-delivery.ps1",
+      "bytes": 3976,
+      "sha256": "26b36db9b5866a69aecfdd2d05f8a07f256783a56a32c4eb2c234cdc90c25c2f"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V09_Research_Table/Galerie.html",
+      "bytes": 14343,
+      "sha256": "204152f0ddd5ea5414859ab08a1699cad4103ddd32c8e757256ee249521b3367"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V09_Research_Table/README.txt",
+      "bytes": 2692,
+      "sha256": "a8c6ef0e0fd7c4d04ae6242fe64ac8deef01987f88612c8ee5ed906dab1dc25c"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V09_Research_Table/production/Correction_job.json",
+      "bytes": 1988,
+      "sha256": "0abc49d1cf98d170a20f31c6224e4ca64a28ad8e64baae28074340fe40dd0ae9"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V09_Research_Table/production/Generation_job.json",
+      "bytes": 3609,
+      "sha256": "4660f3d486c61de25a813f474f8c03a18323a911be1c0b97b91d7a075ea30589"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V09_Research_Table/production/Generation_manifest.json",
+      "bytes": 7190,
+      "sha256": "d3bc40bdb87fdb41428ec9fdfca969eeda110a78f6e0f2ce03d5e9d2ef397ab0"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V09_Research_Table/production/Preservation_regions.json",
+      "bytes": 8914,
+      "sha256": "3897877bcb18b4ad7676f691e3676c30365753b0d8500f4cc693769d9e9ad6bd"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V09_Research_Table/production/Sources_manifest.json",
+      "bytes": 2947,
+      "sha256": "5db92893b3168272aaa4ee02154960e8f485d46af647f108f8e9bb3d5867aeb1"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V09_Research_Table/production/Suivi_titres.tsv",
+      "bytes": 2121,
+      "sha256": "b3bf9d5fd17bfc568e9dec0b91464aea3cfbd157c9b04856aa59b3d252dc63cc"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V09_Research_Table/production/Variants.json",
+      "bytes": 5191,
+      "sha256": "fa0da1ecb799cb7379f68d4cf82ebb07f5bbbf34bedd83403a23cc8554f17e13"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V09_Research_Table/production/Verification_exports.json",
+      "bytes": 6765,
+      "sha256": "6b851d52d16ada7db1e348d7bd675117b84f683872b19171e4dad43a02e69b78"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V09_Research_Table/production/Verification_grain_and_links.json",
+      "bytes": 4531,
+      "sha256": "40b2a3d32f4e15fe800a0e154705e5295f2b341bc46520206401c78e907af7de"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V09_Research_Table/production/Verification_inherited.json",
+      "bytes": 1867,
+      "sha256": "cb956420e509c085eb8ea04321b9474aa5c5685e6ca9818b5c163d23f94662c8"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V09_Research_Table/production/Verification_package.json",
+      "bytes": 339,
+      "sha256": "4fd0cfdd742327b9e54a2cec036c4d6ae54a840e27ab1012322e094ecba5fa12"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V09_Research_Table/production/Verification_preservation.json",
+      "bytes": 910,
+      "sha256": "993ec3ffcfde9f6a61d1936ca187434b9b1611ebf206df93c44888aa1f669213"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V09_Research_Table/production/Verification_summary.json",
+      "bytes": 538,
+      "sha256": "1a61c682c75f02299eed9dd923c96b653caeed71b818c409acfea8247ca00405"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V09_Research_Table/production/Verification_visual.json",
+      "bytes": 633,
+      "sha256": "0d6c00849c1bf6e09e6180bffe4b750d9ce4455ebbd751dab435ce97d88c31de"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V09_Research_Table/production/Verification_zip_entries.json",
+      "bytes": 21698,
+      "sha256": "2f32ea3c855990138435ab1eacc281b93e018779517db628cf225c19a8521a73"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V09_Research_Table/production/build-v09.ps1",
+      "bytes": 6114,
+      "sha256": "e6d007a124c280b7535395618f8d1d14817092a1e65bec881b948768c0df6f57"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V09_Research_Table/production/export.ps1",
+      "bytes": 5190,
+      "sha256": "fe443c49d1fc0a47dec21a76a42be731a5c3d32fb4acbdf6ee3e55443ada5470"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V09_Research_Table/production/final-audit.ps1",
+      "bytes": 3168,
+      "sha256": "dd79a3ff847c0f1ddc719068da0c48ed9bc31d936ac8af99436551bb6b018052"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V09_Research_Table/production/finish-delivery.ps1",
+      "bytes": 3078,
+      "sha256": "7d3f53c0b25addab3073f0e9df4285f48005ae728f74f0036ded24217b21e663"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V09_Research_Table/production/gallery-syntax-check.js",
+      "bytes": 7133,
+      "sha256": "445f6ae364ae317c225aa296cfbc2e85ba10c0a174d9952c4543ef67585bd198"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V09_Research_Table/production/gallery-template.html",
+      "bytes": 10362,
+      "sha256": "d31aa3e2c982fd0d3740cd4507139e9559d25be9c03f95ddb659b9c64af2de65"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V09_Research_Table/production/package.ps1",
+      "bytes": 2066,
+      "sha256": "554c3a00a60dc60d40561695a2ad3402e2d238624640951527854efb9f09ab4f"
+    },
+    {
+      "path": "projects/WOR/Thumbnail WOR/outputs/Sampsa_Jeppez/V09_Research_Table/production/verify-delivery.ps1",
+      "bytes": 3978,
+      "sha256": "12a1eb1e5d96368ef91df3766386d65555b1dcbc1f62e2a90518940718cb7c47"
+    },
+    {
       "path": "projects/WOR/Thumbnail WOR/outputs/Workflow_Thumbnails_Photo_Naturelle.txt",
       "bytes": 6159,
       "sha256": "95caa51047515534fe7a96e93f56bbea6b21ac701fd13cf5707e701de7eb179b"
@@ -3922,8 +5437,8 @@
     },
     {
       "path": "projects/WOR/WOR Studio/LIRE-MOI.txt",
-      "bytes": 4005,
-      "sha256": "75936936da6a465a5017d91b6d9d522fc36abecdc672348dd1ed7ff0f98aa3f6"
+      "bytes": 6899,
+      "sha256": "6dd80688185d0240c36e6d6d4f8bc4c7ecb82f3a6535fe918d826ec3b0efa446"
     },
     {
       "path": "projects/WOR/WOR Studio/Ouvrir-WOR-Studio.cmd",
@@ -3932,8 +5447,8 @@
     },
     {
       "path": "projects/WOR/WOR Studio/Ouvrir-WOR-Studio.ps1",
-      "bytes": 1166,
-      "sha256": "208776f90bddc5f36c3921a60ed39555dee818cfec67d7b8afa53a09588c9b71"
+      "bytes": 1566,
+      "sha256": "026039e055a57763988c2a2b97394e30591ab13eaa85a2c8e8aa4669e76ccf0b"
     },
     {
       "path": "projects/WOR/WOR Studio/PROJECT.md",
@@ -3942,8 +5457,8 @@
     },
     {
       "path": "projects/WOR/WOR Studio/README.md",
-      "bytes": 1863,
-      "sha256": "fdb983d73aa3db78607d595b5e8b1c20d6bba56fc2c500fff14258743f191787"
+      "bytes": 5310,
+      "sha256": "88e7e8fe7773f1888cf423e7a2bae3ffa47364f411ca06c6ef9a13163e06830e"
     },
     {
       "path": "projects/WOR/WOR Studio/Sync-WOR.ps1",
@@ -3967,8 +5482,8 @@
     },
     {
       "path": "projects/WOR/WOR Studio/dist/app.js",
-      "bytes": 45782,
-      "sha256": "0a33453127588297a4dc3f58fc9e75cf96f95cc15eba70e833db699ff99de5f8"
+      "bytes": 58099,
+      "sha256": "1496d77b36bf0806d1de8921c901f97a678105b44b44745f026d81f3ee9da3c4"
     },
     {
       "path": "projects/WOR/WOR Studio/dist/extras.css",
@@ -3987,13 +5502,13 @@
     },
     {
       "path": "projects/WOR/WOR Studio/dist/feed.js",
-      "bytes": 9317,
-      "sha256": "9744d6e13c6b508c7bebc1837828f3f7b478f2021d08d0730e44f98b35c0c617"
+      "bytes": 9329,
+      "sha256": "7a0740470cd447db316dc217b8551177186c93c9dda9a4aae79584a74e7754f6"
     },
     {
       "path": "projects/WOR/WOR Studio/dist/index.html",
-      "bytes": 3141,
-      "sha256": "582dccabaaf2b8c5350de424640b7be28141ed9648fd281fabed23a25e261fa1"
+      "bytes": 3203,
+      "sha256": "38fa0fa438e24fce2f227162f20cfb2d69ca9c5a93c1338cc39fd4e87e82a939"
     },
     {
       "path": "projects/WOR/WOR Studio/dist/lab.css",
@@ -4002,13 +5517,13 @@
     },
     {
       "path": "projects/WOR/WOR Studio/dist/lab.js",
-      "bytes": 24123,
-      "sha256": "d79f557e1e5230e483b526e9c2796f5b39fe5591937b2e6661909fed00393bce"
+      "bytes": 24356,
+      "sha256": "57a80bf92f50f6f5fd46a8f1cd1f7e3fd1fc5f12744445df07cf0934d1fc1c7c"
     },
     {
       "path": "projects/WOR/WOR Studio/dist/pretest.js",
-      "bytes": 2909,
-      "sha256": "474aa3e65fc12fb091ae29fa1c4b650923931fd32e48c0dc020570da8cf4b03a"
+      "bytes": 8477,
+      "sha256": "47ba618f4c1a3acbc030a63dad6a66f9cf5abb44ed33d10a47d2f0246467bb1e"
     },
     {
       "path": "projects/WOR/WOR Studio/dist/seed.example.js",
@@ -4017,8 +5532,8 @@
     },
     {
       "path": "projects/WOR/WOR Studio/dist/studio.css",
-      "bytes": 4472,
-      "sha256": "b9057dc2436ce5f0a4ba2e1eb511e7f5b30777135a1ef386d872c17c1cd2d033"
+      "bytes": 8561,
+      "sha256": "caf19f18d5e8084f062702c745d1a87d07649354d34691c9153ee08283998834"
     },
     {
       "path": "projects/WOR/WOR Studio/dist/style.css",
@@ -4027,18 +5542,18 @@
     },
     {
       "path": "projects/WOR/WOR Studio/dist/titles.js",
-      "bytes": 12349,
-      "sha256": "890cfbc68112eac4fc8ebcc57628ab6a5c29cfc14977e67ee2b9aa35f6849b8e"
+      "bytes": 12509,
+      "sha256": "1826f66f18e202cf9dbed099a7ce88eaa7cbbbb32a9eecc24f65cb8594e06f1a"
     },
     {
       "path": "projects/WOR/WOR Studio/lab.mjs",
-      "bytes": 30331,
-      "sha256": "ca3edaffc3c707f7bce38dc79ee80a00e4b14f974a5c8b687498db5840332697"
+      "bytes": 35358,
+      "sha256": "ef46a1300718d7ff52be800a2f8a02beee0e70b3a81be764be3218881075b593"
     },
     {
       "path": "projects/WOR/WOR Studio/package.json",
-      "bytes": 351,
-      "sha256": "8e227207ca89492f6e4a59d9fb4bcfaa25dcd4d6aabcaf6c12eb8564c27bfb53"
+      "bytes": 499,
+      "sha256": "97e0c3e85cfe83340c7e7f8ccba8417b6986c20ed69449341e684b20e80d5dd4"
     },
     {
       "path": "projects/WOR/WOR Studio/prepare-local.mjs",
@@ -4047,8 +5562,8 @@
     },
     {
       "path": "projects/WOR/WOR Studio/server.mjs",
-      "bytes": 7974,
-      "sha256": "0e7d940af4f9ef0ddea06bc984c2c06c9da592a79551c501af0bab63e7f655d0"
+      "bytes": 8085,
+      "sha256": "290d245132e9b7c6e6b43a26e073354078e2e3ae67a4b3d44170b424c0698cbc"
     },
     {
       "path": "projects/WOR/WOR Studio/sync-allowlist.json",

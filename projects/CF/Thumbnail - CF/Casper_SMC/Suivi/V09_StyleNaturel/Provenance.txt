@@ -1,0 +1,22 @@
+V09 / 2026-10-15
+
+Source principale de Casper : Sources_HD/Casper/Casper_00-12-00.jpg, native 3840 x 2160, export Download Still deja disponible.
+Source d'identite de Riz : Sources_HD/Riz/Riz_01-16-00.jpg.
+Reference de composition : Masters/V08_StyleNaturel/09_scene_generated.png, jamais utilisee comme texture du visage photographique final de Casper.
+References de lumiere et de typographie : References/StyleNaturel_V08, trois JPG utilisateur.
+
+Generations par l'outil image_gen integre :
+09_scene_lighting_generated.png : exec-57181f57-d294-4e1a-8435-b51aec4b895a.png, 1672 x 941 ; lumiere et couleur.
+09_body_integration_generated.png : exec-c682348e-e5b3-4fa0-a81a-a2f30d3158eb.png, 1672 x 941 ; chemise et epaules autour du portrait photographique.
+Casper_clean_background.png : exec-c8a042e4-be17-4d28-a693-491e7de7ef67.png ; fond seul, aucun visage, place sous le portrait pour eliminer les cheveux doubles.
+Les prompts exacts sont dans les trois fichiers Prompt_*.txt.
+
+Assemblage photographique : le RGB de la photo HD originale est conserve pour le visage et le cou de Casper. Les masques sont en alpha, l'integration repose sur une transformation uniforme x1.02 et une translation, rotation 0. Seuls les pixels de frange des cheveux sont decontamines. Le raccord de la chemise est genere, pas la texture du visage final de Casper.
+Les zones centrales controlees du visage et du cou ont 0 pixel RGB modifie dans le calque source avant redimensionnement. Voir Photographic_verification.json pour les limites du controle.
+Riz et les bras restent ceux de la plaque de scene harmonisee ; ne pas presenter la scene entiere comme une prise de vue originale non assemblee.
+
+Ordre de reconstruction : assemble_original_head.ps1, finish_photo_v09.ps1, render_v09_natural.ps1.
+Le fond local est recadre de la plaque 1672 x 941 : source x901.3125, y26.1389, w391.875, h333.2708 ; preparation 900 x 765, position finale x2070 y60. Sa correction de teinte est limitee au fond, lisse verticalement, avant pose du calque original de Casper.
+Typographie Poppins Bold, rendue directement a 3840 x 2160. Aucun grain, lissage, nettete additionnelle ni filtre global sur le portrait photographique final.
+
+Statut : une seule image finale, numero 09. Les plaques intermediaires servent a la tracabilite ; elles ne sont pas des propositions finales.

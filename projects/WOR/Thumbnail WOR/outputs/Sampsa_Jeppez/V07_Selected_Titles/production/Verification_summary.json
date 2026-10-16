@@ -1,0 +1,15 @@
+{
+  "Variants": 14,
+  "Dimensions": "3840x2160",
+  "NativeMaster": "1672x941",
+  "Native4K": false,
+  "GrainAppliedOnce": true,
+  "GrainMethod": "Uniform monochrome +/-4 percent",
+  "VerifiedFaceRegions": 22,
+  "ChangedPixelsInsideProtectedFaceCores": 0,
+  "GalleryJavaScriptSyntax": "Passed",
+  "GalleryBrowserTest": "Not run: local file protocol blocked by browser tool",
+  "GalleryAssetLinks": "42 preview files and 14 PNG paths verified",
+  "ExportSHA256": "14 verified",
+  "Date": "2026-10-15T14:38:16.0297091+01:00"
+}

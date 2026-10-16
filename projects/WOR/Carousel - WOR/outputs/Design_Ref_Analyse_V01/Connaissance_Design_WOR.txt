@@ -1,0 +1,227 @@
+CONNAISSANCE DU DESIGN DES CARROUSELS WORDS OF RIZDOM
+Version 01 — 13 octobre 2026
+
+Ce référentiel décrit les 62 JPEG présents dans Design REF. Il sert à transformer un futur texte et ses photos originales en carrousel cohérent avec ces références. La signature est un portrait expressif de podcast, un contraste fort, une phrase immédiatement lisible et une emphase rouge très ciblée. Les variantes pédagogiques ajoutent des encadrés, comparaisons ou schémas ; les conclusions rapprochent l'invité et l'animateur ou montrent le plateau.
+
+1. COMMENT UTILISER LA CONNAISSANCE
+
+Lire ce guide avant toute nouvelle production dans ce projet. Ouvrir Atlas_Design_WOR.html et choisir des références par fonction : couverture, présentation, explication, comparaison, synthèse, appel à l'action. Les fiches de chaque JPEG contiennent une observation individuelle et ses mesures. Ne pas associer automatiquement des photos ou des invités d'après les suffixes de fichiers.
+
+Le dossier Design REF reste la source visuelle. Les anciens outputs Candace ne remplacent pas ces nouvelles références. Toute nouvelle série doit avoir un dossier et un numéro de version distincts. Les textes, chiffres et affirmations présents dans les références ne sont pas une source factuelle pour un nouvel invité.
+
+Les coordonnées de mesures_pixels.json sont dans le raster natif, origine (0,0) en haut à gauche. Les boîtes sont inclusives : largeur = x2 - x1 + 1. L'atlas permet d'ouvrir chaque original à sa définition native, d'afficher une grille et de relever les coordonnées et couleurs d'un pixel au clic. Les planches serie_00 à serie_11 permettent la comparaison ; les groupes suivent les noms et ne sont pas des épisodes validés.
+
+Trois niveaux de certitude s'appliquent partout :
+• MESURÉ : dimensions, empreinte SHA256, RGB d'un pixel, nombre de pixels satisfaisant un seuil, boîtes de composantes du masque rouge/vert.
+• OBSERVÉ / ESTIMÉ : fonction de la slide, placement du portrait, famille visuelle des caractères, hauteur des lettres, rayon d'un cartouche, espace entre paragraphes. Les valeurs sont des repères de reproduction, pas des paramètres récupérés.
+• PROPOSÉ : grille, tailles typographiques, réglages de dégradé et procédure pour les futurs carrousels. À ajuster en comparaison avec une référence précise.
+
+Un JPEG aplati ne permet pas de certifier la fonte, la graisse exacte, le corps original, les réglages de tracking, le masque de détourage, l'opacité des effets ou la colorimétrie de la photo avant traitement. La compression introduit plusieurs RGB voisins. La hauteur visible d'une lettre ne correspond pas directement au corps de police. Une mesure de pixels rouges peut inclure une bougie, un reflet ou une lumière de plateau ; elle ne constitue pas une segmentation sémantique du texte.
+
+2. INVENTAIRE ET PIÈGES DE NOMMAGE
+
+62 images, largeur 1080 px. Deux ratios : 4:5 (1080 × 1350) et 3:4 (1080 × 1440). 44 images de 1350 px de haut et 18 images de 1440 px de haut. Voir inventaire.json pour le décompte vérifié et la dimension de chaque fichier. Ne pas recadrer les références 1440 px vers 1350 px sans recomposer les blocs et le pied de page.
+
+Suffixe absent : Candace, slides 1 à 6 ; Slide-7.jpg est un plateau Fredy/ChartFanatics et utilise une autre marque au footer.
+Suffixe (1) : Clement, slides 1 à 6 ; slide 7 est un CTA Connor.
+Suffixe (2) : Matteo, slides 1 à 6 ; slide 7 est un CTA Connor.
+Suffixe (3) : Fredy et gamma, six slides.
+Suffixe (4) : Darrell, slides 1 à 5 ; slide 6 traite Connor et le risque.
+Suffixe (5) : Connor et risque de portefeuille, slides 1 à 5 ; slide 6 est un CTA Jim.
+Suffixe (6) : Connor, cinq slides.
+Suffixe (7) : John, slides 1, 3, 4, 5 ; slide 2 présente Connor.
+Suffixe (8) : Gala, slides 1, 3, 4, 5 ; slide 2 présente John.
+Suffixe (9) : Jim, slides 1, 3, 4, 5 ; slide 2 présente Gala.
+Suffixe (10) : Jim, deux variantes isolées de slides 2 et 4.
+Suffixe (11) : variante isolée de la présentation Jim.
+
+Ces identifications décrivent le contenu visible. Elles ne valident ni les performances affichées ni la biographie des intervenants.
+
+3. LES CONSTANTES DE LA DIRECTION ARTISTIQUE
+
+La personne reste reconnaissable et prend beaucoup d'espace. Le cadrage descend souvent jusqu'au buste ; les épaules, bras ou vêtements sortent du cadre. La lumière du plateau apporte de l'ambre, du bois et parfois du bleu. La partie du fond qui porte le texte devient presque noire par un dégradé ou une vignette. Il n'y a pas de grande marge extérieure blanche ni de cadre autour de toute la slide.
+
+Le lecteur voit successivement : visage ou chiffre, promesse/tension de la headline, mots surlignés, explication, navigation. Cet ordre varie avec le sujet : une slide technique peut commencer par un titre puis un schéma ; une couverture peut commencer par la photo puis un titre placé en dessous.
+
+Le blanc constitue le texte courant. Le rouge concentre la tension, l'idée clé, le nom ou le mot d'action. Le vert signale une donnée positive, une validation, un bon contexte ou un résultat. Le rouge n'est pas toujours négatif : il sert aussi à attirer l'attention sur un concept comme Gamma ou sur un nom. Ne pas traduire automatiquement chaque rouge en alerte.
+
+Les titres sont serrés et directs, avec une hiérarchie locale obtenue par graisse, cartouche et retours à la ligne. Les textes de lecture utilisent le même langage géométrique mais une graisse plus légère. Le style n'est pas uniquement constitué de titres en capitales : les séries Fredy, Darrell, Connor, John, Gala et Jim utilisent très souvent une casse de titre ou de phrase.
+
+La photographie et les infographies peuvent être sophistiquées ; le squelette reste simple : une idée par slide et une relation spatiale évidente entre texte et sujet.
+
+4. FAMILLES DE COMPOSITION
+
+A — Couverture avec headline haute et grand portrait frontal.
+Exemples : Slide-1 (5), Slide-1 (6). Titre centré en haut, environ 2 lignes ; tête sous le titre ; accroche secondaire au niveau du torse ; flèche courbe orientée vers la tête ou la promesse ; footer discret. Le visage peut occuper une largeur proche de 45 % du canevas et le portrait remplit presque toute la hauteur restante. Le haut de la coiffure est proche de y=240 dans Slide-1 (6).
+
+B — Couverture avec photo haute et headline basse.
+Exemples : Slide-1 (3), (4), (7), (8), (9). L'image installe l'identité dans les 55–65 % supérieurs ; le titre apparaît à la transition vers le tiers inférieur. Le dégradé commence avant les caractères et s'intensifie sous ceux-ci. Le visage reste clair et les vêtements s'assombrissent. Une ligne de contexte plus légère suit la promesse.
+
+C — Explication latérale avec titre haut.
+Exemples : Slide-3.jpg, Slide-4.jpg, Slide-4 (1), Slide-3 (2). Sujet sur une moitié, paragraphes sur l'autre ; titre au-dessus des deux. Le texte ne doit pas suivre le contour exact du visage au point de créer des lignes instables. Préférer une colonne stable, puis un recadrage photo qui la libère.
+
+D — Carte de présentation biographique.
+Exemples : Slide-2 (4), (5), (6), (8), (9), (10), (11). Question courte ou nom en haut, visage au centre/droite, liste biographique en bas. Les versions Connor utilisent une carte sombre ; les versions John/Gala une carte blanche ; Jim possède une variante semi-transparente avec contour gris et un grand point d'interrogation. La carte peut recouvrir le torse, jamais les yeux.
+
+E — Photo contextuelle avec encadrés de démonstration.
+Exemples : Slide-2 (2), Slide-4 (2), Slide-4 (5). Écran, carnet ou chart mettent une idée en situation. Le texte et les tableaux restent au premier plan, lisibles malgré la scène. Ne pas multiplier les petites inscriptions de décor qui concurrencent l'information principale.
+
+F — Slide infographique ou de contraste.
+Exemples : Slide-4 (3), Slide-5 (3), Slide-5 (5), Slide-5 (2). Un chart, deux colonnes, deux cartes ou une séquence verticale organisent la compréhension. Le vert/rouge rend l'opposition immédiatement visible. Le diagramme doit servir une idée lisible, pas produire une illusion de données réelles.
+
+G — Slide d'une leçon, texte très court sur portrait.
+Exemples : Slide-3 (4), Slide-3 (6), Slide-3 (7), Slide-4 (7), Slide-3 (8), Slide-4 (8). Portrait dominant ; quelques bandes blanches, une formule ou deux groupes de phrases. Les bandes de texte peuvent descendre sur le torse. Certaines sont légèrement inclinées, d'autres parfaitement horizontales : choisir la variante de la référence utilisée.
+
+H — Conclusion avec deux portraits détourés.
+Exemples : Slide-6.jpg, Slide-6 (1), Slide-6 (2), Slide-5 (8). Promesse/récapitulatif en haut, visage invité et animateur dans la moitié inférieure, appel à l'action entre eux ou par-dessus le torse, marque centrée en pied. Leurs proportions doivent rester crédibles ; aucun visage emprunté à une autre série.
+
+I — Conclusion avec plan large de l'entretien.
+Exemples : Slide-5 (4), Slide-5 (6), Slide-5 (7), Slide-7 (1), Slide-7 (2). Le plateau occupe le haut, la zone basse est assombrie et porte le CTA centré. Le mot à commenter est rouge et la promesse de l'épisode en gras. Le texte reste séparé de la petite marque finale.
+
+5. TYPOGRAPHIE OBSERVÉE ET MÉTHODE DE REPRODUCTION
+
+Famille visible : sans serif géométrique, formes rondes, grande hauteur d'x, mélange regular/medium et bold. Le a de nombreux blocs est à un étage ; plusieurs titres ont un g rond, un o proche d'un cercle et des terminaisons simples. Les caractères des titres et des paragraphes paraissent de même famille dans de nombreuses références. Ce constat ne suffit pas à attribuer un nom de fonte. Statut : famille visuelle observée, nom exact non confirmé.
+
+Les titres Candace ont une forte graisse et souvent des capitales. Les autres séries ont des capitales initiales et des mots pleins très lisibles. Les chiffres de la couverture Clement sont volontairement beaucoup plus grands que le texte adjacent. Les titres ne sont pas étirés ou artificiellement condensés ; si la longueur déborde, il faut revoir la formulation ou les retours à la ligne.
+
+Repères PROPOSÉS à 1080 px de large, à calibrer sur la fonte réellement utilisée :
+• Headline majeure : corps 82–100 px, graisse forte, interligne 0,98–1,12.
+• Headline longue/technique : corps 68–84 px, interligne 1,02–1,16.
+• Chiffre exceptionnel de couverture : 140–210 px selon son nombre de caractères.
+• Sous-titre : 48–62 px, interligne 1,12–1,24.
+• Paragraphe pédagogique : 38–46 px, interligne 1,18–1,30.
+• Texte de carte dense : 34–42 px ; alléger le texte avant de descendre davantage.
+• Liste biographique : 44–58 px dans les compositions simples de 1350 px.
+• CTA : 52–70 px pour la promesse ; 42–56 px pour la consigne.
+• Footer : environ 34–39 px ; capsule Swipe : environ 35–40 px.
+
+Ces plages sont des points de départ, pas une moyenne calculée de 62 fontes inconnues. Mesurer la boîte d'encre après rendu : le corps nominal varie beaucoup d'une fonte à l'autre. Pour retrouver une fonte, comparer au minimum a, g, t, r, M, W, 1, 4, $, %, et les mots réellement présents. Vérifier la largeur d'une phrase entière à hauteur d'encre égale. Une fonte qui ressemble sur un mot mais casse les lignes autrement ne convient pas.
+
+Tracking proposé : proche de 0 pour la lecture, légèrement négatif pour les gros titres si nécessaire. Ne pas imposer une valeur commune à tous les titres. La largeur du bloc et les retours sont plus déterminants qu'une différence minime de corps.
+
+Hiérarchie dans les paragraphes : le prénom ou un syntagme important prend du gras ; le reste garde sa graisse de lecture. Dans les CTA, le nom à commenter, full episode ou une promesse centrale reçoit l'emphase. Éviter de mettre chaque phrase en gras : le contraste typographique disparaîtrait.
+
+6. ESPACEMENTS ET GRILLE
+
+La grille est souple, guidée par le portrait et les lignes. La plupart des footers ont une origine autour de x=44–46 px, et la capsule droite commence autour de x=850 px. Cela représente une marge latérale proche de 4,2 % pour ces éléments. Certaines biographies débordent jusqu'au bord gauche avec un grand cartouche ; ce n'est pas la marge à généraliser aux paragraphes.
+
+Grille PROPOSÉE : marges 44–64 px, largeur utile 952–992 px. Colonne de lecture latérale 420–570 px selon le portrait. Gouttière visuelle 24–48 px. Les éléments purement décoratifs et les épaules peuvent être à fond perdu.
+
+Entre deux lignes d'un titre, conserver une proximité forte. Entre headline et explication, réserver environ 35–65 px si le layout le permet. Entre paragraphes, commencer par 28–44 px. Entre titre et son cartouche, la relation est interne : le fond doit envelopper la phrase, sans devenir un panneau indépendant.
+
+Illustration observée sur Slide-3.jpg à 1080 × 1440 : cartouche rouge de titre visuellement vers x=297, y=120 jusqu'à x=966, y=221 ; première ligne de lecture vers x=64, y=360 ; la seconde commence autour de y=410. La première séquence fait deux lignes ; le paragraphe suivant démarre autour de y=494, soit environ 50 px après le bas d'encre de la séquence précédente. Les autres groupes débutent autour de y=727 et y=908. Ces repères manuels ont une tolérance visuelle ; utiliser les mesures du masque et le pixel inspecteur pour les limites raster exactes.
+
+Illustration observée sur Slide-1 (6) à 1080 × 1350 : première ligne de titre vers y=18–95 ; seconde autour de y=130–215 ; le fond rouge débute autour de x=212, y=118 et finit vers x=780, y=222. Sous-titre vers y=1037–1094 ; carte blanche autour de x=145, y=1118 à x=929, y=1209. Footer visible vers y=1260–1290 ; capsule près de x=850–1035 et y=1256–1300. Vérifier dans l'atlas avant toute reproduction exacte.
+
+Ne pas transposer le footer de 1350 px à 1440 px avec un y fixe. Conserver plutôt le repère bas : environ 50–65 px sous les dernières lettres ou le bas de capsule dans plusieurs références. Le footer est blanc ou gris clair, plus discret que la headline.
+
+Toutes les boîtes doivent être vérifiées à 100 % et à largeur mobile. Une grande slide peut avoir des lignes courtes parfaitement lisibles ; une autre peut contenir trop de mots malgré le même corps. Le nombre de mots et les retours à la ligne comptent autant que les pixels.
+
+7. COULEURS
+
+Le raster contient plusieurs rouges proches, du fait des dégradés, halos, antialiasing et JPEG. La palette mesurée par fichier donne les cinq RGB les plus fréquents dans des catégories strictes, ainsi que leur nombre de pixels. Un RGB dominant d'une catégorie ne signifie pas que tous les objets utilisaient cette couleur dans le fichier source.
+
+Palette de reconstruction PROPOSÉE :
+• Rouge d'emphase #FF0000 ; variante lumineuse #FF2424 pour un éclairage du cartouche, ombre rouge sombre autour de #9D0000.
+• Vert vif #22FF00 ou #00F51D, à choisir par comparaison au JPEG concerné.
+• Texte blanc #FFFFFF ; dans les slides chaudes, blanc très légèrement teinté #FFF7F7 si cela rapproche du raster.
+• Fond noir #050505 à #141414 ; cartes sombres #101010 à #242424.
+• Bordure discrète gris clair, souvent avec transparence ; ne pas confondre couleur de bordure et opacité sur la photo.
+• Ambre et brun issus de la photo, sans appliquer une teinte orange uniforme aux visages.
+• Bleu/pourpre présent dans certaines scènes Jim et les écrans ; ce sont des couleurs contextuelles, pas un nouvel accent systématique.
+
+Seuil rouge de mesure : R>180, G<85, B<85, R-G>115. Seuil vert : G>150, R<115, B<115, G-R>70. Blanc : minimum RGB>232 et écart entre canaux<20. Sombre : maximum RGB<35. Les seuils sont publics pour que les résultats puissent être reproduits ; les blancs légèrement roses ou les rouges sombres peuvent être exclus.
+
+Le rouge couvre parfois un syntagme court dans une headline blanche, parfois deux lignes de question, parfois un nom. Le vert des payouts Candace et des résultats Clement est plus lumineux que le vert de certaines bougies. Éviter un accent vert sur un élément sans justification sémantique.
+
+8. CARTOUCHES, CARTES ET EFFETS
+
+Cartouche rouge : rectangle ajusté aux mots, arrondi faible à moyen, généralement aligné avec la ligne de texte. Padding horizontal proposé 12–24 px et vertical 5–12 px, à régler d'après la boîte d'encre. Rayon proposé 10–20 px ; les variantes John/Gala comprennent des capsules beaucoup plus arrondies. Plusieurs références montrent une lumière plus claire sur le haut du rouge et une ombre sur les caractères.
+
+Carte blanche : blanc ou blanc cassé, texte noir, très peu d'effet. Elle peut être une bande derrière une seule ligne ou un panneau de plusieurs lignes. Rayon souvent visuellement proche de 8–18 px ; certaines cartes de présentation ont de grands angles droits et un arrondi extérieur plus large. Les bandes ne sont pas toutes inclinées : ne pas ajouter une rotation par défaut.
+
+Carte sombre : intérieur presque noir, contour fin gris, angles arrondis. Une lueur interne ou externe aide parfois à l'isoler. Dans les cartes Matteo, un filet vertical rouge à gauche crée une continuité visuelle entre les arguments. Paramètres de départ proposés : bord 1–3 px, rayon 12–20 px, lueur 8–18 px très faible. Le JPEG seul ne permet pas de certifier les valeurs de blur/opacity.
+
+Ombre du texte : courte et sombre dans certains grands titres, utile sur les photos chaudes. Commencer par un décalage vertical de 3–6 px et un flou 4–10 px ; le régler localement. Ne pas ajouter une grosse ombre à tout le texte courant sur fond noir.
+
+Les feuilles déchirées de Slide-5 (2) sont une variante pédagogique forte : texture papier clair, titres manuscrits, deux colonnes, vert de validation et rouge d'alerte. Elles ne constituent pas le modèle courant des paragraphes.
+
+9. TRAITEMENT PHOTOGRAPHIQUE
+
+Observations : hautes lumières chaudes, noirs profonds, détail visible dans les cheveux et vêtements, contours de visage marqués, fond souvent moins lisible que le sujet. Les variantes Matteo ont un environnement plus construit, sombre et cinématographique. Plusieurs portraits Jim montrent du grain et un fort contraste. Le raster ne révèle pas si ces effets viennent de la capture, de la retouche ou de la compression.
+
+Procédure proposée : partir de la vraie photo originale de l'invité ; choisir une expression claire ; définir le recadrage avant les effets ; séparer le sujet seulement si la composition le demande ; assombrir le fond avec un masque large ; ajouter un dégradé noir derrière le texte ; rétablir la lisibilité des vêtements dans les zones sans texte si nécessaire. Le dégradé ne doit pas recouvrir les yeux ou donner une peau grise.
+
+Dégradé bas proposé : transparent autour de 50–60 % de la hauteur, sombre vers 75–85 %, proche du noir en bas. Il doit être ajusté à la scène : la table de certaines conclusions reste visible sous les premiers mots, tandis que d'autres slides utilisent une zone basse beaucoup plus noire. Des dégradés latéraux servent les colonnes pédagogiques.
+
+Un halo rouge autour de certains contours sert le raccord avec les rideaux ou les lumières ; ne pas en faire un détourage néon systématique. Préserver cheveux fins, lunettes, dents, texture de peau et identité. Ne pas régénérer un visage à partir d'une slide déjà générée. Les microphones sont visibles dans beaucoup de ces références ; leur présence relève de la scène réelle, pas d'une obligation de composition ni d'une règle à importer d'un autre format Spotify.
+
+10. FLÈCHES, SYMBOLES ET CHARTS
+
+Flèches : courbes blanches, parfois rouges ou jaunes, trait arrondi, pointe ouverte ; pleines ou pointillées. Elles relient une idée à un visage, à un écran ou à une conséquence. Proposition : épaisseur 6–10 px à 1080 px, pointe de 25–45 px, courbe simple, espace suffisant autour du titre. Certaines flèches dépassent cette plage dans les illustrations. Ne pas utiliser trois flèches qui racontent la même chose.
+
+Symbole Swipe : contour blanc fin, capsule transparente/sombre, texte blanc et flèche horizontale à droite. Le footer de nombreuses slides 1350 px est remarquablement stable : marque à gauche et navigation à droite. Plusieurs conclusions ne comportent pas Swipe ; elles centrent la marque.
+
+Symboles de validation : petites pastilles vertes ; objections : croix rouges ; certains graphiques ajoutent flèches verticales. Leur taille doit rester subordonnée à la phrase. Le grand point d'interrogation des variantes Jim est une exception délibérée, utilisé comme image de curiosité.
+
+Charts : chandeliers verts/rouges sur fond noir, chart dans un écran ou un petit panneau à bordure, labels courts. Gamma peut être expliqué par un schéma tracé à la main. Les chart bars/labels sont lisibles dans le rôle de démonstration ; il ne faut pas reproduire des cours ou des niveaux supposés réels sans source. Les axes/chiffres de décor ne doivent pas devenir une affirmation de résultat.
+
+11. CONTENU ET RYTHME DU CARROUSEL
+
+Les références montrent plusieurs rythmes : intrigue de couverture, identité de l'intervenant, une leçon, un mécanisme, une conséquence et une conclusion. Candace et Matteo ont des blocs plus pédagogiques ; Connor/John/Gala ont souvent des slides très courtes. Le nombre exact dépend du texte, pas d'un suffixe de fichier.
+
+Workflow pour un futur texte :
+1. Vérifier l'invité, la source du texte, les chiffres et les photos disponibles.
+2. Isoler la promesse et les idées distinctes ; conserver les nuances qui changent le sens.
+3. Établir une table slide / message / preuve / photo / référence de layout.
+4. Choisir une famille dominante pour la série puis ses variantes pédagogiques utiles.
+5. Répartir le texte sans laisser une slide devenir un mur de petits caractères.
+6. Composer les retours à la ligne et choisir un ou deux segments d'emphase par bloc.
+7. Poser les photos originales, les dégradés, les cartes et enfin le footer.
+8. Comparer à une référence choisie pour chaque slide, en vue mobile et à 100 %.
+9. Exporter une nouvelle version, préparer l'aperçu et vérifier chaque image ainsi que l'archive si demandée.
+
+Pour une série simple de six slides, canevas proposé : 1 accroche ; 2 identité/contextualisation si utile ; 3 idée centrale ; 4 fonctionnement ou exemple ; 5 conséquence/application ; 6 synthèse/CTA. Ce n'est pas une obligation de six slides. Supprimer la biographie si elle n'apporte rien, ajouter une slide si elle préserve la lisibilité d'une explication.
+
+Le style du texte public est l'anglais naturel sauf demande contraire. Ne pas recopier des majuscules initiales mécaniques si cela rend la phrase artificielle. Des phrases brèves fonctionnent mieux que des titres coupés à chaque mot. Respecter les distinctions payouts, profits, returns, AUM, capital alloué et risque de perte.
+
+Le CTA Comment NOM implique un parcours de réponse/DM. Ne pas promettre un envoi privé automatisé ou une disponibilité d'épisode sans que cela corresponde au brief. Full Episode Link in Bio et Comment sont deux parcours différents ; choisir celui fourni par l'utilisateur.
+
+12. PARAMÈTRES DE BASE POUR LA PROCHAINE CRÉATION
+
+Canvas : 1080 × 1350 par défaut de travail si aucun format n'est spécifié, à confirmer par le brief ou l'exemple retenu ; 1080 × 1440 pour reprendre précisément la famille longue Candace/Matteo.
+Marges : 48 px comme point de départ, pas comme règle universelle.
+Typographie : famille géométrique validée visuellement ; deux à trois graisses ; corps calibrés sur l'encre.
+Couleurs : blanc/noir ; rouge de focalisation ; vert utilisé de façon justifiée.
+Image : photo réelle à forte présence, cadrage variable entre les slides.
+Effets : dégradés au service du texte, lueur légère sur certains cartouches, pas de filtre uniforme agressif.
+Navigation : marque bas gauche et capsule bas droite sur les slides intermédiaires ; footer centré sur les conclusions appropriées.
+Structure : une idée principale par slide, schéma quand il clarifie, emphase locale, CTA conforme au brief.
+
+13. CONTRÔLE QUALITÉ
+
+Comparer la série à son sous-ensemble de références, pas à une moyenne qui gommerait les différences. Contrôler les sauts de ligne, largeur des cartouches, respiration autour des cartes et équilibre avec les visages. Vérifier que les pieds de lettres ne touchent pas les cartouches ni le bord d'un panneau.
+
+À largeur mobile : la headline se lit immédiatement ; les paragraphes se lisent sans zoom excessif ; les schémas expliquent une chose ; la navigation reste discrète. À 100 % : cheveux/lunettes propres, accents et ponctuation corrects, aucun mot coupé, bordures cohérentes, pas d'artefact sur les mains ou le visage.
+
+Vérifier le nom, les chiffres et leur qualification. Contrôler marque WOR versus ChartFanatics ; ne pas importer le footer ChartFanatics de Slide-7.jpg. Vérifier l'adéquation entre le nom du CTA et la photo. Les mélanges repérés dans Design REF doivent servir d'avertissement, pas être reproduits.
+
+Vérifier dimension de chaque export, count, ordre, ouverture des fichiers, aperçu de toute la série et archive si livrée. Les références ne sont pas modifiées ; aucune version précédente n'est écrasée.
+
+14. CE QUI RESTE À ÉTABLIR POUR UNE IDENTITÉ AU PIXEL PRÈS
+
+Le nom et les fichiers des polices d'origine ; les fichiers de travail avec textes éditables ; les photos avant retouche ; les valeurs des dégradés et effets ; les positions des calques et les paramètres d'export. Sans ces sources, on peut mesurer le JPEG et reproduire très étroitement son aspect, mais on ne peut pas certifier 100 % des paramètres de fabrication.
+
+Le présent référentiel est complet pour les observations des 62 images et constitue une base de production réutilisable. Les mesures exactes sont conservées à côté du guide ; les estimations et réglages proposés sont explicitement séparés afin de ne pas convertir une hypothèse en règle certaine.
+
+15. QUELQUES MESURES RASTER EXACTES
+
+Slide-1 (6).jpg : composante rouge principale (212,118) → (779,221), boîte 568 × 104 px ; 31 906 pixels de rouge dans cette composante. RGB rouge le plus fréquent du masque entier : #FE0000 (3 400 pixels). Blanc fréquent : #FCFCFC. Bande blanche candidate haute y=17–89, puis y=134–204 ; les autres fragments peuvent être des jambages.
+
+Slide-3.jpg : composante rouge principale (297,120) → (965,220), boîte 669 × 101 px ; 42 295 pixels du masque. Bande de lettres hautes y=139–199 puis y=236–295 : écart entre débuts 97 px, espace de 36 lignes de pixels entre les bandes. Blanc de footer détecté dans la zone gauche y=1356–1375 ; la totalité des ascendants n’est pas garantie par le seuil de comptage. Rouge le plus fréquent #FC0001. Blanc fréquent #FFFFFF et #FFF2F2.
+
+Slide-5 (2).jpg : composante de cartouche (277,102) → (683,174), boîte 407 × 73 px ; 17 544 pixels de masque. Une autre composante (941,863) → (1025,943) correspond au pictogramme rouge de la feuille, pas à un cartouche de texte. Rouge fréquent #FF0202 ; vert fréquent #30FF0F.
+
+Slide-2 (10).jpg : grande bande blanche candidate y=75–301, liée au panneau de question. Les rouges sont des composantes de lettres séparées ; les fusionner aveuglément en une carte rouge serait une erreur. Rouge fréquent #E80000 ; blanc fréquent #FFFFFF.
+
+Les mesures de tous les autres fichiers sont dans Mesures_et_observations_62_references.txt et mesures_pixels.json.

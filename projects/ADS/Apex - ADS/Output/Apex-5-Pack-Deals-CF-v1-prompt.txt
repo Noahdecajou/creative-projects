@@ -1,0 +1,36 @@
+Use case: ads-marketing.
+Create ONE finished premium Apex Trader Funding 5-Pack advertisement, portrait 9:16, high resolution with razor-sharp English typography.
+INPUT IMAGES: Image 1 is a composition/motif reference only: sculptural trading candlesticks, a central translucent candlestick containing branded objects, and sophisticated empty dark space. Image 2 is the reference for the authentic Apex logo and restrained black/blue brand identity ONLY. Do NOT reproduce either reference's old promotion text. Create an original composition for the new brief below.
+ART DIRECTION: premium, clean, simple, highly readable. Approximately 90% black and 10% blue in the background/decorative palette; white and gray type. Very dark matte black background, restrained cobalt accents. Absolutely NO chrome/metallic text, no beveled numerals, no shiny silver surfaces, no decorative icons, no emojis, no lens flares, no neon frames, no science-fiction grid. Flat modern bold typography; ample negative space.
+HERO CONCEPT: Upper area pairs a strong left-aligned typographic offer on the left with one elegantly rendered tall translucent deep-blue GLASS FINANCIAL CANDLESTICK on the right. Thin wick rods, recognizable candlestick proportions. A single solid white Apex symbol floats inside the glass, faithfully reproducing the angular Apex mark from Image 2. Replace ALL Bitcoin/Ethereum motifs from Image 1 with that Apex symbol. No coins, no crypto symbols, no competitor marks. Three smaller matte charcoal candlesticks step upward behind and beside the main candle toward the far right edge; subtle blue edge illumination and realistic soft shadows. Keep candles confined to upper hero region, leaving the pricing unobstructed. The main candle's body is mostly transparent/dark with blue edges, so black remains dominant.
+STRUCTURE:
+Top small official white Apex Trader Funding logo lockup, enough breathing room.
+Small tracked kicker: "INCREDIBLE NEW 5-PACK DEALS!"
+Left hero headline on stacked lines:
+"5 ACCOUNTS"
+"JUST"
+"$37.48?!"
+Make $37.48 the dominant flat cobalt-blue type, and 5 ACCOUNTS bold white. Hero copy should fit comfortably alongside the candle with no overlap.
+Tiny hero qualifier: "25K INTRADAY 5-PACK"
+Lower half: two stacked, beautifully aligned clean pricing sections on black. Thin charcoal horizontal dividers, no enclosing boxes. Section labels in restrained blue, every price crisp and large enough to read on a phone.
+Section 1 title: "INTRADAY 5-PACK DEALS"
+Table column headers: "ACCOUNT" | "5-PACK TOTAL" | "PER ACCOUNT"
+Three rows exactly:
+"25K" | "$37.48" | "$7.50"
+"50K" | "$47.50" | "$9.50"
+"100K" | "$172.50" | "$34.50"
+Section 2 title: "EOD 5-PACK DEALS"
+Table column headers: "ACCOUNT" | "5-PACK TOTAL" | "PER ACCOUNT"
+Three rows exactly:
+"25K" | "$112.50" | "$22.50"
+"50K" | "$122.50" | "$24.50"
+"100K" | "$247.50" | "$49.50"
+Use tabular figures and precisely aligned columns, generous row spacing. Table text mostly white with secondary headers gray. Do not swap, round, or change any of these prices.
+Near bottom, tasteful strong text-only CTA row:
+"REPLY: APEX" | "USE CODE: CF"
+At bottom, readable understated gray qualification across two lines:
+"Special per-account pricing is available"
+"exclusively with 5-Pack purchases."
+No deadline supplied so do not invent one. No discount percentage, anniversary text, activation fee claims, or other leftover information from prior artwork. Preserve all six offers and all twelve prices exactly. This must look like a professional premium finance ad, not a cluttered flyer.
+
+Generation mode: built-in ImageGen.

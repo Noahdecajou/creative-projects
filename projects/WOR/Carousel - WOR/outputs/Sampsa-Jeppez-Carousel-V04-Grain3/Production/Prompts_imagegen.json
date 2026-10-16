@@ -1,0 +1,33 @@
+[
+  {
+    "slide": 1,
+    "reference_inputs": [
+      "C:\\Users\\notti\\Documents\\ChatGPT\\Carousel - WOR\\outputs\\Sampsa-Jeppez-Carousel-V02\\PNG\\Slide-01.png",
+      "C:\\Users\\notti\\Documents\\ChatGPT\\Carousel - WOR\\outputs\\Sampsa-Jeppez-Carousel-V02\\PNG\\Slide-02.png",
+      "C:\\Users\\notti\\Documents\\ChatGPT\\Thumbnail WOR\\outputs\\Sampsa_Jeppez\\V05_Natural_Set\\sources_HD\\Sampsa\\Sampsa_15-31-00-00.jpg"
+    ],
+    "prompt": "Use case: identity-preserve / ads-marketing. Edit image 1, the approved vertical 3:4 Words of Rizdom slide 1. Image 2 shows the EXACT CLOSED-MOUTH PORTRAIT the user wants to replace the current open-mouth cover portrait. Image 3 is Sampsa's ORIGINAL photograph, authoritative for authentic facial anatomy and skin. Replace only the large portrait on the right of image 1 with the calm closed-mouth expression and head angle from image 2, using original image 3 for natural skin and identity. His mouth is relaxed and fully closed, neutral thoughtful expression; NOT talking and no visible teeth. Keep the big right-side face scale from image 1 and microphone/sweater placement. Do not substitute the entire slide 2 design: all slide 1 words, ordering and layout remain those of image 1. Keep exactly \"HE TURNED $12K\" / \"INTO OVER\" / \"$5 MILLION.\" in the left top; \"After spending his first\" / \"two years losing money.\" in the existing charcoal card; white wordsofrizdom.com and Swipe arrow at bottom. Also clean up the black '$5 MILLION.' lettering in the bright green rounded rectangle: true normal-proportion Poppins Bold-like geometric sans, consistent natural spacing, NOT artificially stretched or condensed, no overly wide tracking. Keep the green rectangle within the same exact bounds (roughly x39,y369,w575,h162 on a 1080x1440 canvas) and do not move surrounding text. Font can be less tall to gain comfortable padding. Preserve all background, palette, cards, words, hierarchy, colors and photographic quality. Do NOT add a name label yet; that is a separate identical typography overlay for all slides. No added grain or smoothing or sharpening; fine 3% grain is applied once later. No other changes.\nCRITICAL POSE CORRECTION: this is a literal portrait substitution from image 2 into image 1. Do not merely close the mouth of the existing frontal man. The new cover face must have the distinctly different THREE-QUARTER ANGLE of images 2 and 3: his nose points toward the LEFT of the canvas, his right ear is clearly visible on the RIGHT edge of his head, the eye line has the gentle natural tilt visible in the original capture, and his chin is slightly raised like the original image 3. Keep the real original face geometry. Transfer that photographed closed-mouth head/pose to the cover. The camera angle must visibly match image 2, not be frontal.",
+    "generated_source": "C:\\Users\\notti\\.codex\\generated_images\\01a1359c-fb60-76b1-bab8-b1853b5213a5\\exec-4f7ec93e-18b4-476e-b19c-0bdce7533d8b.png",
+    "tool": "image_gen.imagegen"
+  },
+  {
+    "slide": 2,
+    "reference_inputs": [
+      "C:\\Users\\notti\\Documents\\ChatGPT\\Carousel - WOR\\outputs\\Sampsa-Jeppez-Carousel-V02\\PNG\\Slide-02.png",
+      "C:\\Users\\notti\\Documents\\ChatGPT\\Carousel - WOR\\outputs\\Sampsa-Jeppez-Carousel-V02\\PNG\\Slide-01.png",
+      "C:\\Users\\notti\\Documents\\ChatGPT\\Thumbnail WOR\\outputs\\Sampsa_Jeppez\\V05_Natural_Set\\sources_HD\\Sampsa\\Sampsa_16-34-00-00.jpg"
+    ],
+    "prompt": "Use case: identity-preserve. Edit IMAGE 1, the approved slide 2, with one localized portrait swap. Image 2 is the current slide 1 whose eye-level conversational head pose is to be moved onto slide 2. Image 3 is the ORIGINAL photographic identity reference, authoritative for real Sampsa facial features, hair and skin. Replace the closed-mouth portrait on the right of image 1 with the near-frontal eye-level conversational portrait/angle from image 2, lips only naturally slightly parted as in original image 3, retaining real face anatomy and natural skin. Keep the head and torso size, location and microphone of image 1. The character remains Sampsa in the blue V-neck sweater. This is a portrait swap only, not a swap of whole slide order. Strictly preserve every word, headline, font, line break, card, highlight, studio background and footer in image 1 as close to pixel-identical as possible. Exact text remains \"Jeppez blew his first\" / \"$10K chasing\" / \"breakouts.\" ; \"He switched to swing\" / \"trading,\" / \"only to lose more.\" ; \"So he completely\" / \"changed his approach.\" ; wordsofrizdom.com and Swipe. No name label yet, no new text. No new grain or smoothing/sharpening, final grain applied separately. Same full 3:4 portrait image, one finished slide.",
+    "generated_source": "C:\\Users\\notti\\.codex\\generated_images\\01a1359c-fb60-76b1-bab8-b1853b5213a5\\exec-74ea67e8-7903-4d3d-8378-bb28e96a904b.png",
+    "tool": "image_gen.imagegen"
+  },
+  {
+    "slide": 7,
+    "reference_inputs": [
+      "C:\\Users\\notti\\Documents\\ChatGPT\\Carousel - WOR\\outputs\\Sampsa-Jeppez-Carousel-V02\\PNG\\Slide-07.png"
+    ],
+    "prompt": "Use case: text-localization. Precisely edit the supplied approved Words of Rizdom slide 7, vertical 3:4. Change ONLY the call-to-action text near bottom: replace the red-highlighted keyword 'X' with 'SAMPSA'. New full exact sentence: \"Comment ‘SAMPSA’ and we’ll send you the full episode.\" A clean two-line layout is preferred: first line \"Comment ‘SAMPSA’ and we’ll send\", second line \"you the full episode.\" Expand the red rounded highlight to fit SAMPSA in bold white naturally spaced letters, with single quotes. Maintain generous mobile readability and side margins; reduce only the CTA font size slightly if needed rather than stretching/compressing letters. Preserve full episode bold and underlined. All other pixels, particularly BOTH FACES and their skin/hair/expression, the studio photograph, logos, '$12K → $5M+.' headline, green rectangle, strategy/sizing/drawdowns lines, episode announcement and footer wordsofrizdom.com, must remain visually unchanged. No portrait regeneration or facial retouch. Do not add a top-left name label yet; done in a separate identical overlay. No added grain or sharpening or blur. Return one edited complete image with exactly the same aspect and composition.",
+    "generated_source": "C:\\Users\\notti\\.codex\\generated_images\\01a1359c-fb60-76b1-bab8-b1853b5213a5\\exec-8c510db6-eab2-4f3c-867b-c5323b4232e5.png",
+    "tool": "image_gen.imagegen"
+  }
+]

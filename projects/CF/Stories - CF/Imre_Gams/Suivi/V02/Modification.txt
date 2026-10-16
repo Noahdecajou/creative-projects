@@ -1,0 +1,7 @@
+IMRE GAMS — STORIES V02
+Demande : supprimer le vert et le rouge en fond.
+Edition ImageGen integree a partir de chacun des huit exports Stories V01.
+Consigne : neutraliser uniquement les halos ambiants rouges et verts ; conserver fond noir/charbon, titres, portraits, graphiques, bandeaux et CTA.
+Les elements colores fonctionnels sont conserves, ainsi que le decor orange/bleu de la Story 05 et le visage pixelise de la Story 08.
+V01 conservee. Exports V02 en 1080 x 1920 ; pas de grain ou nettete ajoutee.
+Finition finale : restauration des visages depuis les pixels V01 par masques doux, apres neutralisation du fond par ImageGen. Script final restore_faces.ps1. Les autres zones ont ete controlees visuellement ; identite des pixels non garantie hors des zones restaurees.

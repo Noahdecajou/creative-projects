@@ -1,0 +1,8790 @@
+[
+  {
+    "file": "Slide-1.jpg",
+    "group": 0,
+    "slide": 1,
+    "width": 1080,
+    "height": 1440,
+    "sha256": "0efd09c1f6b388f44f8289f459b40496b2c7723ab23ffd4da184200706ca9a89",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 42070,
+        "percent": 2.705,
+        "top_rgb": [
+          {
+            "hex": "#FE0000",
+            "pixels": 15985
+          },
+          {
+            "hex": "#FF0705",
+            "pixels": 1709
+          },
+          {
+            "hex": "#FF0604",
+            "pixels": 958
+          },
+          {
+            "hex": "#FF0806",
+            "pixels": 955
+          },
+          {
+            "hex": "#FF0B0A",
+            "pixels": 913
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 61279,
+        "percent": 3.94,
+        "top_rgb": [
+          {
+            "hex": "#24FF02",
+            "pixels": 17917
+          },
+          {
+            "hex": "#26FF02",
+            "pixels": 4830
+          },
+          {
+            "hex": "#28FF04",
+            "pixels": 2439
+          },
+          {
+            "hex": "#23FF00",
+            "pixels": 2044
+          },
+          {
+            "hex": "#2DFF0A",
+            "pixels": 1343
+          }
+        ]
+      },
+      "blanc_neutre": {
+        "pixel_count": 82830,
+        "percent": 5.326,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 72531
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 3957
+          },
+          {
+            "hex": "#FFFFFD",
+            "pixels": 1371
+          },
+          {
+            "hex": "#FFFEFF",
+            "pixels": 1332
+          },
+          {
+            "hex": "#FEFFFF",
+            "pixels": 1271
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 842551,
+        "percent": 54.176,
+        "top_rgb": [
+          {
+            "hex": "#000000",
+            "pixels": 48072
+          },
+          {
+            "hex": "#030303",
+            "pixels": 22875
+          },
+          {
+            "hex": "#070707",
+            "pixels": 17543
+          },
+          {
+            "hex": "#060000",
+            "pixels": 15660
+          },
+          {
+            "hex": "#010101",
+            "pixels": 14410
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          330,
+          144,
+          424,
+          238
+        ],
+        "pixels": 5100
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          425,
+          144,
+          495,
+          238
+        ],
+        "pixels": 4256
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          559,
+          144,
+          628,
+          238
+        ],
+        "pixels": 4269
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          280,
+          145,
+          332,
+          238
+        ],
+        "pixels": 2701
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          500,
+          145,
+          556,
+          238
+        ],
+        "pixels": 3951
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          651,
+          1324,
+          1022,
+          1397
+        ],
+        "pixels": 21011
+      }
+    ],
+    "composants_verts": [
+      {
+        "bbox_xyxy_inclusive": [
+          59,
+          606,
+          602,
+          771
+        ],
+        "pixels": 60850
+      }
+    ],
+    "bandes_blanches_haut_candidates": [
+      [
+        146,
+        237
+      ],
+      [
+        264,
+        339
+      ]
+    ],
+    "bandes_blanches_footer_candidates": [
+      [
+        1346,
+        1374
+      ]
+    ]
+  },
+  {
+    "file": "Slide-2.jpg",
+    "group": 0,
+    "slide": 2,
+    "width": 1080,
+    "height": 1440,
+    "sha256": "075a1c5712fc7a43542b532804ecbdb79671fd62e99f2aa6bc3c04c5719cd687",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 52803,
+        "percent": 3.395,
+        "top_rgb": [
+          {
+            "hex": "#FC0001",
+            "pixels": 9651
+          },
+          {
+            "hex": "#FB0102",
+            "pixels": 4494
+          },
+          {
+            "hex": "#FA0001",
+            "pixels": 1478
+          },
+          {
+            "hex": "#FB0303",
+            "pixels": 1420
+          },
+          {
+            "hex": "#FE0000",
+            "pixels": 833
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 0,
+        "percent": 0.0,
+        "top_rgb": []
+      },
+      "blanc_neutre": {
+        "pixel_count": 78703,
+        "percent": 5.061,
+        "top_rgb": [
+          {
+            "hex": "#FFF2F2",
+            "pixels": 31556
+          },
+          {
+            "hex": "#FFFFFF",
+            "pixels": 22252
+          },
+          {
+            "hex": "#FEF2F2",
+            "pixels": 8522
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 3303
+          },
+          {
+            "hex": "#FFF1F1",
+            "pixels": 1697
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 1048973,
+        "percent": 67.449,
+        "top_rgb": [
+          {
+            "hex": "#000000",
+            "pixels": 453073
+          },
+          {
+            "hex": "#010101",
+            "pixels": 51567
+          },
+          {
+            "hex": "#020202",
+            "pixels": 43375
+          },
+          {
+            "hex": "#040404",
+            "pixels": 21835
+          },
+          {
+            "hex": "#030303",
+            "pixels": 14098
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          236,
+          194,
+          959,
+          303
+        ],
+        "pixels": 45960
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          279,
+          228,
+          316,
+          270
+        ],
+        "pixels": 1314
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        100,
+        173
+      ],
+      [
+        210,
+        286
+      ]
+    ],
+    "bandes_blanches_footer_candidates": [
+      [
+        1356,
+        1375
+      ]
+    ]
+  },
+  {
+    "file": "Slide-3.jpg",
+    "group": 0,
+    "slide": 3,
+    "width": 1080,
+    "height": 1440,
+    "sha256": "1b416cb7e2b750ed8c59e2d156b3336b99dcfa381b8832adc73c37e49f5eb51c",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 44672,
+        "percent": 2.872,
+        "top_rgb": [
+          {
+            "hex": "#FC0001",
+            "pixels": 9388
+          },
+          {
+            "hex": "#FB0102",
+            "pixels": 2319
+          },
+          {
+            "hex": "#FA0001",
+            "pixels": 2145
+          },
+          {
+            "hex": "#FC0000",
+            "pixels": 1080
+          },
+          {
+            "hex": "#FA0100",
+            "pixels": 958
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 0,
+        "percent": 0.0,
+        "top_rgb": []
+      },
+      "blanc_neutre": {
+        "pixel_count": 75178,
+        "percent": 4.834,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 30333
+          },
+          {
+            "hex": "#FFF2F2",
+            "pixels": 12253
+          },
+          {
+            "hex": "#FEFFFF",
+            "pixels": 5209
+          },
+          {
+            "hex": "#FFFEFF",
+            "pixels": 4991
+          },
+          {
+            "hex": "#FEF2F2",
+            "pixels": 4896
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 1001643,
+        "percent": 64.406,
+        "top_rgb": [
+          {
+            "hex": "#000000",
+            "pixels": 65678
+          },
+          {
+            "hex": "#010101",
+            "pixels": 28135
+          },
+          {
+            "hex": "#050304",
+            "pixels": 23982
+          },
+          {
+            "hex": "#0A0809",
+            "pixels": 21165
+          },
+          {
+            "hex": "#090708",
+            "pixels": 19711
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          297,
+          120,
+          965,
+          220
+        ],
+        "pixels": 42295
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          361,
+          150,
+          396,
+          188
+        ],
+        "pixels": 1127
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        139,
+        199
+      ],
+      [
+        236,
+        295
+      ]
+    ],
+    "bandes_blanches_footer_candidates": [
+      [
+        1356,
+        1375
+      ]
+    ]
+  },
+  {
+    "file": "Slide-4.jpg",
+    "group": 0,
+    "slide": 4,
+    "width": 1080,
+    "height": 1440,
+    "sha256": "89128b8006243b64aace00f6803ba7bd3d9e4627c0ccc0e3b61d36c8a9f0c9b2",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 35356,
+        "percent": 2.273,
+        "top_rgb": [
+          {
+            "hex": "#FE0000",
+            "pixels": 5223
+          },
+          {
+            "hex": "#FB0102",
+            "pixels": 3570
+          },
+          {
+            "hex": "#FF0101",
+            "pixels": 1250
+          },
+          {
+            "hex": "#FE0002",
+            "pixels": 1161
+          },
+          {
+            "hex": "#FB0303",
+            "pixels": 1124
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 0,
+        "percent": 0.0,
+        "top_rgb": []
+      },
+      "blanc_neutre": {
+        "pixel_count": 54428,
+        "percent": 3.5,
+        "top_rgb": [
+          {
+            "hex": "#FFF2F2",
+            "pixels": 18220
+          },
+          {
+            "hex": "#FFFFFF",
+            "pixels": 17708
+          },
+          {
+            "hex": "#FEF2F2",
+            "pixels": 4630
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 2540
+          },
+          {
+            "hex": "#F9E9E9",
+            "pixels": 1654
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 1034012,
+        "percent": 66.487,
+        "top_rgb": [
+          {
+            "hex": "#000000",
+            "pixels": 126921
+          },
+          {
+            "hex": "#010101",
+            "pixels": 58917
+          },
+          {
+            "hex": "#020202",
+            "pixels": 47387
+          },
+          {
+            "hex": "#040404",
+            "pixels": 43538
+          },
+          {
+            "hex": "#060606",
+            "pixels": 41008
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          508,
+          103,
+          984,
+          201
+        ],
+        "pixels": 21783
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        118,
+        183
+      ],
+      [
+        320,
+        339
+      ]
+    ],
+    "bandes_blanches_footer_candidates": [
+      [
+        1356,
+        1375
+      ]
+    ]
+  },
+  {
+    "file": "Slide-5.jpg",
+    "group": 0,
+    "slide": 5,
+    "width": 1080,
+    "height": 1440,
+    "sha256": "3e348d9c2b53bc2664ffd18cc6e0e1b5002ee8e65a8344ef9037ea5155742a61",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 47376,
+        "percent": 3.046,
+        "top_rgb": [
+          {
+            "hex": "#FB0102",
+            "pixels": 4970
+          },
+          {
+            "hex": "#FC0001",
+            "pixels": 4491
+          },
+          {
+            "hex": "#FA0001",
+            "pixels": 1912
+          },
+          {
+            "hex": "#FB0303",
+            "pixels": 1171
+          },
+          {
+            "hex": "#BF0101",
+            "pixels": 644
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 13811,
+        "percent": 0.888,
+        "top_rgb": [
+          {
+            "hex": "#24FF02",
+            "pixels": 3586
+          },
+          {
+            "hex": "#23FF00",
+            "pixels": 1986
+          },
+          {
+            "hex": "#23FF01",
+            "pixels": 1182
+          },
+          {
+            "hex": "#24FF00",
+            "pixels": 1182
+          },
+          {
+            "hex": "#25FE01",
+            "pixels": 677
+          }
+        ]
+      },
+      "blanc_neutre": {
+        "pixel_count": 97101,
+        "percent": 6.244,
+        "top_rgb": [
+          {
+            "hex": "#FFF2F2",
+            "pixels": 34466
+          },
+          {
+            "hex": "#FFFFFF",
+            "pixels": 30783
+          },
+          {
+            "hex": "#FEF2F2",
+            "pixels": 7435
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 4463
+          },
+          {
+            "hex": "#FFFEFF",
+            "pixels": 2525
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 919038,
+        "percent": 59.095,
+        "top_rgb": [
+          {
+            "hex": "#000000",
+            "pixels": 146735
+          },
+          {
+            "hex": "#010101",
+            "pixels": 26587
+          },
+          {
+            "hex": "#060000",
+            "pixels": 16183
+          },
+          {
+            "hex": "#040000",
+            "pixels": 16087
+          },
+          {
+            "hex": "#020001",
+            "pixels": 14493
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          174,
+          162,
+          892,
+          272
+        ],
+        "pixels": 41710
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          669,
+          196,
+          706,
+          237
+        ],
+        "pixels": 1292
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          854,
+          327,
+          987,
+          368
+        ],
+        "pixels": 956
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          1007,
+          371,
+          1079,
+          490
+        ],
+        "pixels": 1516
+      }
+    ],
+    "composants_verts": [
+      {
+        "bbox_xyxy_inclusive": [
+          102,
+          679,
+          151,
+          764
+        ],
+        "pixels": 2304
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          268,
+          684,
+          320,
+          755
+        ],
+        "pixels": 2189
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          326,
+          684,
+          378,
+          755
+        ],
+        "pixels": 2197
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          213,
+          685,
+          262,
+          755
+        ],
+        "pixels": 2145
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          494,
+          1209,
+          540,
+          1242
+        ],
+        "pixels": 805
+      }
+    ],
+    "bandes_blanches_haut_candidates": [
+      [
+        76,
+        143
+      ],
+      [
+        178,
+        253
+      ],
+      [
+        332,
+        339
+      ]
+    ],
+    "bandes_blanches_footer_candidates": [
+      [
+        1356,
+        1375
+      ]
+    ]
+  },
+  {
+    "file": "Slide-6.jpg",
+    "group": 0,
+    "slide": 6,
+    "width": 1080,
+    "height": 1440,
+    "sha256": "49bcb562fe20d9106990b08c70597300badec7b05eea3933b90dbab503048da1",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 34828,
+        "percent": 2.239,
+        "top_rgb": [
+          {
+            "hex": "#FC0001",
+            "pixels": 7124
+          },
+          {
+            "hex": "#FB0102",
+            "pixels": 2923
+          },
+          {
+            "hex": "#FA0001",
+            "pixels": 1952
+          },
+          {
+            "hex": "#FB0303",
+            "pixels": 1012
+          },
+          {
+            "hex": "#FA0100",
+            "pixels": 971
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 19562,
+        "percent": 1.258,
+        "top_rgb": [
+          {
+            "hex": "#06FF01",
+            "pixels": 3584
+          },
+          {
+            "hex": "#08FF01",
+            "pixels": 1012
+          },
+          {
+            "hex": "#05FF00",
+            "pixels": 897
+          },
+          {
+            "hex": "#06FF00",
+            "pixels": 354
+          },
+          {
+            "hex": "#0AFF04",
+            "pixels": 346
+          }
+        ]
+      },
+      "blanc_neutre": {
+        "pixel_count": 97305,
+        "percent": 6.257,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 43497
+          },
+          {
+            "hex": "#FFF2F2",
+            "pixels": 16286
+          },
+          {
+            "hex": "#FEF2F2",
+            "pixels": 6260
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 5865
+          },
+          {
+            "hex": "#FFF3F3",
+            "pixels": 2586
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 1020160,
+        "percent": 65.597,
+        "top_rgb": [
+          {
+            "hex": "#040404",
+            "pixels": 119222
+          },
+          {
+            "hex": "#030303",
+            "pixels": 90732
+          },
+          {
+            "hex": "#050505",
+            "pixels": 84645
+          },
+          {
+            "hex": "#020202",
+            "pixels": 78202
+          },
+          {
+            "hex": "#060606",
+            "pixels": 46697
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          501,
+          217,
+          930,
+          308
+        ],
+        "pixels": 21364
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          422,
+          1186,
+          747,
+          1243
+        ],
+        "pixels": 12518
+      }
+    ],
+    "composants_verts": [
+      {
+        "bbox_xyxy_inclusive": [
+          119,
+          318,
+          438,
+          409
+        ],
+        "pixels": 19465
+      }
+    ],
+    "bandes_blanches_haut_candidates": [
+      [
+        74,
+        145
+      ],
+      [
+        231,
+        292
+      ]
+    ],
+    "bandes_blanches_footer_candidates": [
+      [
+        1375,
+        1394
+      ]
+    ]
+  },
+  {
+    "file": "Slide-7.jpg",
+    "group": 0,
+    "slide": 7,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "6b96add4cd35071f682fc64f13d8b2e44ba9681d161f60cc336f1bb5db3785c1",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 29593,
+        "percent": 2.03,
+        "top_rgb": [
+          {
+            "hex": "#FD0002",
+            "pixels": 562
+          },
+          {
+            "hex": "#FD0100",
+            "pixels": 509
+          },
+          {
+            "hex": "#FE0103",
+            "pixels": 288
+          },
+          {
+            "hex": "#FD0304",
+            "pixels": 281
+          },
+          {
+            "hex": "#FC0203",
+            "pixels": 240
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 0,
+        "percent": 0.0,
+        "top_rgb": []
+      },
+      "blanc_neutre": {
+        "pixel_count": 79120,
+        "percent": 5.427,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 38683
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 7177
+          },
+          {
+            "hex": "#FFFDFE",
+            "pixels": 5027
+          },
+          {
+            "hex": "#FEFFFF",
+            "pixels": 2727
+          },
+          {
+            "hex": "#FFFEFF",
+            "pixels": 2507
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 562894,
+        "percent": 38.607,
+        "top_rgb": [
+          {
+            "hex": "#020202",
+            "pixels": 14127
+          },
+          {
+            "hex": "#030301",
+            "pixels": 11478
+          },
+          {
+            "hex": "#030303",
+            "pixels": 11147
+          },
+          {
+            "hex": "#040402",
+            "pixels": 9856
+          },
+          {
+            "hex": "#010101",
+            "pixels": 6427
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          391,
+          0,
+          730,
+          132
+        ],
+        "pixels": 9229
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          491,
+          91,
+          571,
+          178
+        ],
+        "pixels": 3819
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          448,
+          949,
+          678,
+          1009
+        ],
+        "pixels": 9330
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        303,
+        339
+      ]
+    ],
+    "bandes_blanches_footer_candidates": []
+  },
+  {
+    "file": "Slide-1 (1).jpg",
+    "group": 1,
+    "slide": 1,
+    "width": 1080,
+    "height": 1440,
+    "sha256": "c9d4038219dedcd4d7269f3553eae4a126b960821994b423f02fbf1fa4d9b1fd",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 58936,
+        "percent": 3.79,
+        "top_rgb": [
+          {
+            "hex": "#FF0101",
+            "pixels": 12522
+          },
+          {
+            "hex": "#FE0000",
+            "pixels": 3702
+          },
+          {
+            "hex": "#FF0103",
+            "pixels": 3033
+          },
+          {
+            "hex": "#FF0100",
+            "pixels": 2376
+          },
+          {
+            "hex": "#FF0204",
+            "pixels": 1644
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 0,
+        "percent": 0.0,
+        "top_rgb": []
+      },
+      "blanc_neutre": {
+        "pixel_count": 148953,
+        "percent": 9.578,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 68935
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 5401
+          },
+          {
+            "hex": "#F4F2F3",
+            "pixels": 4188
+          },
+          {
+            "hex": "#FEFFFF",
+            "pixels": 3948
+          },
+          {
+            "hex": "#F5F3F4",
+            "pixels": 3392
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 663413,
+        "percent": 42.658,
+        "top_rgb": [
+          {
+            "hex": "#131313",
+            "pixels": 17990
+          },
+          {
+            "hex": "#121212",
+            "pixels": 17452
+          },
+          {
+            "hex": "#111111",
+            "pixels": 15571
+          },
+          {
+            "hex": "#141414",
+            "pixels": 15556
+          },
+          {
+            "hex": "#101010",
+            "pixels": 15209
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          480,
+          168,
+          985,
+          326
+        ],
+        "pixels": 52663
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          319,
+          422,
+          987,
+          451
+        ],
+        "pixels": 3926
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        68,
+        130
+      ],
+      [
+        162,
+        327
+      ]
+    ],
+    "bandes_blanches_footer_candidates": []
+  },
+  {
+    "file": "Slide-2 (1).jpg",
+    "group": 1,
+    "slide": 2,
+    "width": 1080,
+    "height": 1440,
+    "sha256": "b1c7563809a4810b1552214d6b792150e6e0d7b9400f4a2eb8b28eac63c781ef",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 58966,
+        "percent": 3.792,
+        "top_rgb": [
+          {
+            "hex": "#FD0002",
+            "pixels": 862
+          },
+          {
+            "hex": "#FD0100",
+            "pixels": 819
+          },
+          {
+            "hex": "#FE0000",
+            "pixels": 768
+          },
+          {
+            "hex": "#FE000A",
+            "pixels": 599
+          },
+          {
+            "hex": "#FE0002",
+            "pixels": 548
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 11306,
+        "percent": 0.727,
+        "top_rgb": [
+          {
+            "hex": "#49FF31",
+            "pixels": 109
+          },
+          {
+            "hex": "#45FF2F",
+            "pixels": 102
+          },
+          {
+            "hex": "#49FF30",
+            "pixels": 92
+          },
+          {
+            "hex": "#45FF30",
+            "pixels": 89
+          },
+          {
+            "hex": "#4EFF33",
+            "pixels": 87
+          }
+        ]
+      },
+      "blanc_neutre": {
+        "pixel_count": 110450,
+        "percent": 7.102,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 58487
+          },
+          {
+            "hex": "#FFF9F9",
+            "pixels": 14274
+          },
+          {
+            "hex": "#FEF8F8",
+            "pixels": 7872
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 5412
+          },
+          {
+            "hex": "#FFF8F9",
+            "pixels": 2895
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 736109,
+        "percent": 47.332,
+        "top_rgb": [
+          {
+            "hex": "#020202",
+            "pixels": 56328
+          },
+          {
+            "hex": "#010101",
+            "pixels": 37071
+          },
+          {
+            "hex": "#030303",
+            "pixels": 26464
+          },
+          {
+            "hex": "#040404",
+            "pixels": 20753
+          },
+          {
+            "hex": "#050505",
+            "pixels": 18094
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          27,
+          175,
+          1050,
+          265
+        ],
+        "pixels": 51800
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        95,
+        146
+      ],
+      [
+        188,
+        243
+      ]
+    ],
+    "bandes_blanches_footer_candidates": [
+      [
+        1356,
+        1375
+      ]
+    ]
+  },
+  {
+    "file": "Slide-3 (1).jpg",
+    "group": 1,
+    "slide": 3,
+    "width": 1080,
+    "height": 1440,
+    "sha256": "7eab2623594b25b05a6c09db6ea4267de584e54f47284a411c05d14b18ad876c",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 56443,
+        "percent": 3.629,
+        "top_rgb": [
+          {
+            "hex": "#FD0002",
+            "pixels": 720
+          },
+          {
+            "hex": "#FD0100",
+            "pixels": 671
+          },
+          {
+            "hex": "#FE0103",
+            "pixels": 496
+          },
+          {
+            "hex": "#FD020B",
+            "pixels": 495
+          },
+          {
+            "hex": "#FD010C",
+            "pixels": 463
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 8409,
+        "percent": 0.541,
+        "top_rgb": [
+          {
+            "hex": "#2AFF29",
+            "pixels": 94
+          },
+          {
+            "hex": "#2DFF2A",
+            "pixels": 87
+          },
+          {
+            "hex": "#2FFF2D",
+            "pixels": 83
+          },
+          {
+            "hex": "#33FF2E",
+            "pixels": 75
+          },
+          {
+            "hex": "#2EFF2A",
+            "pixels": 69
+          }
+        ]
+      },
+      "blanc_neutre": {
+        "pixel_count": 120251,
+        "percent": 7.732,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 69983
+          },
+          {
+            "hex": "#FFF7F8",
+            "pixels": 13721
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 6572
+          },
+          {
+            "hex": "#FFF6F7",
+            "pixels": 5513
+          },
+          {
+            "hex": "#FEF8F8",
+            "pixels": 5310
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 863625,
+        "percent": 55.531,
+        "top_rgb": [
+          {
+            "hex": "#010101",
+            "pixels": 85333
+          },
+          {
+            "hex": "#030303",
+            "pixels": 69235
+          },
+          {
+            "hex": "#020202",
+            "pixels": 65083
+          },
+          {
+            "hex": "#040404",
+            "pixels": 57289
+          },
+          {
+            "hex": "#050505",
+            "pixels": 32875
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          69,
+          175,
+          1007,
+          265
+        ],
+        "pixels": 46401
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        91,
+        146
+      ],
+      [
+        188,
+        243
+      ],
+      [
+        249,
+        261
+      ]
+    ],
+    "bandes_blanches_footer_candidates": [
+      [
+        1356,
+        1375
+      ]
+    ]
+  },
+  {
+    "file": "Slide-4 (1).jpg",
+    "group": 1,
+    "slide": 4,
+    "width": 1080,
+    "height": 1440,
+    "sha256": "5846dca401625fe5c4f7cff9079d2bc7f279facff77dd94b5fb001db042c24df",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 78206,
+        "percent": 5.029,
+        "top_rgb": [
+          {
+            "hex": "#FE0000",
+            "pixels": 4268
+          },
+          {
+            "hex": "#FD0100",
+            "pixels": 3931
+          },
+          {
+            "hex": "#FD0002",
+            "pixels": 3884
+          },
+          {
+            "hex": "#FE0002",
+            "pixels": 3218
+          },
+          {
+            "hex": "#FD0000",
+            "pixels": 2130
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 1562,
+        "percent": 0.1,
+        "top_rgb": [
+          {
+            "hex": "#01FA6C",
+            "pixels": 4
+          },
+          {
+            "hex": "#02E36D",
+            "pixels": 4
+          },
+          {
+            "hex": "#01D463",
+            "pixels": 4
+          },
+          {
+            "hex": "#02CB49",
+            "pixels": 4
+          },
+          {
+            "hex": "#01DA67",
+            "pixels": 4
+          }
+        ]
+      },
+      "blanc_neutre": {
+        "pixel_count": 99950,
+        "percent": 6.427,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 47650
+          },
+          {
+            "hex": "#FFF9F9",
+            "pixels": 8684
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 7090
+          },
+          {
+            "hex": "#FEFFFF",
+            "pixels": 4016
+          },
+          {
+            "hex": "#FFFEFF",
+            "pixels": 3915
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 932809,
+        "percent": 59.98,
+        "top_rgb": [
+          {
+            "hex": "#020202",
+            "pixels": 67648
+          },
+          {
+            "hex": "#030303",
+            "pixels": 40838
+          },
+          {
+            "hex": "#010101",
+            "pixels": 40713
+          },
+          {
+            "hex": "#040404",
+            "pixels": 32807
+          },
+          {
+            "hex": "#121212",
+            "pixels": 27716
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          143,
+          123,
+          942,
+          300
+        ],
+        "pixels": 73190
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        53,
+        104
+      ],
+      [
+        136,
+        191
+      ],
+      [
+        216,
+        224
+      ],
+      [
+        230,
+        272
+      ],
+      [
+        281,
+        289
+      ]
+    ],
+    "bandes_blanches_footer_candidates": [
+      [
+        1356,
+        1375
+      ]
+    ]
+  },
+  {
+    "file": "Slide-5 (1).jpg",
+    "group": 1,
+    "slide": 5,
+    "width": 1080,
+    "height": 1440,
+    "sha256": "e1f36fc740f7d4a625b1bb481c98db49a78bb918bcfa21f275b57246bf5f1648",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 50522,
+        "percent": 3.249,
+        "top_rgb": [
+          {
+            "hex": "#FD0002",
+            "pixels": 2993
+          },
+          {
+            "hex": "#FD0100",
+            "pixels": 2685
+          },
+          {
+            "hex": "#FE0000",
+            "pixels": 2215
+          },
+          {
+            "hex": "#FE0103",
+            "pixels": 1735
+          },
+          {
+            "hex": "#FE0002",
+            "pixels": 1218
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 0,
+        "percent": 0.0,
+        "top_rgb": []
+      },
+      "blanc_neutre": {
+        "pixel_count": 78962,
+        "percent": 5.077,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 24712
+          },
+          {
+            "hex": "#FFF7F8",
+            "pixels": 15175
+          },
+          {
+            "hex": "#FFF6F7",
+            "pixels": 8105
+          },
+          {
+            "hex": "#FEF8F8",
+            "pixels": 5178
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 4085
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 765568,
+        "percent": 49.226,
+        "top_rgb": [
+          {
+            "hex": "#020202",
+            "pixels": 28528
+          },
+          {
+            "hex": "#111111",
+            "pixels": 26137
+          },
+          {
+            "hex": "#121212",
+            "pixels": 25790
+          },
+          {
+            "hex": "#010101",
+            "pixels": 23795
+          },
+          {
+            "hex": "#101010",
+            "pixels": 22736
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          82,
+          150,
+          1008,
+          238
+        ],
+        "pixels": 45634
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          677,
+          158,
+          800,
+          190
+        ],
+        "pixels": 1409
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        77,
+        128
+      ],
+      [
+        160,
+        215
+      ],
+      [
+        262,
+        314
+      ]
+    ],
+    "bandes_blanches_footer_candidates": [
+      [
+        1356,
+        1375
+      ]
+    ]
+  },
+  {
+    "file": "Slide-6 (1).jpg",
+    "group": 1,
+    "slide": 6,
+    "width": 1080,
+    "height": 1440,
+    "sha256": "0dcebed1daaccd72f271ebf869837f1ae8bafd4c6861c5c47caaeaa78831e159",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 9985,
+        "percent": 0.642,
+        "top_rgb": [
+          {
+            "hex": "#FE0000",
+            "pixels": 1939
+          },
+          {
+            "hex": "#FF0101",
+            "pixels": 849
+          },
+          {
+            "hex": "#FE0002",
+            "pixels": 238
+          },
+          {
+            "hex": "#FF0103",
+            "pixels": 212
+          },
+          {
+            "hex": "#FF0100",
+            "pixels": 144
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 13881,
+        "percent": 0.893,
+        "top_rgb": [
+          {
+            "hex": "#2CFF26",
+            "pixels": 253
+          },
+          {
+            "hex": "#2EFF27",
+            "pixels": 247
+          },
+          {
+            "hex": "#2FFF27",
+            "pixels": 210
+          },
+          {
+            "hex": "#30FF28",
+            "pixels": 190
+          },
+          {
+            "hex": "#29FF25",
+            "pixels": 184
+          }
+        ]
+      },
+      "blanc_neutre": {
+        "pixel_count": 103998,
+        "percent": 6.687,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 49959
+          },
+          {
+            "hex": "#FFF7F8",
+            "pixels": 9128
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 7547
+          },
+          {
+            "hex": "#FFF6F7",
+            "pixels": 5575
+          },
+          {
+            "hex": "#FEF8F8",
+            "pixels": 3587
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 970338,
+        "percent": 62.393,
+        "top_rgb": [
+          {
+            "hex": "#0F0F0F",
+            "pixels": 48877
+          },
+          {
+            "hex": "#101010",
+            "pixels": 43921
+          },
+          {
+            "hex": "#0E0E0E",
+            "pixels": 43904
+          },
+          {
+            "hex": "#111111",
+            "pixels": 35069
+          },
+          {
+            "hex": "#0D0D0D",
+            "pixels": 34926
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          125,
+          1119,
+          954,
+          1260
+        ],
+        "pixels": 3807
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          538,
+          1141,
+          764,
+          1187
+        ],
+        "pixels": 5833
+      }
+    ],
+    "composants_verts": [
+      {
+        "bbox_xyxy_inclusive": [
+          582,
+          447,
+          625,
+          509
+        ],
+        "pixels": 1918
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          632,
+          447,
+          677,
+          507
+        ],
+        "pixels": 1809
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          533,
+          459,
+          574,
+          500
+        ],
+        "pixels": 923
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          660,
+          547,
+          705,
+          607
+        ],
+        "pixels": 1820
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          608,
+          549,
+          655,
+          607
+        ],
+        "pixels": 1648
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          720,
+          550,
+          764,
+          607
+        ],
+        "pixels": 811
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          531,
+          558,
+          572,
+          599
+        ],
+        "pixels": 951
+      }
+    ],
+    "bandes_blanches_haut_candidates": [
+      [
+        83,
+        154
+      ],
+      [
+        202,
+        241
+      ],
+      [
+        267,
+        309
+      ]
+    ],
+    "bandes_blanches_footer_candidates": [
+      [
+        1383,
+        1402
+      ]
+    ]
+  },
+  {
+    "file": "Slide-7 (1).jpg",
+    "group": 1,
+    "slide": 7,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "ce75cccf2196aa8c470ce11a4d31c888316d9f42d54c701be0a14964006af465",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 122941,
+        "percent": 8.432,
+        "top_rgb": [
+          {
+            "hex": "#FC0001",
+            "pixels": 58826
+          },
+          {
+            "hex": "#FA0001",
+            "pixels": 6389
+          },
+          {
+            "hex": "#FB0102",
+            "pixels": 5848
+          },
+          {
+            "hex": "#FB0303",
+            "pixels": 3328
+          },
+          {
+            "hex": "#FC0000",
+            "pixels": 3057
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 0,
+        "percent": 0.0,
+        "top_rgb": []
+      },
+      "blanc_neutre": {
+        "pixel_count": 190196,
+        "percent": 13.045,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 54857
+          },
+          {
+            "hex": "#FFFFFD",
+            "pixels": 14271
+          },
+          {
+            "hex": "#FFFEFC",
+            "pixels": 8080
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 6477
+          },
+          {
+            "hex": "#FEFFFF",
+            "pixels": 4112
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 502454,
+        "percent": 34.462,
+        "top_rgb": [
+          {
+            "hex": "#120E0B",
+            "pixels": 34895
+          },
+          {
+            "hex": "#110D0A",
+            "pixels": 30377
+          },
+          {
+            "hex": "#100C09",
+            "pixels": 27146
+          },
+          {
+            "hex": "#0F0B08",
+            "pixels": 26659
+          },
+          {
+            "hex": "#130F0C",
+            "pixels": 25377
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          134,
+          785,
+          942,
+          977
+        ],
+        "pixels": 119293
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        0,
+        339
+      ]
+    ],
+    "bandes_blanches_footer_candidates": []
+  },
+  {
+    "file": "Slide-1 (2).jpg",
+    "group": 2,
+    "slide": 1,
+    "width": 1080,
+    "height": 1440,
+    "sha256": "171ee05a09ab9616550d5d6d4c037618f7099981afc8ffc27507813fb7683af4",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 53503,
+        "percent": 3.44,
+        "top_rgb": [
+          {
+            "hex": "#FF0101",
+            "pixels": 19482
+          },
+          {
+            "hex": "#FE0000",
+            "pixels": 1829
+          },
+          {
+            "hex": "#FF0100",
+            "pixels": 1804
+          },
+          {
+            "hex": "#FF0302",
+            "pixels": 1765
+          },
+          {
+            "hex": "#FF0202",
+            "pixels": 1604
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 0,
+        "percent": 0.0,
+        "top_rgb": []
+      },
+      "blanc_neutre": {
+        "pixel_count": 93046,
+        "percent": 5.983,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 70383
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 4987
+          },
+          {
+            "hex": "#FEFFFF",
+            "pixels": 3618
+          },
+          {
+            "hex": "#FFFEFF",
+            "pixels": 3278
+          },
+          {
+            "hex": "#FFFFFD",
+            "pixels": 2766
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 782101,
+        "percent": 50.289,
+        "top_rgb": [
+          {
+            "hex": "#010101",
+            "pixels": 41250
+          },
+          {
+            "hex": "#000000",
+            "pixels": 29324
+          },
+          {
+            "hex": "#020202",
+            "pixels": 14671
+          },
+          {
+            "hex": "#030A14",
+            "pixels": 14095
+          },
+          {
+            "hex": "#040B15",
+            "pixels": 11347
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          78,
+          86,
+          713,
+          206
+        ],
+        "pixels": 46064
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        105,
+        190
+      ],
+      [
+        228,
+        339
+      ]
+    ],
+    "bandes_blanches_footer_candidates": []
+  },
+  {
+    "file": "Slide-2 (2).jpg",
+    "group": 2,
+    "slide": 2,
+    "width": 1080,
+    "height": 1440,
+    "sha256": "94acb394b26d04eb590b474d6625b08effaa5e8a12eee080e1ad529b4e4bea7f",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 67525,
+        "percent": 4.342,
+        "top_rgb": [
+          {
+            "hex": "#FD0002",
+            "pixels": 2810
+          },
+          {
+            "hex": "#FD0100",
+            "pixels": 2274
+          },
+          {
+            "hex": "#FD0003",
+            "pixels": 1919
+          },
+          {
+            "hex": "#FE0000",
+            "pixels": 1786
+          },
+          {
+            "hex": "#FD0005",
+            "pixels": 1627
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 0,
+        "percent": 0.0,
+        "top_rgb": []
+      },
+      "blanc_neutre": {
+        "pixel_count": 145717,
+        "percent": 9.37,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 58373
+          },
+          {
+            "hex": "#FFF6F7",
+            "pixels": 38814
+          },
+          {
+            "hex": "#FFF7F8",
+            "pixels": 10883
+          },
+          {
+            "hex": "#FFF7F5",
+            "pixels": 5747
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 5357
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 920054,
+        "percent": 59.16,
+        "top_rgb": [
+          {
+            "hex": "#010101",
+            "pixels": 59164
+          },
+          {
+            "hex": "#020202",
+            "pixels": 32860
+          },
+          {
+            "hex": "#000000",
+            "pixels": 14154
+          },
+          {
+            "hex": "#020204",
+            "pixels": 13166
+          },
+          {
+            "hex": "#030305",
+            "pixels": 9819
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          52,
+          209,
+          992,
+          299
+        ],
+        "pixels": 52651
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          53,
+          470,
+          257,
+          525
+        ],
+        "pixels": 7441
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        83,
+        186
+      ],
+      [
+        221,
+        282
+      ],
+      [
+        320,
+        339
+      ]
+    ],
+    "bandes_blanches_footer_candidates": [
+      [
+        1356,
+        1375
+      ]
+    ]
+  },
+  {
+    "file": "Slide-3 (2).jpg",
+    "group": 2,
+    "slide": 3,
+    "width": 1080,
+    "height": 1440,
+    "sha256": "ff524dc1f5ade850f6126fc86dd5b424cb7cc57c0c2b82f7685966773544d01e",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 22310,
+        "percent": 1.435,
+        "top_rgb": [
+          {
+            "hex": "#FF0101",
+            "pixels": 3692
+          },
+          {
+            "hex": "#FF0103",
+            "pixels": 1499
+          },
+          {
+            "hex": "#FF0100",
+            "pixels": 1206
+          },
+          {
+            "hex": "#FF0004",
+            "pixels": 678
+          },
+          {
+            "hex": "#FE0000",
+            "pixels": 460
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 0,
+        "percent": 0.0,
+        "top_rgb": []
+      },
+      "blanc_neutre": {
+        "pixel_count": 90336,
+        "percent": 5.809,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 35013
+          },
+          {
+            "hex": "#FFF6F7",
+            "pixels": 15867
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 7968
+          },
+          {
+            "hex": "#FFF6F5",
+            "pixels": 3121
+          },
+          {
+            "hex": "#FFF7F5",
+            "pixels": 2992
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 825233,
+        "percent": 53.063,
+        "top_rgb": [
+          {
+            "hex": "#010101",
+            "pixels": 61212
+          },
+          {
+            "hex": "#020202",
+            "pixels": 49559
+          },
+          {
+            "hex": "#040301",
+            "pixels": 32137
+          },
+          {
+            "hex": "#050402",
+            "pixels": 20411
+          },
+          {
+            "hex": "#030200",
+            "pixels": 20382
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          243,
+          86,
+          632,
+          176
+        ],
+        "pixels": 19801
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        90,
+        99
+      ],
+      [
+        103,
+        156
+      ],
+      [
+        198,
+        301
+      ],
+      [
+        306,
+        312
+      ]
+    ],
+    "bandes_blanches_footer_candidates": [
+      [
+        1356,
+        1375
+      ]
+    ]
+  },
+  {
+    "file": "Slide-4 (2).jpg",
+    "group": 2,
+    "slide": 4,
+    "width": 1080,
+    "height": 1440,
+    "sha256": "91d4270ef13b647d3584c1ab29560cd50af85062417e7dfb76634c88ddfb43b1",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 37565,
+        "percent": 2.415,
+        "top_rgb": [
+          {
+            "hex": "#FF0101",
+            "pixels": 1997
+          },
+          {
+            "hex": "#FF0103",
+            "pixels": 1405
+          },
+          {
+            "hex": "#FF0100",
+            "pixels": 860
+          },
+          {
+            "hex": "#FF0204",
+            "pixels": 821
+          },
+          {
+            "hex": "#FF0004",
+            "pixels": 682
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 0,
+        "percent": 0.0,
+        "top_rgb": []
+      },
+      "blanc_neutre": {
+        "pixel_count": 84516,
+        "percent": 5.434,
+        "top_rgb": [
+          {
+            "hex": "#FFF6F7",
+            "pixels": 27208
+          },
+          {
+            "hex": "#FFFFFF",
+            "pixels": 21119
+          },
+          {
+            "hex": "#FFF6F5",
+            "pixels": 5281
+          },
+          {
+            "hex": "#FFF7F5",
+            "pixels": 4538
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 4472
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 984397,
+        "percent": 63.297,
+        "top_rgb": [
+          {
+            "hex": "#010101",
+            "pixels": 116378
+          },
+          {
+            "hex": "#020202",
+            "pixels": 69783
+          },
+          {
+            "hex": "#020204",
+            "pixels": 22077
+          },
+          {
+            "hex": "#030303",
+            "pixels": 19035
+          },
+          {
+            "hex": "#000000",
+            "pixels": 17010
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          197,
+          81,
+          609,
+          172
+        ],
+        "pixels": 21820
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        92,
+        157
+      ],
+      [
+        196,
+        279
+      ],
+      [
+        312,
+        339
+      ]
+    ],
+    "bandes_blanches_footer_candidates": [
+      [
+        1356,
+        1375
+      ]
+    ]
+  },
+  {
+    "file": "Slide-5 (2).jpg",
+    "group": 2,
+    "slide": 5,
+    "width": 1080,
+    "height": 1440,
+    "sha256": "7df8cd208a88e999408dfc36a8f2404b9b1facc0a147b94320efc1017d37a3bf",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 27337,
+        "percent": 1.758,
+        "top_rgb": [
+          {
+            "hex": "#FF0202",
+            "pixels": 2218
+          },
+          {
+            "hex": "#FF0204",
+            "pixels": 1843
+          },
+          {
+            "hex": "#FF0100",
+            "pixels": 1020
+          },
+          {
+            "hex": "#FF0200",
+            "pixels": 1017
+          },
+          {
+            "hex": "#FF0302",
+            "pixels": 987
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 4963,
+        "percent": 0.319,
+        "top_rgb": [
+          {
+            "hex": "#30FF0F",
+            "pixels": 90
+          },
+          {
+            "hex": "#2EFF0E",
+            "pixels": 80
+          },
+          {
+            "hex": "#33FF12",
+            "pixels": 66
+          },
+          {
+            "hex": "#33FF10",
+            "pixels": 64
+          },
+          {
+            "hex": "#32FF0F",
+            "pixels": 63
+          }
+        ]
+      },
+      "blanc_neutre": {
+        "pixel_count": 274226,
+        "percent": 17.633,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 17221
+          },
+          {
+            "hex": "#FFF3F3",
+            "pixels": 9630
+          },
+          {
+            "hex": "#FEF4F3",
+            "pixels": 8591
+          },
+          {
+            "hex": "#FFF5F4",
+            "pixels": 6720
+          },
+          {
+            "hex": "#FFF4F4",
+            "pixels": 4470
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 790251,
+        "percent": 50.813,
+        "top_rgb": [
+          {
+            "hex": "#010101",
+            "pixels": 99058
+          },
+          {
+            "hex": "#000000",
+            "pixels": 76796
+          },
+          {
+            "hex": "#020202",
+            "pixels": 23159
+          },
+          {
+            "hex": "#030303",
+            "pixels": 13329
+          },
+          {
+            "hex": "#0E0905",
+            "pixels": 11257
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          277,
+          102,
+          683,
+          174
+        ],
+        "pixels": 17544
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          941,
+          863,
+          1025,
+          943
+        ],
+        "pixels": 3546
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        114,
+        158
+      ],
+      [
+        191,
+        197
+      ],
+      [
+        202,
+        237
+      ],
+      [
+        267,
+        310
+      ]
+    ],
+    "bandes_blanches_footer_candidates": [
+      [
+        1356,
+        1375
+      ]
+    ]
+  },
+  {
+    "file": "Slide-6 (2).jpg",
+    "group": 2,
+    "slide": 6,
+    "width": 1080,
+    "height": 1440,
+    "sha256": "a87ef5041247cff82c6887d4287ea4b411aaa4eb8202d1f535f493ca4f6b7cdf",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 11013,
+        "percent": 0.708,
+        "top_rgb": [
+          {
+            "hex": "#FE0000",
+            "pixels": 1333
+          },
+          {
+            "hex": "#FF0101",
+            "pixels": 589
+          },
+          {
+            "hex": "#FF1313",
+            "pixels": 409
+          },
+          {
+            "hex": "#FE1212",
+            "pixels": 347
+          },
+          {
+            "hex": "#FF1212",
+            "pixels": 235
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 0,
+        "percent": 0.0,
+        "top_rgb": []
+      },
+      "blanc_neutre": {
+        "pixel_count": 76430,
+        "percent": 4.914,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 50141
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 8002
+          },
+          {
+            "hex": "#FEFFFF",
+            "pixels": 2878
+          },
+          {
+            "hex": "#FFFFFD",
+            "pixels": 2247
+          },
+          {
+            "hex": "#FFFEFF",
+            "pixels": 1576
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 1076553,
+        "percent": 69.223,
+        "top_rgb": [
+          {
+            "hex": "#000000",
+            "pixels": 91529
+          },
+          {
+            "hex": "#010506",
+            "pixels": 54510
+          },
+          {
+            "hex": "#010101",
+            "pixels": 39679
+          },
+          {
+            "hex": "#080401",
+            "pixels": 29327
+          },
+          {
+            "hex": "#090502",
+            "pixels": 22277
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          201,
+          1119,
+          915,
+          1260
+        ],
+        "pixels": 3334
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          565,
+          1141,
+          767,
+          1187
+        ],
+        "pixels": 5190
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        32,
+        115
+      ],
+      [
+        133,
+        157
+      ],
+      [
+        197,
+        216
+      ],
+      [
+        233,
+        258
+      ],
+      [
+        298,
+        318
+      ]
+    ],
+    "bandes_blanches_footer_candidates": [
+      [
+        1383,
+        1402
+      ]
+    ]
+  },
+  {
+    "file": "Slide-7 (2).jpg",
+    "group": 2,
+    "slide": 7,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "c021220f194390ee12b6af6b81628579c5d8df501b4cae73951c98a6cb83c7a6",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 12623,
+        "percent": 0.866,
+        "top_rgb": [
+          {
+            "hex": "#FE0000",
+            "pixels": 2510
+          },
+          {
+            "hex": "#FE0002",
+            "pixels": 973
+          },
+          {
+            "hex": "#FD0100",
+            "pixels": 350
+          },
+          {
+            "hex": "#FD0000",
+            "pixels": 229
+          },
+          {
+            "hex": "#FE0003",
+            "pixels": 224
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 0,
+        "percent": 0.0,
+        "top_rgb": []
+      },
+      "blanc_neutre": {
+        "pixel_count": 213847,
+        "percent": 14.667,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 80092
+          },
+          {
+            "hex": "#FFFFFD",
+            "pixels": 15546
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 10173
+          },
+          {
+            "hex": "#FFFEFC",
+            "pixels": 8917
+          },
+          {
+            "hex": "#FEFDFB",
+            "pixels": 5329
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 609865,
+        "percent": 41.829,
+        "top_rgb": [
+          {
+            "hex": "#100C09",
+            "pixels": 16997
+          },
+          {
+            "hex": "#110D0A",
+            "pixels": 16512
+          },
+          {
+            "hex": "#0F0B08",
+            "pixels": 16477
+          },
+          {
+            "hex": "#120E0B",
+            "pixels": 15536
+          },
+          {
+            "hex": "#0E0A07",
+            "pixels": 15294
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          525,
+          942,
+          842,
+          999
+        ],
+        "pixels": 11514
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        0,
+        339
+      ]
+    ],
+    "bandes_blanches_footer_candidates": []
+  },
+  {
+    "file": "Slide-1 (3).jpg",
+    "group": 3,
+    "slide": 1,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "47bbf9d85b72a7fe543696156aa533da6037814e63ff66b1941bf19ad3c82ecf",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 60486,
+        "percent": 4.149,
+        "top_rgb": [
+          {
+            "hex": "#F80000",
+            "pixels": 3489
+          },
+          {
+            "hex": "#FA0001",
+            "pixels": 2798
+          },
+          {
+            "hex": "#F90000",
+            "pixels": 2524
+          },
+          {
+            "hex": "#F90101",
+            "pixels": 2191
+          },
+          {
+            "hex": "#FC0001",
+            "pixels": 860
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 18406,
+        "percent": 1.262,
+        "top_rgb": [
+          {
+            "hex": "#53FC2F",
+            "pixels": 36
+          },
+          {
+            "hex": "#57FD31",
+            "pixels": 32
+          },
+          {
+            "hex": "#59FC31",
+            "pixels": 30
+          },
+          {
+            "hex": "#55FC30",
+            "pixels": 30
+          },
+          {
+            "hex": "#4AFC2A",
+            "pixels": 28
+          }
+        ]
+      },
+      "blanc_neutre": {
+        "pixel_count": 126944,
+        "percent": 8.707,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 21128
+          },
+          {
+            "hex": "#F9F9F9",
+            "pixels": 10814
+          },
+          {
+            "hex": "#F8F8F8",
+            "pixels": 9971
+          },
+          {
+            "hex": "#F7F7F7",
+            "pixels": 9496
+          },
+          {
+            "hex": "#F6F6F6",
+            "pixels": 8930
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 360824,
+        "percent": 24.748,
+        "top_rgb": [
+          {
+            "hex": "#020202",
+            "pixels": 14393
+          },
+          {
+            "hex": "#010101",
+            "pixels": 12522
+          },
+          {
+            "hex": "#030303",
+            "pixels": 6569
+          },
+          {
+            "hex": "#22180F",
+            "pixels": 3239
+          },
+          {
+            "hex": "#221912",
+            "pixels": 3125
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          969,
+          0,
+          1079,
+          16
+        ],
+        "pixels": 1212
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          914,
+          130,
+          989,
+          183
+        ],
+        "pixels": 1239
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          1000,
+          130,
+          1044,
+          184
+        ],
+        "pixels": 1018
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          170,
+          296,
+          230,
+          385
+        ],
+        "pixels": 2813
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          307,
+          842,
+          1007,
+          946
+        ],
+        "pixels": 42826
+      }
+    ],
+    "composants_verts": [
+      {
+        "bbox_xyxy_inclusive": [
+          237,
+          87,
+          441,
+          274
+        ],
+        "pixels": 17934
+      }
+    ],
+    "bandes_blanches_haut_candidates": [
+      [
+        300,
+        339
+      ]
+    ],
+    "bandes_blanches_footer_candidates": []
+  },
+  {
+    "file": "Slide-2 (3).jpg",
+    "group": 3,
+    "slide": 2,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "dea1edb2a23230b38ac54a956a8dec55521fb7561b53fa6c4acb1323f07f6155",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 94837,
+        "percent": 6.505,
+        "top_rgb": [
+          {
+            "hex": "#FE0000",
+            "pixels": 26154
+          },
+          {
+            "hex": "#FE0002",
+            "pixels": 8965
+          },
+          {
+            "hex": "#FF0101",
+            "pixels": 8502
+          },
+          {
+            "hex": "#FF0103",
+            "pixels": 5635
+          },
+          {
+            "hex": "#FF0004",
+            "pixels": 3216
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 0,
+        "percent": 0.0,
+        "top_rgb": []
+      },
+      "blanc_neutre": {
+        "pixel_count": 290013,
+        "percent": 19.891,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 62129
+          },
+          {
+            "hex": "#EDEDED",
+            "pixels": 20751
+          },
+          {
+            "hex": "#EEEEEE",
+            "pixels": 19970
+          },
+          {
+            "hex": "#ECECEC",
+            "pixels": 19686
+          },
+          {
+            "hex": "#EFEFEF",
+            "pixels": 17057
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 263093,
+        "percent": 18.045,
+        "top_rgb": [
+          {
+            "hex": "#010101",
+            "pixels": 35040
+          },
+          {
+            "hex": "#020202",
+            "pixels": 21544
+          },
+          {
+            "hex": "#000000",
+            "pixels": 10825
+          },
+          {
+            "hex": "#030303",
+            "pixels": 6475
+          },
+          {
+            "hex": "#030102",
+            "pixels": 5917
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          40,
+          51,
+          1045,
+          165
+        ],
+        "pixels": 84489
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          53,
+          311,
+          88,
+          360
+        ],
+        "pixels": 928
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          93,
+          311,
+          132,
+          361
+        ],
+        "pixels": 1105
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        71,
+        136
+      ],
+      [
+        298,
+        339
+      ]
+    ],
+    "bandes_blanches_footer_candidates": []
+  },
+  {
+    "file": "Slide-3 (3).jpg",
+    "group": 3,
+    "slide": 3,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "4c59dad0cef53475a382b62d9436770f095c404e81399e6e35a51306fa42ca97",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 21778,
+        "percent": 1.494,
+        "top_rgb": [
+          {
+            "hex": "#FD0002",
+            "pixels": 1163
+          },
+          {
+            "hex": "#FD0100",
+            "pixels": 998
+          },
+          {
+            "hex": "#FE0103",
+            "pixels": 663
+          },
+          {
+            "hex": "#FC0203",
+            "pixels": 432
+          },
+          {
+            "hex": "#FE0201",
+            "pixels": 312
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 723,
+        "percent": 0.05,
+        "top_rgb": [
+          {
+            "hex": "#65F22A",
+            "pixels": 2
+          },
+          {
+            "hex": "#52EB21",
+            "pixels": 2
+          },
+          {
+            "hex": "#6FE129",
+            "pixels": 2
+          },
+          {
+            "hex": "#67F831",
+            "pixels": 2
+          },
+          {
+            "hex": "#41DC04",
+            "pixels": 2
+          }
+        ]
+      },
+      "blanc_neutre": {
+        "pixel_count": 232221,
+        "percent": 15.927,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 153388
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 19742
+          },
+          {
+            "hex": "#F9F9F9",
+            "pixels": 10906
+          },
+          {
+            "hex": "#F8F8F8",
+            "pixels": 7535
+          },
+          {
+            "hex": "#FDFDFD",
+            "pixels": 4619
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 685878,
+        "percent": 47.042,
+        "top_rgb": [
+          {
+            "hex": "#010101",
+            "pixels": 255279
+          },
+          {
+            "hex": "#020202",
+            "pixels": 103974
+          },
+          {
+            "hex": "#000000",
+            "pixels": 62374
+          },
+          {
+            "hex": "#030303",
+            "pixels": 21170
+          },
+          {
+            "hex": "#040404",
+            "pixels": 12970
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          491,
+          96,
+          893,
+          185
+        ],
+        "pixels": 20521
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        107,
+        173
+      ]
+    ],
+    "bandes_blanches_footer_candidates": [
+      [
+        1266,
+        1285
+      ]
+    ]
+  },
+  {
+    "file": "Slide-4 (3).jpg",
+    "group": 3,
+    "slide": 4,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "cf56938dd367c93a54c268f1bd09e52616738b014ae44d73176b3fafd6189fcb",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 20818,
+        "percent": 1.428,
+        "top_rgb": [
+          {
+            "hex": "#FD0002",
+            "pixels": 503
+          },
+          {
+            "hex": "#FB0102",
+            "pixels": 485
+          },
+          {
+            "hex": "#FB0103",
+            "pixels": 356
+          },
+          {
+            "hex": "#FD0003",
+            "pixels": 300
+          },
+          {
+            "hex": "#FD0100",
+            "pixels": 290
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 4679,
+        "percent": 0.321,
+        "top_rgb": [
+          {
+            "hex": "#5FAF72",
+            "pixels": 7
+          },
+          {
+            "hex": "#4ABE6D",
+            "pixels": 6
+          },
+          {
+            "hex": "#44C35C",
+            "pixels": 5
+          },
+          {
+            "hex": "#5BAB6E",
+            "pixels": 5
+          },
+          {
+            "hex": "#4FBE60",
+            "pixels": 4
+          }
+        ]
+      },
+      "blanc_neutre": {
+        "pixel_count": 60367,
+        "percent": 4.14,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 46236
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 5936
+          },
+          {
+            "hex": "#FEFFFF",
+            "pixels": 1404
+          },
+          {
+            "hex": "#FFFEFF",
+            "pixels": 1058
+          },
+          {
+            "hex": "#FFFFFD",
+            "pixels": 769
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 1178217,
+        "percent": 80.81,
+        "top_rgb": [
+          {
+            "hex": "#010101",
+            "pixels": 426958
+          },
+          {
+            "hex": "#020202",
+            "pixels": 101588
+          },
+          {
+            "hex": "#000000",
+            "pixels": 72809
+          },
+          {
+            "hex": "#010204",
+            "pixels": 60553
+          },
+          {
+            "hex": "#030303",
+            "pixels": 36784
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          536,
+          169,
+          883,
+          258
+        ],
+        "pixels": 17040
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        180,
+        246
+      ],
+      [
+        281,
+        339
+      ]
+    ],
+    "bandes_blanches_footer_candidates": []
+  },
+  {
+    "file": "Slide-5 (3).jpg",
+    "group": 3,
+    "slide": 5,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "4d88f5a5ebd7f866645292bd1801d56daa884d10f799a4e9547a6f43a8063c85",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 28955,
+        "percent": 1.986,
+        "top_rgb": [
+          {
+            "hex": "#FD0002",
+            "pixels": 1210
+          },
+          {
+            "hex": "#FD0100",
+            "pixels": 936
+          },
+          {
+            "hex": "#FE0000",
+            "pixels": 783
+          },
+          {
+            "hex": "#FE0103",
+            "pixels": 647
+          },
+          {
+            "hex": "#FE0002",
+            "pixels": 381
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 27267,
+        "percent": 1.87,
+        "top_rgb": [
+          {
+            "hex": "#39FD39",
+            "pixels": 122
+          },
+          {
+            "hex": "#3BFD3A",
+            "pixels": 107
+          },
+          {
+            "hex": "#33FD35",
+            "pixels": 100
+          },
+          {
+            "hex": "#37FD36",
+            "pixels": 95
+          },
+          {
+            "hex": "#3FFD3B",
+            "pixels": 92
+          }
+        ]
+      },
+      "blanc_neutre": {
+        "pixel_count": 154054,
+        "percent": 10.566,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 38304
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 11149
+          },
+          {
+            "hex": "#FEFCFD",
+            "pixels": 10242
+          },
+          {
+            "hex": "#FFFDFE",
+            "pixels": 8002
+          },
+          {
+            "hex": "#FDFDFD",
+            "pixels": 7372
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 824899,
+        "percent": 56.577,
+        "top_rgb": [
+          {
+            "hex": "#020202",
+            "pixels": 104610
+          },
+          {
+            "hex": "#030303",
+            "pixels": 65684
+          },
+          {
+            "hex": "#010101",
+            "pixels": 57197
+          },
+          {
+            "hex": "#040404",
+            "pixels": 45818
+          },
+          {
+            "hex": "#050505",
+            "pixels": 37731
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          573,
+          217,
+          1022,
+          300
+        ],
+        "pixels": 21515
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          783,
+          526,
+          987,
+          563
+        ],
+        "pixels": 852
+      }
+    ],
+    "composants_verts": [
+      {
+        "bbox_xyxy_inclusive": [
+          69,
+          217,
+          493,
+          301
+        ],
+        "pixels": 21411
+      }
+    ],
+    "bandes_blanches_haut_candidates": [
+      [
+        235,
+        285
+      ]
+    ],
+    "bandes_blanches_footer_candidates": [
+      [
+        1266,
+        1285
+      ]
+    ]
+  },
+  {
+    "file": "Slide-6 (3).jpg",
+    "group": 3,
+    "slide": 6,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "14df0017a58530854ecf3f4c8babea88a1035201daaebf3089927bf9b3358c56",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 18414,
+        "percent": 1.263,
+        "top_rgb": [
+          {
+            "hex": "#FE0000",
+            "pixels": 12974
+          },
+          {
+            "hex": "#FF0101",
+            "pixels": 1055
+          },
+          {
+            "hex": "#FE0002",
+            "pixels": 859
+          },
+          {
+            "hex": "#FF0100",
+            "pixels": 481
+          },
+          {
+            "hex": "#FF0103",
+            "pixels": 388
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 29638,
+        "percent": 2.033,
+        "top_rgb": [
+          {
+            "hex": "#00FF01",
+            "pixels": 13060
+          },
+          {
+            "hex": "#00FF00",
+            "pixels": 5637
+          },
+          {
+            "hex": "#00FE00",
+            "pixels": 2836
+          },
+          {
+            "hex": "#01FF00",
+            "pixels": 1493
+          },
+          {
+            "hex": "#01FF01",
+            "pixels": 1456
+          }
+        ]
+      },
+      "blanc_neutre": {
+        "pixel_count": 148738,
+        "percent": 10.202,
+        "top_rgb": [
+          {
+            "hex": "#FEFEFE",
+            "pixels": 22653
+          },
+          {
+            "hex": "#FDFDFD",
+            "pixels": 17307
+          },
+          {
+            "hex": "#FFFFFF",
+            "pixels": 15607
+          },
+          {
+            "hex": "#FCFCFC",
+            "pixels": 10903
+          },
+          {
+            "hex": "#FBFBFB",
+            "pixels": 4007
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 622050,
+        "percent": 42.665,
+        "top_rgb": [
+          {
+            "hex": "#020202",
+            "pixels": 107068
+          },
+          {
+            "hex": "#010101",
+            "pixels": 66250
+          },
+          {
+            "hex": "#030303",
+            "pixels": 40328
+          },
+          {
+            "hex": "#040404",
+            "pixels": 10086
+          },
+          {
+            "hex": "#040203",
+            "pixels": 10074
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          70,
+          288,
+          439,
+          351
+        ],
+        "pixels": 16480
+      }
+    ],
+    "composants_verts": [
+      {
+        "bbox_xyxy_inclusive": [
+          278,
+          85,
+          324,
+          147
+        ],
+        "pixels": 1711
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          468,
+          85,
+          517,
+          147
+        ],
+        "pixels": 1277
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          588,
+          85,
+          634,
+          147
+        ],
+        "pixels": 1800
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          774,
+          85,
+          815,
+          147
+        ],
+        "pixels": 1787
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          819,
+          85,
+          865,
+          147
+        ],
+        "pixels": 1788
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          355,
+          100,
+          401,
+          148
+        ],
+        "pixels": 1410
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          405,
+          100,
+          451,
+          162
+        ],
+        "pixels": 1772
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          542,
+          100,
+          584,
+          147
+        ],
+        "pixels": 1455
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          659,
+          100,
+          702,
+          147
+        ],
+        "pixels": 1408
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          706,
+          100,
+          751,
+          164
+        ],
+        "pixels": 2014
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          869,
+          100,
+          915,
+          164
+        ],
+        "pixels": 2014
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          919,
+          100,
+          963,
+          147
+        ],
+        "pixels": 1392
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          70,
+          457,
+          218,
+          520
+        ],
+        "pixels": 7308
+      }
+    ],
+    "bandes_blanches_haut_candidates": [
+      [
+        86,
+        91
+      ],
+      [
+        102,
+        126
+      ],
+      [
+        135,
+        146
+      ],
+      [
+        298,
+        337
+      ]
+    ],
+    "bandes_blanches_footer_candidates": [
+      [
+        1266,
+        1285
+      ]
+    ]
+  },
+  {
+    "file": "Slide-1 (4).jpg",
+    "group": 4,
+    "slide": 1,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "4a903b9d3d97d1b187a8674d36091fecbf312245243a58b8b420011dc6e57ecf",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 32625,
+        "percent": 2.238,
+        "top_rgb": [
+          {
+            "hex": "#FA0001",
+            "pixels": 2780
+          },
+          {
+            "hex": "#F90000",
+            "pixels": 899
+          },
+          {
+            "hex": "#FC0001",
+            "pixels": 781
+          },
+          {
+            "hex": "#FA0100",
+            "pixels": 682
+          },
+          {
+            "hex": "#FA0002",
+            "pixels": 582
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 0,
+        "percent": 0.0,
+        "top_rgb": []
+      },
+      "blanc_neutre": {
+        "pixel_count": 154994,
+        "percent": 10.631,
+        "top_rgb": [
+          {
+            "hex": "#F9F9F9",
+            "pixels": 47887
+          },
+          {
+            "hex": "#F8F8F8",
+            "pixels": 24510
+          },
+          {
+            "hex": "#FAFAFA",
+            "pixels": 15552
+          },
+          {
+            "hex": "#F7F7F7",
+            "pixels": 10888
+          },
+          {
+            "hex": "#F6F6F6",
+            "pixels": 5093
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 326004,
+        "percent": 22.36,
+        "top_rgb": [
+          {
+            "hex": "#020202",
+            "pixels": 32448
+          },
+          {
+            "hex": "#030303",
+            "pixels": 15563
+          },
+          {
+            "hex": "#010101",
+            "pixels": 9247
+          },
+          {
+            "hex": "#040404",
+            "pixels": 5538
+          },
+          {
+            "hex": "#050402",
+            "pixels": 5086
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          523,
+          855,
+          953,
+          965
+        ],
+        "pixels": 24533
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        79,
+        130
+      ],
+      [
+        162,
+        172
+      ]
+    ],
+    "bandes_blanches_footer_candidates": []
+  },
+  {
+    "file": "Slide-2 (4).jpg",
+    "group": 4,
+    "slide": 2,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "6c8513a89ce8e04709c7e6fb11d0f19e92bba580d129356cd5790cec8997b930",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 60593,
+        "percent": 4.156,
+        "top_rgb": [
+          {
+            "hex": "#FE0000",
+            "pixels": 16509
+          },
+          {
+            "hex": "#FF0101",
+            "pixels": 9314
+          },
+          {
+            "hex": "#FE0002",
+            "pixels": 2270
+          },
+          {
+            "hex": "#FF0103",
+            "pixels": 1966
+          },
+          {
+            "hex": "#FF0204",
+            "pixels": 1168
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 0,
+        "percent": 0.0,
+        "top_rgb": []
+      },
+      "blanc_neutre": {
+        "pixel_count": 144362,
+        "percent": 9.901,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 11457
+          },
+          {
+            "hex": "#EDECEA",
+            "pixels": 5591
+          },
+          {
+            "hex": "#ECEBE9",
+            "pixels": 5586
+          },
+          {
+            "hex": "#EEEDEB",
+            "pixels": 5096
+          },
+          {
+            "hex": "#EFEEEC",
+            "pixels": 4370
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 251182,
+        "percent": 17.228,
+        "top_rgb": [
+          {
+            "hex": "#010101",
+            "pixels": 29374
+          },
+          {
+            "hex": "#020202",
+            "pixels": 14595
+          },
+          {
+            "hex": "#000000",
+            "pixels": 9595
+          },
+          {
+            "hex": "#060201",
+            "pixels": 6921
+          },
+          {
+            "hex": "#070300",
+            "pixels": 6535
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          78,
+          620,
+          724,
+          800
+        ],
+        "pixels": 58266
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        83,
+        139
+      ],
+      [
+        166,
+        181
+      ]
+    ],
+    "bandes_blanches_footer_candidates": []
+  },
+  {
+    "file": "Slide-3 (4).jpg",
+    "group": 4,
+    "slide": 3,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "cfe07fa0c29abe3b1fd0b0cfbebe4d827c8d846481694278d99a09435bec16cc",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 14564,
+        "percent": 0.999,
+        "top_rgb": [
+          {
+            "hex": "#FE0000",
+            "pixels": 2961
+          },
+          {
+            "hex": "#FF0101",
+            "pixels": 665
+          },
+          {
+            "hex": "#FE0002",
+            "pixels": 621
+          },
+          {
+            "hex": "#FF0103",
+            "pixels": 317
+          },
+          {
+            "hex": "#FF0100",
+            "pixels": 221
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 0,
+        "percent": 0.0,
+        "top_rgb": []
+      },
+      "blanc_neutre": {
+        "pixel_count": 236895,
+        "percent": 16.248,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 191758
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 8045
+          },
+          {
+            "hex": "#FEFFFF",
+            "pixels": 4318
+          },
+          {
+            "hex": "#FFFFFD",
+            "pixels": 3985
+          },
+          {
+            "hex": "#FFFEFF",
+            "pixels": 3826
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 312916,
+        "percent": 21.462,
+        "top_rgb": [
+          {
+            "hex": "#030303",
+            "pixels": 31605
+          },
+          {
+            "hex": "#020202",
+            "pixels": 28727
+          },
+          {
+            "hex": "#040404",
+            "pixels": 17697
+          },
+          {
+            "hex": "#010101",
+            "pixels": 12199
+          },
+          {
+            "hex": "#050505",
+            "pixels": 6590
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          681,
+          145,
+          998,
+          230
+        ],
+        "pixels": 12637
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        43,
+        112
+      ],
+      [
+        154,
+        220
+      ],
+      [
+        234,
+        240
+      ],
+      [
+        299,
+        326
+      ]
+    ],
+    "bandes_blanches_footer_candidates": [
+      [
+        1266,
+        1285
+      ]
+    ]
+  },
+  {
+    "file": "Slide-4 (4).jpg",
+    "group": 4,
+    "slide": 4,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "039d301ee90c886b646a0f308628f4e8936aaf49003f3128f02a55eb67464e79",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 23204,
+        "percent": 1.591,
+        "top_rgb": [
+          {
+            "hex": "#FE0000",
+            "pixels": 3891
+          },
+          {
+            "hex": "#FE0002",
+            "pixels": 1291
+          },
+          {
+            "hex": "#FF0101",
+            "pixels": 1254
+          },
+          {
+            "hex": "#FF0103",
+            "pixels": 761
+          },
+          {
+            "hex": "#FF0100",
+            "pixels": 492
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 2956,
+        "percent": 0.203,
+        "top_rgb": [
+          {
+            "hex": "#63FF3A",
+            "pixels": 21
+          },
+          {
+            "hex": "#59FF33",
+            "pixels": 17
+          },
+          {
+            "hex": "#5EFF35",
+            "pixels": 16
+          },
+          {
+            "hex": "#58FF31",
+            "pixels": 16
+          },
+          {
+            "hex": "#56FF32",
+            "pixels": 15
+          }
+        ]
+      },
+      "blanc_neutre": {
+        "pixel_count": 141478,
+        "percent": 9.704,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 30844
+          },
+          {
+            "hex": "#FFFDFE",
+            "pixels": 10005
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 8203
+          },
+          {
+            "hex": "#FFFEFF",
+            "pixels": 7484
+          },
+          {
+            "hex": "#FEFCFD",
+            "pixels": 4063
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 641512,
+        "percent": 43.999,
+        "top_rgb": [
+          {
+            "hex": "#030303",
+            "pixels": 37048
+          },
+          {
+            "hex": "#020202",
+            "pixels": 35564
+          },
+          {
+            "hex": "#040404",
+            "pixels": 20266
+          },
+          {
+            "hex": "#010101",
+            "pixels": 15215
+          },
+          {
+            "hex": "#050505",
+            "pixels": 7833
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          124,
+          115,
+          492,
+          211
+        ],
+        "pixels": 20500
+      }
+    ],
+    "composants_verts": [
+      {
+        "bbox_xyxy_inclusive": [
+          65,
+          315,
+          104,
+          351
+        ],
+        "pixels": 990
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          65,
+          390,
+          104,
+          426
+        ],
+        "pixels": 993
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          65,
+          463,
+          104,
+          499
+        ],
+        "pixels": 972
+      }
+    ],
+    "bandes_blanches_haut_candidates": [
+      [
+        39,
+        103
+      ],
+      [
+        130,
+        194
+      ],
+      [
+        317,
+        339
+      ]
+    ],
+    "bandes_blanches_footer_candidates": [
+      [
+        1266,
+        1285
+      ]
+    ]
+  },
+  {
+    "file": "Slide-5 (4).jpg",
+    "group": 4,
+    "slide": 5,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "58b24acf09e6f7254918747b62304d9aac5e593188c3630d5f24d2997f53332c",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 34868,
+        "percent": 2.391,
+        "top_rgb": [
+          {
+            "hex": "#F00001",
+            "pixels": 6486
+          },
+          {
+            "hex": "#EF0000",
+            "pixels": 2246
+          },
+          {
+            "hex": "#F00000",
+            "pixels": 1969
+          },
+          {
+            "hex": "#EE0000",
+            "pixels": 1716
+          },
+          {
+            "hex": "#FC0001",
+            "pixels": 1152
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 2,
+        "percent": 0.0,
+        "top_rgb": [
+          {
+            "hex": "#5FAA55",
+            "pixels": 1
+          },
+          {
+            "hex": "#549E63",
+            "pixels": 1
+          }
+        ]
+      },
+      "blanc_neutre": {
+        "pixel_count": 73025,
+        "percent": 5.009,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 26664
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 6416
+          },
+          {
+            "hex": "#FEFFFF",
+            "pixels": 4285
+          },
+          {
+            "hex": "#FFFEFF",
+            "pixels": 3238
+          },
+          {
+            "hex": "#FFFFFD",
+            "pixels": 2835
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 564443,
+        "percent": 38.714,
+        "top_rgb": [
+          {
+            "hex": "#010101",
+            "pixels": 54954
+          },
+          {
+            "hex": "#18130F",
+            "pixels": 15048
+          },
+          {
+            "hex": "#17120E",
+            "pixels": 14985
+          },
+          {
+            "hex": "#1D1512",
+            "pixels": 14071
+          },
+          {
+            "hex": "#1C1411",
+            "pixels": 14013
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          423,
+          833,
+          850,
+          908
+        ],
+        "pixels": 21429
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          437,
+          988,
+          682,
+          1045
+        ],
+        "pixels": 9481
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        175,
+        191
+      ],
+      [
+        314,
+        339
+      ]
+    ],
+    "bandes_blanches_footer_candidates": []
+  },
+  {
+    "file": "Slide-6 (4).jpg",
+    "group": 4,
+    "slide": 6,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "4abc7d1c6bc7900d1e40b5ffb7233ec6ef4345afeecc9160941fe39ddcc8156d",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 20219,
+        "percent": 1.387,
+        "top_rgb": [
+          {
+            "hex": "#FE0000",
+            "pixels": 1690
+          },
+          {
+            "hex": "#FD0100",
+            "pixels": 800
+          },
+          {
+            "hex": "#FF0101",
+            "pixels": 693
+          },
+          {
+            "hex": "#FD0002",
+            "pixels": 600
+          },
+          {
+            "hex": "#FE0002",
+            "pixels": 508
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 1155,
+        "percent": 0.079,
+        "top_rgb": [
+          {
+            "hex": "#67FF55",
+            "pixels": 10
+          },
+          {
+            "hex": "#6DFF5E",
+            "pixels": 7
+          },
+          {
+            "hex": "#68FF56",
+            "pixels": 6
+          },
+          {
+            "hex": "#56FF4C",
+            "pixels": 5
+          },
+          {
+            "hex": "#72FF63",
+            "pixels": 5
+          }
+        ]
+      },
+      "blanc_neutre": {
+        "pixel_count": 70086,
+        "percent": 4.807,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 42512
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 7003
+          },
+          {
+            "hex": "#FEFFFF",
+            "pixels": 2775
+          },
+          {
+            "hex": "#FFFEFF",
+            "pixels": 2046
+          },
+          {
+            "hex": "#FFFFFD",
+            "pixels": 1395
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 935102,
+        "percent": 64.136,
+        "top_rgb": [
+          {
+            "hex": "#030303",
+            "pixels": 119698
+          },
+          {
+            "hex": "#020202",
+            "pixels": 114894
+          },
+          {
+            "hex": "#040404",
+            "pixels": 69692
+          },
+          {
+            "hex": "#010101",
+            "pixels": 57938
+          },
+          {
+            "hex": "#000000",
+            "pixels": 45012
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          375,
+          187,
+          706,
+          262
+        ],
+        "pixels": 14404
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        105,
+        164
+      ],
+      [
+        196,
+        256
+      ],
+      [
+        317,
+        325
+      ]
+    ],
+    "bandes_blanches_footer_candidates": []
+  },
+  {
+    "file": "Slide-1 (5).jpg",
+    "group": 5,
+    "slide": 1,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "6910bfcf77434b4178cc642664f824e38732ac5f3323509b130a4f38debee986",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 36137,
+        "percent": 2.479,
+        "top_rgb": [
+          {
+            "hex": "#FE0000",
+            "pixels": 5661
+          },
+          {
+            "hex": "#FE0002",
+            "pixels": 873
+          },
+          {
+            "hex": "#FA0001",
+            "pixels": 833
+          },
+          {
+            "hex": "#FF0101",
+            "pixels": 759
+          },
+          {
+            "hex": "#FD0100",
+            "pixels": 593
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 12,
+        "percent": 0.001,
+        "top_rgb": [
+          {
+            "hex": "#72C90B",
+            "pixels": 1
+          },
+          {
+            "hex": "#6CCE21",
+            "pixels": 1
+          },
+          {
+            "hex": "#6BBB1C",
+            "pixels": 1
+          },
+          {
+            "hex": "#6BB323",
+            "pixels": 1
+          },
+          {
+            "hex": "#6BB228",
+            "pixels": 1
+          }
+        ]
+      },
+      "blanc_neutre": {
+        "pixel_count": 156637,
+        "percent": 10.743,
+        "top_rgb": [
+          {
+            "hex": "#FBFBFB",
+            "pixels": 26995
+          },
+          {
+            "hex": "#FCFCFC",
+            "pixels": 26321
+          },
+          {
+            "hex": "#FAFAFA",
+            "pixels": 19958
+          },
+          {
+            "hex": "#FDFDFD",
+            "pixels": 16797
+          },
+          {
+            "hex": "#F9F9F9",
+            "pixels": 11580
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 242649,
+        "percent": 16.643,
+        "top_rgb": [
+          {
+            "hex": "#030303",
+            "pixels": 21340
+          },
+          {
+            "hex": "#020202",
+            "pixels": 18752
+          },
+          {
+            "hex": "#040404",
+            "pixels": 13257
+          },
+          {
+            "hex": "#010101",
+            "pixels": 7849
+          },
+          {
+            "hex": "#050505",
+            "pixels": 5939
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          571,
+          134,
+          1053,
+          216
+        ],
+        "pixels": 23084
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          194,
+          1026,
+          415,
+          1103
+        ],
+        "pixels": 10345
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        52,
+        112
+      ],
+      [
+        142,
+        202
+      ]
+    ],
+    "bandes_blanches_footer_candidates": []
+  },
+  {
+    "file": "Slide-2 (5).jpg",
+    "group": 5,
+    "slide": 2,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "28909a52f4198851f97986078719d1080357f6633e7d7aa38e3cee092506ea9e",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 65550,
+        "percent": 4.496,
+        "top_rgb": [
+          {
+            "hex": "#FE0000",
+            "pixels": 32626
+          },
+          {
+            "hex": "#FF0101",
+            "pixels": 6562
+          },
+          {
+            "hex": "#FE0002",
+            "pixels": 2481
+          },
+          {
+            "hex": "#FD0000",
+            "pixels": 1726
+          },
+          {
+            "hex": "#FD0100",
+            "pixels": 1685
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 0,
+        "percent": 0.0,
+        "top_rgb": []
+      },
+      "blanc_neutre": {
+        "pixel_count": 256924,
+        "percent": 17.622,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 38985
+          },
+          {
+            "hex": "#FFFFFD",
+            "pixels": 9902
+          },
+          {
+            "hex": "#FFFEFC",
+            "pixels": 7824
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 7432
+          },
+          {
+            "hex": "#FFFEF9",
+            "pixels": 6453
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 441604,
+        "percent": 30.288,
+        "top_rgb": [
+          {
+            "hex": "#030303",
+            "pixels": 14349
+          },
+          {
+            "hex": "#040404",
+            "pixels": 14218
+          },
+          {
+            "hex": "#050505",
+            "pixels": 11647
+          },
+          {
+            "hex": "#020202",
+            "pixels": 9722
+          },
+          {
+            "hex": "#060606",
+            "pixels": 9522
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          25,
+          60,
+          671,
+          240
+        ],
+        "pixels": 60150
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          388,
+          264,
+          604,
+          435
+        ],
+        "pixels": 3208
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        0,
+        219
+      ],
+      [
+        235,
+        339
+      ]
+    ],
+    "bandes_blanches_footer_candidates": []
+  },
+  {
+    "file": "Slide-3 (5).jpg",
+    "group": 5,
+    "slide": 3,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "cd4e33e40fc60009dc87e5d116e65d9d32bad99e09dbf41a51e3db773ac1036d",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 4565,
+        "percent": 0.313,
+        "top_rgb": [
+          {
+            "hex": "#FF0306",
+            "pixels": 206
+          },
+          {
+            "hex": "#FF0305",
+            "pixels": 192
+          },
+          {
+            "hex": "#FE0405",
+            "pixels": 140
+          },
+          {
+            "hex": "#FE0406",
+            "pixels": 79
+          },
+          {
+            "hex": "#FF0204",
+            "pixels": 75
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 4682,
+        "percent": 0.321,
+        "top_rgb": [
+          {
+            "hex": "#31CF5E",
+            "pixels": 5
+          },
+          {
+            "hex": "#25C65E",
+            "pixels": 5
+          },
+          {
+            "hex": "#1BDC67",
+            "pixels": 5
+          },
+          {
+            "hex": "#24D35A",
+            "pixels": 4
+          },
+          {
+            "hex": "#26C561",
+            "pixels": 4
+          }
+        ]
+      },
+      "blanc_neutre": {
+        "pixel_count": 235395,
+        "percent": 16.145,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 210771
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 12171
+          },
+          {
+            "hex": "#FFFEFF",
+            "pixels": 703
+          },
+          {
+            "hex": "#FEFFFF",
+            "pixels": 627
+          },
+          {
+            "hex": "#FDFDFD",
+            "pixels": 472
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 540405,
+        "percent": 37.065,
+        "top_rgb": [
+          {
+            "hex": "#020202",
+            "pixels": 65290
+          },
+          {
+            "hex": "#030303",
+            "pixels": 56294
+          },
+          {
+            "hex": "#010101",
+            "pixels": 40303
+          },
+          {
+            "hex": "#040404",
+            "pixels": 30776
+          },
+          {
+            "hex": "#050505",
+            "pixels": 15626
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          916,
+          736,
+          952,
+          803
+        ],
+        "pixels": 1078
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        56,
+        332
+      ]
+    ],
+    "bandes_blanches_footer_candidates": []
+  },
+  {
+    "file": "Slide-4 (5).jpg",
+    "group": 5,
+    "slide": 4,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "b8953b144916c2942dfca7988a2cb164cf317f1de4bb01db1bc38ed814bb7e54",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 62218,
+        "percent": 4.267,
+        "top_rgb": [
+          {
+            "hex": "#FE0000",
+            "pixels": 13305
+          },
+          {
+            "hex": "#FE0002",
+            "pixels": 4378
+          },
+          {
+            "hex": "#FF0101",
+            "pixels": 3491
+          },
+          {
+            "hex": "#FF0103",
+            "pixels": 2456
+          },
+          {
+            "hex": "#FF0004",
+            "pixels": 1640
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 120,
+        "percent": 0.008,
+        "top_rgb": [
+          {
+            "hex": "#01A05E",
+            "pixels": 2
+          },
+          {
+            "hex": "#01AB6C",
+            "pixels": 2
+          },
+          {
+            "hex": "#00A168",
+            "pixels": 2
+          },
+          {
+            "hex": "#009754",
+            "pixels": 2
+          },
+          {
+            "hex": "#25B96F",
+            "pixels": 1
+          }
+        ]
+      },
+      "blanc_neutre": {
+        "pixel_count": 123776,
+        "percent": 8.489,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 51120
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 9295
+          },
+          {
+            "hex": "#FFFEFF",
+            "pixels": 5070
+          },
+          {
+            "hex": "#FEFFFF",
+            "pixels": 4950
+          },
+          {
+            "hex": "#FFFFFD",
+            "pixels": 2881
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 841788,
+        "percent": 57.736,
+        "top_rgb": [
+          {
+            "hex": "#030303",
+            "pixels": 81244
+          },
+          {
+            "hex": "#020202",
+            "pixels": 73449
+          },
+          {
+            "hex": "#040404",
+            "pixels": 50315
+          },
+          {
+            "hex": "#010101",
+            "pixels": 31187
+          },
+          {
+            "hex": "#050505",
+            "pixels": 25593
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          47,
+          87,
+          350,
+          162
+        ],
+        "pixels": 14866
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          89,
+          966,
+          955,
+          1039
+        ],
+        "pixels": 44084
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        96,
+        151
+      ],
+      [
+        189,
+        247
+      ],
+      [
+        255,
+        266
+      ]
+    ],
+    "bandes_blanches_footer_candidates": []
+  },
+  {
+    "file": "Slide-5 (5).jpg",
+    "group": 5,
+    "slide": 5,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "5d78be41c871a54705eb12de0b2da4fdb269c9879de1b5521f4d6d0f259a53e2",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 94049,
+        "percent": 6.451,
+        "top_rgb": [
+          {
+            "hex": "#FE0000",
+            "pixels": 67061
+          },
+          {
+            "hex": "#FF0101",
+            "pixels": 4235
+          },
+          {
+            "hex": "#FE0002",
+            "pixels": 3343
+          },
+          {
+            "hex": "#FF0100",
+            "pixels": 1815
+          },
+          {
+            "hex": "#FF0103",
+            "pixels": 1455
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 8385,
+        "percent": 0.575,
+        "top_rgb": [
+          {
+            "hex": "#00D126",
+            "pixels": 427
+          },
+          {
+            "hex": "#00FF1F",
+            "pixels": 405
+          },
+          {
+            "hex": "#01D028",
+            "pixels": 360
+          },
+          {
+            "hex": "#00FF1D",
+            "pixels": 260
+          },
+          {
+            "hex": "#02D129",
+            "pixels": 222
+          }
+        ]
+      },
+      "blanc_neutre": {
+        "pixel_count": 90152,
+        "percent": 6.183,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 68254
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 6757
+          },
+          {
+            "hex": "#FEFFFF",
+            "pixels": 2890
+          },
+          {
+            "hex": "#FFFEFF",
+            "pixels": 2684
+          },
+          {
+            "hex": "#FFFFFD",
+            "pixels": 2467
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 1086269,
+        "percent": 74.504,
+        "top_rgb": [
+          {
+            "hex": "#000000",
+            "pixels": 483126
+          },
+          {
+            "hex": "#010101",
+            "pixels": 70431
+          },
+          {
+            "hex": "#020202",
+            "pixels": 49447
+          },
+          {
+            "hex": "#040404",
+            "pixels": 29505
+          },
+          {
+            "hex": "#030303",
+            "pixels": 16854
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          786,
+          357,
+          875,
+          457
+        ],
+        "pixels": 4163
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          76,
+          568,
+          746,
+          634
+        ],
+        "pixels": 32262
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          97,
+          1096,
+          1006,
+          1162
+        ],
+        "pixels": 43503
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        83,
+        144
+      ],
+      [
+        166,
+        231
+      ],
+      [
+        281,
+        309
+      ],
+      [
+        314,
+        322
+      ]
+    ],
+    "bandes_blanches_footer_candidates": []
+  },
+  {
+    "file": "Slide-6 (5).jpg",
+    "group": 5,
+    "slide": 6,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "daa8d4e9115f987024c219999a62f931852cb33ace0cd5a0da9073d2c4cac8d4",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 44608,
+        "percent": 3.06,
+        "top_rgb": [
+          {
+            "hex": "#FE0000",
+            "pixels": 7451
+          },
+          {
+            "hex": "#FE0002",
+            "pixels": 2488
+          },
+          {
+            "hex": "#FA0001",
+            "pixels": 1673
+          },
+          {
+            "hex": "#FC0000",
+            "pixels": 1561
+          },
+          {
+            "hex": "#FF0101",
+            "pixels": 1560
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 0,
+        "percent": 0.0,
+        "top_rgb": []
+      },
+      "blanc_neutre": {
+        "pixel_count": 155437,
+        "percent": 10.661,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 49477
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 10203
+          },
+          {
+            "hex": "#FFFFFD",
+            "pixels": 6694
+          },
+          {
+            "hex": "#FEFFFF",
+            "pixels": 3355
+          },
+          {
+            "hex": "#FDFDFD",
+            "pixels": 2857
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 668579,
+        "percent": 45.856,
+        "top_rgb": [
+          {
+            "hex": "#020202",
+            "pixels": 151668
+          },
+          {
+            "hex": "#030303",
+            "pixels": 142502
+          },
+          {
+            "hex": "#010101",
+            "pixels": 92876
+          },
+          {
+            "hex": "#040404",
+            "pixels": 66828
+          },
+          {
+            "hex": "#000000",
+            "pixels": 19039
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          183,
+          902,
+          893,
+          973
+        ],
+        "pixels": 35075
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          478,
+          1026,
+          642,
+          1083
+        ],
+        "pixels": 7090
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        222,
+        230
+      ]
+    ],
+    "bandes_blanches_footer_candidates": []
+  },
+  {
+    "file": "Slide-1 (6).jpg",
+    "group": 6,
+    "slide": 1,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "cadb8d3ba4e1b72ad2e0945208497a2e3d5d80afa0ba063a28402f84ebdaa1f2",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 34650,
+        "percent": 2.377,
+        "top_rgb": [
+          {
+            "hex": "#FE0000",
+            "pixels": 3400
+          },
+          {
+            "hex": "#FE0002",
+            "pixels": 1326
+          },
+          {
+            "hex": "#FA0001",
+            "pixels": 1319
+          },
+          {
+            "hex": "#FC0001",
+            "pixels": 1224
+          },
+          {
+            "hex": "#FD0100",
+            "pixels": 1076
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 12,
+        "percent": 0.001,
+        "top_rgb": [
+          {
+            "hex": "#72D12B",
+            "pixels": 1
+          },
+          {
+            "hex": "#6ECF27",
+            "pixels": 1
+          },
+          {
+            "hex": "#6BB20E",
+            "pixels": 1
+          },
+          {
+            "hex": "#6AB80A",
+            "pixels": 1
+          },
+          {
+            "hex": "#6AB127",
+            "pixels": 1
+          }
+        ]
+      },
+      "blanc_neutre": {
+        "pixel_count": 129318,
+        "percent": 8.87,
+        "top_rgb": [
+          {
+            "hex": "#FCFCFC",
+            "pixels": 24024
+          },
+          {
+            "hex": "#FBFBFB",
+            "pixels": 20386
+          },
+          {
+            "hex": "#FDFDFD",
+            "pixels": 17552
+          },
+          {
+            "hex": "#FAFAFA",
+            "pixels": 12227
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 7038
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 249021,
+        "percent": 17.08,
+        "top_rgb": [
+          {
+            "hex": "#030303",
+            "pixels": 17364
+          },
+          {
+            "hex": "#020202",
+            "pixels": 14903
+          },
+          {
+            "hex": "#040404",
+            "pixels": 11713
+          },
+          {
+            "hex": "#010101",
+            "pixels": 6423
+          },
+          {
+            "hex": "#050505",
+            "pixels": 5972
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          212,
+          118,
+          779,
+          221
+        ],
+        "pixels": 31906
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        17,
+        89
+      ],
+      [
+        103,
+        110
+      ],
+      [
+        134,
+        204
+      ]
+    ],
+    "bandes_blanches_footer_candidates": []
+  },
+  {
+    "file": "Slide-2 (6).jpg",
+    "group": 6,
+    "slide": 2,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "e33413f7b377f46fc686db031c4f6e70eff31421114b025d8710adf9e4a17ac9",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 65579,
+        "percent": 4.498,
+        "top_rgb": [
+          {
+            "hex": "#FE0000",
+            "pixels": 32475
+          },
+          {
+            "hex": "#FF0101",
+            "pixels": 6722
+          },
+          {
+            "hex": "#FE0002",
+            "pixels": 2346
+          },
+          {
+            "hex": "#FD0100",
+            "pixels": 1815
+          },
+          {
+            "hex": "#FD0000",
+            "pixels": 1735
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 0,
+        "percent": 0.0,
+        "top_rgb": []
+      },
+      "blanc_neutre": {
+        "pixel_count": 262182,
+        "percent": 17.982,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 44208
+          },
+          {
+            "hex": "#FFFFFD",
+            "pixels": 9909
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 8102
+          },
+          {
+            "hex": "#FFFEFC",
+            "pixels": 7610
+          },
+          {
+            "hex": "#FFFEF9",
+            "pixels": 6510
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 448982,
+        "percent": 30.794,
+        "top_rgb": [
+          {
+            "hex": "#030303",
+            "pixels": 12099
+          },
+          {
+            "hex": "#040404",
+            "pixels": 11617
+          },
+          {
+            "hex": "#050505",
+            "pixels": 9824
+          },
+          {
+            "hex": "#020202",
+            "pixels": 8148
+          },
+          {
+            "hex": "#050507",
+            "pixels": 7907
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          25,
+          60,
+          671,
+          240
+        ],
+        "pixels": 60175
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          388,
+          264,
+          604,
+          435
+        ],
+        "pixels": 3212
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        0,
+        219
+      ],
+      [
+        235,
+        339
+      ]
+    ],
+    "bandes_blanches_footer_candidates": []
+  },
+  {
+    "file": "Slide-3 (6).jpg",
+    "group": 6,
+    "slide": 3,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "bf9251b71225b659b084dc562fbef1fef2c9417e5a4d3ff9d542318a8d94b1d0",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 21453,
+        "percent": 1.471,
+        "top_rgb": [
+          {
+            "hex": "#FE0000",
+            "pixels": 545
+          },
+          {
+            "hex": "#F40000",
+            "pixels": 443
+          },
+          {
+            "hex": "#F80000",
+            "pixels": 429
+          },
+          {
+            "hex": "#F50000",
+            "pixels": 393
+          },
+          {
+            "hex": "#FD0100",
+            "pixels": 371
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 3221,
+        "percent": 0.221,
+        "top_rgb": [
+          {
+            "hex": "#00F26C",
+            "pixels": 4
+          },
+          {
+            "hex": "#04A650",
+            "pixels": 4
+          },
+          {
+            "hex": "#00CF5D",
+            "pixels": 4
+          },
+          {
+            "hex": "#00CE58",
+            "pixels": 4
+          },
+          {
+            "hex": "#009D56",
+            "pixels": 4
+          }
+        ]
+      },
+      "blanc_neutre": {
+        "pixel_count": 142038,
+        "percent": 9.742,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 121257
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 6412
+          },
+          {
+            "hex": "#FFFEFF",
+            "pixels": 2425
+          },
+          {
+            "hex": "#FFFFFD",
+            "pixels": 2325
+          },
+          {
+            "hex": "#FEFFFF",
+            "pixels": 2302
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 605412,
+        "percent": 41.523,
+        "top_rgb": [
+          {
+            "hex": "#030303",
+            "pixels": 34530
+          },
+          {
+            "hex": "#020202",
+            "pixels": 31505
+          },
+          {
+            "hex": "#040404",
+            "pixels": 18517
+          },
+          {
+            "hex": "#010101",
+            "pixels": 13052
+          },
+          {
+            "hex": "#040203",
+            "pixels": 7296
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          391,
+          152,
+          433,
+          211
+        ],
+        "pixels": 1422
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          582,
+          152,
+          638,
+          211
+        ],
+        "pixels": 1455
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          466,
+          164,
+          513,
+          211
+        ],
+        "pixels": 1467
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          643,
+          164,
+          690,
+          211
+        ],
+        "pixels": 1306
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          696,
+          164,
+          739,
+          210
+        ],
+        "pixels": 1222
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          745,
+          164,
+          782,
+          211
+        ],
+        "pixels": 1113
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          806,
+          164,
+          844,
+          211
+        ],
+        "pixels": 1116
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          876,
+          164,
+          921,
+          211
+        ],
+        "pixels": 1347
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          927,
+          164,
+          971,
+          210
+        ],
+        "pixels": 1238
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          517,
+          165,
+          565,
+          232
+        ],
+        "pixels": 1281
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        40,
+        236
+      ]
+    ],
+    "bandes_blanches_footer_candidates": []
+  },
+  {
+    "file": "Slide-4 (6).jpg",
+    "group": 6,
+    "slide": 4,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "80c8de3e2ab247f29e4ab39ccff57e8400e7b73824bc5366235a8f8616789648",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 20675,
+        "percent": 1.418,
+        "top_rgb": [
+          {
+            "hex": "#FE0000",
+            "pixels": 4295
+          },
+          {
+            "hex": "#FE0002",
+            "pixels": 1490
+          },
+          {
+            "hex": "#FF0101",
+            "pixels": 1134
+          },
+          {
+            "hex": "#FF0103",
+            "pixels": 710
+          },
+          {
+            "hex": "#FF0100",
+            "pixels": 424
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 1525,
+        "percent": 0.105,
+        "top_rgb": [
+          {
+            "hex": "#6EFF64",
+            "pixels": 5
+          },
+          {
+            "hex": "#00B159",
+            "pixels": 5
+          },
+          {
+            "hex": "#009744",
+            "pixels": 4
+          },
+          {
+            "hex": "#00A200",
+            "pixels": 4
+          },
+          {
+            "hex": "#009D46",
+            "pixels": 4
+          }
+        ]
+      },
+      "blanc_neutre": {
+        "pixel_count": 113895,
+        "percent": 7.812,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 31550
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 8247
+          },
+          {
+            "hex": "#FFFEFF",
+            "pixels": 6404
+          },
+          {
+            "hex": "#FEFFFF",
+            "pixels": 4917
+          },
+          {
+            "hex": "#FFFFFD",
+            "pixels": 4567
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 872104,
+        "percent": 59.815,
+        "top_rgb": [
+          {
+            "hex": "#030303",
+            "pixels": 43349
+          },
+          {
+            "hex": "#020202",
+            "pixels": 41542
+          },
+          {
+            "hex": "#040404",
+            "pixels": 30864
+          },
+          {
+            "hex": "#050505",
+            "pixels": 20539
+          },
+          {
+            "hex": "#010101",
+            "pixels": 17417
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          254,
+          607,
+          308,
+          630
+        ],
+        "pixels": 861
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          705,
+          860,
+          993,
+          950
+        ],
+        "pixels": 17486
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        195,
+        237
+      ]
+    ],
+    "bandes_blanches_footer_candidates": []
+  },
+  {
+    "file": "Slide-5 (6).jpg",
+    "group": 6,
+    "slide": 5,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "b5648f7eb0040808bdb7b6aefeef4915857484ab7b4e3f55e74dcd9c1d5fa089",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 47855,
+        "percent": 3.282,
+        "top_rgb": [
+          {
+            "hex": "#E80000",
+            "pixels": 23245
+          },
+          {
+            "hex": "#E60000",
+            "pixels": 4304
+          },
+          {
+            "hex": "#FC0001",
+            "pixels": 2245
+          },
+          {
+            "hex": "#FB0102",
+            "pixels": 1139
+          },
+          {
+            "hex": "#FA0001",
+            "pixels": 921
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 0,
+        "percent": 0.0,
+        "top_rgb": []
+      },
+      "blanc_neutre": {
+        "pixel_count": 185143,
+        "percent": 12.698,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 55991
+          },
+          {
+            "hex": "#FFFFFD",
+            "pixels": 14508
+          },
+          {
+            "hex": "#FFFEFC",
+            "pixels": 7691
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 6060
+          },
+          {
+            "hex": "#FFFFFB",
+            "pixels": 4664
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 549608,
+        "percent": 37.696,
+        "top_rgb": [
+          {
+            "hex": "#110D0A",
+            "pixels": 36640
+          },
+          {
+            "hex": "#0F0B08",
+            "pixels": 32978
+          },
+          {
+            "hex": "#100C09",
+            "pixels": 32443
+          },
+          {
+            "hex": "#120E0B",
+            "pixels": 31504
+          },
+          {
+            "hex": "#0E0A07",
+            "pixels": 19993
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          224,
+          831,
+          855,
+          910
+        ],
+        "pixels": 33240
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          408,
+          988,
+          712,
+          1045
+        ],
+        "pixels": 11134
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        0,
+        339
+      ]
+    ],
+    "bandes_blanches_footer_candidates": []
+  },
+  {
+    "file": "Slide-1 (7).jpg",
+    "group": 7,
+    "slide": 1,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "8966e6e3fc8009dfc3c50cb835b9180fca687c87486edbe710ee884a2fb22866",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 44701,
+        "percent": 3.066,
+        "top_rgb": [
+          {
+            "hex": "#FE0000",
+            "pixels": 16046
+          },
+          {
+            "hex": "#FF0101",
+            "pixels": 2775
+          },
+          {
+            "hex": "#FE0002",
+            "pixels": 2080
+          },
+          {
+            "hex": "#FF0103",
+            "pixels": 888
+          },
+          {
+            "hex": "#FD0100",
+            "pixels": 819
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 53237,
+        "percent": 3.651,
+        "top_rgb": [
+          {
+            "hex": "#00BF00",
+            "pixels": 1602
+          },
+          {
+            "hex": "#00BC00",
+            "pixels": 1179
+          },
+          {
+            "hex": "#00C100",
+            "pixels": 1155
+          },
+          {
+            "hex": "#00BD00",
+            "pixels": 1103
+          },
+          {
+            "hex": "#00C400",
+            "pixels": 947
+          }
+        ]
+      },
+      "blanc_neutre": {
+        "pixel_count": 74211,
+        "percent": 5.09,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 41279
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 4749
+          },
+          {
+            "hex": "#FEFFFF",
+            "pixels": 4518
+          },
+          {
+            "hex": "#FFFEFF",
+            "pixels": 4286
+          },
+          {
+            "hex": "#FFFFFD",
+            "pixels": 2915
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 536093,
+        "percent": 36.769,
+        "top_rgb": [
+          {
+            "hex": "#030303",
+            "pixels": 129179
+          },
+          {
+            "hex": "#020202",
+            "pixels": 98616
+          },
+          {
+            "hex": "#040404",
+            "pixels": 63697
+          },
+          {
+            "hex": "#010101",
+            "pixels": 25305
+          },
+          {
+            "hex": "#050505",
+            "pixels": 19676
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          125,
+          942,
+          696,
+          1025
+        ],
+        "pixels": 28174
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          699,
+          942,
+          943,
+          1025
+        ],
+        "pixels": 11877
+      }
+    ],
+    "composants_verts": [
+      {
+        "bbox_xyxy_inclusive": [
+          110,
+          745,
+          966,
+          847
+        ],
+        "pixels": 49331
+      }
+    ],
+    "bandes_blanches_haut_candidates": [],
+    "bandes_blanches_footer_candidates": []
+  },
+  {
+    "file": "Slide-2 (7).jpg",
+    "group": 7,
+    "slide": 2,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "cc7521f59c13a36eb13499914f754d998825982a41d834a69aff9539e5f9bebd",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 65280,
+        "percent": 4.477,
+        "top_rgb": [
+          {
+            "hex": "#FE0000",
+            "pixels": 29577
+          },
+          {
+            "hex": "#FF0101",
+            "pixels": 5916
+          },
+          {
+            "hex": "#FE0002",
+            "pixels": 4028
+          },
+          {
+            "hex": "#FF0103",
+            "pixels": 1775
+          },
+          {
+            "hex": "#FD0100",
+            "pixels": 1491
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 0,
+        "percent": 0.0,
+        "top_rgb": []
+      },
+      "blanc_neutre": {
+        "pixel_count": 197019,
+        "percent": 13.513,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 45247
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 8318
+          },
+          {
+            "hex": "#FFFFFD",
+            "pixels": 6800
+          },
+          {
+            "hex": "#FFFEFC",
+            "pixels": 6119
+          },
+          {
+            "hex": "#FFFEFF",
+            "pixels": 4576
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 451260,
+        "percent": 30.951,
+        "top_rgb": [
+          {
+            "hex": "#030303",
+            "pixels": 10958
+          },
+          {
+            "hex": "#040404",
+            "pixels": 10933
+          },
+          {
+            "hex": "#050505",
+            "pixels": 8878
+          },
+          {
+            "hex": "#050507",
+            "pixels": 7901
+          },
+          {
+            "hex": "#060608",
+            "pixels": 7738
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          25,
+          60,
+          671,
+          240
+        ],
+        "pixels": 59872
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          388,
+          264,
+          604,
+          435
+        ],
+        "pixels": 3206
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        0,
+        219
+      ],
+      [
+        235,
+        339
+      ]
+    ],
+    "bandes_blanches_footer_candidates": []
+  },
+  {
+    "file": "Slide-3 (7).jpg",
+    "group": 7,
+    "slide": 3,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "5a04d879fae91fb325289fd50ef9094ec2f810d4926ae742d1a81b9435f5f401",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 58973,
+        "percent": 4.045,
+        "top_rgb": [
+          {
+            "hex": "#FE0000",
+            "pixels": 34700
+          },
+          {
+            "hex": "#FF0101",
+            "pixels": 4675
+          },
+          {
+            "hex": "#FE0002",
+            "pixels": 2870
+          },
+          {
+            "hex": "#FF0103",
+            "pixels": 1312
+          },
+          {
+            "hex": "#FD0100",
+            "pixels": 1171
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 0,
+        "percent": 0.0,
+        "top_rgb": []
+      },
+      "blanc_neutre": {
+        "pixel_count": 107061,
+        "percent": 7.343,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 14438
+          },
+          {
+            "hex": "#FFFCF7",
+            "pixels": 6008
+          },
+          {
+            "hex": "#FEFBF4",
+            "pixels": 4322
+          },
+          {
+            "hex": "#FEFBF6",
+            "pixels": 3979
+          },
+          {
+            "hex": "#FFFCF5",
+            "pixels": 3640
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 747508,
+        "percent": 51.269,
+        "top_rgb": [
+          {
+            "hex": "#030303",
+            "pixels": 116239
+          },
+          {
+            "hex": "#040404",
+            "pixels": 92818
+          },
+          {
+            "hex": "#020202",
+            "pixels": 70524
+          },
+          {
+            "hex": "#050505",
+            "pixels": 54699
+          },
+          {
+            "hex": "#060606",
+            "pixels": 30315
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          50,
+          882,
+          1029,
+          970
+        ],
+        "pixels": 54569
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [],
+    "bandes_blanches_footer_candidates": []
+  },
+  {
+    "file": "Slide-4 (7).jpg",
+    "group": 7,
+    "slide": 4,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "51955d3e5dd3e8e2de8171804501ef1be0058da79887f470b7b55adcabfb792c",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 59359,
+        "percent": 4.071,
+        "top_rgb": [
+          {
+            "hex": "#FE0000",
+            "pixels": 46800
+          },
+          {
+            "hex": "#FF0101",
+            "pixels": 3552
+          },
+          {
+            "hex": "#FE0002",
+            "pixels": 2275
+          },
+          {
+            "hex": "#FF0100",
+            "pixels": 1316
+          },
+          {
+            "hex": "#FF0103",
+            "pixels": 948
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 0,
+        "percent": 0.0,
+        "top_rgb": []
+      },
+      "blanc_neutre": {
+        "pixel_count": 97173,
+        "percent": 6.665,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 51512
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 6987
+          },
+          {
+            "hex": "#FEFFFF",
+            "pixels": 3375
+          },
+          {
+            "hex": "#FFFEFF",
+            "pixels": 3072
+          },
+          {
+            "hex": "#FEFEFF",
+            "pixels": 2958
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 493039,
+        "percent": 33.816,
+        "top_rgb": [
+          {
+            "hex": "#000000",
+            "pixels": 23939
+          },
+          {
+            "hex": "#070709",
+            "pixels": 20578
+          },
+          {
+            "hex": "#060608",
+            "pixels": 20352
+          },
+          {
+            "hex": "#070707",
+            "pixels": 18138
+          },
+          {
+            "hex": "#060606",
+            "pixels": 17284
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          115,
+          859,
+          965,
+          955
+        ],
+        "pixels": 50023
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [],
+    "bandes_blanches_footer_candidates": []
+  },
+  {
+    "file": "Slide-5 (7).jpg",
+    "group": 7,
+    "slide": 5,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "c9108ff7dc4af6ef3404c30344566db4991971b22d5a698aa551fd0809e48b48",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 66208,
+        "percent": 4.541,
+        "top_rgb": [
+          {
+            "hex": "#FE0000",
+            "pixels": 39821
+          },
+          {
+            "hex": "#FF0101",
+            "pixels": 6180
+          },
+          {
+            "hex": "#FE0002",
+            "pixels": 2674
+          },
+          {
+            "hex": "#FD0000",
+            "pixels": 1475
+          },
+          {
+            "hex": "#FD0100",
+            "pixels": 1371
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 0,
+        "percent": 0.0,
+        "top_rgb": []
+      },
+      "blanc_neutre": {
+        "pixel_count": 185143,
+        "percent": 12.698,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 146262
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 8342
+          },
+          {
+            "hex": "#FEFFFF",
+            "pixels": 5366
+          },
+          {
+            "hex": "#FFFEFF",
+            "pixels": 4880
+          },
+          {
+            "hex": "#FFFFFD",
+            "pixels": 3619
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 648800,
+        "percent": 44.499,
+        "top_rgb": [
+          {
+            "hex": "#030303",
+            "pixels": 96437
+          },
+          {
+            "hex": "#020202",
+            "pixels": 68363
+          },
+          {
+            "hex": "#040404",
+            "pixels": 63286
+          },
+          {
+            "hex": "#050505",
+            "pixels": 32595
+          },
+          {
+            "hex": "#010101",
+            "pixels": 17250
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          74,
+          37,
+          1005,
+          124
+        ],
+        "pixels": 54315
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          455,
+          1052,
+          669,
+          1104
+        ],
+        "pixels": 7454
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          672,
+          1177,
+          986,
+          1198
+        ],
+        "pixels": 902
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        50,
+        103
+      ],
+      [
+        113,
+        273
+      ],
+      [
+        327,
+        339
+      ]
+    ],
+    "bandes_blanches_footer_candidates": []
+  },
+  {
+    "file": "Slide-1 (8).jpg",
+    "group": 8,
+    "slide": 1,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "7a1c9d929abee863f9b52ee44d87447e04c2e11e0486e7be27c653921a9019ab",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 71670,
+        "percent": 4.916,
+        "top_rgb": [
+          {
+            "hex": "#FE0000",
+            "pixels": 23414
+          },
+          {
+            "hex": "#FF0101",
+            "pixels": 4898
+          },
+          {
+            "hex": "#FE0002",
+            "pixels": 4226
+          },
+          {
+            "hex": "#FF0103",
+            "pixels": 2085
+          },
+          {
+            "hex": "#FF0100",
+            "pixels": 1201
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 0,
+        "percent": 0.0,
+        "top_rgb": []
+      },
+      "blanc_neutre": {
+        "pixel_count": 93974,
+        "percent": 6.445,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 48247
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 5311
+          },
+          {
+            "hex": "#FFFEFF",
+            "pixels": 3840
+          },
+          {
+            "hex": "#FEFFFF",
+            "pixels": 3360
+          },
+          {
+            "hex": "#FFFFFD",
+            "pixels": 2476
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 453510,
+        "percent": 31.105,
+        "top_rgb": [
+          {
+            "hex": "#141414",
+            "pixels": 11371
+          },
+          {
+            "hex": "#131313",
+            "pixels": 11152
+          },
+          {
+            "hex": "#151515",
+            "pixels": 11117
+          },
+          {
+            "hex": "#121212",
+            "pixels": 10692
+          },
+          {
+            "hex": "#161616",
+            "pixels": 10544
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          39,
+          895,
+          1038,
+          1006
+        ],
+        "pixels": 68471
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [],
+    "bandes_blanches_footer_candidates": []
+  },
+  {
+    "file": "Slide-2 (8).jpg",
+    "group": 8,
+    "slide": 2,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "5f682b3731eb82326bd9f6a08ef8994cc222be7ffc50b13d8690eb996d430b81",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 131215,
+        "percent": 9.0,
+        "top_rgb": [
+          {
+            "hex": "#FE0000",
+            "pixels": 62505
+          },
+          {
+            "hex": "#FF0101",
+            "pixels": 19813
+          },
+          {
+            "hex": "#FE0002",
+            "pixels": 8823
+          },
+          {
+            "hex": "#FF0103",
+            "pixels": 4939
+          },
+          {
+            "hex": "#FD0000",
+            "pixels": 4208
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 0,
+        "percent": 0.0,
+        "top_rgb": []
+      },
+      "blanc_neutre": {
+        "pixel_count": 287282,
+        "percent": 19.704,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 117092
+          },
+          {
+            "hex": "#FFFEFA",
+            "pixels": 20000
+          },
+          {
+            "hex": "#FFFFFD",
+            "pixels": 18328
+          },
+          {
+            "hex": "#FEFDF9",
+            "pixels": 16195
+          },
+          {
+            "hex": "#FFFEFC",
+            "pixels": 11993
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 275988,
+        "percent": 18.929,
+        "top_rgb": [
+          {
+            "hex": "#040404",
+            "pixels": 28565
+          },
+          {
+            "hex": "#030303",
+            "pixels": 27687
+          },
+          {
+            "hex": "#050505",
+            "pixels": 25729
+          },
+          {
+            "hex": "#060606",
+            "pixels": 20161
+          },
+          {
+            "hex": "#020202",
+            "pixels": 17285
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          0,
+          93,
+          554,
+          379
+        ],
+        "pixels": 128292
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        123,
+        183
+      ],
+      [
+        219,
+        267
+      ],
+      [
+        291,
+        339
+      ]
+    ],
+    "bandes_blanches_footer_candidates": []
+  },
+  {
+    "file": "Slide-3 (8).jpg",
+    "group": 8,
+    "slide": 3,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "5d61b1b461d7410ed40b0e735eda04c0e4011acb2b399e8f1cd353fbd246813d",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 65142,
+        "percent": 4.468,
+        "top_rgb": [
+          {
+            "hex": "#FF000E",
+            "pixels": 1818
+          },
+          {
+            "hex": "#FF0010",
+            "pixels": 1608
+          },
+          {
+            "hex": "#FF000B",
+            "pixels": 1217
+          },
+          {
+            "hex": "#FF0012",
+            "pixels": 987
+          },
+          {
+            "hex": "#FF000C",
+            "pixels": 903
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 0,
+        "percent": 0.0,
+        "top_rgb": []
+      },
+      "blanc_neutre": {
+        "pixel_count": 213766,
+        "percent": 14.662,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 167606
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 9441
+          },
+          {
+            "hex": "#FEFFFF",
+            "pixels": 3450
+          },
+          {
+            "hex": "#FFFEFF",
+            "pixels": 3324
+          },
+          {
+            "hex": "#FFFFFD",
+            "pixels": 2698
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 194283,
+        "percent": 13.325,
+        "top_rgb": [
+          {
+            "hex": "#010101",
+            "pixels": 11376
+          },
+          {
+            "hex": "#000000",
+            "pixels": 10228
+          },
+          {
+            "hex": "#020202",
+            "pixels": 6296
+          },
+          {
+            "hex": "#030303",
+            "pixels": 4047
+          },
+          {
+            "hex": "#040404",
+            "pixels": 3426
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          35,
+          37,
+          1045,
+          124
+        ],
+        "pixels": 62290
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        57,
+        108
+      ]
+    ],
+    "bandes_blanches_footer_candidates": []
+  },
+  {
+    "file": "Slide-4 (8).jpg",
+    "group": 8,
+    "slide": 4,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "f014d272a8172c54a921365eed04f49edd74d1e70f670fa32f94136975c601c5",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 74740,
+        "percent": 5.126,
+        "top_rgb": [
+          {
+            "hex": "#FF000E",
+            "pixels": 1437
+          },
+          {
+            "hex": "#FF000B",
+            "pixels": 1218
+          },
+          {
+            "hex": "#FE0000",
+            "pixels": 1203
+          },
+          {
+            "hex": "#FF0010",
+            "pixels": 1026
+          },
+          {
+            "hex": "#FF0008",
+            "pixels": 952
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 0,
+        "percent": 0.0,
+        "top_rgb": []
+      },
+      "blanc_neutre": {
+        "pixel_count": 226229,
+        "percent": 15.516,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 169286
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 9083
+          },
+          {
+            "hex": "#FFFEFF",
+            "pixels": 4578
+          },
+          {
+            "hex": "#FEFFFF",
+            "pixels": 4170
+          },
+          {
+            "hex": "#FFFFFD",
+            "pixels": 3393
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 250414,
+        "percent": 17.175,
+        "top_rgb": [
+          {
+            "hex": "#010101",
+            "pixels": 12942
+          },
+          {
+            "hex": "#030303",
+            "pixels": 12305
+          },
+          {
+            "hex": "#000000",
+            "pixels": 11764
+          },
+          {
+            "hex": "#020202",
+            "pixels": 11593
+          },
+          {
+            "hex": "#040404",
+            "pixels": 9900
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          87,
+          0,
+          1079,
+          165
+        ],
+        "pixels": 69874
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        42,
+        140
+      ]
+    ],
+    "bandes_blanches_footer_candidates": []
+  },
+  {
+    "file": "Slide-5 (8).jpg",
+    "group": 8,
+    "slide": 5,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "12121192579007869160f3310731e9929a1d5d1bbc1a5fd1f4540055487cb06f",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 64581,
+        "percent": 4.429,
+        "top_rgb": [
+          {
+            "hex": "#FE0000",
+            "pixels": 36345
+          },
+          {
+            "hex": "#FF0101",
+            "pixels": 4756
+          },
+          {
+            "hex": "#FE0002",
+            "pixels": 4309
+          },
+          {
+            "hex": "#FF0103",
+            "pixels": 1793
+          },
+          {
+            "hex": "#FF0100",
+            "pixels": 1267
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 0,
+        "percent": 0.0,
+        "top_rgb": []
+      },
+      "blanc_neutre": {
+        "pixel_count": 83213,
+        "percent": 5.707,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 53286
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 7751
+          },
+          {
+            "hex": "#FEFFFF",
+            "pixels": 4681
+          },
+          {
+            "hex": "#FFFEFF",
+            "pixels": 3705
+          },
+          {
+            "hex": "#FFFFFD",
+            "pixels": 2431
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 670278,
+        "percent": 45.972,
+        "top_rgb": [
+          {
+            "hex": "#030303",
+            "pixels": 70716
+          },
+          {
+            "hex": "#020202",
+            "pixels": 50326
+          },
+          {
+            "hex": "#040404",
+            "pixels": 45558
+          },
+          {
+            "hex": "#050505",
+            "pixels": 23056
+          },
+          {
+            "hex": "#060606",
+            "pixels": 15273
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          36,
+          221,
+          1044,
+          295
+        ],
+        "pixels": 52781
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          458,
+          1052,
+          665,
+          1107
+        ],
+        "pixels": 8316
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          672,
+          1180,
+          987,
+          1201
+        ],
+        "pixels": 935
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        45,
+        100
+      ],
+      [
+        136,
+        191
+      ],
+      [
+        233,
+        274
+      ]
+    ],
+    "bandes_blanches_footer_candidates": []
+  },
+  {
+    "file": "Slide-1 (9).jpg",
+    "group": 9,
+    "slide": 1,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "e329a3e329d2e9c55980690f6085b48ac7b71a07b050479cafee0edf0b0c8b31",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 35090,
+        "percent": 2.407,
+        "top_rgb": [
+          {
+            "hex": "#EA0001",
+            "pixels": 11472
+          },
+          {
+            "hex": "#EB0000",
+            "pixels": 3014
+          },
+          {
+            "hex": "#EA0000",
+            "pixels": 2695
+          },
+          {
+            "hex": "#EE0000",
+            "pixels": 1263
+          },
+          {
+            "hex": "#EC0000",
+            "pixels": 975
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 0,
+        "percent": 0.0,
+        "top_rgb": []
+      },
+      "blanc_neutre": {
+        "pixel_count": 74865,
+        "percent": 5.135,
+        "top_rgb": [
+          {
+            "hex": "#EEEEEE",
+            "pixels": 54262
+          },
+          {
+            "hex": "#EDEDED",
+            "pixels": 4866
+          },
+          {
+            "hex": "#EFEFEF",
+            "pixels": 4735
+          },
+          {
+            "hex": "#EDEFEE",
+            "pixels": 968
+          },
+          {
+            "hex": "#EEEEEC",
+            "pixels": 945
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 524033,
+        "percent": 35.942,
+        "top_rgb": [
+          {
+            "hex": "#000000",
+            "pixels": 136565
+          },
+          {
+            "hex": "#070707",
+            "pixels": 24910
+          },
+          {
+            "hex": "#010101",
+            "pixels": 24804
+          },
+          {
+            "hex": "#020202",
+            "pixels": 20012
+          },
+          {
+            "hex": "#030303",
+            "pixels": 18939
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          99,
+          821,
+          528,
+          946
+        ],
+        "pixels": 31505
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        115,
+        119
+      ],
+      [
+        121,
+        130
+      ]
+    ],
+    "bandes_blanches_footer_candidates": []
+  },
+  {
+    "file": "Slide-2 (9).jpg",
+    "group": 9,
+    "slide": 2,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "64dd633d948c5a723597ff43439078bb87b79e3bcf9d4b58bb06e6efb37525f0",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 110798,
+        "percent": 7.599,
+        "top_rgb": [
+          {
+            "hex": "#FF000B",
+            "pixels": 2483
+          },
+          {
+            "hex": "#FF000E",
+            "pixels": 2011
+          },
+          {
+            "hex": "#FF0008",
+            "pixels": 1949
+          },
+          {
+            "hex": "#FF000A",
+            "pixels": 1743
+          },
+          {
+            "hex": "#FF0006",
+            "pixels": 1661
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 0,
+        "percent": 0.0,
+        "top_rgb": []
+      },
+      "blanc_neutre": {
+        "pixel_count": 297972,
+        "percent": 20.437,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 173332
+          },
+          {
+            "hex": "#FFFFFD",
+            "pixels": 47409
+          },
+          {
+            "hex": "#FFFFFB",
+            "pixels": 10392
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 6766
+          },
+          {
+            "hex": "#FEFFFA",
+            "pixels": 5993
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 255799,
+        "percent": 17.545,
+        "top_rgb": [
+          {
+            "hex": "#010101",
+            "pixels": 12720
+          },
+          {
+            "hex": "#000000",
+            "pixels": 12512
+          },
+          {
+            "hex": "#020202",
+            "pixels": 9680
+          },
+          {
+            "hex": "#030303",
+            "pixels": 9073
+          },
+          {
+            "hex": "#040404",
+            "pixels": 7930
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          0,
+          93,
+          466,
+          379
+        ],
+        "pixels": 107011
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        123,
+        183
+      ],
+      [
+        207,
+        267
+      ],
+      [
+        291,
+        339
+      ]
+    ],
+    "bandes_blanches_footer_candidates": []
+  },
+  {
+    "file": "Slide-3 (9).jpg",
+    "group": 9,
+    "slide": 3,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "9141d1be049f27fe2f418ffad76ecfc34351052048b9307cb13ff14373a1d72b",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 93223,
+        "percent": 6.394,
+        "top_rgb": [
+          {
+            "hex": "#FE0000",
+            "pixels": 12784
+          },
+          {
+            "hex": "#FE0002",
+            "pixels": 4519
+          },
+          {
+            "hex": "#FF0101",
+            "pixels": 2642
+          },
+          {
+            "hex": "#FF0103",
+            "pixels": 2232
+          },
+          {
+            "hex": "#FF0004",
+            "pixels": 1835
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 0,
+        "percent": 0.0,
+        "top_rgb": []
+      },
+      "blanc_neutre": {
+        "pixel_count": 146184,
+        "percent": 10.026,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 91036
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 6843
+          },
+          {
+            "hex": "#FEFFFF",
+            "pixels": 5221
+          },
+          {
+            "hex": "#FFFEFF",
+            "pixels": 5209
+          },
+          {
+            "hex": "#FFFFFD",
+            "pixels": 5162
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 496304,
+        "percent": 34.04,
+        "top_rgb": [
+          {
+            "hex": "#030303",
+            "pixels": 43498
+          },
+          {
+            "hex": "#020202",
+            "pixels": 35987
+          },
+          {
+            "hex": "#040404",
+            "pixels": 31275
+          },
+          {
+            "hex": "#050505",
+            "pixels": 20347
+          },
+          {
+            "hex": "#060606",
+            "pixels": 16223
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          61,
+          42,
+          1018,
+          225
+        ],
+        "pixels": 88315
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        62,
+        126
+      ],
+      [
+        144,
+        207
+      ],
+      [
+        236,
+        339
+      ]
+    ],
+    "bandes_blanches_footer_candidates": []
+  },
+  {
+    "file": "Slide-4 (9).jpg",
+    "group": 9,
+    "slide": 4,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "a60cd288af142a2ba6bd366eff3e2f6e6ee1495ba5630f150c4c3f6bb6e997f6",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 53415,
+        "percent": 3.664,
+        "top_rgb": [
+          {
+            "hex": "#FE0000",
+            "pixels": 13960
+          },
+          {
+            "hex": "#FE0002",
+            "pixels": 2894
+          },
+          {
+            "hex": "#FF0101",
+            "pixels": 2312
+          },
+          {
+            "hex": "#FF0103",
+            "pixels": 1305
+          },
+          {
+            "hex": "#FD0100",
+            "pixels": 1054
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 2395,
+        "percent": 0.164,
+        "top_rgb": [
+          {
+            "hex": "#57FE32",
+            "pixels": 16
+          },
+          {
+            "hex": "#5FFF39",
+            "pixels": 13
+          },
+          {
+            "hex": "#5CFF34",
+            "pixels": 13
+          },
+          {
+            "hex": "#59FE35",
+            "pixels": 12
+          },
+          {
+            "hex": "#5DFF38",
+            "pixels": 11
+          }
+        ]
+      },
+      "blanc_neutre": {
+        "pixel_count": 76032,
+        "percent": 5.215,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 20822
+          },
+          {
+            "hex": "#FFFDFE",
+            "pixels": 7063
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 5657
+          },
+          {
+            "hex": "#FFFEFF",
+            "pixels": 3854
+          },
+          {
+            "hex": "#FFFFFD",
+            "pixels": 3448
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 442482,
+        "percent": 30.349,
+        "top_rgb": [
+          {
+            "hex": "#040404",
+            "pixels": 24315
+          },
+          {
+            "hex": "#050505",
+            "pixels": 23474
+          },
+          {
+            "hex": "#030303",
+            "pixels": 22024
+          },
+          {
+            "hex": "#060606",
+            "pixels": 20829
+          },
+          {
+            "hex": "#070707",
+            "pixels": 18359
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          238,
+          846,
+          1008,
+          947
+        ],
+        "pixels": 51658
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        51,
+        236
+      ]
+    ],
+    "bandes_blanches_footer_candidates": []
+  },
+  {
+    "file": "Slide-5 (9).jpg",
+    "group": 9,
+    "slide": 5,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "4e637863ce74082992f1d18759f82b6865e5558e54be769d0425e8f92ce10c91",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 74744,
+        "percent": 5.126,
+        "top_rgb": [
+          {
+            "hex": "#FE0000",
+            "pixels": 13910
+          },
+          {
+            "hex": "#FE0002",
+            "pixels": 5091
+          },
+          {
+            "hex": "#FF0101",
+            "pixels": 4323
+          },
+          {
+            "hex": "#FF0103",
+            "pixels": 3439
+          },
+          {
+            "hex": "#FF0004",
+            "pixels": 1801
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 0,
+        "percent": 0.0,
+        "top_rgb": []
+      },
+      "blanc_neutre": {
+        "pixel_count": 87616,
+        "percent": 6.009,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 59961
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 5810
+          },
+          {
+            "hex": "#FEFFFF",
+            "pixels": 3849
+          },
+          {
+            "hex": "#FFFEFF",
+            "pixels": 2201
+          },
+          {
+            "hex": "#FFFFFD",
+            "pixels": 1620
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 1012162,
+        "percent": 69.421,
+        "top_rgb": [
+          {
+            "hex": "#030303",
+            "pixels": 152615
+          },
+          {
+            "hex": "#020202",
+            "pixels": 148386
+          },
+          {
+            "hex": "#010101",
+            "pixels": 120939
+          },
+          {
+            "hex": "#040404",
+            "pixels": 101284
+          },
+          {
+            "hex": "#050505",
+            "pixels": 52816
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          379,
+          42,
+          897,
+          139
+        ],
+        "pixels": 30019
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          872,
+          490,
+          1044,
+          581
+        ],
+        "pixels": 9132
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          54,
+          542,
+          556,
+          723
+        ],
+        "pixels": 2758
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          949,
+          611,
+          1032,
+          701
+        ],
+        "pixels": 1764
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          557,
+          700,
+          805,
+          759
+        ],
+        "pixels": 1173
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          535,
+          841,
+          897,
+          950
+        ],
+        "pixels": 25977
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        53,
+        126
+      ],
+      [
+        158,
+        216
+      ]
+    ],
+    "bandes_blanches_footer_candidates": []
+  },
+  {
+    "file": "Slide-2 (10).jpg",
+    "group": 10,
+    "slide": 2,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "6689ecc1745cd8bab22678f10cd902e53c08d7bb7ad5019cb920e200732e9401",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 12894,
+        "percent": 0.884,
+        "top_rgb": [
+          {
+            "hex": "#E80000",
+            "pixels": 180
+          },
+          {
+            "hex": "#EE0000",
+            "pixels": 168
+          },
+          {
+            "hex": "#EB0000",
+            "pixels": 127
+          },
+          {
+            "hex": "#EA0000",
+            "pixels": 125
+          },
+          {
+            "hex": "#EA0001",
+            "pixels": 118
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 2,
+        "percent": 0.0,
+        "top_rgb": [
+          {
+            "hex": "#58B364",
+            "pixels": 1
+          },
+          {
+            "hex": "#54B36F",
+            "pixels": 1
+          }
+        ]
+      },
+      "blanc_neutre": {
+        "pixel_count": 196027,
+        "percent": 13.445,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 155955
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 8251
+          },
+          {
+            "hex": "#FFFFFD",
+            "pixels": 2593
+          },
+          {
+            "hex": "#FFFEFF",
+            "pixels": 2003
+          },
+          {
+            "hex": "#FEFFFF",
+            "pixels": 1697
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 467772,
+        "percent": 32.083,
+        "top_rgb": [
+          {
+            "hex": "#030303",
+            "pixels": 63014
+          },
+          {
+            "hex": "#020202",
+            "pixels": 58888
+          },
+          {
+            "hex": "#040404",
+            "pixels": 32441
+          },
+          {
+            "hex": "#010101",
+            "pixels": 24182
+          },
+          {
+            "hex": "#050505",
+            "pixels": 11369
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          25,
+          205,
+          64,
+          261
+        ],
+        "pixels": 1176
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          194,
+          205,
+          239,
+          261
+        ],
+        "pixels": 1444
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          293,
+          216,
+          340,
+          283
+        ],
+        "pixels": 2254
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          346,
+          216,
+          390,
+          261
+        ],
+        "pixels": 1456
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          428,
+          216,
+          467,
+          261
+        ],
+        "pixels": 1275
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          96,
+          217,
+          173,
+          261
+        ],
+        "pixels": 2442
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        75,
+        301
+      ]
+    ],
+    "bandes_blanches_footer_candidates": []
+  },
+  {
+    "file": "Slide-4 (10).jpg",
+    "group": 10,
+    "slide": 4,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "2819646122c47597e4cec5d20e969ef6b72967c21b305dce5ae764a66e6011bd",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 53295,
+        "percent": 3.655,
+        "top_rgb": [
+          {
+            "hex": "#FE0000",
+            "pixels": 11628
+          },
+          {
+            "hex": "#FE0002",
+            "pixels": 2901
+          },
+          {
+            "hex": "#FF0101",
+            "pixels": 2755
+          },
+          {
+            "hex": "#FF0103",
+            "pixels": 1405
+          },
+          {
+            "hex": "#F40000",
+            "pixels": 1030
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 2415,
+        "percent": 0.166,
+        "top_rgb": [
+          {
+            "hex": "#51FF2C",
+            "pixels": 12
+          },
+          {
+            "hex": "#52FF2B",
+            "pixels": 11
+          },
+          {
+            "hex": "#57FF2E",
+            "pixels": 11
+          },
+          {
+            "hex": "#00FF00",
+            "pixels": 11
+          },
+          {
+            "hex": "#59FF33",
+            "pixels": 10
+          }
+        ]
+      },
+      "blanc_neutre": {
+        "pixel_count": 73125,
+        "percent": 5.015,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 18954
+          },
+          {
+            "hex": "#FFFDFE",
+            "pixels": 7395
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 5150
+          },
+          {
+            "hex": "#FFFEFF",
+            "pixels": 3703
+          },
+          {
+            "hex": "#FFFFFD",
+            "pixels": 3254
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 435955,
+        "percent": 29.901,
+        "top_rgb": [
+          {
+            "hex": "#040404",
+            "pixels": 24290
+          },
+          {
+            "hex": "#050505",
+            "pixels": 23610
+          },
+          {
+            "hex": "#030303",
+            "pixels": 21977
+          },
+          {
+            "hex": "#060606",
+            "pixels": 21124
+          },
+          {
+            "hex": "#070707",
+            "pixels": 18090
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          238,
+          890,
+          1008,
+          991
+        ],
+        "pixels": 51547
+      }
+    ],
+    "composants_verts": [
+      {
+        "bbox_xyxy_inclusive": [
+          289,
+          1103,
+          325,
+          1137
+        ],
+        "pixels": 810
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          289,
+          1171,
+          325,
+          1205
+        ],
+        "pixels": 820
+      }
+    ],
+    "bandes_blanches_haut_candidates": [
+      [
+        51,
+        237
+      ]
+    ],
+    "bandes_blanches_footer_candidates": []
+  },
+  {
+    "file": "Slide-2 (11).jpg",
+    "group": 11,
+    "slide": 2,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "a3aa38b3cb40f323738485582b9707ab9b1b186cca3efdd0f4994ee46bc7a108",
+    "palette_mesuree": {
+      "rouge_sature": {
+        "pixel_count": 12886,
+        "percent": 0.884,
+        "top_rgb": [
+          {
+            "hex": "#E80000",
+            "pixels": 178
+          },
+          {
+            "hex": "#EE0000",
+            "pixels": 155
+          },
+          {
+            "hex": "#EA0000",
+            "pixels": 113
+          },
+          {
+            "hex": "#E40000",
+            "pixels": 106
+          },
+          {
+            "hex": "#E00000",
+            "pixels": 106
+          }
+        ]
+      },
+      "vert_vif": {
+        "pixel_count": 2,
+        "percent": 0.0,
+        "top_rgb": [
+          {
+            "hex": "#5FB668",
+            "pixels": 1
+          },
+          {
+            "hex": "#50AC69",
+            "pixels": 1
+          }
+        ]
+      },
+      "blanc_neutre": {
+        "pixel_count": 195392,
+        "percent": 13.401,
+        "top_rgb": [
+          {
+            "hex": "#FFFFFF",
+            "pixels": 155698
+          },
+          {
+            "hex": "#FEFEFE",
+            "pixels": 8100
+          },
+          {
+            "hex": "#FFFFFD",
+            "pixels": 2456
+          },
+          {
+            "hex": "#FFFEFF",
+            "pixels": 1932
+          },
+          {
+            "hex": "#FEFFFF",
+            "pixels": 1635
+          }
+        ]
+      },
+      "sombre": {
+        "pixel_count": 468220,
+        "percent": 32.114,
+        "top_rgb": [
+          {
+            "hex": "#030303",
+            "pixels": 63472
+          },
+          {
+            "hex": "#020202",
+            "pixels": 59614
+          },
+          {
+            "hex": "#040404",
+            "pixels": 32188
+          },
+          {
+            "hex": "#010101",
+            "pixels": 24306
+          },
+          {
+            "hex": "#050505",
+            "pixels": 11342
+          }
+        ]
+      }
+    },
+    "composants_rouges": [
+      {
+        "bbox_xyxy_inclusive": [
+          25,
+          205,
+          64,
+          261
+        ],
+        "pixels": 1176
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          194,
+          205,
+          239,
+          248
+        ],
+        "pixels": 1332
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          293,
+          216,
+          340,
+          283
+        ],
+        "pixels": 2243
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          346,
+          216,
+          390,
+          261
+        ],
+        "pixels": 1457
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          428,
+          216,
+          467,
+          261
+        ],
+        "pixels": 1268
+      },
+      {
+        "bbox_xyxy_inclusive": [
+          96,
+          217,
+          173,
+          261
+        ],
+        "pixels": 2440
+      }
+    ],
+    "composants_verts": [],
+    "bandes_blanches_haut_candidates": [
+      [
+        75,
+        301
+      ]
+    ],
+    "bandes_blanches_footer_candidates": []
+  }
+]

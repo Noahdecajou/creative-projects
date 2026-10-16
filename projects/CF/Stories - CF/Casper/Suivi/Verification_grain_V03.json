@@ -1,0 +1,90 @@
+[
+  {
+    "file": "01_Trade_With_A_System.png",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "grain_percent": 4,
+    "sigma": 10.2,
+    "grain": "Gaussian monochromatic, same noise in RGB channels",
+    "seed": 131026
+  },
+  {
+    "file": "02_Who_Is_In_Control.png",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "grain_percent": 4,
+    "sigma": 10.2,
+    "grain": "Gaussian monochromatic, same noise in RGB channels",
+    "seed": 131027
+  },
+  {
+    "file": "03_Trading_In_3_Decisions.png",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "grain_percent": 4,
+    "sigma": 10.2,
+    "grain": "Gaussian monochromatic, same noise in RGB channels",
+    "seed": 131028
+  },
+  {
+    "file": "04_Stop_Overthinking.png",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "grain_percent": 4,
+    "sigma": 10.2,
+    "grain": "Gaussian monochromatic, same noise in RGB channels",
+    "seed": 131029
+  },
+  {
+    "file": "05_Master_Volume_Profile.png",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "grain_percent": 4,
+    "sigma": 10.2,
+    "grain": "Gaussian monochromatic, same noise in RGB channels",
+    "seed": 131030
+  },
+  {
+    "file": "06_Read_The_Market.png",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "grain_percent": 4,
+    "sigma": 10.2,
+    "grain": "Gaussian monochromatic, same noise in RGB channels",
+    "seed": 131031
+  },
+  {
+    "file": "07_Let_Your_Winners_Run.png",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "grain_percent": 4,
+    "sigma": 10.2,
+    "grain": "Gaussian monochromatic, same noise in RGB channels",
+    "seed": 131032
+  },
+  {
+    "file": "08_Price_To_Order_Flow.png",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "grain_percent": 4,
+    "sigma": 10.2,
+    "grain": "Gaussian monochromatic, same noise in RGB channels",
+    "seed": 131033
+  }
+]

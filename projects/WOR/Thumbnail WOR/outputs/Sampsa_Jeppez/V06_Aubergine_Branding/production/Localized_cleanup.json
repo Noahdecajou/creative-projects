@@ -1,0 +1,14 @@
+{
+  "id": "15_background_cleanup",
+  "prompt": "Precise localized cleanup of this finished thumbnail. Preserve absolutely all text, typography, yellow box, YouTube logo, face, body, colors, framing and background. ONLY remove the small unnatural tan/beige oval crescent immediately BEHIND the man's right-side jaw/neck as viewed by the camera (image pixel region x=945..980, y=310..390 at 1672x941 resolution). This is a leftover cutout artifact in the BACKGROUND, outside the man's silhouette. Replace that tiny tan crescent with the continuous softly blurred dark aubergine wall matching the surrounding background. Do not change the person's actual face, ear, jaw or neck skin. Do not beautify, relight, sharpen, smooth or regenerate the portrait. All other pixels should be identical. Return same 1672x941 framing, no noise added.",
+  "tool": "image_gen.imagegen",
+  "mode": "built-in",
+  "output": "production/generated/15_background_cleanup.png",
+  "appliedRegion": [
+    941,
+    306,
+    47,
+    88
+  ],
+  "preservation": "Only rectangular background patch applied; all pixels outside this region unchanged from assembled master."
+}

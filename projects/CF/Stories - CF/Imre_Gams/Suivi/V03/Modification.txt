@@ -1,0 +1,8 @@
+IMRE GAMS / STORIES V03 — GRAIN 3 %
+Sources : les huit Stories V02, fonds neutres noir/charbon.
+Application unique du grain sur chaque export : bruit gaussien monochromatique, sigma 7,65 niveaux sur 255, soit 3 % ; meme bruit ajoute aux trois canaux RGB, avec bornage 0-255.
+Grain applique a l'ensemble de chaque creation, sans regeneration ni autre retouche.
+Graines pseudoaleatoires distinctes 81303 a 81310, reproductibles.
+Huit PNG 1080 x 1920, versions V01 et V02 conservees.
+Archive finale : Imre_Gams_8_Stories_V03_Grain_3pct_1080x1920.zip.
+Controle : huit images ouvertes, dimensions, nombre d'entrees ZIP, integrite et SHA256 des fichiers archives.

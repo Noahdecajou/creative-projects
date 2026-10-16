@@ -1,0 +1,20 @@
+SAMPSA JEPPEZ — V04 — 13 octobre 2026
+
+MODIFICATIONS
+— Couverture : portrait fermé de trois-quarts correspondant au portrait et à la capture originale employés en slide 2. La pose frontale en conversation de la couverture précédente passe en slide 2. Les textes restent dans leur ordre narratif initial.
+— $5 MILLION. : composition avec le fichier Poppins-Bold.ttf fourni dans Sources/Fonts. Proportions natives, espacement normal et ajustement uniforme de la taille, aucune déformation horizontale. Texte noir centré avec marges dans le cartouche vert.
+— Ajout de SAMPSA JEPPEZ en haut à gauche des sept slides : Poppins SemiBold, taille 26 px, coordonnées visibles x=52/y=31, même position et même forme sur chaque visuel.
+— Dernière slide : remplacement de X par SAMPSA dans l’appel à commenter. Le texte final est : Comment ‘SAMPSA’ and we’ll send you the full episode.
+— Grain monochrome 3 % conservé par une seule passe calculée après composition, à partir des visuels sans grain de V02 et des nouvelles retouches. Aucun cumul avec V03.
+
+PRÉSERVATION
+Les modifications créatives de portrait et CTA utilisent image_gen.imagegen intégré. Pour la dernière slide, seule la zone du CTA est reprise depuis le rendu édité : rectangle x=30, y=1150, largeur=1020, hauteur=200. Tous les pixels ailleurs restent ceux de V02, hormis le nom ajouté.
+Les slides 3, 4, 5 et 6 conservent exactement leurs pixels V02 hors du nom ajouté. Sur la slide 7, les deux visages et les titres sont conservés pixel à pixel avant grain. Ces contraintes ont été vérifiées numériquement.
+Les portraits édités des slides 1 et 2 restent des rendus génératifs guidés par les captures photographiques originales ; leur identité a été contrôlée visuellement, sans garantie de copie pixel à pixel des sources.
+Les visuels finaux sont en 1080 × 1440. Les sept masters avant grain et les trois rendus natifs sélectionnés sont conservés.
+
+GRAIN
+Bruit uniforme monochrome ±3 % de 255 (±7,65 niveaux avant quantification), même valeur sur R/G/B à chaque pixel, arrondi et bornage 0–255. La quantification 8 bits autorise un écart maximal de 8 niveaux. Une passe par PNG final ; les JPEG proviennent des mêmes pixels, qualité 96. Les seeds 20261014 à 20261020 sont conservées.
+Chaque export PNG a été confronté à la formule attendue à partir de son master avant grain : zéro autre modification. Pixel_verification.json conserve les hashes, dimensions et contrôles.
+Le graphique de la slide 6 reste une illustration du drawdown, pas une série historique du compte.
+Les versions précédentes restent conservées dans leurs dossiers. Le ZIP principal contient exactement sept PNG.

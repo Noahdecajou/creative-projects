@@ -1,0 +1,51 @@
+IMRE GAMS — STORIES V03 — 13 OCTOBRE 2026
+
+8 Stories indépendantes, 1080 × 1920, PNG. Une par thumbnail V14.
+Livraison : Imre_Gams_8_Stories_V03_1080x1920.zip
+Exports : Stories_V03
+Aperçu et galerie : Apercus/V03
+Les versions V01 et V02 restent conservées.
+
+CORRECTIONS
+Fonds noirs, sans les halos rouges et verts du décor.
+Couleurs utiles des graphiques, badges, titres et logo conservées.
+Fragments d'anciens portraits et raccords rectangulaires retirés.
+Portraits et scènes remplacés par les photographies originales.
+La Story 08 conserve également le visage original visible, sans pixellisation.
+
+IDENTITÉ DES PERSONNES
+Source : Thumbnail - CF/Imre_Gams/Sources_HD.
+Les copies JPG utilisées sont identiques aux sources (SHA-256 vérifié).
+Aucune génération, reconstruction, retouche de beauté, restauration de visage,
+accentuation, lissage, transformation géométrique locale ou ajout de détail.
+Détourage par masque alpha et redimensionnement proportionnel classique.
+La définition et les textures des captures restent celles des sources.
+
+Contrôle : les zones opaques des têtes/visages sont comparées, après tous les
+ajouts graphiques, aux mêmes photographies redimensionnées avec la même méthode.
+Les 4 pixels voisins du bord du masque sont exclus de la comparaison exacte,
+car le compositing mélange normalement ces pixels avec le nouveau fond.
+Le contrôle ne prétend donc pas à une égalité pixel à pixel de tout le cadre.
+Résultats détaillés : Identity_pixel_checks.csv et Verification.json.
+Les PNG livrés sont identiques en RGB aux masters contrôlés.
+
+PROVENANCE DES PHOTOGRAPHIES
+01, 02, 06 : frame_39600 (1).jpg — Imre frontal.
+03 : frame_22500.jpg — Riz et Imre au tableau.
+04 : frame_39600 (1).jpg + frame_600.jpg — Imre et Riz.
+05 : frame_85500.jpg + frame_17100.jpg — Imre et tableau original.
+07 : frame_61200.jpg — conversation Riz / Imre.
+08 : frame_126000 (1).jpg — conversation Riz / Imre.
+
+Les thumbnails V14 servent aux titres et aux éléments graphiques seulement.
+Les portraits reconstruits de ces thumbnails ne sont pas utilisés.
+En-têtes : éléments typographiques isolés des Stories V02.
+Autres textes : Poppins, Regular et Bold, fichiers locaux Typography_V3/Fonts.
+
+REPRODUCTION
+Depuis le dossier Stories - CF :
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\Imre_Gams\Suivi\V03\render.ps1
+python .\Imre_Gams\Suivi\V03\export_verify.py
+
+L'export vérifie : 8 images, dimensions, égalité master/export, provenance des
+JPG, contrôles des visages, 8 entrées ZIP, CRC et SHA-256 de chaque entrée.

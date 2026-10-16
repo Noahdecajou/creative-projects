@@ -1,0 +1,498 @@
+[
+  {
+    "file": "Slide-1.jpg",
+    "group": 0,
+    "slide": 1,
+    "width": 1080,
+    "height": 1440,
+    "sha256": "0efd09c1f6b388f44f8289f459b40496b2c7723ab23ffd4da184200706ca9a89"
+  },
+  {
+    "file": "Slide-2.jpg",
+    "group": 0,
+    "slide": 2,
+    "width": 1080,
+    "height": 1440,
+    "sha256": "075a1c5712fc7a43542b532804ecbdb79671fd62e99f2aa6bc3c04c5719cd687"
+  },
+  {
+    "file": "Slide-3.jpg",
+    "group": 0,
+    "slide": 3,
+    "width": 1080,
+    "height": 1440,
+    "sha256": "1b416cb7e2b750ed8c59e2d156b3336b99dcfa381b8832adc73c37e49f5eb51c"
+  },
+  {
+    "file": "Slide-4.jpg",
+    "group": 0,
+    "slide": 4,
+    "width": 1080,
+    "height": 1440,
+    "sha256": "89128b8006243b64aace00f6803ba7bd3d9e4627c0ccc0e3b61d36c8a9f0c9b2"
+  },
+  {
+    "file": "Slide-5.jpg",
+    "group": 0,
+    "slide": 5,
+    "width": 1080,
+    "height": 1440,
+    "sha256": "3e348d9c2b53bc2664ffd18cc6e0e1b5002ee8e65a8344ef9037ea5155742a61"
+  },
+  {
+    "file": "Slide-6.jpg",
+    "group": 0,
+    "slide": 6,
+    "width": 1080,
+    "height": 1440,
+    "sha256": "49bcb562fe20d9106990b08c70597300badec7b05eea3933b90dbab503048da1"
+  },
+  {
+    "file": "Slide-7.jpg",
+    "group": 0,
+    "slide": 7,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "6b96add4cd35071f682fc64f13d8b2e44ba9681d161f60cc336f1bb5db3785c1"
+  },
+  {
+    "file": "Slide-1 (1).jpg",
+    "group": 1,
+    "slide": 1,
+    "width": 1080,
+    "height": 1440,
+    "sha256": "c9d4038219dedcd4d7269f3553eae4a126b960821994b423f02fbf1fa4d9b1fd"
+  },
+  {
+    "file": "Slide-2 (1).jpg",
+    "group": 1,
+    "slide": 2,
+    "width": 1080,
+    "height": 1440,
+    "sha256": "b1c7563809a4810b1552214d6b792150e6e0d7b9400f4a2eb8b28eac63c781ef"
+  },
+  {
+    "file": "Slide-3 (1).jpg",
+    "group": 1,
+    "slide": 3,
+    "width": 1080,
+    "height": 1440,
+    "sha256": "7eab2623594b25b05a6c09db6ea4267de584e54f47284a411c05d14b18ad876c"
+  },
+  {
+    "file": "Slide-4 (1).jpg",
+    "group": 1,
+    "slide": 4,
+    "width": 1080,
+    "height": 1440,
+    "sha256": "5846dca401625fe5c4f7cff9079d2bc7f279facff77dd94b5fb001db042c24df"
+  },
+  {
+    "file": "Slide-5 (1).jpg",
+    "group": 1,
+    "slide": 5,
+    "width": 1080,
+    "height": 1440,
+    "sha256": "e1f36fc740f7d4a625b1bb481c98db49a78bb918bcfa21f275b57246bf5f1648"
+  },
+  {
+    "file": "Slide-6 (1).jpg",
+    "group": 1,
+    "slide": 6,
+    "width": 1080,
+    "height": 1440,
+    "sha256": "0dcebed1daaccd72f271ebf869837f1ae8bafd4c6861c5c47caaeaa78831e159"
+  },
+  {
+    "file": "Slide-7 (1).jpg",
+    "group": 1,
+    "slide": 7,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "ce75cccf2196aa8c470ce11a4d31c888316d9f42d54c701be0a14964006af465"
+  },
+  {
+    "file": "Slide-1 (2).jpg",
+    "group": 2,
+    "slide": 1,
+    "width": 1080,
+    "height": 1440,
+    "sha256": "171ee05a09ab9616550d5d6d4c037618f7099981afc8ffc27507813fb7683af4"
+  },
+  {
+    "file": "Slide-2 (2).jpg",
+    "group": 2,
+    "slide": 2,
+    "width": 1080,
+    "height": 1440,
+    "sha256": "94acb394b26d04eb590b474d6625b08effaa5e8a12eee080e1ad529b4e4bea7f"
+  },
+  {
+    "file": "Slide-3 (2).jpg",
+    "group": 2,
+    "slide": 3,
+    "width": 1080,
+    "height": 1440,
+    "sha256": "ff524dc1f5ade850f6126fc86dd5b424cb7cc57c0c2b82f7685966773544d01e"
+  },
+  {
+    "file": "Slide-4 (2).jpg",
+    "group": 2,
+    "slide": 4,
+    "width": 1080,
+    "height": 1440,
+    "sha256": "91d4270ef13b647d3584c1ab29560cd50af85062417e7dfb76634c88ddfb43b1"
+  },
+  {
+    "file": "Slide-5 (2).jpg",
+    "group": 2,
+    "slide": 5,
+    "width": 1080,
+    "height": 1440,
+    "sha256": "7df8cd208a88e999408dfc36a8f2404b9b1facc0a147b94320efc1017d37a3bf"
+  },
+  {
+    "file": "Slide-6 (2).jpg",
+    "group": 2,
+    "slide": 6,
+    "width": 1080,
+    "height": 1440,
+    "sha256": "a87ef5041247cff82c6887d4287ea4b411aaa4eb8202d1f535f493ca4f6b7cdf"
+  },
+  {
+    "file": "Slide-7 (2).jpg",
+    "group": 2,
+    "slide": 7,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "c021220f194390ee12b6af6b81628579c5d8df501b4cae73951c98a6cb83c7a6"
+  },
+  {
+    "file": "Slide-1 (3).jpg",
+    "group": 3,
+    "slide": 1,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "47bbf9d85b72a7fe543696156aa533da6037814e63ff66b1941bf19ad3c82ecf"
+  },
+  {
+    "file": "Slide-2 (3).jpg",
+    "group": 3,
+    "slide": 2,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "dea1edb2a23230b38ac54a956a8dec55521fb7561b53fa6c4acb1323f07f6155"
+  },
+  {
+    "file": "Slide-3 (3).jpg",
+    "group": 3,
+    "slide": 3,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "4c59dad0cef53475a382b62d9436770f095c404e81399e6e35a51306fa42ca97"
+  },
+  {
+    "file": "Slide-4 (3).jpg",
+    "group": 3,
+    "slide": 4,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "cf56938dd367c93a54c268f1bd09e52616738b014ae44d73176b3fafd6189fcb"
+  },
+  {
+    "file": "Slide-5 (3).jpg",
+    "group": 3,
+    "slide": 5,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "4d88f5a5ebd7f866645292bd1801d56daa884d10f799a4e9547a6f43a8063c85"
+  },
+  {
+    "file": "Slide-6 (3).jpg",
+    "group": 3,
+    "slide": 6,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "14df0017a58530854ecf3f4c8babea88a1035201daaebf3089927bf9b3358c56"
+  },
+  {
+    "file": "Slide-1 (4).jpg",
+    "group": 4,
+    "slide": 1,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "4a903b9d3d97d1b187a8674d36091fecbf312245243a58b8b420011dc6e57ecf"
+  },
+  {
+    "file": "Slide-2 (4).jpg",
+    "group": 4,
+    "slide": 2,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "6c8513a89ce8e04709c7e6fb11d0f19e92bba580d129356cd5790cec8997b930"
+  },
+  {
+    "file": "Slide-3 (4).jpg",
+    "group": 4,
+    "slide": 3,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "cfe07fa0c29abe3b1fd0b0cfbebe4d827c8d846481694278d99a09435bec16cc"
+  },
+  {
+    "file": "Slide-4 (4).jpg",
+    "group": 4,
+    "slide": 4,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "039d301ee90c886b646a0f308628f4e8936aaf49003f3128f02a55eb67464e79"
+  },
+  {
+    "file": "Slide-5 (4).jpg",
+    "group": 4,
+    "slide": 5,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "58b24acf09e6f7254918747b62304d9aac5e593188c3630d5f24d2997f53332c"
+  },
+  {
+    "file": "Slide-6 (4).jpg",
+    "group": 4,
+    "slide": 6,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "4abc7d1c6bc7900d1e40b5ffb7233ec6ef4345afeecc9160941fe39ddcc8156d"
+  },
+  {
+    "file": "Slide-1 (5).jpg",
+    "group": 5,
+    "slide": 1,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "6910bfcf77434b4178cc642664f824e38732ac5f3323509b130a4f38debee986"
+  },
+  {
+    "file": "Slide-2 (5).jpg",
+    "group": 5,
+    "slide": 2,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "28909a52f4198851f97986078719d1080357f6633e7d7aa38e3cee092506ea9e"
+  },
+  {
+    "file": "Slide-3 (5).jpg",
+    "group": 5,
+    "slide": 3,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "cd4e33e40fc60009dc87e5d116e65d9d32bad99e09dbf41a51e3db773ac1036d"
+  },
+  {
+    "file": "Slide-4 (5).jpg",
+    "group": 5,
+    "slide": 4,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "b8953b144916c2942dfca7988a2cb164cf317f1de4bb01db1bc38ed814bb7e54"
+  },
+  {
+    "file": "Slide-5 (5).jpg",
+    "group": 5,
+    "slide": 5,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "5d78be41c871a54705eb12de0b2da4fdb269c9879de1b5521f4d6d0f259a53e2"
+  },
+  {
+    "file": "Slide-6 (5).jpg",
+    "group": 5,
+    "slide": 6,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "daa8d4e9115f987024c219999a62f931852cb33ace0cd5a0da9073d2c4cac8d4"
+  },
+  {
+    "file": "Slide-1 (6).jpg",
+    "group": 6,
+    "slide": 1,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "cadb8d3ba4e1b72ad2e0945208497a2e3d5d80afa0ba063a28402f84ebdaa1f2"
+  },
+  {
+    "file": "Slide-2 (6).jpg",
+    "group": 6,
+    "slide": 2,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "e33413f7b377f46fc686db031c4f6e70eff31421114b025d8710adf9e4a17ac9"
+  },
+  {
+    "file": "Slide-3 (6).jpg",
+    "group": 6,
+    "slide": 3,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "bf9251b71225b659b084dc562fbef1fef2c9417e5a4d3ff9d542318a8d94b1d0"
+  },
+  {
+    "file": "Slide-4 (6).jpg",
+    "group": 6,
+    "slide": 4,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "80c8de3e2ab247f29e4ab39ccff57e8400e7b73824bc5366235a8f8616789648"
+  },
+  {
+    "file": "Slide-5 (6).jpg",
+    "group": 6,
+    "slide": 5,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "b5648f7eb0040808bdb7b6aefeef4915857484ab7b4e3f55e74dcd9c1d5fa089"
+  },
+  {
+    "file": "Slide-1 (7).jpg",
+    "group": 7,
+    "slide": 1,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "8966e6e3fc8009dfc3c50cb835b9180fca687c87486edbe710ee884a2fb22866"
+  },
+  {
+    "file": "Slide-2 (7).jpg",
+    "group": 7,
+    "slide": 2,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "cc7521f59c13a36eb13499914f754d998825982a41d834a69aff9539e5f9bebd"
+  },
+  {
+    "file": "Slide-3 (7).jpg",
+    "group": 7,
+    "slide": 3,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "5a04d879fae91fb325289fd50ef9094ec2f810d4926ae742d1a81b9435f5f401"
+  },
+  {
+    "file": "Slide-4 (7).jpg",
+    "group": 7,
+    "slide": 4,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "51955d3e5dd3e8e2de8171804501ef1be0058da79887f470b7b55adcabfb792c"
+  },
+  {
+    "file": "Slide-5 (7).jpg",
+    "group": 7,
+    "slide": 5,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "c9108ff7dc4af6ef3404c30344566db4991971b22d5a698aa551fd0809e48b48"
+  },
+  {
+    "file": "Slide-1 (8).jpg",
+    "group": 8,
+    "slide": 1,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "7a1c9d929abee863f9b52ee44d87447e04c2e11e0486e7be27c653921a9019ab"
+  },
+  {
+    "file": "Slide-2 (8).jpg",
+    "group": 8,
+    "slide": 2,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "5f682b3731eb82326bd9f6a08ef8994cc222be7ffc50b13d8690eb996d430b81"
+  },
+  {
+    "file": "Slide-3 (8).jpg",
+    "group": 8,
+    "slide": 3,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "5d61b1b461d7410ed40b0e735eda04c0e4011acb2b399e8f1cd353fbd246813d"
+  },
+  {
+    "file": "Slide-4 (8).jpg",
+    "group": 8,
+    "slide": 4,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "f014d272a8172c54a921365eed04f49edd74d1e70f670fa32f94136975c601c5"
+  },
+  {
+    "file": "Slide-5 (8).jpg",
+    "group": 8,
+    "slide": 5,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "12121192579007869160f3310731e9929a1d5d1bbc1a5fd1f4540055487cb06f"
+  },
+  {
+    "file": "Slide-1 (9).jpg",
+    "group": 9,
+    "slide": 1,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "e329a3e329d2e9c55980690f6085b48ac7b71a07b050479cafee0edf0b0c8b31"
+  },
+  {
+    "file": "Slide-2 (9).jpg",
+    "group": 9,
+    "slide": 2,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "64dd633d948c5a723597ff43439078bb87b79e3bcf9d4b58bb06e6efb37525f0"
+  },
+  {
+    "file": "Slide-3 (9).jpg",
+    "group": 9,
+    "slide": 3,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "9141d1be049f27fe2f418ffad76ecfc34351052048b9307cb13ff14373a1d72b"
+  },
+  {
+    "file": "Slide-4 (9).jpg",
+    "group": 9,
+    "slide": 4,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "a60cd288af142a2ba6bd366eff3e2f6e6ee1495ba5630f150c4c3f6bb6e997f6"
+  },
+  {
+    "file": "Slide-5 (9).jpg",
+    "group": 9,
+    "slide": 5,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "4e637863ce74082992f1d18759f82b6865e5558e54be769d0425e8f92ce10c91"
+  },
+  {
+    "file": "Slide-2 (10).jpg",
+    "group": 10,
+    "slide": 2,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "6689ecc1745cd8bab22678f10cd902e53c08d7bb7ad5019cb920e200732e9401"
+  },
+  {
+    "file": "Slide-4 (10).jpg",
+    "group": 10,
+    "slide": 4,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "2819646122c47597e4cec5d20e969ef6b72967c21b305dce5ae764a66e6011bd"
+  },
+  {
+    "file": "Slide-2 (11).jpg",
+    "group": 11,
+    "slide": 2,
+    "width": 1080,
+    "height": 1350,
+    "sha256": "a3aa38b3cb40f323738485582b9707ab9b1b186cca3efdd0f4994ee46bc7a108"
+  }
+]

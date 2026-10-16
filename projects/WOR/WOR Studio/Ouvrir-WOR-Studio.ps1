@@ -8,6 +8,14 @@ try {
 } catch {}
 if (-not $studioReady) {
     $studioNode = (Get-Command node -ErrorAction Stop).Source
+    if (-not (Test-Path -LiteralPath (Join-Path $studioRoot 'node_modules/pdf-lib/package.json'))) {
+        Push-Location -LiteralPath $studioRoot
+        try {
+            & npm.cmd install --package-lock=false --ignore-scripts --no-audit --no-fund
+            if ($LASTEXITCODE -ne 0) { throw 'Installation PDF impossible.' }
+        } finally { Pop-Location }
+    }
+
     Start-Process -FilePath $studioNode -ArgumentList ('"' + (Join-Path $studioRoot 'server.mjs') + '"') -WorkingDirectory $studioRoot -WindowStyle Hidden -RedirectStandardOutput (Join-Path $studioRoot 'data\server.log') -RedirectStandardError (Join-Path $studioRoot 'data\server-error.log')
     for ($studioAttempt = 0; $studioAttempt -lt 20; $studioAttempt++) {
         Start-Sleep -Milliseconds 250

@@ -1,0 +1,9 @@
+BASE DE CONNAISSANCE DESIGN WOR
+
+Références visuelles : Design REF (62 JPEG analysés le 13 octobre 2026).
+Guide de production : outputs/Design_Ref_Analyse_V01/Connaissance_Design_WOR.txt
+Atlas avec 62 fiches et inspecteur de pixels : outputs/Design_Ref_Analyse_V01/Atlas_Design_WOR.html
+Mesures détaillées : outputs/Design_Ref_Analyse_V01/Mesures_et_observations_62_references.txt
+Données : inventaire.json, mesures_pixels.json, fiches_references.json dans le même dossier.
+
+Pour les futurs carrousels de ce projet, lire ce guide et inspecter les références choisies avant création. Distinguer les mesures exactes des estimations ; ne pas prétendre avoir identifié la fonte originale. Les suffixes de fichiers mélangent parfois les invités ; contrôler identité et CTA. Préserver les références et versions précédentes.

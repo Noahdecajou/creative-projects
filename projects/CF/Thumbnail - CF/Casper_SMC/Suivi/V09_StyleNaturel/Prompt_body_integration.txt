@@ -1,0 +1,12 @@
+Use case: precise-object-edit / compositing.
+Edit this photographic composite GUIDE into a seamless natural interview photograph, maintaining exact layout and pixel positions.
+Image 1 is the composite guide to repair. Image 2 is the AUTHORITATIVE original source photograph of Casper's entire head and neck, the man on the RIGHT. 
+CRITICAL: Image 1 deliberately contains the actual photographic head + neck + collar from source 2, placed without rotation. Those exact original facial features, jaw outline, head proportions, gaze, glasses, natural skin texture, and long slim neck MUST STAY. The correct head is nearly upright and looking a little to camera-right exactly as in source2. Do NOT invent a new face. Do NOT rotate it back toward the left. Do NOT change identity. Do NOT smooth or sharpen any face.
+
+FIX ONLY THE COMPOSITING SEAMS AROUND CASPER:
+- Remove every remnant of the previous tilted artificial head behind the real one: stray extra hair above/behind the crown, duplicate hair and neck behind viewer-right of his jaw. Single natural silhouette exactly matching source2. His correct hairline/crown starts approximately y45 at 1280x720, not y30. 
+- Rebuild the black shirt and shoulders immediately AROUND the original collar and neck so they connect naturally to his chest, sleeves and resting arms. The existing right collar has doubled folded shapes; make one continuous black open shirt and a single white vest with its neckline matching the real photo. Eliminate all overlapping black cloth edges, double buttons, and the ghost of a second neck behind him.
+- Blend lighting at the collar without modifying the photographic face.
+Preserve original physical pose of the face; adjust only supporting clothing and shoulders so they support that pose coherently.
+Keep Riz on left, both hands, all fingers, marker, watch and tattooed forearm, whiteboard, table, room, perspective and crop unchanged. No missing objects. Do not add hair or excessive hair volume. No halos or white fringes.
+Lighting is natural clear daytime, saturated greens and warm wood, neutral realistic skin. Absolutely NO grain, noise layer, painting texture, artificial pores, skin smoothing, sharpening or HDR. Output one clean wide 16:9 photo without text or graphics.

@@ -1,0 +1,15 @@
+Use case: identity-preserve, photographic compositing.
+Create ONE finished photographic scene plate for a 16:9 YouTube thumbnail, no typography.
+INPUTS:
+1. PRIMARY ORIGINAL PHOTO of Casper, the man with brown wavy hair, delicate gold rimless glasses, short beard, black open shirt over white vest. This is the authoritative source for his actual head, face, neck, skin and anatomy.
+2. Previous two-person scene, COMPOSITION GUIDE ONLY. Its Casper head is incorrect. Do not copy, retouch or reinforce that face. Keep the useful layout: Riz left in beige polo, Casper right at wooden table, marker/whiteboard bottom, airy window and plants. Retain the same overall crop.
+3. Original HD photo of Riz for his identity.
+4. User's desired LIGHTING AND COLOR reference only. Never use these people's faces or clothes.
+
+CRITICAL CORRECTION:
+Rebuild Casper on the right starting from image 1's ENTIRE photographic head, hair, ears, glasses, jaw and neck as ONE coherent unit, preserving the original head proportions and original near-upright head angle. His head must look like the actual source photograph, not a composite of different face planes. Do not rotate only his face, do not blend one face into another, no bulging cranium, no inflated forehead, no narrowed jaw, no enlarged eyes. Match his exact real hair shape, soft light skin texture, natural slim neck and glasses. Preserve original pose/yaw as much as possible; a very slight off-camera gaze from the actual photo is preferable to a distorted face. Make his shoulders and shirt naturally support THIS original neck and head. Only adapt the torso/arms below the collar to the table. Both forearms rest naturally; his right hand holds a single marker touching the whiteboard; tattooed left forearm rests to the right. All fingers anatomically sound, no floating arms, no microphones. 
+Riz stays on the LEFT, natural realistic identity from image 3, relaxed, looking toward viewer, beige knit polo, both forearms on table.
+
+LIGHT AND COLOR:
+Match reference 4's vivid yet real editorial photography. Broad clear window daylight illuminates both faces from front-left, crisp gentle catchlights, healthy natural skin, soft physical shadows. More saturated rich green foliage, clean neutral whites, deep black shirt, bright warm wood. Moderate strong photographic contrast, not dull or hazy. Keep fine original skin detail without fake pores, engraved texture, artificial wax, smoothing, excessive sharpening, orange cast. Absolutely NO added grain or film-noise overlay. No neon, no glowing people, no graphics. The result must feel like one real high quality photo of these two actual men, especially Casper, with consistent perspective and plausible head-to-body sizes.
+Keep whiteboard in bottom 15%, two or three simple hand-drawn market/chart lines. Leave chest/lower third free of extra objects for a later single line caption. NO text, NO captions, no watermark. Wide 16:9.

@@ -1,0 +1,2 @@
+"File","Width","Height","AddedGrain","PortraitAlphaPixelDifferences","PortraitGeometry","PortraitTexture","TypographyDifferences","CandleGeometryDifferences","PhotographicUpscale","SHA256"
+"01_Price_Is_Not_Value_V15_Test_3840x2160.png","3840","2160","0","0","No warp, no crop, same scale and coordinates as V14","V14 texture retained; low-frequency luminance only transferred from ImageGen guide","0","0","True","FABFA3B465F51B3AB82D592D050CE93B40E490E4E87725CC8E2DA5710B3C5DB0"

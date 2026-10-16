@@ -1,0 +1,118 @@
+{
+  "slides": [
+    {
+      "slide": 1,
+      "native_dimensions": [
+        1086,
+        1448
+      ],
+      "export_dimensions": [
+        1080,
+        1440
+      ],
+      "png": "PNG\\Slide-01.png",
+      "sha256": "6981bbc4f3b18ff61fc5d93365807f5998dd63a0ac4a8e99e7fc9f6326658b9f",
+      "master_identical_to_generated": true,
+      "file_verified": true
+    },
+    {
+      "slide": 2,
+      "native_dimensions": [
+        1086,
+        1448
+      ],
+      "export_dimensions": [
+        1080,
+        1440
+      ],
+      "png": "PNG\\Slide-02.png",
+      "sha256": "a11aad8ff52dbddc24278f8c2f0aa41fecbe89d773b173ea99997ae66a01cb7c",
+      "master_identical_to_generated": true,
+      "file_verified": true
+    },
+    {
+      "slide": 3,
+      "native_dimensions": [
+        1086,
+        1448
+      ],
+      "export_dimensions": [
+        1080,
+        1440
+      ],
+      "png": "PNG\\Slide-03.png",
+      "sha256": "5de6b2a2fff82b052ab65af8b489f1f65ca71aa45645d7c5e7ab644b1de9a83c",
+      "master_identical_to_generated": true,
+      "file_verified": true
+    },
+    {
+      "slide": 4,
+      "native_dimensions": [
+        1086,
+        1448
+      ],
+      "export_dimensions": [
+        1080,
+        1440
+      ],
+      "png": "PNG\\Slide-04.png",
+      "sha256": "6dace02873bac271ab1afa66420cab9fc952dd493279085bdc55828f6d00d4ac",
+      "master_identical_to_generated": true,
+      "file_verified": true
+    },
+    {
+      "slide": 5,
+      "native_dimensions": [
+        1086,
+        1448
+      ],
+      "export_dimensions": [
+        1080,
+        1440
+      ],
+      "png": "PNG\\Slide-05.png",
+      "sha256": "8eecd5d689c7874eb592449fd6c5b51ebbe596ac3470b1db918b46935b937d09",
+      "master_identical_to_generated": true,
+      "file_verified": true
+    },
+    {
+      "slide": 6,
+      "native_dimensions": [
+        1086,
+        1448
+      ],
+      "export_dimensions": [
+        1080,
+        1440
+      ],
+      "png": "PNG\\Slide-06.png",
+      "sha256": "2c3495028c6f3658496b7ddd4632b0374e90818b461ae770b7060345d46fc5ac",
+      "master_identical_to_generated": true,
+      "file_verified": true
+    },
+    {
+      "slide": 7,
+      "native_dimensions": [
+        1086,
+        1448
+      ],
+      "export_dimensions": [
+        1080,
+        1440
+      ],
+      "png": "PNG\\Slide-07.png",
+      "sha256": "01ad28f8c3334479e5a3fbe0372f605700bd16a8b40accb08737d4f8c2c5ecae",
+      "master_identical_to_generated": true,
+      "file_verified": true
+    }
+  ],
+  "png_count": 7,
+  "jpeg_count": 7,
+  "master_count": 7,
+  "zip_entries": 7,
+  "zip_integrity": true,
+  "zip_matches_exports": true,
+  "zip_sha256": "02c7ba17cee45dd1a26f169db9e9de9c747673f0a01ad49b646a63fb3f1c02c5",
+  "all_sources_copied_identically": true,
+  "all_gallery_links_exist": true
+}

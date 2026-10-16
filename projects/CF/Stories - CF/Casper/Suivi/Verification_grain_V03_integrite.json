@@ -1,0 +1,96 @@
+{
+  "count": 8,
+  "source": "Stories_V02",
+  "one_added_pass": true,
+  "zip_integrity": "verified",
+  "stories": [
+    {
+      "file": "01_Trade_With_A_System.png",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "added_grain_percent": 4,
+      "measured_sigma": 10.191843334525782,
+      "monochromatic": true,
+      "sha256": "14b5722c2fe774e08f2f8cfd56164704fdbb1f0b08708c48e874d8b38c05a4c4"
+    },
+    {
+      "file": "02_Who_Is_In_Control.png",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "added_grain_percent": 4,
+      "measured_sigma": 10.190292294594471,
+      "monochromatic": true,
+      "sha256": "4ad1b60dca7362734201ad02887bc3e1df60a46a95141ed6ec921e1665d9d099"
+    },
+    {
+      "file": "03_Trading_In_3_Decisions.png",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "added_grain_percent": 4,
+      "measured_sigma": 10.200913273384485,
+      "monochromatic": true,
+      "sha256": "6b4b6d9322a2639506c56335e422d465ed6e7864a3166655b964403063c7f131"
+    },
+    {
+      "file": "04_Stop_Overthinking.png",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "added_grain_percent": 4,
+      "measured_sigma": 10.196144587788392,
+      "monochromatic": true,
+      "sha256": "6035499311be530e108fcb9e4bdddf15e7d2d90e22fe1e2c00416d5d439d41f0"
+    },
+    {
+      "file": "05_Master_Volume_Profile.png",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "added_grain_percent": 4,
+      "measured_sigma": 10.203271582913606,
+      "monochromatic": true,
+      "sha256": "3859f1896ff0099173e50fd054d39c3b62b30686036e0fb55ee8f6df364f8d2f"
+    },
+    {
+      "file": "06_Read_The_Market.png",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "added_grain_percent": 4,
+      "measured_sigma": 10.217525510806393,
+      "monochromatic": true,
+      "sha256": "c886a04933591e34c49bce0fd8e8e070df265a74d31584c6f3c02b7b96a88df7"
+    },
+    {
+      "file": "07_Let_Your_Winners_Run.png",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "added_grain_percent": 4,
+      "measured_sigma": 10.20303538978044,
+      "monochromatic": true,
+      "sha256": "0ec53f1a225c3c1b16e5d09c1d1441f1b310629b1b07a69963631f6422f4f411"
+    },
+    {
+      "file": "08_Price_To_Order_Flow.png",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "added_grain_percent": 4,
+      "measured_sigma": 10.212248315919245,
+      "monochromatic": true,
+      "sha256": "b47119c18892135298e2d64485420a89dff5d30888142732eba8445e2de36d79"
+    }
+  ]
+}

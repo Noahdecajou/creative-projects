@@ -1,0 +1,24 @@
+[
+  {
+    "Person": "Riz",
+    "SourceEye1": "470,563",
+    "SourceEye2": "707,519",
+    "TargetEye1": "501,266",
+    "TargetEye2": "593,279",
+    "Ellipse": "550,697,295,380",
+    "Scale": 0.38545538530069867,
+    "RotationDegrees": 18.56034002159898,
+    "OriginalRGBUnretouched": true
+  },
+  {
+    "Person": "Casper",
+    "SourceEye1": "383,451",
+    "SourceEye2": "596,464",
+    "TargetEye1": "1068,233",
+    "TargetEye2": "1164,213",
+    "Ellipse": "460,520,300,375",
+    "Scale": 0.45952617155163433,
+    "RotationDegrees": -15.260882092876697,
+    "OriginalRGBUnretouched": true
+  }
+]

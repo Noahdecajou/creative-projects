@@ -1,0 +1,10 @@
+Use case: lighting-weather / precise color refinement of supplied finished advertisement.
+Edit the provided Apex 5-Pack ad with ONLY these three restrained changes:
+1. Replace flat blue fills in the headline "$37.48?!", the two blue section headings and the blue CTA words APEX and CF with a sophisticated smooth vertical blue gradient: lighter azure at the top, rich cobalt at the bottom. Flat printed typography remains flat: no metal, bevel, chrome, extrusion, or gloss. Keep excellent contrast.
+2. Add a small soft diffuse blue ambient halo directly BEHIND the main tall translucent Apex candlestick at upper right. It should subtly lift the candle from the black background, with a gradual feathered falloff. Preserve the beautiful candlestick itself and its white Apex symbol exactly. No flares, beams, starbursts, or new objects.
+3. Add very subtle deep-blue-to-transparent radial gradients coming from the extreme bottom-left and bottom-right corners. They fade into black within the lower portion of the poster. Low intensity, premium and understated. The footer and CTA must remain easy to read.
+Preserve EVERYTHING else exactly: same portrait dimensions/aspect ratio, all typography and sizes, every word, every price, all spacing and alignments, logo, glass candlestick geometry, other dark candles, table dividers, hierarchy. No cropping. Background must still feel predominantly black, approximately 90% black with restrained blue accents. No icons or decorative borders.
+Exact unchanged price data: Intraday 25K $37.48 total / $7.50 each; 50K $47.50 / $9.50; 100K $172.50 / $34.50. EOD 25K $112.50 / $22.50; 50K $122.50 / $24.50; 100K $247.50 / $49.50. Keep "REPLY: APEX", "USE CODE: CF", and the footer about exclusive 5-Pack pricing unchanged.
+This is a subtle finishing pass, not a redesign.
+
+Generation mode: built-in ImageGen.

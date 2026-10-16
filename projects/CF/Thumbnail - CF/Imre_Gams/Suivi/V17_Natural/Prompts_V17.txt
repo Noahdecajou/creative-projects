@@ -1,0 +1,23 @@
+MODE : outil ImageGen intégré (pas de CLI).
+
+ÉTAPE 1 — Plaque de décor et vêtements
+Use case: compositing / precise-object-edit.
+Create a photorealistic YouTube thumbnail photographic plate, landscape 16:9, 1440x810.
+Image 1 is the EDIT TARGET and immutable human photography source. It is a real episode photo with Riz, bearded man in beige polo on LEFT, and Imre, man in plain black shirt on RIGHT. Image 2 and image 3 are STYLE REFERENCES ONLY: copy their bright naturally lit room, real wooden table, casual filmed interview feeling, photographic depth, clean color and realistic contrast. Never use the identities, clothes, words or business claims from the references.
+Preserve image 1's exact framing, both people's location, head sizes, body proportions, visible arms and hands, faces, hair, skin texture, facial expressions and directions of gaze. They must keep looking toward each other exactly as in image1. Do NOT enlarge heads, change their poses, move their eyes toward camera, reimagine their bodies, beautify or smooth faces. Keep beige polo and black T-shirt.
+Change the environment only: replace the dark logo wall with a believable bright contemporary interview room. A large softly defocused window with natural green garden foliage behind the LEFT and CENTER, warm light gray / muted taupe interior wall behind the RIGHT, restrained plant at edge. Soft daylight with dimensional shadows, bright but controlled background, realistic commercial interview photography, no dramatic cinematic grading. Preserve coherent perspective and the existing table height at y650 in image1.
+Remove both microphones, stands, cables and round bases completely; reconstruct only the small areas of clothing and tabletop they occlude. Preserve existing visible anatomy and clothing folds elsewhere. Keep the existing natural wood table. Replace the narrow black glass board/reflection in foreground with a clean horizontal whiteboard in perspective, about x450–1010, y680–805, with a very simple subtle hand-drawn black auction zigzag between two horizontal level lines. Keep 2–3 real colored markers on the table. No glowing charts or floating UI. Natural scene, no outlines around people, no artificial rim halos, no film grain.
+Do not put any text anywhere in this plate. No titles, subtitles, labels, logos, quotation marks, financial amounts or watermarks. Typography will be added separately below their faces.
+Highest fidelity to image1's original humans; this is background replacement and microphone removal, not character generation.
+
+Tool: built-in image_gen, 2026-10-15. Photographic plate only; final title is native editable typography.
+Episode source: Sources_HD/frame_61200.jpg, 00:34:00:00, Frame.io native Download Still at 1920x1080.
+Layout source: two unscaled rectangles from the same original frame, left [160,240,690,810], right [1050,240,750,810], assembled into 1440x810. Only the empty gap between the two people is reduced; their heads and bodies are kept at the same scale.
+Final title: price is not value. The words price is not are white; value. is yellow. This is an episode topic headline, not an attributed quotation or financial result claim.
+
+
+ÉTAPE 2 — Fond vide pour réintégrer les personnes originales
+Use case: precise-object-edit. Edit the supplied image into an EMPTY BACKGROUND PLATE for compositing. Remove BOTH PEOPLE completely, including all their heads, bodies, clothing, hands and arms. Reconstruct the room and table behind them. Preserve the exact room design: bright large garden window left/center, softly out-of-focus foliage, gray window sill, warm light gray/taupe wall with framed abstract art on right, plant at far right, natural wood table, whiteboard and three markers. Preserve lighting, camera angle, perspective and framing. The result must contain NO people, faces, skin, hands, clothing, chairs protruding into the foreground, microphones, text or logos. Keep the table at its current height and keep the whiteboard at its current position. Landscape16:9, same aspect ratio and composition. We will add the actual original photographed people ourselves.
+
+
+ASSEMBLAGE FINAL : visages et silhouette originale réintégrés ; vêtements reconstruits pour retirer les microphones ; texte Arial Bold : price is not value. (blanc ; value. jaune).

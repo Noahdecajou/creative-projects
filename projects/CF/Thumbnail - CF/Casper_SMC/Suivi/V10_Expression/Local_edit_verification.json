@@ -1,0 +1,10 @@
+{
+  "Base": "References/Expression_V10/Base_choisie_utilisateur.png",
+  "Crop": "900,25,430,475",
+  "Region": "Elliptical facial region; center 224,250 radii 125,146 inside crop",
+  "ChangedPixels": 53601,
+  "ChangedPixelsOutsideFacialRegion": 0,
+  "HairBodyHandsRizBackgroundUnchanged": true,
+  "HeadRotation": 0,
+  "AddedGrain": false
+}

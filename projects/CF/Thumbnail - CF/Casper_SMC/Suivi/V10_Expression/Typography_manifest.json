@@ -1,0 +1,22 @@
+{
+  "Text": "Trading in 3 decisions.",
+  "WhiteText": "Trading in",
+  "YellowText": "3 decisions.",
+  "Font": "Poppins Bold",
+  "FontSize": 99,
+  "X": 83.61726379394531,
+  "Top": 463,
+  "TotalWidth": 1112.7654724121094,
+  "YellowTop": "#FFF85B",
+  "YellowBottom": "#FFE400",
+  "Shadow": "Soft black, 1px right and 4px down at 1280",
+  "NoBox": true,
+  "NoGlow": true,
+  "NoStroke": true,
+  "AddedGrain": false,
+  "Sharpening": false,
+  "Canvas": "3840x2160",
+  "PhotoPlateWidth": 1672,
+  "PhotoPlateHeight": 941,
+  "Enlarged": true
+}

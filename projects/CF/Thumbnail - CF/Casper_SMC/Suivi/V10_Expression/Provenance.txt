@@ -1,0 +1,9 @@
+Base exacte choisie par l'utilisateur : References/Expression_V10/Base_choisie_utilisateur.png, 1672 x 941.
+Reference texte : References/Expression_V10/Texte_valide_utilisateur.png.
+Reference originale HD d'expression : Sources_HD/Casper/Casper_01-00-00.jpg.
+Recadrage de travail : x900, y25, largeur430, hauteur475 dans la base choisie.
+Outil : image_gen integre, correction locale. Resultat : exec-1ae2e7a0-15de-4ef8-8078-8b5c248b9f46.png, conserve sous Masters/V10_Expression/Casper_expression_generated.png.
+Prompt exact : Prompt_expression.txt.
+Assemblage : region elliptique du visage uniquement, sans rotation ni deplacement de la tete, masque progressif. Voir compose_expression.ps1 et Local_edit_verification.json.
+Pas de regeneration du reste de la scene. Aucun bruit/grain ajoute, aucun lissage ni filtre d'accentuation.
+Texte et traitements natifs : memes parametres que le texte valide V09. Voir Typography_manifest.json et render_v10_expression.ps1.

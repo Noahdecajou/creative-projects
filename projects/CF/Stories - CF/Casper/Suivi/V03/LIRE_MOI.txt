@@ -1,0 +1,11 @@
+CASPER — STORIES V03 — 13 octobre 2026
+
+Correction des proportions du portrait sur les Stories 02 et 06.
+Le sujet de ces deux images est Casper. La capture originale utilisée est Casper_00-12-00.jpg, provenant des sources HD du projet Thumbnail - CF/Casper_SMC.
+
+Le visage, les cheveux, les lunettes et le cou sont restaurés avec les pixels de cette photo. La couche de chemise claire, déjà utilisée dans les thumbnails approuvées, est conservée. Le portrait est redimensionné uniformément avec Lanczos puis assemblé dans les Stories. Aucune génération, reconstruction, restauration faciale, accentuation, lissage ou retouche de peau n'a été appliquée à cette V03. Aucun grain ajouté.
+
+Contrôles : identité visuelle comparée à la source ; région faciale exactement identique à la couche photographique redimensionnée ; six autres PNG identiques octet pour octet à V02 ; titres principaux et pieds de page des 02/06 conservés pixel pour pixel ; huit images 1080 x 1920 ; huit entrées ZIP, intégrité et SHA256 vérifiés.
+
+Les six autres Stories conservent le rendu V02 antérieur. Le terme sans grain signifie sans nouvelle passe de grain, et non suppression des textures déjà présentes dans ces images.
+Composition.json conserve les paramètres et la provenance. compose_v03.py reproduit le montage. Verification.json conserve les contrôles de livraison.

@@ -1,0 +1,27 @@
+CASPER / RIZ — STYLE NATUREL V09
+Date : 15 octobre 2026
+
+Une seule thumbnail finale : Trading in 3 decisions.
+Fichier : Exports_4K/V09_StyleNaturel/09_Trading_In_3_Decisions_Natural_3840x2160.png
+
+CORRECTIONS
+Tete et cou de Casper assembles ensemble depuis la photo originale HD Casper_00-12-00.jpg, sans rotation de la tete, sans deformation du visage et sans nouvelle texture de peau. Conservation du regard naturel de cette photo. Nettoyage du fond derriere les cheveux, integration du col et des epaules.
+Lumiere du jour, verts et bois plus satures selon les references fournies. Texte anglais conserve sur une ligne, blanc et jaune avec un leger degrade (#FFF85B vers #FFE400) et une ombre douce.
+AUCUN GRAIN AJOUTE. Aucune accentuation artificielle ni lissage du visage photographique de Casper.
+
+RESOLUTION
+PNG verifie a 3840 x 2160 pixels, 16:9. Assemblage et typographie rendus a cette taille. Le decor et le corps proviennent d'un fond assiste par generation de 1672 x 941 agrandi ; le portrait de Casper provient d'une source 3840 x 2160, avec une mise a l'echelle uniforme de 1.02. Ce n'est donc PAS une creation photographique native 4K.
+
+DOSSIERS
+Sources_HD : originaux intacts.
+Masters/V09_StyleNaturel : calques, plaques de travail, assemblage choisi et master sans grain.
+Exports_4K/V09_StyleNaturel : seul PNG final.
+Apercus/V09_StyleNaturel : apercus a 1280, 640 et 320 pixels, controles de detail et guides de travail.
+Suivi/V09_StyleNaturel : prompts exacts, scripts d'assemblage/typographie, provenance et controles.
+Les fichiers contenant guide, generated, crop ou reference sont des elements de travail, pas des variantes finales.
+
+OUTILS
+Outil image_gen integre : harmonisation de la scene, raccord de chemise et fond propre.
+System.Drawing : assemblage du vrai portrait sans deformation, typographie precise, export PNG et apercus.
+Les images de reference servent a la composition, a la lumiere et a la typographie ; leurs personnes, noms et promesses ne sont pas repris.
+Versions precedentes conservees. Rien n'est publie.

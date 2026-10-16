@@ -1,0 +1,158 @@
+{
+  "slides": [
+    {
+      "slide": 1,
+      "source": "C:\\Users\\notti\\Documents\\ChatGPT\\Carousel - WOR\\outputs\\Sampsa-Jeppez-Carousel-V02\\PNG\\Slide-01.png",
+      "source_sha256": "cec0c6323b8c65d367055d23eadd6fc7f94953e30f1a981b818794ad97df6fa4",
+      "png": "PNG/Slide-01.png",
+      "png_sha256": "a56d3bce72e7290d2914907bb4e4e002f16fa7b0c9440faefc11fee701582107",
+      "seed": 20261014,
+      "grain_percent": 3,
+      "method": "Uniform monochrome noise +/-3% of 255, rounded to 8-bit; one pass at final dimensions",
+      "dimensions": [
+        1080,
+        1440
+      ],
+      "max_channel_change": 8.0,
+      "changed_pixel_fraction": 0.9235352366255144,
+      "noise_mean": -0.0030131172839506174,
+      "noise_stddev": 4.420680237319863,
+      "unexpected_pixel_changes": 0.0,
+      "source_unchanged": true
+    },
+    {
+      "slide": 2,
+      "source": "C:\\Users\\notti\\Documents\\ChatGPT\\Carousel - WOR\\outputs\\Sampsa-Jeppez-Carousel-V02\\PNG\\Slide-02.png",
+      "source_sha256": "a11aad8ff52dbddc24278f8c2f0aa41fecbe89d773b173ea99997ae66a01cb7c",
+      "png": "PNG/Slide-02.png",
+      "png_sha256": "9f2976df7dde82ec44cc2987d6606d63fbe6576643d1226b353df9d483620f0c",
+      "seed": 20261015,
+      "grain_percent": 3,
+      "method": "Uniform monochrome noise +/-3% of 255, rounded to 8-bit; one pass at final dimensions",
+      "dimensions": [
+        1080,
+        1440
+      ],
+      "max_channel_change": 8.0,
+      "changed_pixel_fraction": 0.9277038323045268,
+      "noise_mean": -0.0016872427983539095,
+      "noise_stddev": 4.425109823207829,
+      "unexpected_pixel_changes": 0.0,
+      "source_unchanged": true
+    },
+    {
+      "slide": 3,
+      "source": "C:\\Users\\notti\\Documents\\ChatGPT\\Carousel - WOR\\outputs\\Sampsa-Jeppez-Carousel-V02\\PNG\\Slide-03.png",
+      "source_sha256": "28feaaeb0efa76b57761f5857e61084e837b0af7c31cc7b2acb25e02e0df9fe7",
+      "png": "PNG/Slide-03.png",
+      "png_sha256": "954f5a69d2af118ec260e31cfaedd5708ed9ba97455b5a0951ad302a46006184",
+      "seed": 20261016,
+      "grain_percent": 3,
+      "method": "Uniform monochrome noise +/-3% of 255, rounded to 8-bit; one pass at final dimensions",
+      "dimensions": [
+        1080,
+        1440
+      ],
+      "max_channel_change": 8.0,
+      "changed_pixel_fraction": 0.9246997170781893,
+      "noise_mean": -0.0033371913580246913,
+      "noise_stddev": 4.424583130602786,
+      "unexpected_pixel_changes": 0.0,
+      "source_unchanged": true
+    },
+    {
+      "slide": 4,
+      "source": "C:\\Users\\notti\\Documents\\ChatGPT\\Carousel - WOR\\outputs\\Sampsa-Jeppez-Carousel-V02\\PNG\\Slide-04.png",
+      "source_sha256": "6dace02873bac271ab1afa66420cab9fc952dd493279085bdc55828f6d00d4ac",
+      "png": "PNG/Slide-04.png",
+      "png_sha256": "01780e094da347997c6bfcae38c1fe11731aac98b4fece0b99c52cccf1b0464a",
+      "seed": 20261017,
+      "grain_percent": 3,
+      "method": "Uniform monochrome noise +/-3% of 255, rounded to 8-bit; one pass at final dimensions",
+      "dimensions": [
+        1080,
+        1440
+      ],
+      "max_channel_change": 8.0,
+      "changed_pixel_fraction": 0.9208191872427983,
+      "noise_mean": -0.004424511316872428,
+      "noise_stddev": 4.423068862845022,
+      "unexpected_pixel_changes": 0.0,
+      "source_unchanged": true
+    },
+    {
+      "slide": 5,
+      "source": "C:\\Users\\notti\\Documents\\ChatGPT\\Carousel - WOR\\outputs\\Sampsa-Jeppez-Carousel-V02\\PNG\\Slide-05.png",
+      "source_sha256": "b797438048e049df7fd80bae6fa9c3e96a06f5a96c40b7776ba2b0ee4037c86a",
+      "png": "PNG/Slide-05.png",
+      "png_sha256": "cc0618015bec571ea8dbeb320cf78c1390ce47f255bc8da0af9d451929e732d7",
+      "seed": 20261018,
+      "grain_percent": 3,
+      "method": "Uniform monochrome noise +/-3% of 255, rounded to 8-bit; one pass at final dimensions",
+      "dimensions": [
+        1080,
+        1440
+      ],
+      "max_channel_change": 8.0,
+      "changed_pixel_fraction": 0.9255439814814815,
+      "noise_mean": -0.0006372170781893004,
+      "noise_stddev": 4.420643472880929,
+      "unexpected_pixel_changes": 0.0,
+      "source_unchanged": true
+    },
+    {
+      "slide": 6,
+      "source": "C:\\Users\\notti\\Documents\\ChatGPT\\Carousel - WOR\\outputs\\Sampsa-Jeppez-Carousel-V02\\PNG\\Slide-06.png",
+      "source_sha256": "6e499ddea63aec82ad416e9b61e1271fafbf6d29013b0ff0fa227c0fdb88fd1a",
+      "png": "PNG/Slide-06.png",
+      "png_sha256": "309b9aba7f0ed16db3a202c46b45ed564429656f0fc969ed7dbe02601be26e93",
+      "seed": 20261019,
+      "grain_percent": 3,
+      "method": "Uniform monochrome noise +/-3% of 255, rounded to 8-bit; one pass at final dimensions",
+      "dimensions": [
+        1080,
+        1440
+      ],
+      "max_channel_change": 8.0,
+      "changed_pixel_fraction": 0.9205336934156378,
+      "noise_mean": 0.0018293467078189301,
+      "noise_stddev": 4.424559232912159,
+      "unexpected_pixel_changes": 0.0,
+      "source_unchanged": true
+    },
+    {
+      "slide": 7,
+      "source": "C:\\Users\\notti\\Documents\\ChatGPT\\Carousel - WOR\\outputs\\Sampsa-Jeppez-Carousel-V02\\PNG\\Slide-07.png",
+      "source_sha256": "01ad28f8c3334479e5a3fbe0372f605700bd16a8b40accb08737d4f8c2c5ecae",
+      "png": "PNG/Slide-07.png",
+      "png_sha256": "17c1ee5d704d33f0085e56d6d8bd0961e49749701d66ea1ed639fd8571d6ea4f",
+      "seed": 20261020,
+      "grain_percent": 3,
+      "method": "Uniform monochrome noise +/-3% of 255, rounded to 8-bit; one pass at final dimensions",
+      "dimensions": [
+        1080,
+        1440
+      ],
+      "max_channel_change": 8.0,
+      "changed_pixel_fraction": 0.9270839763374485,
+      "noise_mean": 0.0021772119341563786,
+      "noise_stddev": 4.421153863419371,
+      "unexpected_pixel_changes": 0.0,
+      "source_unchanged": true
+    }
+  ],
+  "png_count": 7,
+  "jpeg_count": 7,
+  "dimensions": [
+    1080,
+    1440
+  ],
+  "grain_percent": 3,
+  "grain_passes": 1,
+  "unexpected_pixel_changes": 0,
+  "source_V02_unchanged": true,
+  "zip_entries": 7,
+  "zip_integrity_and_hashes_verified": true,
+  "all_gallery_links_exist": true,
+  "zip_sha256": "28b9c643c05103118b0b0a64f1879746e5dd2fb30b84317041043a62e864565b"
+}

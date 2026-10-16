@@ -1,0 +1,595 @@
+MESURES DE REPÈRE — DESIGN WOR
+Version 01 — 13 octobre 2026
+
+Origine haut gauche. Limites inclusives. Les composantes détectées ne sont pas des blocs sémantiques ; une lettre intérieure ou un chart peut être détecté séparément.
+
+Slide-1.jpg — 1080 × 1440 — Couverture
+Titre en capitales sur trois lignes à gauche ; portrait à droite et micro au premier plan. Carte sombre à gauche : le payout vert est le point focal ; CTA rouge bas droit.
+  composants_rouges : (651,1324) → (1022,1397), boîte 372 × 74 px, surface de masque 21011 px.
+  composants_rouges : (330,144) → (424,238), boîte 95 × 95 px, surface de masque 5100 px.
+  composants_rouges : (559,144) → (628,238), boîte 70 × 95 px, surface de masque 4269 px.
+  composants_rouges : (425,144) → (495,238), boîte 71 × 95 px, surface de masque 4256 px.
+  composants_rouges : (500,145) → (556,238), boîte 57 × 94 px, surface de masque 3951 px.
+  composants_rouges : (280,145) → (332,238), boîte 53 × 94 px, surface de masque 2701 px.
+  composants_verts : (59,606) → (602,771), boîte 544 × 166 px, surface de masque 60850 px.
+  rouge_sature : 2.705% ; RGB le plus fréquent : #FE0000
+  vert_vif : 3.94% ; RGB le plus fréquent : #24FF02
+  blanc_neutre : 5.326% ; RGB le plus fréquent : #FFFFFF
+  sombre : 54.176% ; RGB le plus fréquent : #000000
+
+Slide-2.jpg — 1080 × 1440 — Explication
+Titre centré haut, taux de réussite dans un cartouche rouge ; texte et trois petites cartes à gauche ; portrait à droite. Carte de synthèse sous les trois chiffres.
+  composants_rouges : (236,194) → (959,303), boîte 724 × 110 px, surface de masque 45960 px.
+  composants_rouges : (279,228) → (316,270), boîte 38 × 43 px, surface de masque 1314 px.
+  rouge_sature : 3.395% ; RGB le plus fréquent : #FC0001
+  vert_vif : 0.0% ; RGB le plus fréquent : aucun
+  blanc_neutre : 5.061% ; RGB le plus fréquent : #FFF2F2
+  sombre : 67.449% ; RGB le plus fréquent : #000000
+
+Slide-3.jpg — 1080 × 1440 — Explication
+Deux lignes de titre centrées ; quatre groupes de lecture à gauche ; visage bas droit avec main et stylo ; ordinateur traverse le bas. Accent rouge dans la headline, pas dans les paragraphes.
+  composants_rouges : (297,120) → (965,220), boîte 669 × 101 px, surface de masque 42295 px.
+  composants_rouges : (361,150) → (396,188), boîte 36 × 39 px, surface de masque 1127 px.
+  rouge_sature : 2.872% ; RGB le plus fréquent : #FC0001
+  vert_vif : 0.0% ; RGB le plus fréquent : aucun
+  blanc_neutre : 4.834% ; RGB le plus fréquent : #FFFFFF
+  sombre : 64.406% ; RGB le plus fréquent : #000000
+
+Slide-4.jpg — 1080 × 1440 — Explication
+Titre haut ; perte limite soulignée par un cartouche rouge ; lecture à gauche, portrait à droite ; scène assombrie. Rouge et gras isolent les règles de trading dans le texte.
+  composants_rouges : (508,103) → (984,201), boîte 477 × 99 px, surface de masque 21783 px.
+  rouge_sature : 2.273% ; RGB le plus fréquent : #FE0000
+  vert_vif : 0.0% ; RGB le plus fréquent : aucun
+  blanc_neutre : 3.5% ; RGB le plus fréquent : #FFF2F2
+  sombre : 66.487% ; RGB le plus fréquent : #000000
+
+Slide-5.jpg — 1080 × 1440 — Calcul
+Headline haute sur deux lignes ; gros payout rouge ; carte verte de cible à gauche, deux groupes de calcul dessous ; portrait pensif à droite. Filets verticaux fins organisent les étapes.
+  composants_rouges : (174,162) → (892,272), boîte 719 × 111 px, surface de masque 41710 px.
+  composants_rouges : (1007,371) → (1079,490), boîte 73 × 120 px, surface de masque 1516 px.
+  composants_rouges : (669,196) → (706,237), boîte 38 × 42 px, surface de masque 1292 px.
+  composants_rouges : (854,327) → (987,368), boîte 134 × 42 px, surface de masque 956 px.
+  composants_verts : (102,679) → (151,764), boîte 50 × 86 px, surface de masque 2304 px.
+  composants_verts : (326,684) → (378,755), boîte 53 × 72 px, surface de masque 2197 px.
+  composants_verts : (268,684) → (320,755), boîte 53 × 72 px, surface de masque 2189 px.
+  composants_verts : (213,685) → (262,755), boîte 50 × 71 px, surface de masque 2145 px.
+  composants_verts : (494,1209) → (540,1242), boîte 47 × 34 px, surface de masque 805 px.
+  rouge_sature : 3.046% ; RGB le plus fréquent : #FB0102
+  vert_vif : 0.888% ; RGB le plus fréquent : #24FF02
+  blanc_neutre : 6.244% ; RGB le plus fréquent : #FFF2F2
+  sombre : 59.095% ; RGB le plus fréquent : #000000
+
+Slide-6.jpg — 1080 × 1440 — Conclusion
+Logo centré en haut ; deux lignes chiffres rouge/vert ; explication centrale ; deux portraits bas ; CTA au niveau du torse. Footer centré, pas de capsule Swipe.
+  composants_rouges : (501,217) → (930,308), boîte 430 × 92 px, surface de masque 21364 px.
+  composants_rouges : (422,1186) → (747,1243), boîte 326 × 58 px, surface de masque 12518 px.
+  composants_verts : (119,318) → (438,409), boîte 320 × 92 px, surface de masque 19465 px.
+  rouge_sature : 2.239% ; RGB le plus fréquent : #FC0001
+  vert_vif : 1.258% ; RGB le plus fréquent : #06FF01
+  blanc_neutre : 6.257% ; RGB le plus fréquent : #FFFFFF
+  sombre : 65.597% ; RGB le plus fréquent : #040404
+
+Slide-7.jpg — 1080 × 1350 — Conclusion autre marque
+Plan large du plateau, lumière ambre forte en haut ; dégradé noir sous la table ; promesse et CTA centrés ; halo vert en bas. Footer ChartFanatics : exception à ne pas importer dans WOR.
+  composants_rouges : (448,949) → (678,1009), boîte 231 × 61 px, surface de masque 9330 px.
+  composants_rouges : (391,0) → (730,132), boîte 340 × 133 px, surface de masque 9229 px.
+  composants_rouges : (491,91) → (571,178), boîte 81 × 88 px, surface de masque 3819 px.
+  rouge_sature : 2.03% ; RGB le plus fréquent : #FD0002
+  vert_vif : 0.0% ; RGB le plus fréquent : aucun
+  blanc_neutre : 5.427% ; RGB le plus fréquent : #FFFFFF
+  sombre : 38.607% ; RGB le plus fréquent : #020202
+
+Slide-1 (1).jpg — 1080 × 1440 — Couverture
+Titre centré haut ; $1M surdimensionné à gauche de la qualification rouge ; trait rouge sous le titre ; flèche blanche vers le visage ; ordinateur couvre le bas.
+  composants_rouges : (480,168) → (985,326), boîte 506 × 159 px, surface de masque 52663 px.
+  composants_rouges : (319,422) → (987,451), boîte 669 × 30 px, surface de masque 3926 px.
+  rouge_sature : 3.79% ; RGB le plus fréquent : #FF0101
+  vert_vif : 0.0% ; RGB le plus fréquent : aucun
+  blanc_neutre : 9.578% ; RGB le plus fréquent : #FFFFFF
+  sombre : 42.658% ; RGB le plus fréquent : #131313
+
+Slide-2 (1).jpg — 1080 × 1440 — Explication
+Titre haut ; deuxième phrase sur rouge ; deux cartes comparatives vert/rouge à gauche avec pictogrammes circulaires ; portrait à droite ; conclusion en deux bandes blanches légèrement inclinées.
+  composants_rouges : (27,175) → (1050,265), boîte 1024 × 91 px, surface de masque 51800 px.
+  rouge_sature : 3.792% ; RGB le plus fréquent : #FD0002
+  vert_vif : 0.727% ; RGB le plus fréquent : #49FF31
+  blanc_neutre : 7.102% ; RGB le plus fréquent : #FFFFFF
+  sombre : 47.332% ; RGB le plus fréquent : #020202
+
+Slide-3 (1).jpg — 1080 × 1440 — Explication
+Titre centré et cartouche rouge sur la force relative ; portrait à gauche ; carte sombre de lecture à droite ; conclusion en bandes blanches inclinées sous la carte.
+  composants_rouges : (69,175) → (1007,265), boîte 939 × 91 px, surface de masque 46401 px.
+  rouge_sature : 3.629% ; RGB le plus fréquent : #FD0002
+  vert_vif : 0.541% ; RGB le plus fréquent : #2AFF29
+  blanc_neutre : 7.732% ; RGB le plus fréquent : #FFFFFF
+  sombre : 55.531% ; RGB le plus fréquent : #010101
+
+Slide-4 (1).jpg — 1080 × 1440 — Exemple
+Titre haut sur trois lignes avec rouge ; portrait à gauche ; lecture et petit chart à droite. Le chart est un insert bordé ; mots clés en gras dans les paragraphes.
+  composants_rouges : (143,123) → (942,300), boîte 800 × 178 px, surface de masque 73190 px.
+  rouge_sature : 5.029% ; RGB le plus fréquent : #FE0000
+  vert_vif : 0.1% ; RGB le plus fréquent : #01FA6C
+  blanc_neutre : 6.427% ; RGB le plus fréquent : #FFFFFF
+  sombre : 59.98% ; RGB le plus fréquent : #020202
+
+Slide-5 (1).jpg — 1080 × 1440 — Leçon
+Titre centré sur trois lignes ; feedback en rouge ; portrait central ; deux petits groupes de lecture de chaque côté, fond presque noir. Composition dense, à adapter avec peu de texte.
+  composants_rouges : (82,150) → (1008,238), boîte 927 × 89 px, surface de masque 45634 px.
+  composants_rouges : (677,158) → (800,190), boîte 124 × 33 px, surface de masque 1409 px.
+  rouge_sature : 3.249% ; RGB le plus fréquent : #FD0002
+  vert_vif : 0.0% ; RGB le plus fréquent : aucun
+  blanc_neutre : 5.077% ; RGB le plus fréquent : #FFFFFF
+  sombre : 49.226% ; RGB le plus fréquent : #020202
+
+Slide-6 (1).jpg — 1080 × 1440 — Conclusion
+Logo haut ; histoire et résultats au centre ; 2024/2025 en blanc et performances vertes ; deux portraits bas ; bouton vidéo noir bordé rouge et petite capsule lien.
+  composants_rouges : (538,1141) → (764,1187), boîte 227 × 47 px, surface de masque 5833 px.
+  composants_rouges : (125,1119) → (954,1260), boîte 830 × 142 px, surface de masque 3807 px.
+  composants_verts : (582,447) → (625,509), boîte 44 × 63 px, surface de masque 1918 px.
+  composants_verts : (660,547) → (705,607), boîte 46 × 61 px, surface de masque 1820 px.
+  composants_verts : (632,447) → (677,507), boîte 46 × 61 px, surface de masque 1809 px.
+  composants_verts : (608,549) → (655,607), boîte 48 × 59 px, surface de masque 1648 px.
+  composants_verts : (531,558) → (572,599), boîte 42 × 42 px, surface de masque 951 px.
+  composants_verts : (533,459) → (574,500), boîte 42 × 42 px, surface de masque 923 px.
+  composants_verts : (720,550) → (764,607), boîte 45 × 58 px, surface de masque 811 px.
+  rouge_sature : 0.642% ; RGB le plus fréquent : #FE0000
+  vert_vif : 0.893% ; RGB le plus fréquent : #2CFF26
+  blanc_neutre : 6.687% ; RGB le plus fréquent : #FFFFFF
+  sombre : 62.393% ; RGB le plus fréquent : #0F0F0F
+
+Slide-7 (1).jpg — 1080 × 1350 — Conclusion
+Plan large clair du plateau ; grand panneau rouge au-dessous ; ligne Link in Bio blanche sous le panneau et soulignement manuscrit. Identité différente de Clement.
+  composants_rouges : (134,785) → (942,977), boîte 809 × 193 px, surface de masque 119293 px.
+  rouge_sature : 8.432% ; RGB le plus fréquent : #FC0001
+  vert_vif : 0.0% ; RGB le plus fréquent : aucun
+  blanc_neutre : 13.045% ; RGB le plus fréquent : #FFFFFF
+  sombre : 34.462% ; RGB le plus fréquent : #120E0B
+
+Slide-1 (2).jpg — 1080 × 1440 — Couverture
+Headline haut gauche ; accent rouge sur AI can test ; phrase de contexte dessous ; écran et robot à gauche ; portrait bas droit ; flèche courbe descendante vers la scène.
+  composants_rouges : (78,86) → (713,206), boîte 636 × 121 px, surface de masque 46064 px.
+  rouge_sature : 3.44% ; RGB le plus fréquent : #FF0101
+  vert_vif : 0.0% ; RGB le plus fréquent : aucun
+  blanc_neutre : 5.983% ; RGB le plus fréquent : #FFFFFF
+  sombre : 50.289% ; RGB le plus fréquent : #010101
+
+Slide-2 (2).jpg — 1080 × 1440 — Explication
+Titre haut ; phrase soulignée rouge ; chiffre 90–95% noir sur blanc à gauche ; backtest et carte sombre bord rouge en dessous ; personnage de dos à droite.
+  composants_rouges : (52,209) → (992,299), boîte 941 × 91 px, surface de masque 52651 px.
+  composants_rouges : (53,470) → (257,525), boîte 205 × 56 px, surface de masque 7441 px.
+  rouge_sature : 4.342% ; RGB le plus fréquent : #FD0002
+  vert_vif : 0.0% ; RGB le plus fréquent : aucun
+  blanc_neutre : 9.37% ; RGB le plus fréquent : #FFFFFF
+  sombre : 59.16% ; RGB le plus fréquent : #010101
+
+Slide-3 (2).jpg — 1080 × 1440 — Processus
+Titre haut gauche ; étapes verticales IDEA → RULES → BACKTEST → VALIDATE → LIVE dans cinq cadres ; paragraphes bas gauche ; grand portrait à droite.
+  composants_rouges : (243,86) → (632,176), boîte 390 × 91 px, surface de masque 19801 px.
+  rouge_sature : 1.435% ; RGB le plus fréquent : #FF0101
+  vert_vif : 0.0% ; RGB le plus fréquent : aucun
+  blanc_neutre : 5.809% ; RGB le plus fréquent : #FFFFFF
+  sombre : 53.063% ; RGB le plus fréquent : #010101
+
+Slide-4 (2).jpg — 1080 × 1440 — Processus
+Titre sur trois lignes ; Don’t ask rouge ; scène de travail derrière ; quatre rangées sombres à droite, libellé à gauche et Test it à droite ; explication courte sous le tableau.
+  composants_rouges : (197,81) → (609,172), boîte 413 × 92 px, surface de masque 21820 px.
+  rouge_sature : 2.415% ; RGB le plus fréquent : #FF0101
+  vert_vif : 0.0% ; RGB le plus fréquent : aucun
+  blanc_neutre : 5.434% ; RGB le plus fréquent : #FFF6F7
+  sombre : 63.297% ; RGB le plus fréquent : #010101
+
+Slide-5 (2).jpg — 1080 × 1440 — Comparaison
+Headline haute décalée à droite ; portrait pensif à gauche ; deux feuilles déchirées 3 RULES / 15 RULES au centre/droite ; phrase de synthèse et deux cartes à filet rouge en bas.
+  composants_rouges : (277,102) → (683,174), boîte 407 × 73 px, surface de masque 17544 px.
+  composants_rouges : (941,863) → (1025,943), boîte 85 × 81 px, surface de masque 3546 px.
+  rouge_sature : 1.758% ; RGB le plus fréquent : #FF0202
+  vert_vif : 0.319% ; RGB le plus fréquent : #30FF0F
+  blanc_neutre : 17.633% ; RGB le plus fréquent : #FFFFFF
+  sombre : 50.813% ; RGB le plus fréquent : #010101
+
+Slide-6 (2).jpg — 1080 × 1440 — Conclusion
+Logo haut gauche, biographie en colonne supérieure ; deux cartes de distinction au centre ; portraits gauche/droite bas ; bouton vidéo sur la jointure et footer centré.
+  composants_rouges : (565,1141) → (767,1187), boîte 203 × 47 px, surface de masque 5190 px.
+  composants_rouges : (201,1119) → (915,1260), boîte 715 × 142 px, surface de masque 3334 px.
+  rouge_sature : 0.708% ; RGB le plus fréquent : #FE0000
+  vert_vif : 0.0% ; RGB le plus fréquent : aucun
+  blanc_neutre : 4.914% ; RGB le plus fréquent : #FFFFFF
+  sombre : 69.223% ; RGB le plus fréquent : #000000
+
+Slide-7 (2).jpg — 1080 × 1350 — Conclusion
+Plan large de l’entretien ; CTA blanc centré sous la table ; nom CONNOR rouge ; soulignement manuscrit sous full episode ; footer centré. Identité différente de Matteo.
+  composants_rouges : (525,942) → (842,999), boîte 318 × 58 px, surface de masque 11514 px.
+  rouge_sature : 0.866% ; RGB le plus fréquent : #FE0000
+  vert_vif : 0.0% ; RGB le plus fréquent : aucun
+  blanc_neutre : 14.667% ; RGB le plus fréquent : #FFFFFF
+  sombre : 41.829% ; RGB le plus fréquent : #100C09
+
+Slide-1 (3).jpg — 1080 × 1350 — Couverture
+Portrait haut droite ; profil de volume vert/rouge haut gauche ; titre au milieu/bas, Gamma Levels en rouge ; phrase d’opposition sous le titre ; dégradé bas.
+  composants_rouges : (307,842) → (1007,946), boîte 701 × 105 px, surface de masque 42826 px.
+  composants_rouges : (170,296) → (230,385), boîte 61 × 90 px, surface de masque 2813 px.
+  composants_rouges : (914,130) → (989,183), boîte 76 × 54 px, surface de masque 1239 px.
+  composants_rouges : (969,0) → (1079,16), boîte 111 × 17 px, surface de masque 1212 px.
+  composants_rouges : (1000,130) → (1044,184), boîte 45 × 55 px, surface de masque 1018 px.
+  composants_verts : (237,87) → (441,274), boîte 205 × 188 px, surface de masque 17934 px.
+  rouge_sature : 4.149% ; RGB le plus fréquent : #F80000
+  vert_vif : 1.262% ; RGB le plus fréquent : #53FC2F
+  blanc_neutre : 8.707% ; RGB le plus fréquent : #FFFFFF
+  sombre : 24.748% ; RGB le plus fréquent : #020202
+
+Slide-2 (3).jpg — 1080 × 1350 — Présentation
+Question sur une grande bande rouge haute ; expérience dans une petite carte blanche à gauche ; flèches courbes ; portrait central ; grand bloc blanc biographique en bas.
+  composants_rouges : (40,51) → (1045,165), boîte 1006 × 115 px, surface de masque 84489 px.
+  composants_rouges : (93,311) → (132,361), boîte 40 × 51 px, surface de masque 1105 px.
+  composants_rouges : (53,311) → (88,360), boîte 36 × 50 px, surface de masque 928 px.
+  rouge_sature : 6.505% ; RGB le plus fréquent : #FE0000
+  vert_vif : 0.0% ; RGB le plus fréquent : aucun
+  blanc_neutre : 19.891% ; RGB le plus fréquent : #FFFFFF
+  sombre : 18.045% ; RGB le plus fréquent : #010101
+
+Slide-3 (3).jpg — 1080 × 1350 — Définition
+Titre haut centré avec Gamma rouge ; petit schéma manuscrit gauche ; lecture gauche, portrait droite ; carte blanche de conséquence sous le paragraphe.
+  composants_rouges : (491,96) → (893,185), boîte 403 × 90 px, surface de masque 20521 px.
+  rouge_sature : 1.494% ; RGB le plus fréquent : #FD0002
+  vert_vif : 0.05% ; RGB le plus fréquent : #65F22A
+  blanc_neutre : 15.927% ; RGB le plus fréquent : #FFFFFF
+  sombre : 47.042% ; RGB le plus fréquent : #010101
+
+Slide-4 (3).jpg — 1080 × 1350 — Schéma
+Titre centré haut ; graphique horizontal large au centre, niveaux rouges/bleus/verts ; texte centré sous le chart ; pas de portrait. Fond noir et halo discret.
+  composants_rouges : (536,169) → (883,258), boîte 348 × 90 px, surface de masque 17040 px.
+  rouge_sature : 1.428% ; RGB le plus fréquent : #FD0002
+  vert_vif : 0.321% ; RGB le plus fréquent : #5FAF72
+  blanc_neutre : 4.14% ; RGB le plus fréquent : #FFFFFF
+  sombre : 80.81% ; RGB le plus fréquent : #010101
+
+Slide-5 (3).jpg — 1080 × 1350 — Comparaison
+Deux colonnes Positive GEX vert et Negative GEX rouge ; sous-titres et charts en miroir ; portrait central bas. Le contraste des labels suffit à hiérarchiser.
+  composants_rouges : (573,217) → (1022,300), boîte 450 × 84 px, surface de masque 21515 px.
+  composants_rouges : (783,526) → (987,563), boîte 205 × 38 px, surface de masque 852 px.
+  composants_verts : (69,217) → (493,301), boîte 425 × 85 px, surface de masque 21411 px.
+  rouge_sature : 1.986% ; RGB le plus fréquent : #FD0002
+  vert_vif : 1.87% ; RGB le plus fréquent : #39FD39
+  blanc_neutre : 10.566% ; RGB le plus fréquent : #FFFFFF
+  sombre : 56.577% ; RGB le plus fréquent : #020202
+
+Slide-6 (3).jpg — 1080 × 1350 — Leçon
+Titre dans une capsule noire à bord fin avec vert ; carte de contraste rouge/vert à gauche ; portrait grand à droite ; décor chaud conservé derrière la tête.
+  composants_rouges : (70,288) → (439,351), boîte 370 × 64 px, surface de masque 16480 px.
+  composants_verts : (70,457) → (218,520), boîte 149 × 64 px, surface de masque 7308 px.
+  composants_verts : (706,100) → (751,164), boîte 46 × 65 px, surface de masque 2014 px.
+  composants_verts : (869,100) → (915,164), boîte 47 × 65 px, surface de masque 2014 px.
+  composants_verts : (588,85) → (634,147), boîte 47 × 63 px, surface de masque 1800 px.
+  composants_verts : (819,85) → (865,147), boîte 47 × 63 px, surface de masque 1788 px.
+  composants_verts : (774,85) → (815,147), boîte 42 × 63 px, surface de masque 1787 px.
+  composants_verts : (405,100) → (451,162), boîte 47 × 63 px, surface de masque 1772 px.
+  composants_verts : (278,85) → (324,147), boîte 47 × 63 px, surface de masque 1711 px.
+  rouge_sature : 1.263% ; RGB le plus fréquent : #FE0000
+  vert_vif : 2.033% ; RGB le plus fréquent : #00FF01
+  blanc_neutre : 10.202% ; RGB le plus fréquent : #FEFEFE
+  sombre : 42.665% ; RGB le plus fréquent : #020202
+
+Slide-1 (4).jpg — 1080 × 1350 — Couverture
+Portrait haut/droite et micro gauche ; headline centrée au tiers inférieur ; $800M+ rouge ; bande blanche d’identité en dessous ; flèche blanche vers le sujet.
+  composants_rouges : (523,855) → (953,965), boîte 431 × 111 px, surface de masque 24533 px.
+  rouge_sature : 2.238% ; RGB le plus fréquent : #FA0001
+  vert_vif : 0.0% ; RGB le plus fréquent : aucun
+  blanc_neutre : 10.631% ; RGB le plus fréquent : #F9F9F9
+  sombre : 22.36% ; RGB le plus fréquent : #020202
+
+Slide-2 (4).jpg — 1080 × 1350 — Présentation
+Portrait grande échelle ; nom dans une bande rouge à gauche ; flèche vers la tête ; grande carte blanche biographique au milieu/bas ; plateau chaud.
+  composants_rouges : (78,620) → (724,800), boîte 647 × 181 px, surface de masque 58266 px.
+  rouge_sature : 4.156% ; RGB le plus fréquent : #FE0000
+  vert_vif : 0.0% ; RGB le plus fréquent : aucun
+  blanc_neutre : 9.901% ; RGB le plus fréquent : #FFFFFF
+  sombre : 17.228% ; RGB le plus fréquent : #010101
+
+Slide-3 (4).jpg — 1080 × 1350 — Leçon
+Headline haute centrée et Ignore rouge ; visage central mains aux tempes ; carte blanche centrale sur le torse avec formule courte ; table visible en bas.
+  composants_rouges : (681,145) → (998,230), boîte 318 × 86 px, surface de masque 12637 px.
+  rouge_sature : 0.999% ; RGB le plus fréquent : #FE0000
+  vert_vif : 0.0% ; RGB le plus fréquent : aucun
+  blanc_neutre : 16.248% ; RGB le plus fréquent : #FFFFFF
+  sombre : 21.462% ; RGB le plus fréquent : #030303
+
+Slide-4 (4).jpg — 1080 × 1350 — Leçon
+Titre haut $800M+ rouge ; trois validations vertes à gauche, flèche blanche ; portrait penché écrivant à droite ; table et documents en bas.
+  composants_rouges : (124,115) → (492,211), boîte 369 × 97 px, surface de masque 20500 px.
+  composants_verts : (65,390) → (104,426), boîte 40 × 37 px, surface de masque 993 px.
+  composants_verts : (65,315) → (104,351), boîte 40 × 37 px, surface de masque 990 px.
+  composants_verts : (65,463) → (104,499), boîte 40 × 37 px, surface de masque 972 px.
+  rouge_sature : 1.591% ; RGB le plus fréquent : #FE0000
+  vert_vif : 0.203% ; RGB le plus fréquent : #63FF3A
+  blanc_neutre : 9.704% ; RGB le plus fréquent : #FFFFFF
+  sombre : 43.999% ; RGB le plus fréquent : #030303
+
+Slide-5 (4).jpg — 1080 × 1350 — Conclusion
+Plan large deux intervenants ; titre centré sous la table, Professional rouge ; CTA comment Darrell rouge ; soulignement manuscrit ; marque centrée.
+  composants_rouges : (423,833) → (850,908), boîte 428 × 76 px, surface de masque 21429 px.
+  composants_rouges : (437,988) → (682,1045), boîte 246 × 58 px, surface de masque 9481 px.
+  rouge_sature : 2.391% ; RGB le plus fréquent : #F00001
+  vert_vif : 0.0% ; RGB le plus fréquent : #5FAA55
+  blanc_neutre : 5.009% ; RGB le plus fréquent : #FFFFFF
+  sombre : 38.714% ; RGB le plus fréquent : #010101
+
+Slide-6 (4).jpg — 1080 × 1350 — Leçon
+Titre haut Risk First rouge ; contraste Not rouge barré / But vert ; portrait central avec doigt à la tempe ; carte sombre d’explication en bas. Invité différent de Darrell.
+  composants_rouges : (375,187) → (706,262), boîte 332 × 76 px, surface de masque 14404 px.
+  rouge_sature : 1.387% ; RGB le plus fréquent : #FE0000
+  vert_vif : 0.079% ; RGB le plus fréquent : #67FF55
+  blanc_neutre : 4.807% ; RGB le plus fréquent : #FFFFFF
+  sombre : 64.136% ; RGB le plus fréquent : #030303
+
+Slide-1 (5).jpg — 1080 × 1350 — Couverture
+Titre haut centré avec Never Track rouge ; grand portrait frontal ; flèches blanches haut gauche et sur épaule ; deux bandes blanches basses, $50M rouge.
+  composants_rouges : (571,134) → (1053,216), boîte 483 × 83 px, surface de masque 23084 px.
+  composants_rouges : (194,1026) → (415,1103), boîte 222 × 78 px, surface de masque 10345 px.
+  rouge_sature : 2.479% ; RGB le plus fréquent : #FE0000
+  vert_vif : 0.001% ; RGB le plus fréquent : #72C90B
+  blanc_neutre : 10.743% ; RGB le plus fréquent : #FBFBFB
+  sombre : 16.643% ; RGB le plus fréquent : #030303
+
+Slide-2 (5).jpg — 1080 × 1350 — Présentation
+Question rouge haut gauche ; sujet à droite regard latéral ; flèche rouge vers le visage ; carte biographique sombre basse ; phrase contextuelle sous la carte.
+  composants_rouges : (25,60) → (671,240), boîte 647 × 181 px, surface de masque 60150 px.
+  composants_rouges : (388,264) → (604,435), boîte 217 × 172 px, surface de masque 3208 px.
+  rouge_sature : 4.496% ; RGB le plus fréquent : #FE0000
+  vert_vif : 0.0% ; RGB le plus fréquent : aucun
+  blanc_neutre : 17.622% ; RGB le plus fréquent : #FFFFFF
+  sombre : 30.288% ; RGB le plus fréquent : #030303
+
+Slide-3 (5).jpg — 1080 × 1350 — Explication
+Titre sur fond blanc en haut, noir et rouge ; chart montant derrière ; portrait à droite ; carte d’exemple gauche ; bande translucide de conséquence en bas.
+  composants_rouges : (916,736) → (952,803), boîte 37 × 68 px, surface de masque 1078 px.
+  rouge_sature : 0.313% ; RGB le plus fréquent : #FF0306
+  vert_vif : 0.321% ; RGB le plus fréquent : #31CF5E
+  blanc_neutre : 16.145% ; RGB le plus fréquent : #FFFFFF
+  sombre : 37.065% ; RGB le plus fréquent : #020202
+
+Slide-4 (5).jpg — 1080 × 1350 — Calcul
+Headline gauche, nom rouge ; sujet à droite avec bureau ; carte sombre de quatre trades à gauche ; flèche vers le total rouge ; phrase de conseil sous le total.
+  composants_rouges : (89,966) → (955,1039), boîte 867 × 74 px, surface de masque 44084 px.
+  composants_rouges : (47,87) → (350,162), boîte 304 × 76 px, surface de masque 14866 px.
+  rouge_sature : 4.267% ; RGB le plus fréquent : #FE0000
+  vert_vif : 0.008% ; RGB le plus fréquent : #01A05E
+  blanc_neutre : 8.489% ; RGB le plus fréquent : #FFFFFF
+  sombre : 57.736% ; RGB le plus fréquent : #030303
+
+Slide-5 (5).jpg — 1080 × 1350 — Comparaison
+Deux situations empilées : baisse/alertes en haut, hausse/validations en bas ; charts sur noir ; injonctions sur deux longues bandes rouges. Grande flèche de baisse.
+  composants_rouges : (97,1096) → (1006,1162), boîte 910 × 67 px, surface de masque 43503 px.
+  composants_rouges : (76,568) → (746,634), boîte 671 × 67 px, surface de masque 32262 px.
+  composants_rouges : (786,357) → (875,457), boîte 90 × 101 px, surface de masque 4163 px.
+  rouge_sature : 6.451% ; RGB le plus fréquent : #FE0000
+  vert_vif : 0.575% ; RGB le plus fréquent : #00D126
+  blanc_neutre : 6.183% ; RGB le plus fréquent : #FFFFFF
+  sombre : 74.504% ; RGB le plus fréquent : #000000
+
+Slide-6 (5).jpg — 1080 × 1350 — Conclusion
+Plan large entretien avec Jim ; promesse centrée sous la table ; 4,200% dans le rouge ; CTA JIM rouge ; footer centré. Invité différent de Connor.
+  composants_rouges : (183,902) → (893,973), boîte 711 × 72 px, surface de masque 35075 px.
+  composants_rouges : (478,1026) → (642,1083), boîte 165 × 58 px, surface de masque 7090 px.
+  rouge_sature : 3.06% ; RGB le plus fréquent : #FE0000
+  vert_vif : 0.0% ; RGB le plus fréquent : aucun
+  blanc_neutre : 10.661% ; RGB le plus fréquent : #FFFFFF
+  sombre : 45.856% ; RGB le plus fréquent : #020202
+
+Slide-1 (6).jpg — 1080 × 1350 — Couverture
+Titre haut sur deux lignes, $50+ Million rouge ; tête frontale très grande ; flèches blanches ; accroche basse et carte blanche Repeatable System ; footer stable.
+  composants_rouges : (212,118) → (779,221), boîte 568 × 104 px, surface de masque 31906 px.
+  rouge_sature : 2.377% ; RGB le plus fréquent : #FE0000
+  vert_vif : 0.001% ; RGB le plus fréquent : #72D12B
+  blanc_neutre : 8.87% ; RGB le plus fréquent : #FCFCFC
+  sombre : 17.08% ; RGB le plus fréquent : #030303
+
+Slide-2 (6).jpg — 1080 × 1350 — Présentation
+Même scène latérale que la famille (5) ; question rouge haut gauche ; carte noire biographique centrée en bas ; un groupe de contexte supplémentaire dessous.
+  composants_rouges : (25,60) → (671,240), boîte 647 × 181 px, surface de masque 60175 px.
+  composants_rouges : (388,264) → (604,435), boîte 217 × 172 px, surface de masque 3212 px.
+  rouge_sature : 4.498% ; RGB le plus fréquent : #FE0000
+  vert_vif : 0.0% ; RGB le plus fréquent : aucun
+  blanc_neutre : 17.982% ; RGB le plus fréquent : #FFFFFF
+  sombre : 30.794% ; RGB le plus fréquent : #030303
+
+Slide-3 (6).jpg — 1080 × 1350 — Leçon
+Headline noire sur deux bandes blanches hautes ; Stay Consistent rouge ; portrait central et chart montant derrière ; formule blanche centrale au torse.
+  composants_rouges : (466,164) → (513,211), boîte 48 × 48 px, surface de masque 1467 px.
+  composants_rouges : (582,152) → (638,211), boîte 57 × 60 px, surface de masque 1455 px.
+  composants_rouges : (391,152) → (433,211), boîte 43 × 60 px, surface de masque 1422 px.
+  composants_rouges : (876,164) → (921,211), boîte 46 × 48 px, surface de masque 1347 px.
+  composants_rouges : (643,164) → (690,211), boîte 48 × 48 px, surface de masque 1306 px.
+  composants_rouges : (517,165) → (565,232), boîte 49 × 68 px, surface de masque 1281 px.
+  composants_rouges : (927,164) → (971,210), boîte 45 × 47 px, surface de masque 1238 px.
+  composants_rouges : (696,164) → (739,210), boîte 44 × 47 px, surface de masque 1222 px.
+  rouge_sature : 1.471% ; RGB le plus fréquent : #FE0000
+  vert_vif : 0.221% ; RGB le plus fréquent : #00F26C
+  blanc_neutre : 9.742% ; RGB le plus fréquent : #FFFFFF
+  sombre : 41.523% ; RGB le plus fréquent : #030303
+
+Slide-4 (6).jpg — 1080 × 1350 — Leçon
+Scène bureau sombre ; personne droite ; titre au milieu/bas $50M+ rouge ; trois validations vertes dessous ; flèche blanche près du micro.
+  composants_rouges : (705,860) → (993,950), boîte 289 × 91 px, surface de masque 17486 px.
+  composants_rouges : (254,607) → (308,630), boîte 55 × 24 px, surface de masque 861 px.
+  rouge_sature : 1.418% ; RGB le plus fréquent : #FE0000
+  vert_vif : 0.105% ; RGB le plus fréquent : #6EFF64
+  blanc_neutre : 7.812% ; RGB le plus fréquent : #FFFFFF
+  sombre : 59.815% ; RGB le plus fréquent : #030303
+
+Slide-5 (6).jpg — 1080 × 1350 — Conclusion
+Plan large du plateau ; promesse et Top 1% Of Traders rouge dans le tiers inférieur ; consigne comment CONNOR rouge ; footer centré.
+  composants_rouges : (224,831) → (855,910), boîte 632 × 80 px, surface de masque 33240 px.
+  composants_rouges : (408,988) → (712,1045), boîte 305 × 58 px, surface de masque 11134 px.
+  rouge_sature : 3.282% ; RGB le plus fréquent : #E80000
+  vert_vif : 0.0% ; RGB le plus fréquent : aucun
+  blanc_neutre : 12.698% ; RGB le plus fréquent : #FFFFFF
+  sombre : 37.696% ; RGB le plus fréquent : #110D0A
+
+Slide-1 (7).jpg — 1080 × 1350 — Couverture
+Portrait plein cadre ; rendement sur capsule verte, titre bas centré avec capsule rouge ; phrase de contexte légère dessous ; fond bas presque noir.
+  composants_rouges : (125,942) → (696,1025), boîte 572 × 84 px, surface de masque 28174 px.
+  composants_rouges : (699,942) → (943,1025), boîte 245 × 84 px, surface de masque 11877 px.
+  composants_verts : (110,745) → (966,847), boîte 857 × 103 px, surface de masque 49331 px.
+  rouge_sature : 3.066% ; RGB le plus fréquent : #FE0000
+  vert_vif : 3.651% ; RGB le plus fréquent : #00BF00
+  blanc_neutre : 5.09% ; RGB le plus fréquent : #FFFFFF
+  sombre : 36.769% ; RGB le plus fréquent : #030303
+
+Slide-2 (7).jpg — 1080 × 1350 — Présentation
+Question rouge et flèche rouge ; portrait Connor latéral ; biographie sombre en bas et contexte dessous. Ne pas l’utiliser pour présenter John.
+  composants_rouges : (25,60) → (671,240), boîte 647 × 181 px, surface de masque 59872 px.
+  composants_rouges : (388,264) → (604,435), boîte 217 × 172 px, surface de masque 3206 px.
+  rouge_sature : 4.477% ; RGB le plus fréquent : #FE0000
+  vert_vif : 0.0% ; RGB le plus fréquent : aucun
+  blanc_neutre : 13.513% ; RGB le plus fréquent : #FFFFFF
+  sombre : 30.951% ; RGB le plus fréquent : #030303
+
+Slide-3 (7).jpg — 1080 × 1350 — Leçon
+Portrait de profil à droite avec micro ; slogan blanc sur capsule rouge médiane ; bande blanche avec deux objections ; courte conséquence blanche dessous.
+  composants_rouges : (50,882) → (1029,970), boîte 980 × 89 px, surface de masque 54569 px.
+  rouge_sature : 4.045% ; RGB le plus fréquent : #FE0000
+  vert_vif : 0.0% ; RGB le plus fréquent : aucun
+  blanc_neutre : 7.343% ; RGB le plus fréquent : #FFFFFF
+  sombre : 51.269% ; RGB le plus fréquent : #030303
+
+Slide-4 (7).jpg — 1080 × 1350 — Leçon
+Grand portrait frontal ; capsule rouge médiane ; sous-titre avec contour/ombre marquée et NOT rouge ; conclusion centrée sur deux lignes.
+  composants_rouges : (115,859) → (965,955), boîte 851 × 97 px, surface de masque 50023 px.
+  rouge_sature : 4.071% ; RGB le plus fréquent : #FE0000
+  vert_vif : 0.0% ; RGB le plus fréquent : aucun
+  blanc_neutre : 6.665% ; RGB le plus fréquent : #FFFFFF
+  sombre : 33.816% ; RGB le plus fréquent : #000000
+
+Slide-5 (7).jpg — 1080 × 1350 — Conclusion
+Panneau blanc/rouge de contexte en haut ; deux intervenants sur plateau ; Full breakdown bas, consigne JOHN rouge ; soulignement rouge ; footer centré.
+  composants_rouges : (74,37) → (1005,124), boîte 932 × 88 px, surface de masque 54315 px.
+  composants_rouges : (455,1052) → (669,1104), boîte 215 × 53 px, surface de masque 7454 px.
+  composants_rouges : (672,1177) → (986,1198), boîte 315 × 22 px, surface de masque 902 px.
+  rouge_sature : 4.541% ; RGB le plus fréquent : #FE0000
+  vert_vif : 0.0% ; RGB le plus fréquent : aucun
+  blanc_neutre : 12.698% ; RGB le plus fréquent : #FFFFFF
+  sombre : 44.499% ; RGB le plus fréquent : #030303
+
+Slide-1 (8).jpg — 1080 × 1350 — Couverture
+Portrait frontal plein cadre ; headline médiane ; $5M+ In Trading Profits en longue bande rouge ; sous-titre centré dessous ; footer bas gauche.
+  composants_rouges : (39,895) → (1038,1006), boîte 1000 × 112 px, surface de masque 68471 px.
+  rouge_sature : 4.916% ; RGB le plus fréquent : #FE0000
+  vert_vif : 0.0% ; RGB le plus fréquent : aucun
+  blanc_neutre : 6.445% ; RGB le plus fréquent : #FFFFFF
+  sombre : 31.105% ; RGB le plus fréquent : #141414
+
+Slide-2 (8).jpg — 1080 × 1350 — Présentation
+Question sur panneau rouge haut gauche avec filet blanc ; flèche pointillée ; visage John à droite ; grande carte blanche biographique en bas. Invité différent de Gala.
+  composants_rouges : (0,93) → (554,379), boîte 555 × 287 px, surface de masque 128292 px.
+  rouge_sature : 9.0% ; RGB le plus fréquent : #FE0000
+  vert_vif : 0.0% ; RGB le plus fréquent : aucun
+  blanc_neutre : 19.704% ; RGB le plus fréquent : #FFFFFF
+  sombre : 18.929% ; RGB le plus fréquent : #040404
+
+Slide-3 (8).jpg — 1080 × 1350 — Leçon
+Capsule rouge haute ; portrait central ; quatre bandes blanches courtes en escalier dans la moitié basse ; traits soulignent certains groupes.
+  composants_rouges : (35,37) → (1045,124), boîte 1011 × 88 px, surface de masque 62290 px.
+  rouge_sature : 4.468% ; RGB le plus fréquent : #FF000E
+  vert_vif : 0.0% ; RGB le plus fréquent : aucun
+  blanc_neutre : 14.662% ; RGB le plus fréquent : #FFFFFF
+  sombre : 13.325% ; RGB le plus fréquent : #010101
+
+Slide-4 (8).jpg — 1080 × 1350 — Leçon
+Capsule rouge haute ; portrait dominant ; quatre bandes blanches de liste au milieu/bas ; fond ambre encore visible sur les côtés.
+  composants_rouges : (87,0) → (1079,165), boîte 993 × 166 px, surface de masque 69874 px.
+  rouge_sature : 5.126% ; RGB le plus fréquent : #FF000E
+  vert_vif : 0.0% ; RGB le plus fréquent : aucun
+  blanc_neutre : 15.516% ; RGB le plus fréquent : #FFFFFF
+  sombre : 17.175% ; RGB le plus fréquent : #010101
+
+Slide-5 (8).jpg — 1080 × 1350 — Conclusion
+Promesse centrée haute avec capsule rouge ; deux portraits bas ; Full breakdown et CTA GALA au torse ; soulignement rouge et footer centré.
+  composants_rouges : (36,221) → (1044,295), boîte 1009 × 75 px, surface de masque 52781 px.
+  composants_rouges : (458,1052) → (665,1107), boîte 208 × 56 px, surface de masque 8316 px.
+  composants_rouges : (672,1180) → (987,1201), boîte 316 × 22 px, surface de masque 935 px.
+  rouge_sature : 4.429% ; RGB le plus fréquent : #FE0000
+  vert_vif : 0.0% ; RGB le plus fréquent : aucun
+  blanc_neutre : 5.707% ; RGB le plus fréquent : #FFFFFF
+  sombre : 45.972% ; RGB le plus fréquent : #030303
+
+Slide-1 (9).jpg — 1080 × 1350 — Couverture
+Portrait frontal blanc/ambre avec fond bleu ; headline basse rendement sur rouge, puis World Records blanc ; phrase de contexte dessous ; flèche blanche pointillée.
+  composants_rouges : (99,821) → (528,946), boîte 430 × 126 px, surface de masque 31505 px.
+  rouge_sature : 2.407% ; RGB le plus fréquent : #EA0001
+  vert_vif : 0.0% ; RGB le plus fréquent : aucun
+  blanc_neutre : 5.135% ; RGB le plus fréquent : #EEEEEE
+  sombre : 35.942% ; RGB le plus fréquent : #000000
+
+Slide-2 (9).jpg — 1080 × 1350 — Présentation
+Question sur panneau rouge haut gauche ; flèche pointillée ; grand portrait Gala ; biographie sur blanc dans le tiers inférieur. Invité différent de Jim.
+  composants_rouges : (0,93) → (466,379), boîte 467 × 287 px, surface de masque 107011 px.
+  rouge_sature : 7.599% ; RGB le plus fréquent : #FF000B
+  vert_vif : 0.0% ; RGB le plus fréquent : aucun
+  blanc_neutre : 20.437% ; RGB le plus fréquent : #FFFFFF
+  sombre : 17.545% ; RGB le plus fréquent : #010101
+
+Slide-3 (9).jpg — 1080 × 1350 — Leçon
+Titre haut sur deux bandes rouges ; portrait droite ; flèche blanche descendante et trois croix rouges à gauche ; leçon noire sur bandes blanches en bas.
+  composants_rouges : (61,42) → (1018,225), boîte 958 × 184 px, surface de masque 88315 px.
+  rouge_sature : 6.394% ; RGB le plus fréquent : #FE0000
+  vert_vif : 0.0% ; RGB le plus fréquent : aucun
+  blanc_neutre : 10.026% ; RGB le plus fréquent : #FFFFFF
+  sombre : 34.04% ; RGB le plus fréquent : #030303
+
+Slide-4 (9).jpg — 1080 × 1350 — Leçon
+Portrait à droite ; flèche blanche pointillée à gauche ; headline médiane #1 Investing Rule rouge ; trois validations vertes dessous.
+  composants_rouges : (238,846) → (1008,947), boîte 771 × 102 px, surface de masque 51658 px.
+  rouge_sature : 3.664% ; RGB le plus fréquent : #FE0000
+  vert_vif : 0.164% ; RGB le plus fréquent : #57FE32
+  blanc_neutre : 5.215% ; RGB le plus fréquent : #FFFFFF
+  sombre : 30.349% ; RGB le plus fréquent : #040404
+
+Slide-5 (9).jpg — 1080 × 1350 — Couverture variante
+Titre haut WARNING rouge avec pictogramme jaune ; portrait plus petit au centre ; chart baissier rouge dans un cadre ; Market Crash rouge/blanc en bas et contexte dessous.
+  composants_rouges : (379,42) → (897,139), boîte 519 × 98 px, surface de masque 30019 px.
+  composants_rouges : (535,841) → (897,950), boîte 363 × 110 px, surface de masque 25977 px.
+  composants_rouges : (872,490) → (1044,581), boîte 173 × 92 px, surface de masque 9132 px.
+  composants_rouges : (54,542) → (556,723), boîte 503 × 182 px, surface de masque 2758 px.
+  composants_rouges : (949,611) → (1032,701), boîte 84 × 91 px, surface de masque 1764 px.
+  composants_rouges : (557,700) → (805,759), boîte 249 × 60 px, surface de masque 1173 px.
+  rouge_sature : 5.126% ; RGB le plus fréquent : #FE0000
+  vert_vif : 0.0% ; RGB le plus fréquent : aucun
+  blanc_neutre : 6.009% ; RGB le plus fréquent : #FFFFFF
+  sombre : 69.421% ; RGB le plus fréquent : #030303
+
+Slide-2 (10).jpg — 1080 × 1350 — Présentation variante
+Question noire/rouge dans un grand panneau blanc haut gauche ; grand point d’interrogation blanc ; portrait droite et flèche jaune ; grande carte translucide biographique basse.
+  composants_rouges : (96,217) → (173,261), boîte 78 × 45 px, surface de masque 2442 px.
+  composants_rouges : (293,216) → (340,283), boîte 48 × 68 px, surface de masque 2254 px.
+  composants_rouges : (346,216) → (390,261), boîte 45 × 46 px, surface de masque 1456 px.
+  composants_rouges : (194,205) → (239,261), boîte 46 × 57 px, surface de masque 1444 px.
+  composants_rouges : (428,216) → (467,261), boîte 40 × 46 px, surface de masque 1275 px.
+  composants_rouges : (25,205) → (64,261), boîte 40 × 57 px, surface de masque 1176 px.
+  rouge_sature : 0.884% ; RGB le plus fréquent : #E80000
+  vert_vif : 0.0% ; RGB le plus fréquent : #58B364
+  blanc_neutre : 13.445% ; RGB le plus fréquent : #FFFFFF
+  sombre : 32.083% ; RGB le plus fréquent : #030303
+
+Slide-4 (10).jpg — 1080 × 1350 — Leçon variante
+Reprise du portrait et de la flèche pointillée ; #1 Investing Rule rouge médian ; trois validations vertes ; liste différente de Slide-4 (9).
+  composants_rouges : (238,890) → (1008,991), boîte 771 × 102 px, surface de masque 51547 px.
+  composants_verts : (289,1171) → (325,1205), boîte 37 × 35 px, surface de masque 820 px.
+  composants_verts : (289,1103) → (325,1137), boîte 37 × 35 px, surface de masque 810 px.
+  rouge_sature : 3.655% ; RGB le plus fréquent : #FE0000
+  vert_vif : 0.166% ; RGB le plus fréquent : #51FF2C
+  blanc_neutre : 5.015% ; RGB le plus fréquent : #FFFFFF
+  sombre : 29.901% ; RGB le plus fréquent : #040404
+
+Slide-2 (11).jpg — 1080 × 1350 — Présentation variante
+Variante très proche de Slide-2 (10), question sans point d’interrogation après le nom dans le cartouche ; grand symbole ? décoratif conservé ; même carte biographique.
+  composants_rouges : (96,217) → (173,261), boîte 78 × 45 px, surface de masque 2440 px.
+  composants_rouges : (293,216) → (340,283), boîte 48 × 68 px, surface de masque 2243 px.
+  composants_rouges : (346,216) → (390,261), boîte 45 × 46 px, surface de masque 1457 px.
+  composants_rouges : (194,205) → (239,248), boîte 46 × 44 px, surface de masque 1332 px.
+  composants_rouges : (428,216) → (467,261), boîte 40 × 46 px, surface de masque 1268 px.
+  composants_rouges : (25,205) → (64,261), boîte 40 × 57 px, surface de masque 1176 px.
+  rouge_sature : 0.884% ; RGB le plus fréquent : #E80000
+  vert_vif : 0.0% ; RGB le plus fréquent : #5FB668
+  blanc_neutre : 13.401% ; RGB le plus fréquent : #FFFFFF
+  sombre : 32.114% ; RGB le plus fréquent : #030303
+

@@ -1,0 +1,19 @@
+{
+  "ModifiedVariants": 5,
+  "InheritedVariants": 8,
+  "InheritedPNGBytesIdentical": true,
+  "Reference11": "Green only",
+  "Reference10": "Two original identities, two microphones, mutual gaze, guest gesture, two blurred foreground listeners",
+  "Titles": "Visually checked on all five revisions and 320px overview",
+  "Faces": "Eight localized face cores unchanged; ref10 is a new guided composition",
+  "Seams": "Checked on full-size masters after local compositing",
+  "StaticLinksChecked": [
+    "apercus/Planche_13_variantes.jpg",
+    "README.txt",
+    "apercus/avant_V07/Sampsa_11_Green_1280.jpg",
+    "apercus/Sampsa_11_Green_1280.jpg"
+  ],
+  "SourcePhotoLinks": "All present",
+  "VisualQA": "Passed",
+  "Date": "2026-10-15T15:09:08.7464708+01:00"
+}

@@ -1,0 +1,18 @@
+$ErrorActionPreference='Stop';Add-Type -AssemblyName System.Drawing
+$root=Split-Path (Split-Path $PSScriptRoot);$assets=Join-Path $root 'Masters\V10_Expression';$runtime=Split-Path ([System.Drawing.Bitmap].Assembly.Location)
+$code=@'
+using System;using System.Drawing;using System.Drawing.Imaging;using System.Runtime.InteropServices;
+public static class ExpressionV10 {
+ static byte[] Read(Bitmap b){var d=b.LockBits(new Rectangle(0,0,b.Width,b.Height),ImageLockMode.ReadOnly,PixelFormat.Format32bppArgb);var v=new byte[d.Stride*b.Height];Marshal.Copy(d.Scan0,v,0,v.Length);b.UnlockBits(d);return v;}
+ static void Write(Bitmap b,byte[] v){var d=b.LockBits(new Rectangle(0,0,b.Width,b.Height),ImageLockMode.WriteOnly,PixelFormat.Format32bppArgb);Marshal.Copy(v,0,d.Scan0,v.Length);b.UnlockBits(d);}
+ public static long[] Apply(Bitmap dst,Bitmap patch,Bitmap mask){var a=Read(dst);var original=(byte[])a.Clone();var b=Read(patch);var m=Read(mask);int pw=patch.Width,ph=patch.Height;long n=0,outside=0;for(int y=0;y<ph;y++)for(int x=0;x<pw;x++){double dx=(x-224.0)/125.0,dy=(y-250.0)/146.0;double r=Math.Sqrt(dx*dx+dy*dy);double t=Math.Min(1,Math.Max(0,(1-r)/.14));t=t*t*(3-2*t);int q=(y*pw+x)*4,p=((y+25)*dst.Width+x+900)*4;m[q+3]=(byte)Math.Round(t*255);m[q]=m[q+1]=m[q+2]=255;for(int c=0;c<3;c++)a[p+c]=(byte)Math.Round(a[p+c]*(1-t)+b[q+c]*t);}
+ for(int y=0;y<dst.Height;y++)for(int x=0;x<dst.Width;x++){int p=(y*dst.Width+x)*4;bool changed=a[p]!=original[p]||a[p+1]!=original[p+1]||a[p+2]!=original[p+2];if(changed){n++;double dx=(x-900-224.0)/125.0,dy=(y-25-250.0)/146.0;if(dx*dx+dy*dy>=1)outside++;}}Write(dst,a);Write(mask,m);return new long[]{n,outside};}
+}
+'@
+Add-Type -TypeDefinition $code -ReferencedAssemblies @([System.Drawing.Bitmap].Assembly.Location,[System.Drawing.Point].Assembly.Location,(Join-Path $runtime 'System.Private.Windows.GdiPlus.dll'),(Join-Path $runtime 'System.Private.Windows.Core.dll'),'System.Runtime','System.Runtime.InteropServices')
+function Load32($path,$w=0,$h=0){$im=[System.Drawing.Image]::FromFile($path);if(!$w){$w=$im.Width;$h=$im.Height};$b=[System.Drawing.Bitmap]::new($w,$h,[System.Drawing.Imaging.PixelFormat]::Format32bppArgb);$g=[System.Drawing.Graphics]::FromImage($b);$g.CompositingMode='SourceCopy';$g.InterpolationMode='HighQualityBicubic';$g.PixelOffsetMode='HighQuality';if($im.Width -eq $w -and $im.Height -eq $h){$g.DrawImageUnscaled($im,0,0)}else{$g.DrawImage($im,0,0,$w,$h)};$g.Dispose();$im.Dispose();return $b}
+$base=Load32 (Join-Path $root 'References\Expression_V10\Base_choisie_utilisateur.png');$patch=Load32 (Join-Path $assets 'Casper_expression_generated.png') 430 475;$mask=[System.Drawing.Bitmap]::new(430,475,[System.Drawing.Imaging.PixelFormat]::Format32bppArgb)
+$result=[ExpressionV10]::Apply($base,$patch,$mask);if($result[1] -ne 0){throw 'Changes outside facial region'};$patch.Dispose();$mask.Save((Join-Path $assets 'Casper_expression_alpha.png'));$mask.Dispose()
+$base.Save((Join-Path $assets '09_scene_expression.png'));$crop=$base.Clone([System.Drawing.Rectangle]::new(900,25,430,475),[System.Drawing.Imaging.PixelFormat]::Format32bppArgb);$crop.Save((Join-Path $root 'Apercus\V10_Expression\Casper_expression_detail.png'));$crop.Dispose();$base.Dispose()
+[pscustomobject]@{Base='References/Expression_V10/Base_choisie_utilisateur.png';Crop='900,25,430,475';Region='Elliptical facial region; center 224,250 radii 125,146 inside crop';ChangedPixels=$result[0];ChangedPixelsOutsideFacialRegion=$result[1];HairBodyHandsRizBackgroundUnchanged=$true;HeadRotation=0;AddedGrain=$false}|ConvertTo-Json|Set-Content -LiteralPath (Join-Path $PSScriptRoot 'Local_edit_verification.json') -Encoding utf8
+

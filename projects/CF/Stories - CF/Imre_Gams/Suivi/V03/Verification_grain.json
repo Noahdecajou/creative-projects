@@ -1,0 +1,90 @@
+[
+  {
+    "file": "01_Price_Is_Not_Value.png",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "grain_percent": 3,
+    "sigma": 7.65,
+    "grain": "Gaussian monochromatic, same noise in RGB channels",
+    "seed": 81303
+  },
+  {
+    "file": "02_Why_Breakouts_Fail.png",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "grain_percent": 3,
+    "sigma": 7.65,
+    "grain": "Gaussian monochromatic, same noise in RGB channels",
+    "seed": 81304
+  },
+  {
+    "file": "03_What_Really_Drives_Price.png",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "grain_percent": 3,
+    "sigma": 7.65,
+    "grain": "Gaussian monochromatic, same noise in RGB channels",
+    "seed": 81305
+  },
+  {
+    "file": "04_Stop_Chasing_Price.png",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "grain_percent": 3,
+    "sigma": 7.65,
+    "grain": "Gaussian monochromatic, same noise in RGB channels",
+    "seed": 81306
+  },
+  {
+    "file": "05_Master_Auction_Market_Theory.png",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "grain_percent": 3,
+    "sigma": 7.65,
+    "grain": "Gaussian monochromatic, same noise in RGB channels",
+    "seed": 81307
+  },
+  {
+    "file": "06_Read_The_Market.png",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "grain_percent": 3,
+    "sigma": 7.65,
+    "grain": "Gaussian monochromatic, same noise in RGB channels",
+    "seed": 81308
+  },
+  {
+    "file": "07_Smart_Money_Myths.png",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "grain_percent": 3,
+    "sigma": 7.65,
+    "grain": "Gaussian monochromatic, same noise in RGB channels",
+    "seed": 81309
+  },
+  {
+    "file": "08_Price_To_Value.png",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "grain_percent": 3,
+    "sigma": 7.65,
+    "grain": "Gaussian monochromatic, same noise in RGB channels",
+    "seed": 81310
+  }
+]

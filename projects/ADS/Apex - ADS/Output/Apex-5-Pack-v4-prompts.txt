@@ -1,0 +1,57 @@
+VERSION A — CENTERED, REPLY APEX + CODE CF
+
+Use case: ads-marketing / precise composition rebalancing.
+Edit this existing Apex 5-Pack poster. Keep its identity, offers, typography style, black background, blue-gradient text, restrained soft glows, and premium 3D glass candlesticks, but rebalance the upper composition as described below. Produce ONE finished 9:16 portrait poster, VERSION A (both CTAs).
+
+REQUIRED LAYOUT CHANGE:
+All upper text must be horizontally CENTERED on the poster:
+- The official white Apex Trader Funding logo lockup centered at the top.
+- The line "INCREDIBLE NEW 5-PACK DEALS!" centered below it.
+- Exact white headline "5 ACCOUNTS JUST" centered ON A SINGLE LINE.
+- Exact blue-gradient price "$37.48?!" centered directly beneath the headline, large and dominant.
+Keep the grouping compact, with intentional moderate vertical spacing. Eliminate the large empty black void between the hero price and the Intraday table. Begin the first pricing section shortly below the hero price (about one normal text line of breathing room). Redistribute the gained space into comfortable table row spacing and footer breathing room. Visually balanced top to bottom.
+
+Move the current dominant glass Apex candlestick out of the central text area into the side margins, scaling it down as needed. Arrange a small curated set of FOUR or FIVE 3D financial candlesticks around the perimeter: one in upper-left corner, one upper-right edge, one mid-side, and a smaller partially cropped one at each bottom corner. Some are dark matte charcoal, some deep blue translucent glass. At least one blue glass candlestick contains the authentic white Apex symbol from the original. These ornaments are subordinate, with staggered positions/depth and soft subtle blue halos. Keep all text, all table cells and footer fully clear. No huge isolated candle dominating a whole half of the canvas. No Bitcoin or Ethereum symbols. Preserve a mainly black image, approximately 90% black / 10% blue, plus white typography. Keep the gentle blue bottom corner gradients, not bright spotlights.
+
+LOWER CONTENT:
+Retain the two crisp, beautifully aligned pricing sections, with section headings aligned consistently and tables spanning the readable central width. Use large clean type and thin dark gray horizontal dividers. All data EXACTLY unchanged:
+"INTRADAY 5-PACK DEALS"
+"ACCOUNT" | "5-PACK TOTAL" | "PER ACCOUNT"
+"25K" | "$37.48" | "$7.50"
+"50K" | "$47.50" | "$9.50"
+"100K" | "$172.50" | "$34.50"
+
+"EOD 5-PACK DEALS"
+"ACCOUNT" | "5-PACK TOTAL" | "PER ACCOUNT"
+"25K" | "$112.50" | "$22.50"
+"50K" | "$122.50" | "$24.50"
+"100K" | "$247.50" | "$49.50"
+
+CTA row near bottom: "REPLY: APEX" on left, thin separator, "USE CODE: CF" on right. White labels and blue-gradient APEX and CF.
+Footer exact:
+"Special per-account pricing is available"
+"exclusively with 5-Pack purchases."
+
+No small "25K INTRADAY 5-PACK" qualifier below the headline. No new promotional text, no deadlines, no extra icons, no metallic typography, no bevels, no glowing boxes, no grids. Render a professionally balanced clean premium advertisement with centered upper hierarchy and generous but efficient use of space. Preserve the recognizable Apex logo shape faithfully.
+
+VERSION B — CENTERED, CODE CF ONLY
+
+Use case: precise-object-edit / localized typography change.
+Edit this exact finished centered Apex 5-Pack poster to create VERSION B.
+ONLY CHANGE: in the lower CTA row, delete "REPLY: APEX" completely and delete the thin vertical divider. Center the remaining exact words "USE CODE: CF" horizontally across the canvas at the same vertical height. Use the same bold white USE CODE: and blue-gradient CF with the same size. Restore the dark background and soft blue corner gradients in the erased area seamlessly.
+PRESERVE ALL OTHER PIXELS AND DESIGN ELEMENTS as closely as possible: centered top logo, centered "INCREDIBLE NEW 5-PACK DEALS!", centered single-line "5 ACCOUNTS JUST", centered "$37.48?!" blue-gradient price, all surrounding glass and charcoal 3D candlesticks and embedded Apex symbols, table positions, all typography, every divider, every number, every subtle glow, and footer.
+Keep exact table data:
+INTRADAY 5-PACK DEALS
+ACCOUNT / 5-PACK TOTAL / PER ACCOUNT
+25K / $37.48 / $7.50
+50K / $47.50 / $9.50
+100K / $172.50 / $34.50
+EOD 5-PACK DEALS
+ACCOUNT / 5-PACK TOTAL / PER ACCOUNT
+25K / $112.50 / $22.50
+50K / $122.50 / $24.50
+100K / $247.50 / $49.50
+Footer: "Special per-account pricing is available" / "exclusively with 5-Pack purchases."
+No new text. No redesign. Exact portrait size and crop unchanged.
+
+Generation mode: built-in ImageGen.

@@ -1,0 +1,9 @@
+SAMPSA JEPPEZ - V03 - GRAIN 3 % - 13 octobre 2026
+
+Les sept PNG approuves de V02 ont recu une seule passe de grain monochrome fin a leur dimension finale 1080 x 1440.
+Methode : bruit uniforme independant par pixel, amplitude +/-3 % de 255 (+/-7,65 niveaux), arrondi a 8 bits ; le meme ajout est applique aux trois canaux RGB, puis borne entre 0 et 255. La quantification peut produire un ecart maximal de 8 niveaux. Seeds reproductibles : 20261014 a 20261020.
+Le traitement est une operation numerique locale, sans regeneration, redimensionnement, deplacement, lissage ou nettete supplementaire. Chaque pixel du PNG final a ete compare au resultat attendu de la formule : zero autre modification.
+Les sept JPEG sont derives des memes images avec grain, qualite 96. Le bruit n'est pas applique a nouveau lors de cet export.
+Les SHA-256 des sept sources V02 correspondent au manifeste approuve et restent identiques apres le traitement. Les versions V01 et V02 ainsi que leurs sources et masters sont conservees.
+Le ZIP final contient exactement sept PNG. L'apercu est une planche reduite ; Detail_grain_200pct.png montre le grain a 200 %.
+Les sources, prompts imagegen initiaux, notes editoriales et references de transcription restent dans le dossier V02. La V03 n'utilise aucune nouvelle generation d'image.

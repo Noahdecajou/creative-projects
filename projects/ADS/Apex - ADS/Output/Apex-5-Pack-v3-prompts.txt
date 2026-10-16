@@ -1,0 +1,35 @@
+VERSION A — REPLY APEX + CODE CF
+
+Use case: text-localization / precise layout edit.
+Edit the provided finished Apex 5-Pack ad. Create VERSION A.
+Make exactly these changes:
+1. The upper-left white headline currently occupies two lines "5 ACCOUNTS" and "JUST". Replace it with the exact text "5 ACCOUNTS JUST" on ONE SINGLE LINE. Reduce this line's font size as needed so it fits comfortably in the left text area without touching or overlapping the blue candlestick. Use the same heavy white condensed typeface.
+2. Keep "$37.48?!" as the large blue-gradient line immediately beneath that single white headline. Maintain strong coherent visual grouping, vertically balanced in the upper-left hero area. Do not put JUST on its own line.
+3. Completely remove the small line "25K INTRADAY 5-PACK" from below the hero price and restore black background there. Do not replace it with any other text.
+4. Preserve the bottom CTA exactly: "REPLY: APEX" on the left and "USE CODE: CF" on the right, with the existing thin divider.
+Preserve every other element: exact 9:16 portrait canvas, logo, top kicker, main glass candle and its Apex symbol, dark background candles, soft blue halo behind the candle, blue gradients in both bottom corners, gradient blue type, all tables, table typography, spacing and footer. No redesign, no new decoration.
+Critical unchanged table content:
+INTRADAY 5-PACK DEALS; columns ACCOUNT / 5-PACK TOTAL / PER ACCOUNT.
+25K / $37.48 / $7.50
+50K / $47.50 / $9.50
+100K / $172.50 / $34.50
+EOD 5-PACK DEALS; columns ACCOUNT / 5-PACK TOTAL / PER ACCOUNT.
+25K / $112.50 / $22.50
+50K / $122.50 / $24.50
+100K / $247.50 / $49.50
+Footer unchanged: "Special per-account pricing is available" / "exclusively with 5-Pack purchases."
+Only the requested upper headline formatting and qualifier removal are changed. Exact original prices and spelling.
+
+VERSION B — CODE CF ONLY
+
+Use case: precise text edit.
+Create VERSION B from the provided finished Apex 5-Pack advertisement. Make ONLY one localized change to the bottom CTA row:
+Remove the entire left CTA "REPLY: APEX" and remove the vertical divider separating the two CTAs.
+Place the remaining exact text "USE CODE: CF" horizontally centered across the full poster at the same vertical position as the existing CTA row. Preserve its font, bold weight, white "USE CODE:" and blue-gradient "CF", and make it comfortably prominent.
+Restore the background naturally around the removed text and divider, retaining the original subtle bottom-corner blue gradients.
+Keep EVERYTHING ELSE exactly unchanged. Preserve the upper headline "5 ACCOUNTS JUST" on ONE SINGLE LINE, followed by "$37.48?!" in blue gradient. Do not add any small qualifier below it. Preserve logo, kicker, candlestick, white Apex symbol, halo, tables, all prices, layout, proportions, original 9:16 portrait size and footer.
+Exact table data remains Intraday: 25K $37.48 / $7.50; 50K $47.50 / $9.50; 100K $172.50 / $34.50. EOD: 25K $112.50 / $22.50; 50K $122.50 / $24.50; 100K $247.50 / $49.50.
+Footer: "Special per-account pricing is available" / "exclusively with 5-Pack purchases."
+This is a localized CTA change only, no redesign.
+
+Generation mode: built-in ImageGen.
